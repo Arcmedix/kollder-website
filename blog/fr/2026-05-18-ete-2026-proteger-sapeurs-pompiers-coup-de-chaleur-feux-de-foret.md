@@ -18,6 +18,11 @@ Le president de la Federation Nationale des Sapeurs-Pompiers a decrit des feux q
 
 Ce qui change aussi, c'est la geographie du risque. Des regions comme le Jura, la Bretagne ou la Charente -- qui n'etaient pas habituees aux feux de foret -- commencent a y etre confrontees. Cela signifie des SDIS moins prepares logistiquement a des interventions longues en ambiance chaude.
 
+<div class="article-mid-cta">
+<p><strong>Kollder se deploie en moins de 30 secondes.</strong> Concue pour une utilisation terrain en conditions extremes.</p>
+<a href="/#contact">Obtenir un devis →</a>
+</div>
+
 ## Pourquoi le sapeur-pompier est particulierement vulnerable
 
 Un pompier en tenue de feu cumule plusieurs facteurs de risque simultanes :
