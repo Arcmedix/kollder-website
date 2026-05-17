@@ -24,4 +24,4 @@ collections:
       - { label: "Publié", name: "published", widget: "boolean", default: true }
 
   - name: "blog_en"
-    label: "Articles (Eng
+    label: "Articles (English)""
