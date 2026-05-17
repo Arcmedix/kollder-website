@@ -125,7 +125,3 @@ La saison chaude 2026 a débuté. Voici les points de préparation essentiels po
 - Recommandations SFAR sur le coup de chaleur d'exercice (2024)
 - Bulletin Épidémiologique Hebdomadaire — Chaleur et performance sportive, Santé Publique France (2025)
 - Guide pour un été sportif et responsable 2025, Ministère de la Santé
-
----
-
-*Article rédigé par l'équipe Kollder. La baignoire de refroidissement Kollder est conçue pour permettre l'application du protocole d'immersion sur tout terrain, en moins de 30 secondes.*
