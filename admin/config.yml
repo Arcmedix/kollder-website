@@ -14,24 +14,14 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/article.njk" }
+      - { label: "Lang", name: "lang", widget: "hidden", default: "fr" }
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Date de publication", name: "date", widget: "datetime" }
       - { label: "Description (SEO)", name: "description", widget: "string" }
-      - { label: "Image principale", name: "image", widget: "image", required: false }
       - { label: "Catégorie", name: "category", widget: "select", options: ["Coup de chaleur", "Protocoles médicaux", "Équipements secours", "Médecine tactique", "Événements sportifs", "Industrie & EHS"] }
       - { label: "Contenu", name: "body", widget: "markdown" }
       - { label: "Publié", name: "published", widget: "boolean", default: true }
 
   - name: "blog_en"
-    label: "Articles (English)"
-    folder: "blog/en"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publication date", name: "date", widget: "datetime" }
-      - { label: "Description (SEO)", name: "description", widget: "string" }
-      - { label: "Main image", name: "image", widget: "image", required: false }
-      - { label: "Category", name: "category", widget: "select", options: ["Heat stroke", "Medical protocols", "Rescue equipment", "Tactical medicine", "Sporting events", "Industry & EHS"] }
-      - { label: "Content", name: "body", widget: "markdown" }
-      - { label: "Published", name: "published", widget: "boolean", default: true }
+    label: "Articles (Eng
