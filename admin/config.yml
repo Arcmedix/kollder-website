@@ -9,7 +9,7 @@ locale: 'fr'
 
 collections:
   - name: "blog_fr"
-    label: "Articles (Français)"
+    label: "Articles (Francais)"
     folder: "blog/fr"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -17,11 +17,23 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/article.njk" }
       - { label: "Lang", name: "lang", widget: "hidden", default: "fr" }
       - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Date de publication", name: "date", widget: "datetime" }
-      - { label: "Description (SEO)", name: "description", widget: "string" }
-      - { label: "Catégorie", name: "category", widget: "select", options: ["Coup de chaleur", "Protocoles médicaux", "Équipements secours", "Médecine tactique", "Événements sportifs", "Industrie & EHS"] }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Categorie", name: "category", widget: "select", options: ["Coup de chaleur", "Protocoles medicaux", "Equipements secours", "Medecine tactique", "Evenements sportifs", "Industrie et EHS"] }
       - { label: "Contenu", name: "body", widget: "markdown" }
-      - { label: "Publié", name: "published", widget: "boolean", default: true }
+      - { label: "Publie", name: "published", widget: "boolean", default: true }
 
   - name: "blog_en"
-    label: "Articles (English)""
+    label: "Articles (English)"
+    folder: "blog/en"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/article.njk" }
+      - { label: "Lang", name: "lang", widget: "hidden", default: "en" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Heat stroke", "Medical protocols", "Rescue equipment", "Tactical medicine", "Sporting events", "Industry and EHS"] }
+      - { label: "Content", name: "body", widget: "markdown" }
+      - { label: "Published", name: "published", widget: "boolean", default: true }
