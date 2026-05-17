@@ -83,6 +83,25 @@ nav {
 .article-body blockquote { border-left: 3px solid var(--sand); padding-left: 20px; margin: 28px 0; font-style: italic; color: var(--muted); }
 .article-body a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
 .article-body a:hover { color: var(--black); }
+.article-mid-cta {
+  background: var(--black); padding: 28px 32px;
+  margin: 40px 0; display: flex;
+  align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap;
+}
+.article-mid-cta p {
+  font-size: 15px; color: rgba(250,249,247,0.8);
+  margin: 0; line-height: 1.5; flex: 1;
+}
+.article-mid-cta strong { color: var(--white); font-weight: 500; }
+.article-mid-cta a {
+  display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
+  background: var(--white); color: var(--black) !important;
+  font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 500;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 12px 22px; text-decoration: none !important;
+  transition: background .2s;
+}
+.article-mid-cta a:hover { background: var(--cream); color: var(--black) !important; }
 .article-body hr { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
 
 /* Tables */
@@ -99,12 +118,14 @@ nav {
 .article-cta p { margin: 0 0 16px; }
 .article-cta a {
   display: inline-flex; align-items: center; gap: 8px;
-  background: var(--black); color: var(--white);
+  background: var(--black); color: var(--white) !important;
   font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500;
   letter-spacing: 0.08em; text-transform: uppercase;
-  padding: 13px 24px; text-decoration: none; transition: opacity .2s;
+  padding: 13px 24px; text-decoration: none !important;
+  transition: background .2s;
 }
-.article-cta a:hover { opacity: 0.8; }
+.article-cta a:hover { background: #333; color: var(--white) !important; opacity: 1; }
+.article-cta a span, .article-cta a svg { color: var(--white) !important; }
 
 footer {
   background: #000; border-top: 1px solid rgba(255,255,255,0.08);
@@ -149,8 +170,16 @@ footer {
 <article class="article-body">
   {{ content | safe }}
 
+  <div class="article-mid-cta">
+    <p><strong>{% if lang == 'en' %}Kollder deploys in under 30 seconds.{% else %}Kollder se deploie en moins de 30 secondes.{% endif %}</strong> {% if lang == 'en' %}Designed for field use in extreme conditions.{% else %}Concue pour une utilisation terrain en conditions extremes.{% endif %}</p>
+    <a href="/#contact">
+      {% if lang == 'en' %}Get a quote{% else %}Obtenir un devis{% endif %}
+      <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+  </div>
+
   <div class="article-cta">
-    <p><strong>{% if lang == 'en' %}Kollder is the emergency cooling tub that deploys in under 30 seconds, anywhere.{% else %}Kollder est la baignoire de refroidissement d'urgence déployable en moins de 30 secondes, partout.{% endif %}</strong></p>
+    <p><strong>{% if lang == 'en' %}Kollder is the emergency cooling tub that deploys in under 30 seconds, anywhere.{% else %}Kollder est la baignoire de refroidissement d'urgence deployable en moins de 30 secondes, partout.{% endif %}</strong></p>
     <a href="/#contact">
       {% if lang == 'en' %}Request a quote{% else %}Obtenir un devis{% endif %}
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
