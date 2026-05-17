@@ -1,95 +1,78 @@
 ---
-title: "Été 2026 : comment protéger vos sapeurs-pompiers du coup de chaleur sur les feux de forêt"
-date: 2026-05-17
-description: "Saison 2025 record en France : 809 incendies, des feux hors-normes dans l'Aude. En 2026, comment protéger vos sapeurs-pompiers de l'hyperthermie sur le terrain ?"
-category: "Équipements secours"
+title: "Ete 2026 : comment proteger vos sapeurs-pompiers du coup de chaleur sur les feux de foret"
+date: 2026-05-18
+description: "Saison 2025 record en France : 809 incendies, des feux hors-normes dans l'Aude. En 2026, comment proteger vos sapeurs-pompiers de l'hyperthermie sur le terrain ?"
+category: "Equipements secours"
+layout: layouts/article.njk
+lang: fr
 published: true
 ---
 
-**La saison des feux de forêt 2026 a commencé. Après une saison 2025 qualifiée d'hors-normes — 809 incendies signalés en France, le pire feu depuis 50 ans dans l'Aude, plus d'un million d'hectares brûlés en Europe — les SDIS, la BSPP et les équipes de secours entrent dans cette nouvelle saison avec une question qui n'a pas encore de réponse satisfaisante sur le terrain : comment protéger les sapeurs-pompiers de l'hyperthermie pendant les longues interventions ?**
-
----
+La saison des feux de foret 2026 a commence. Apres une saison 2025 qualifiee d'hors-normes -- 809 incendies signales en France, le pire feu depuis 50 ans dans l'Aude, plus d'un million d'hectares brules en Europe -- les SDIS, la BSPP et les equipes de secours entrent dans cette nouvelle saison avec une question qui n'a pas encore de reponse satisfaisante sur le terrain : comment proteger les sapeurs-pompiers de l'hyperthermie pendant les longues interventions ?
 
 ## Une saison 2025 qui change la donne
 
-L'été 2025 a constitué un signal d'alarme supplémentaire. Avec une anomalie thermique de +1,9°C par rapport aux normales saisonnières, et des feux d'une virulence inédite, les conditions d'intervention ont atteint des seuils critiques pour les pompiers engagés.
+L'ete 2025 a constitue un signal d'alarme supplementaire. Avec une anomalie thermique de +1,9 degres par rapport aux normales saisonnieres, et des feux d'une virulence inedite, les conditions d'intervention ont atteint des seuils critiques pour les pompiers engages.
 
-Le président de la Fédération Nationale des Sapeurs-Pompiers a décrit des feux qui partent très fort, poussent très vite et durent dans le temps — une description qui correspond exactement aux conditions favorisant le coup de chaleur d'effort chez les intervenants.
+Le president de la Federation Nationale des Sapeurs-Pompiers a decrit des feux qui partent tres fort, poussent tres vite et durent dans le temps -- une description qui correspond exactement aux conditions favorisant le coup de chaleur d'effort chez les intervenants.
 
-Ce qui change aussi, c'est la géographie du risque. Des régions comme le Jura, la Bretagne ou la Charente — qui n'étaient pas habituées aux feux de forêt — commencent à y être confrontées. Cela signifie des SDIS moins préparés logistiquement à des interventions longues en ambiance chaude.
+Ce qui change aussi, c'est la geographie du risque. Des regions comme le Jura, la Bretagne ou la Charente -- qui n'etaient pas habituees aux feux de foret -- commencent a y etre confrontees. Cela signifie des SDIS moins prepares logistiquement a des interventions longues en ambiance chaude.
 
----
+## Pourquoi le sapeur-pompier est particulierement vulnerable
 
-## Pourquoi le sapeur-pompier est particulièrement vulnérable
+Un pompier en tenue de feu cumule plusieurs facteurs de risque simultanes :
 
-Un pompier en tenue de feu cumule plusieurs facteurs de risque simultanés qui n'existent pas dans d'autres contextes d'effort physique intense :
+**La tenue de feu** couvre plus de 60% de la surface corporelle. Cette couverture elevee est l'un des principaux facteurs predisposants au coup de chaleur d'effort, car elle reduit drastiquement la capacite d'evaporation de la sueur et donc la thermoregulation naturelle.
 
-**La tenue de feu** couvre plus de 60% de la surface corporelle. Cette couverture élevée est l'un des principaux facteurs prédisposants au coup de chaleur d'effort, car elle réduit drastiquement la capacité d'évaporation de la sueur et donc la thermorégulation naturelle.
+**L'effort physique intense et prolonge** en ambiance deja chaude. Contrairement a un sportif qui peut reduire son allure ou s'arreter, un pompier en attaque du feu ne maitrise pas son niveau d'effort.
 
-**L'effort physique intense et prolongé** en ambiance déjà chaude. Contrairement à un sportif qui peut réduire son allure ou s'arrêter, un pompier en attaque du feu ne maîtrise pas son niveau d'effort.
+**L'impossibilite d'anticiper la duree de l'engagement.** Un feu de foret peut durer des heures, voire des jours. Les interventions prolongees multiplient le risque d'hyperthermie.
 
-**L'impossibilité d'anticiper la durée de l'engagement.** Un feu de forêt peut durer des heures, voire des jours. Les interventions prolongées multiplient le risque d'hyperthermie.
+**La colonne de convection.** Un feu de foret actif genere une chaleur rayonnante intense dans un rayon de plusieurs dizaines de metres autour du front de feu. Les temperatures auxquelles sont exposes les pompiers au plus pres du front depassent largement les temperatures ambiantes.
 
-**La colonne de convection.** Un feu de forêt actif génère une chaleur rayonnante intense dans un rayon de plusieurs dizaines de mètres autour du front de feu. Les températures auxquelles sont exposés les pompiers au plus près du front dépassent largement les températures ambiantes.
+## Le coup de chaleur sur intervention : reconnaitre et agir
 
----
+La regle de base reste la meme que pour tout coup de chaleur d'effort : **tout pompier qui presente des troubles neurologiques pendant ou apres une intervention intensive en ambiance chaude doit etre traite en priorite comme un coup de chaleur presomptif.**
 
-## Le coup de chaleur sur intervention : reconnaître et agir
+Les signes a surveiller :
+- Confusion, desorentation, troubles du comportement
+- Instabilite de la marche, ataxie
+- Prodromes frequents : asthenie soudaine, crampes, cephalees intenses
+- Arret de la transpiration malgre l'effort -- signe tardif et grave
 
-La règle de base reste la même que pour tout coup de chaleur d'effort : **tout pompier qui présente des troubles neurologiques pendant ou après une intervention intensive en ambiance chaude doit être traité en priorité comme un coup de chaleur présomptif.**
+Ce que le SSSM doit avoir en tete : **l'absence de chaleur ambiante extreme ne doit pas faire ecarter le diagnostic.** Un feu en debut de saison par 20 degres peut tout autant provoquer un coup de chaleur d'effort qu'une canicule de juillet.
 
-Les signes à surveiller :
-- Confusion, désorientation, troubles du comportement
-- Instabilité de la marche, ataxie
-- Prodromes fréquents : asthénie soudaine, crampes, céphalées intenses
-- Arrêt de la transpiration malgré l'effort — signe tardif et grave
+## Le defi logistique : avoir le bon equipement au bon endroit
 
-Ce que le SSSM doit avoir en tête : **l'absence de chaleur ambiante extrême ne doit pas faire écarter le diagnostic.** Un feu en début de saison par 20°C peut tout autant provoquer un coup de chaleur d'effort qu'une canicule de juillet.
+Le traitement du coup de chaleur d'effort est connu et efficace : l'immersion immediate en eau froide aussi froide que possible, maintenue jusqu'a ce que la temperature rectale atteigne 38,5 degres.
 
----
+Le probleme sur les feux de foret est logistique. Le Vehicle Poste Medical Avance (VPMA) du SSSM doit etre en mesure de deployer rapidement un dispositif d'immersion, dans des conditions souvent difficiles :
 
-## Le défi logistique : avoir le bon équipement au bon endroit
+- Sol irregulier ou en pente
+- Eloignement des points d'eau
+- Un seul medecin ou infirmier pour plusieurs victimes potentielles
+- Equipement a transporter sur un vehicule deja charge
 
-Le traitement du coup de chaleur d'effort est connu et efficace : l'immersion immédiate en eau froide aussi froide que possible, maintenue jusqu'à ce que la température rectale atteigne 38,5°C.
-
-Le problème sur les feux de forêt est logistique. Le Véhicule Poste Médical Avancé (VPMA) du SSSM doit être en mesure de déployer rapidement un dispositif d'immersion, dans des conditions souvent difficiles :
-
-- Sol irrégulier ou en pente
-- Éloignement des points d'eau
-- Un seul médecin ou infirmier pour plusieurs victimes potentielles
-- Équipement à transporter sur un véhicule déjà chargé
-
-C'est précisément cette contrainte qui a conduit au développement de baignoires de refroidissement d'urgence légères et déployables en moins de 30 secondes par une seule personne — comme la Kollder, transportable dans tout type de véhicule d'intervention.
-
----
+C'est precisement cette contrainte qui a conduit au developpement de la baignoire de refroidissement Kollder -- deployable en moins de 30 secondes par une seule personne, transportable dans tout type de vehicule d'intervention.
 
 ## Ce que les SDIS doivent anticiper avant la saison 2026
 
-**1. Intégrer le risque hyperthermie dans les plans de prévention feux de forêt**
+**1. Integrer le risque hyperthermie dans les plans de prevention feux de foret**
 
-Le risque hyperthermie doit figurer explicitement dans les plans d'engagement des SDIS en zone à risque. Cela inclut : rotation des équipes, points de réhabilitation thermique sur le terrain, identification des points d'eau disponibles.
+Le risque hyperthermie doit figurer explicitement dans les plans d'engagement des SDIS en zone a risque. Cela inclut : rotation des equipes, points de rehabilitation thermique sur le terrain, identification des points d'eau disponibles.
 
-**2. Équiper les VPMA de matériel de refroidissement adapté**
+**2. Equiper les VPMA de materiel de refroidissement adapte**
 
-Une baignoire de refroidissement déployable doit faire partie du matériel standard du SSSM pour toute intervention feux de forêt de plus de 2 heures. Le protocole "cool first, transport second" doit être applicable sur le terrain, pas uniquement à l'hôpital.
+Une baignoire de refroidissement deployable doit faire partie du materiel standard du SSSM pour toute intervention feux de foret de plus de 2 heures. Le protocole "cool first, transport second" doit etre applicable sur le terrain.
 
-**3. Former les équipes au protocole de reconnaissance et de traitement**
+**3. Former les equipes au protocole de reconnaissance et de traitement**
 
-Chaque chef d'agrès et infirmier de sapeurs-pompiers doit savoir reconnaître les signes précoces du coup de chaleur d'effort et initier le refroidissement immédiat sans attendre la médicalisation.
+Chaque chef d'agres et infirmier de sapeurs-pompiers doit savoir reconnaitre les signes precoces du coup de chaleur d'effort et initier le refroidissement immediat sans attendre la medicalisation.
 
-**4. Prépositionner de la glace**
+**4. Prepositionner de la glace**
 
-Sur les feux de longue durée, l'approvisionnement en glace pour maintenir la température de l'eau de refroidissement doit être intégré dans la logistique de l'engagement, au même titre que l'eau potable et les rations alimentaires.
+Sur les feux de longue duree, l'approvisionnement en glace pour maintenir la temperature de l'eau de refroidissement doit etre integre dans la logistique de l'engagement, au meme titre que l'eau potable et les rations alimentaires.
 
----
+## Preparer la saison 2026 : le moment c'est maintenant
 
-## Préparer la saison 2026 : le moment c'est maintenant
-
-Nous sommes en mai 2026, au début de la saison à risque. Les premiers feux significatifs de la saison interviennent généralement en juin dans le sud de la France, et les conditions de 2025 — sécheresse persistante, végétation fragilisée — laissent prévoir une saison difficile.
-
-C'est maintenant qu'il faut vérifier les équipements, mettre à jour les protocoles SSSM et s'assurer que chaque Véhicule Poste Médical Avancé est prêt à traiter un coup de chaleur d'effort sur le terrain.
-
----
-
-*Kollder est une baignoire de refroidissement d'urgence déployable en moins de 30 secondes, conçue pour les équipes médicales de terrain. Développée avec des experts en médecine tactique pour répondre aux contraintes réelles des interventions SDIS et feux de forêt.*
-
+Nous sommes en mai 2026, au debut de la saison a risque. Les premiers feux significatifs de la saison interviennent generalement en juin dans le sud de la France. C'est maintenant qu'il faut verifier les equipements, mettre a jour les protocoles SSSM et s'assurer que chaque Vehicle Poste Medical Avance est pret a traiter un coup de chaleur d'effort sur le terrain.
