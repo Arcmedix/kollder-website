@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: Arcmedix/kollder-website
+  name: git-gateway
   branch: main
 
 media_folder: "images/uploads"
@@ -17,7 +16,7 @@ collections:
     fields:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Date de publication", name: "date", widget: "datetime" }
-      - { label: "Description (SEO)", name: "description", widget: "string", hint: "150-160 caractères max" }
+      - { label: "Description (SEO)", name: "description", widget: "string" }
       - { label: "Image principale", name: "image", widget: "image", required: false }
       - { label: "Catégorie", name: "category", widget: "select", options: ["Coup de chaleur", "Protocoles médicaux", "Équipements secours", "Médecine tactique", "Événements sportifs", "Industrie & EHS"] }
       - { label: "Contenu", name: "body", widget: "markdown" }
@@ -31,7 +30,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publication date", name: "date", widget: "datetime" }
-      - { label: "Description (SEO)", name: "description", widget: "string", hint: "150-160 characters max" }
+      - { label: "Description (SEO)", name: "description", widget: "string" }
       - { label: "Main image", name: "image", widget: "image", required: false }
       - { label: "Category", name: "category", widget: "select", options: ["Heat stroke", "Medical protocols", "Rescue equipment", "Tactical medicine", "Sporting events", "Industry & EHS"] }
       - { label: "Content", name: "body", widget: "markdown" }
