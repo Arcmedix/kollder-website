@@ -1682,7 +1682,12 @@ h1           { animation: up .5s ease both .2s; }
 
 <script>
 /* LANG */
+// Restore saved language on page load
+const _savedLang = localStorage.getItem('kollder_lang') || 'fr';
+if (_savedLang === 'en') { setTimeout(() => setLang('en'), 0); }
+
 function setLang(l) {
+  localStorage.setItem('kollder_lang', l);
   document.getElementById('btn-fr').classList.toggle('active', l==='fr');
   document.getElementById('btn-en').classList.toggle('active', l==='en');
   document.querySelectorAll('[data-fr][data-en]').forEach(el => {
