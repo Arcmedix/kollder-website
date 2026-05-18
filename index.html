@@ -1697,6 +1697,9 @@ function setLang(l) {
   // Toggle blog preview cards
   document.querySelectorAll('.fr-card').forEach(el => el.style.display = l==='fr' ? 'flex' : 'none');
   document.querySelectorAll('.en-card').forEach(el => el.style.display = l==='en' ? 'flex' : 'none');
+  // Update blog nav link
+  const blogLink = document.querySelector('.nav-blog-link');
+  if (blogLink) blogLink.href = l === 'en' ? '/blog/?lang=en' : '/blog/';
 }
 
 /* SCROLL REVEAL */

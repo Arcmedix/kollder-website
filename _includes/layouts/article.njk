@@ -17,11 +17,7 @@
   "headline": "{{ title }}",
   "description": "{{ description }}",
   "datePublished": "{{ date | dateFormat }}",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Kollder",
-    "url": "https://kollder.com"
-  }
+  "publisher": { "@type": "Organization", "name": "Kollder", "url": "https://kollder.com" }
 }
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,8 +47,7 @@ nav {
 .nav-back:hover { color: var(--ink); }
 
 .article-hero {
-  padding: 140px 56px 60px;
-  background: var(--black); color: var(--white);
+  padding: 140px 56px 60px; background: var(--black); color: var(--white);
 }
 .article-hero-inner { max-width: 800px; margin: 0 auto; }
 .article-cat {
@@ -61,20 +56,16 @@ nav {
 }
 .article-hero h1 {
   font-family: 'DM Serif Display', serif;
-  font-size: clamp(32px, 4vw, 52px);
-  font-weight: 400; line-height: 1.1; color: var(--white); margin-bottom: 20px;
+  font-size: clamp(32px, 4vw, 52px); font-weight: 400;
+  line-height: 1.1; color: var(--white); margin-bottom: 20px;
 }
 .article-date { font-size: 13px; color: rgba(250,249,247,0.4); letter-spacing: 0.06em; }
 
-.article-body {
-  max-width: 800px; margin: 0 auto;
-  padding: 64px 56px 100px;
-}
+.article-body { max-width: 800px; margin: 0 auto; padding: 64px 56px 100px; }
 
-/* Typography */
 .article-body h1 { font-family: 'DM Serif Display', serif; font-size: 36px; font-weight: 400; margin: 48px 0 20px; color: var(--black); line-height: 1.15; }
 .article-body h2 { font-family: 'DM Serif Display', serif; font-size: 28px; font-weight: 400; margin: 44px 0 16px; color: var(--black); line-height: 1.2; border-bottom: 1px solid var(--border); padding-bottom: 12px; }
-.article-body h3 { font-family: 'DM Sans', sans-serif; font-size: 17px; font-weight: 500; margin: 32px 0 12px; color: var(--black); letter-spacing: 0.02em; }
+.article-body h3 { font-family: 'DM Sans', sans-serif; font-size: 17px; font-weight: 500; margin: 32px 0 12px; color: var(--black); }
 .article-body p { font-size: 16px; color: var(--ink); line-height: 1.8; margin-bottom: 20px; }
 .article-body strong { font-weight: 500; color: var(--black); }
 .article-body em { font-style: italic; color: var(--muted); }
@@ -83,37 +74,15 @@ nav {
 .article-body blockquote { border-left: 3px solid var(--sand); padding-left: 20px; margin: 28px 0; font-style: italic; color: var(--muted); }
 .article-body a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
 .article-body a:hover { color: var(--black); }
-.article-mid-cta {
-  background: var(--black); padding: 28px 32px;
-  margin: 40px 0; display: flex;
-  align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap;
-}
-.article-mid-cta p {
-  font-size: 15px; color: rgba(250,249,247,0.8);
-  margin: 0; line-height: 1.5; flex: 1;
-}
-.article-mid-cta strong { color: var(--white); font-weight: 500; }
-.article-mid-cta a {
-  display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
-  background: var(--white); color: var(--black) !important;
-  font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 500;
-  letter-spacing: 0.1em; text-transform: uppercase;
-  padding: 12px 22px; text-decoration: none !important;
-  transition: background .2s;
-}
-.article-mid-cta a:hover { background: var(--cream); color: var(--black) !important; }
 .article-body hr { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
-
-/* Tables */
 .article-body table { width: 100%; border-collapse: collapse; margin: 28px 0; font-size: 14px; }
 .article-body th { background: var(--ink); color: var(--white); padding: 12px 16px; text-align: left; font-weight: 500; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
 .article-body td { padding: 12px 16px; border-bottom: 1px solid var(--border); color: var(--ink); vertical-align: top; }
 .article-body tr:nth-child(even) td { background: var(--cream); }
 
-/* CTA box */
 .article-cta {
   background: var(--cream); border: 1px solid var(--border);
-  padding: 32px 36px; margin: 48px 0; border-radius: 0;
+  padding: 32px 36px; margin: 48px 0;
 }
 .article-cta p { margin: 0 0 16px; }
 .article-cta a {
@@ -124,12 +93,25 @@ nav {
   padding: 13px 24px; text-decoration: none !important;
   transition: background .2s;
 }
-.article-cta a:hover { background: #333; color: var(--white) !important; opacity: 1; }
-.article-cta a span, .article-cta a svg { color: var(--white) !important; }
+.article-cta a:hover { background: #333; }
+
+.article-mid-cta {
+  background: var(--black); padding: 28px 32px; margin: 40px 0;
+  display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap;
+}
+.article-mid-cta p { font-size: 15px; color: rgba(250,249,247,0.8); margin: 0; line-height: 1.5; flex: 1; }
+.article-mid-cta strong { color: var(--white); font-weight: 500; }
+.article-mid-cta a {
+  display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
+  background: var(--white); color: var(--black) !important;
+  font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 500;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 12px 22px; text-decoration: none !important; transition: background .2s;
+}
+.article-mid-cta a:hover { background: var(--cream); }
 
 footer {
-  background: #000; border-top: 1px solid rgba(255,255,255,0.08);
-  padding: 40px 56px;
+  background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 56px;
 }
 .footer-inner {
   max-width: 1240px; margin: 0 auto;
@@ -144,6 +126,7 @@ footer {
   .article-body { padding: 48px 24px 72px; }
   footer { padding: 32px 24px; }
   .article-body table { display: block; overflow-x: auto; }
+  .article-mid-cta { flex-direction: column; }
 }
 </style>
 </head>
@@ -153,7 +136,7 @@ footer {
   <div class="nav-brand">
     <a href="/"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
-  <a href="/blog/" onclick="localStorage.setItem('lang','{% if lang == "en" %}en{% else %}fr{% endif %}')" class="nav-back">
+  <a href="/blog/" onclick="localStorage.setItem('kollder_lang','{% if lang == "en" %}en{% else %}fr{% endif %}')" class="nav-back">
     <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
     {% if lang == 'en' %}Back to blog{% else %}Retour au blog{% endif %}
   </a>
