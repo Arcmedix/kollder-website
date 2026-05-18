@@ -136,6 +136,8 @@ footer{background:#000;border-top:1px solid rgba(255,255,255,.08);padding:40px 5
 </footer>
 
 <script>
+const urlLang = new URLSearchParams(window.location.search).get('lang');
+if (urlLang === 'en') setLang('en');
 function setLang(l) {
   document.getElementById('btn-fr').classList.toggle('active', l==='fr');
   document.getElementById('btn-en').classList.toggle('active', l==='en');
