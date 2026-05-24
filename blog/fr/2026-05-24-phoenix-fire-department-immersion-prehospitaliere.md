@@ -54,7 +54,3 @@ Face au [bilan de l'été 2025 en France](https://kollder.com/blog/fr/2026-05-24
 - University of Arizona College of Medicine-Phoenix, *New Protocol Significantly Improves Outcomes*, avril 2026 — [phoenixmed.arizona.edu](https://phoenixmed.arizona.edu/newsroom/news/new-protocol-significantly-improves-outcomes-patients-suffering-heat-related-illness)
 
 ---
-
-**Kollder est la baignoire de refroidissement d'urgence déployable en moins de 30 secondes, partout.**
-
-[Obtenir un devis](https://kollder.com/#contact)
