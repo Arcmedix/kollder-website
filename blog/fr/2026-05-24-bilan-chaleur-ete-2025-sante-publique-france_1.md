@@ -72,7 +72,3 @@ Santé Publique France conclut son rapport en notant que la société doit se pr
 - INRS, *Canicule et fortes chaleurs au travail*, juin 2025 — [inrs.fr](https://www.inrs.fr/header/presse/cp-canicule-fortes-chaleurs-travail.html)
 
 ---
-
-**Kollder est la baignoire de refroidissement d'urgence déployable en moins de 30 secondes, partout.**
-
-[Obtenir un devis](https://kollder.com/#contact)
