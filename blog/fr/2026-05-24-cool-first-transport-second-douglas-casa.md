@@ -64,7 +64,3 @@ Casa compare le protocole à l'utilisation d'un défibrillateur : *"Cool first, 
 - Burlaton G. et al., *Le coup de chaleur d'exercice*, Annales Françaises de Médecine d'Urgence, 2024 — [cairn.info](https://stm.cairn.info/revue-annales-francaises-de-medecine-d-urgence-2024-5-page-320?lang=fr)
 
 ---
-
-**Kollder est la baignoire de refroidissement d'urgence déployable en moins de 30 secondes, partout.**
-
-[Obtenir un devis](https://kollder.com/#contact)
