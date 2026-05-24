@@ -68,6 +68,3 @@ En pratique, le protocole reste le même — l'immersion reste le meilleur trait
 
 ---
 
-**Kollder est la baignoire de refroidissement d'urgence déployable en moins de 30 secondes, partout.**
-
-[Obtenir un devis](https://kollder.com/#contact)
