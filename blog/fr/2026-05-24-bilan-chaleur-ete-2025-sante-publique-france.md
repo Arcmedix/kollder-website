@@ -1,17 +1,15 @@
 ---
-title: "Ete 2025 : 5 700 morts, 24 000 urgences — ce que le bilan de Sante Publique France revele sur le coup de chaleur — Kollder"
+title: "Ete 2025 : 5 700 morts, 24 000 urgences — ce que le bilan de Sante Publique France revele"
+description: "L'ete 2025 a tue plus de 5 700 personnes en France. Le bilan de Sante Publique France documente l'ampleur du risque coup de chaleur pour les equipes medicales de terrain."
 canonical: https://kollder.com/blog/fr/2026-05-24-bilan-chaleur-ete-2025-sante-publique-france/
 meta-description: L'ete 2025 a tue plus de 5 700 personnes en France. Le bilan officiel de Sante Publique France revele l'ampleur du risque coup de chaleur pour les equipes medicales et les professionnels de terrain.
-meta-og:title: "Ete 2025 : 5 700 morts, 24 000 urgences — ce que le bilan de Sante Publique France revele sur le coup de chaleur — Kollder"
+meta-og:title: "Ete 2025 : 5 700 morts, 24 000 urgences — ce que le bilan de Sante Publique France revele — Kollder"
 meta-og:description: L'ete 2025 a tue plus de 5 700 personnes en France. Le bilan officiel de Sante Publique France revele l'ampleur du risque coup de chaleur pour les equipes medicales et les professionnels de terrain.
 meta-og:type: article
 meta-og:url: https://kollder.com/blog/fr/2026-05-24-bilan-chaleur-ete-2025-sante-publique-france/
 meta-viewport: width=device-width, initial-scale=1.0
-date: 2026-05-24
-published: true
-lang: fr
 category: Epidemiologie et sante publique
-tags: [coup de chaleur, canicule, sante publique france, bilan ete 2025, hyperthermie, urgences, mortalite chaleur]
+published: true
 ---
 
 [![Kollder](https://kollder.com/logo-kollder.png)](https://kollder.com/)
