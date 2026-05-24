@@ -1254,6 +1254,17 @@ h1           { animation: up .5s ease both .2s; }
   footer { padding: 28px 20px; }
   .footer-inner { flex-direction: column; align-items: flex-start; gap: 10px; }
 }
+.carousel-wrap { position: relative; overflow: hidden; aspect-ratio: 4/3; background: var(--cream); }
+.carousel-track { display: flex; width: 300%; height: 100%; transition: transform 0.7s cubic-bezier(0.77,0,0.175,1); }
+.carousel-slide { width: 33.333%; height: 100%; flex-shrink: 0; overflow: hidden; }
+.carousel-slide img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.carousel-dots { position: absolute; bottom: 14px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; z-index: 10; }
+.carousel-dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.45); cursor: pointer; transition: background 0.2s; border: none; padding: 0; }
+.carousel-dot.active { background: #fff; transform: scale(1.3); }
+.thumb-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 3px; margin-top: 3px; }
+.thumb { aspect-ratio: 1; overflow: hidden; cursor: pointer; border: 2px solid transparent; transition: border-color .15s; }
+.thumb.active { border-color: var(--black); }
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
 </style>
 </head>
 <body>
@@ -1289,38 +1300,36 @@ h1           { animation: up .5s ease both .2s; }
     </div>
 
     <div class="hero-visual">
-      <div class="main-photo-wrap">
-        <!--
-          PHOTO PRINCIPALE (hero)
-          Remplacez ce bloc par :
-          <img src="votre-photo.jpg" alt="Kollder deployed" class="main-photo-img">
-        -->
-        <div class="photo-placeholder">
-          <svg width="56" height="40" viewBox="0 0 56 40" fill="none" stroke="currentColor" stroke-width="1"><rect x="2" y="2" width="52" height="36" rx="2"/><circle cx="14" cy="14" r="5"/><path d="M2 30l12-10 8 8 8-6 12 8"/></svg>
-          <span data-fr="Photo principale à insérer" data-en="Insert main photo here">Photo principale à insérer</span>
+      <div class="carousel-wrap" id="heroCarousel">
+        <div class="carousel-track" id="carouselTrack">
+          <div class="carousel-slide">
+            <img src="/images/hero-trail.png" alt="Kollder — Trail, traitement coup de chaleur">
+          </div>
+          <div class="carousel-slide">
+            <img src="/images/hero-ehs.png" alt="Kollder — Industrie EHS, refroidissement urgence">
+          </div>
+          <div class="carousel-slide">
+            <img src="/images/hero-firefighter.png" alt="Kollder — Pompiers, traitement coup de chaleur terrain">
+          </div>
+        </div>
+        <div class="carousel-dots">
+          <button class="carousel-dot active" onclick="goTo(0)"></button>
+          <button class="carousel-dot" onclick="goTo(1)"></button>
+          <button class="carousel-dot" onclick="goTo(2)"></button>
         </div>
       </div>
       <div class="thumb-strip">
-        <div class="thumb active">
-          <!-- MINIATURE 1 : <img src="thumb-1.jpg" alt="Vue 1" style="width:100%;height:100%;object-fit:cover;display:block;"> -->
-          <div class="thumb-ph" data-fr="Vue 1" data-en="View 1">Vue 1</div>
+        <div class="thumb active" onclick="goTo(0)">
+          <img src="/images/hero-trail.png" alt="Trail">
         </div>
-        <div class="thumb">
-          <!-- MINIATURE 2 -->
-          <div class="thumb-ph" data-fr="Vue 2" data-en="View 2">Vue 2</div>
+        <div class="thumb" onclick="goTo(1)">
+          <img src="/images/hero-ehs.png" alt="Industrie EHS">
         </div>
-        <div class="thumb">
-          <!-- MINIATURE 3 -->
-          <div class="thumb-ph" data-fr="Déploiement" data-en="Deploy">Déploiement</div>
-        </div>
-        <div class="thumb">
-          <!-- MINIATURE 4 -->
-          <div class="thumb-ph" data-fr="Terrain" data-en="Field">Terrain</div>
+        <div class="thumb" onclick="goTo(2)">
+          <img src="/images/hero-firefighter.png" alt="Pompiers">
         </div>
       </div>
     </div>
-  </div>
-</section>
 
 <!-- ══ AGITATION ══ -->
 <section class="agit">
@@ -1774,6 +1783,26 @@ if (form) {
       }
     });
   }
+</script>
+
+<script>
+(function() {
+  var current = 0;
+  var track = document.getElementById('carouselTrack');
+  var dots = document.querySelectorAll('.carousel-dot');
+  var thumbs = document.querySelectorAll('.thumb-strip .thumb');
+  var timer;
+  function goTo(n) {
+    current = (n + 3) % 3;
+    track.style.transform = 'translateX(-' + (current * 33.333) + '%)';
+    dots.forEach(function(d,i){ d.classList.toggle('active', i===current); });
+    thumbs.forEach(function(t,i){ t.classList.toggle('active', i===current); });
+    clearInterval(timer);
+    timer = setInterval(function(){ goTo(current+1); }, 4000);
+  }
+  window.goTo = goTo;
+  timer = setInterval(function(){ goTo(current+1); }, 4000);
+})();
 </script>
 </body>
 </html>
