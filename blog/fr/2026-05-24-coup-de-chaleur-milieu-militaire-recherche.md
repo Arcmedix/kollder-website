@@ -74,7 +74,3 @@ La revue Epstein et al. (2025) consolide les recommandations pour le milieu mili
 - CHAMP/USUHS, *Clinical Practice Guideline: Exertional Heat Illness*, juin 2024 — [champ.usuhs.edu](https://champ.usuhs.edu/sites/default/files/media/documents/champ_whec_ehi_cpg_508_070224_acc.pdf)
 
 ---
-
-**Kollder est la baignoire de refroidissement d'urgence déployable en moins de 30 secondes, partout.**
-
-[Obtenir un devis](https://kollder.com/#contact)
