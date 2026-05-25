@@ -2,13 +2,13 @@
 title: "Baignoire de refroidissement d'urgence : définition, usage et protocole terrain"
 date: 2026-05-25
 description: "Qu'est-ce qu'une baignoire de refroidissement d'urgence ? Comment fonctionne-t-elle, qui l'utilise et pourquoi est-elle le seul équipement validé contre le coup de chaleur d'effort ?"
-category: "Équipement médical"
+category: "Équipement d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
 ---
 
-Une baignoire de refroidissement d'urgence est un dispositif médical portable permettant l'immersion corps entier d'un patient en hyperthermie sévère dans de l'eau froide, immédiatement sur le lieu de l'incident, avant tout transport médicalisé.
+Une baignoire de refroidissement d'urgence est un dispositif portable permettant l'immersion corps entier d'un patient en hyperthermie sévère dans de l'eau froide, immédiatement sur le lieu de l'incident, avant tout transport médicalisé.
 
 C'est aujourd'hui l'équipement de référence recommandé par la Société Française d'Anesthésie Réanimation (SFAR), l'American College of Sports Medicine (ACSM) et le Comité International Olympique (CIO) pour le traitement du coup de chaleur d'effort.
 
