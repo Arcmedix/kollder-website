@@ -2,13 +2,13 @@
 title: "Emergency Cooling Tub: Definition, Uses and Field Protocol"
 date: 2026-05-25
 description: "What is an emergency cooling tub? How does it work, who uses it, and why is it the only validated equipment for treating exertional heat stroke in the field?"
-category: "Medical Equipment"
+category: "Medical Emergency Equipment"
 layout: layouts/article.njk
 lang: en
 published: true
 ---
 
-An emergency cooling tub is a portable medical device designed to allow full-body cold water immersion of a patient suffering from severe hyperthermia, immediately at the scene — before any medical transport.
+An emergency cooling tub is a portable solution designed to allow full-body cold water immersion of a patient suffering from severe hyperthermia, immediately at the scene — before any medical transport.
 
 It is the gold standard equipment recommended by the American College of Sports Medicine (ACSM), the International Olympic Committee (IOC), and leading prehospital medicine organisations worldwide for the treatment of exertional heat stroke (EHS).
 
