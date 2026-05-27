@@ -1,1 +1,186 @@
+<!DOCTYPE html>
+<html lang="{% if lang == 'en' %}en{% else %}fr{% endif %}">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SF9XF8JQZK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-SF9XF8JQZK');
+</script>
+<meta charset="UTF-8">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }} — Kollder</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="https://kollder.com{{ page.url }}">
+<meta property="og:title" content="{{ title }} — Kollder">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://kollder.com{{ page.url }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ title }}",
+  "description": "{{ description }}",
+  "datePublished": "{{ date | dateFormat }}",
+  "publisher": { "@type": "Organization", "name": "Kollder", "url": "https://kollder.com" }
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --black: #0f0f0d; --ink: #1a1a17; --white: #faf9f7;
+  --cream: #f0ece4; --beige: #e8e0d4; --sand: #c8bfb0;
+  --muted: #8a8278; --border: rgba(26,26,23,0.1);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--white); color: var(--ink); font-family: 'DM Sans', sans-serif; font-weight: 300; line-height: 1.7; }
 
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 14px 56px; background: rgba(255,255,255,0.95);
+  backdrop-filter: blur(20px); border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+.nav-brand img { height: 52px; width: auto; display: block; }
+.nav-back {
+  font-size: 13px; font-weight: 500; color: var(--muted);
+  text-decoration: none; letter-spacing: 0.06em;
+  display: flex; align-items: center; gap: 8px; transition: color .2s;
+}
+.nav-back:hover { color: var(--ink); }
+
+.article-hero {
+  padding: 140px 56px 60px; background: var(--black); color: var(--white);
+}
+.article-hero-inner { max-width: 800px; margin: 0 auto; }
+.article-cat {
+  font-size: 11px; font-weight: 500; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 20px;
+}
+.article-hero h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(32px, 4vw, 52px); font-weight: 400;
+  line-height: 1.1; color: var(--white); margin-bottom: 20px;
+}
+.article-date { font-size: 13px; color: rgba(250,249,247,0.4); letter-spacing: 0.06em; }
+
+.article-body { max-width: 800px; margin: 0 auto; padding: 64px 56px 100px; }
+
+.article-body h1 { font-family: 'DM Serif Display', serif; font-size: 36px; font-weight: 400; margin: 48px 0 20px; color: var(--black); line-height: 1.15; }
+.article-body h2 { font-family: 'DM Serif Display', serif; font-size: 28px; font-weight: 400; margin: 44px 0 16px; color: var(--black); line-height: 1.2; border-bottom: 1px solid var(--border); padding-bottom: 12px; }
+.article-body h3 { font-family: 'DM Sans', sans-serif; font-size: 17px; font-weight: 500; margin: 32px 0 12px; color: var(--black); }
+.article-body p { font-size: 16px; color: var(--ink); line-height: 1.8; margin-bottom: 20px; }
+.article-body strong { font-weight: 500; color: var(--black); }
+.article-body em { font-style: italic; color: var(--muted); }
+.article-body ul, .article-body ol { padding-left: 24px; margin-bottom: 20px; }
+.article-body li { font-size: 16px; color: var(--ink); line-height: 1.75; margin-bottom: 8px; }
+.article-body blockquote { border-left: 3px solid var(--sand); padding-left: 20px; margin: 28px 0; font-style: italic; color: var(--muted); }
+.article-body a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
+.article-body a:hover { color: var(--black); }
+.article-body hr { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
+.article-body table { width: 100%; border-collapse: collapse; margin: 28px 0; font-size: 14px; }
+.article-body th { background: var(--ink); color: var(--white); padding: 12px 16px; text-align: left; font-weight: 500; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
+.article-body td { padding: 12px 16px; border-bottom: 1px solid var(--border); color: var(--ink); vertical-align: top; }
+.article-body tr:nth-child(even) td { background: var(--cream); }
+
+.article-cta {
+  background: var(--cream); border: 1px solid var(--border);
+  padding: 32px 36px; margin: 48px 0;
+}
+.article-cta p { margin: 0 0 16px; }
+.article-cta a {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: var(--black); color: var(--white) !important;
+  font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  padding: 13px 24px; text-decoration: none !important;
+  transition: background .2s;
+}
+.article-cta a:hover { background: #333; }
+
+.article-mid-cta {
+  background: var(--black); padding: 28px 32px; margin: 40px 0;
+  display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap;
+}
+.article-mid-cta p { font-size: 15px; color: rgba(250,249,247,0.8); margin: 0; line-height: 1.5; flex: 1; }
+.article-mid-cta strong { color: var(--white); font-weight: 500; }
+.article-mid-cta a {
+  display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
+  background: var(--white); color: var(--black) !important;
+  font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 500;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 12px 22px; text-decoration: none !important; transition: background .2s;
+}
+.article-mid-cta a:hover { background: var(--cream); }
+
+footer {
+  background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 56px;
+}
+.footer-inner {
+  max-width: 1240px; margin: 0 auto;
+  display: flex; justify-content: space-between; align-items: center; gap: 24px; flex-wrap: wrap;
+}
+.footer-brand img { height: 52px; width: auto; display: block; filter: invert(1); }
+.footer-note { font-size: 12px; color: rgba(250,249,247,0.25); letter-spacing: 0.04em; }
+
+@media (max-width: 768px) {
+  nav { padding: 14px 24px; }
+  .article-hero { padding: 110px 24px 48px; }
+  .article-body { padding: 48px 24px 72px; }
+  footer { padding: 32px 24px; }
+  .article-body table { display: block; overflow-x: auto; }
+  .article-mid-cta { flex-direction: column; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-brand">
+    <a href="/"><img src="/logo-kollder.png" alt="Kollder"></a>
+  </div>
+  <a href="/blog/" onclick="localStorage.setItem('kollder_lang','{% if lang == "en" %}en{% else %}fr{% endif %}')" class="nav-back">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
+    {% if lang == 'en' %}Back to blog{% else %}Retour au blog{% endif %}
+  </a>
+</nav>
+
+<section class="article-hero">
+  <div class="article-hero-inner">
+    <p class="article-cat">{{ category }}</p>
+    <h1>{{ title }}</h1>
+    <p class="article-date">{{ date | dateFormat }}</p>
+  </div>
+</section>
+
+<article class="article-body">
+  {{ content | safe }}
+
+  <div class="article-cta">
+    <p><strong>{% if lang == 'en' %}Kollder is the emergency cooling tub that deploys in under 30 seconds, anywhere.{% else %}Kollder est la baignoire de refroidissement d'urgence deployable en moins de 30 secondes, partout.{% endif %}</strong></p>
+    <a href="/#contact">
+      {% if lang == 'en' %}Request a quote{% else %}Obtenir un devis{% endif %}
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+  </div>
+</article>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand"><img src="/logo-kollder.png" alt="Kollder"></div>
+    <div class="footer-note">Emergency Cooling. Anywhere.</div>
+  </div>
+</footer>
+
+</body>
+</html>
