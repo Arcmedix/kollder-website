@@ -1823,5 +1823,54 @@ if (form) {
   timer = setInterval(function(){ goTo(current+1); }, 4000);
 })();
 </script>
+
+<script>
+/* Kollder — Language detection banner for homepage */
+(function () {
+  var savedLang = localStorage.getItem('kollder_lang');
+  var browserLang = (navigator.language || 'fr').toLowerCase();
+  browserLang = browserLang.startsWith('en') ? 'en' : 'fr';
+  var bannerDismissed = localStorage.getItem('kollder_lang_banner_dismissed');
+  // Homepage is FR by default
+  var pageLang = 'fr';
+  if (!bannerDismissed && !savedLang && browserLang !== pageLang) {
+    document.addEventListener('DOMContentLoaded', function () {
+      var banner = document.createElement('div');
+      banner.id = 'kollder-lang-banner';
+      banner.style.cssText = 'position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:#0f0f0d;color:#faf9f7;padding:14px 20px;border-radius:8px;display:flex;align-items:center;gap:16px;font-family:"DM Sans",sans-serif;font-size:14px;z-index:9999;box-shadow:0 4px 24px rgba(0,0,0,0.3);white-space:nowrap;max-width:calc(100vw - 48px)';
+      var msg = document.createElement('span');
+      msg.textContent = 'This page is in French.';
+      msg.style.opacity = '0.7';
+      var switchBtn = document.createElement('button');
+      switchBtn.textContent = 'Switch to English →';
+      switchBtn.style.cssText = 'background:#faf9f7;color:#0f0f0d;border:none;padding:6px 14px;border-radius:4px;font-size:13px;font-weight:600;cursor:pointer';
+      var dismissBtn = document.createElement('button');
+      dismissBtn.textContent = 'Keep French';
+      dismissBtn.style.cssText = 'background:transparent;color:rgba(250,249,247,0.5);border:none;padding:6px 8px;font-size:13px;cursor:pointer';
+      banner.appendChild(msg);
+      banner.appendChild(switchBtn);
+      banner.appendChild(dismissBtn);
+      document.body.appendChild(banner);
+      function dismiss() {
+        banner.style.transition = 'opacity 0.3s';
+        banner.style.opacity = '0';
+        setTimeout(function(){ if(banner.parentNode) banner.parentNode.removeChild(banner); }, 300);
+      }
+      switchBtn.addEventListener('click', function () {
+        localStorage.setItem('kollder_lang', 'en');
+        localStorage.setItem('kollder_lang_banner_dismissed', '1');
+        dismiss();
+        if (typeof setLang === 'function') setLang('en');
+      });
+      dismissBtn.addEventListener('click', function () {
+        localStorage.setItem('kollder_lang', 'fr');
+        localStorage.setItem('kollder_lang_banner_dismissed', '1');
+        dismiss();
+      });
+      setTimeout(function(){ if(document.getElementById('kollder-lang-banner')) dismiss(); }, 8000);
+    });
+  }
+})();
+</script>
 </body>
 </html>
