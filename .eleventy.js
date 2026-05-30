@@ -11,6 +11,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("android-chrome-192x192.png");
   eleventyConfig.addPassthroughCopy("android-chrome-512x512.png");
   eleventyConfig.addPassthroughCopy("lang.js");
+  eleventyConfig.addPassthroughCopy("_headers");
 
   eleventyConfig.addTemplateFormats("njk,html,md,xml");
 
