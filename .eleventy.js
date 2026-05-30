@@ -1,44 +1,256 @@
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("logo-kollder.png");
-  eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("index.html");
-  eleventyConfig.addPassthroughCopy("robots.txt");
-  eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("favicon.ico");
-eleventyConfig.addPassthroughCopy("favicon-16x16.png");
-eleventyConfig.addPassthroughCopy("favicon-32x32.png");
-eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
-eleventyConfig.addPassthroughCopy("android-chrome-192x192.png");
-eleventyConfig.addPassthroughCopy("android-chrome-512x512.png");
+---
+layout: null
+permalink: /blog/
+---
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SF9XF8JQZK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-SF9XF8JQZK');
+</script>
+<!-- Microsoft clarity tag -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "wy0jm2kj2r");
+</script>
+<meta charset="UTF-8">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog — Kollder | Ressources sur le refroidissement d'urgence</title>
+<meta name="description" content="Ressources, protocoles et actualités sur le refroidissement d'urgence, les coups de chaleur et la médecine tactique. Par Kollder.">
+<link rel="canonical" href="https://kollder.com/blog/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --black: #0f0f0d; --ink: #1a1a17; --white: #faf9f7;
+  --cream: #f0ece4; --beige: #e8e0d4; --sand: #c8bfb0;
+  --muted: #8a8278; --border: rgba(26,26,23,0.1);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--white); color: var(--ink); font-family: 'DM Sans', sans-serif; font-weight: 300; }
 
-  // Support du format XML pour la sitemap
-  eleventyConfig.addTemplateFormats("njk,html,md,xml");
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 14px 56px; background: rgba(255,255,255,0.95);
+  backdrop-filter: blur(20px); border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+.nav-brand img { height: 52px; width: auto; display: block; }
+.nav-right { display: flex; align-items: center; gap: 24px; }
+.nav-back {
+  font-size: 13px; font-weight: 500; color: var(--muted);
+  text-decoration: none; letter-spacing: 0.06em;
+  display: flex; align-items: center; gap: 8px; transition: color .2s;
+}
+.nav-back:hover { color: var(--ink); }
+.lang-toggle { display: flex; border: 1px solid var(--border); }
+.lang-btn {
+  background: none; border: none; font-family: 'DM Sans', sans-serif;
+  font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
+  padding: 6px 14px; cursor: pointer; color: var(--muted); transition: all .2s;
+}
+.lang-btn.active { background: var(--black); color: var(--white); }
 
-  eleventyConfig.addCollection("blog_fr", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("blog/fr/*.md")
-      .filter(item => item.data.published !== false)
-      .sort((a, b) => b.date - a.date);
-  });
+.hero {
+  padding: 140px 56px 80px; background: var(--black); color: var(--white);
+}
+.hero-inner { max-width: 1240px; margin: 0 auto; }
+.hero-label {
+  font-size: 11px; font-weight: 500; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 20px;
+}
+.hero h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(40px, 5vw, 68px); font-weight: 400;
+  line-height: 1.08; color: var(--white); margin-bottom: 20px;
+}
+.hero h1 em { font-style: italic; color: rgba(250,249,247,0.4); }
+.hero-sub { font-size: 16px; color: rgba(250,249,247,0.5); max-width: 520px; line-height: 1.75; }
 
-  eleventyConfig.addCollection("blog_en", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("blog/en/*.md")
-      .filter(item => item.data.published !== false)
-      .sort((a, b) => b.date - a.date);
-  });
+.blog-section { padding: 80px 56px; max-width: 1240px; margin: 0 auto; }
 
-  eleventyConfig.addFilter("dateFormat", function(date) {
-    return new Date(date).toLocaleDateString('fr-FR', {
-      year: 'numeric', month: 'long', day: 'numeric'
-    });
-  });
+.articles-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; }
+.article-card {
+  background: var(--cream); text-decoration: none; color: inherit;
+  display: flex; flex-direction: column; transition: background .2s, transform .25s ease;
+}
+.article-card:hover { background: var(--beige); transform: translateY(-4px); }
+.article-body-inner { padding: 28px 28px 32px; flex: 1; display: flex; flex-direction: column; }
+.article-cat {
+  font-size: 10px; font-weight: 500; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 12px;
+}
+.article-title {
+  font-family: 'DM Serif Display', serif; font-size: 20px;
+  font-weight: 400; line-height: 1.25; color: var(--black); margin-bottom: 12px;
+}
+.article-desc { font-size: 13px; color: var(--muted); line-height: 1.65; flex: 1; }
+.article-date { font-size: 11px; color: var(--sand); margin-top: 20px; letter-spacing: 0.06em; }
+.article-read {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; letter-spacing: 0.08em;
+  color: var(--ink); margin-top: 16px; text-decoration: none; text-transform: uppercase;
+}
+.article-read svg { transition: transform .2s; }
+.article-card:hover .article-read svg { transform: translateX(4px); }
 
-  eleventyConfig.addFilter("dateFormatEN", function(date) {
-    return new Date(date).toLocaleDateString('en-GB', {
-      year: 'numeric', month: 'long', day: 'numeric'
-    });
-  });
+.empty-state {
+  grid-column: 1 / -1; text-align: center; padding: 80px 0;
+  color: var(--muted); font-size: 15px; line-height: 1.8;
+}
+.empty-state strong {
+  display: block; font-family: 'DM Serif Display', serif;
+  font-size: 28px; color: var(--ink); margin-bottom: 12px; font-weight: 400;
+}
 
-  return {
-    dir: { input: ".", output: "_site", includes: "_includes" }
-  };
-};
+footer {
+  background: #000; border-top: 1px solid rgba(255,255,255,0.08);
+  padding: 40px 56px; margin-top: 80px;
+}
+.footer-inner {
+  max-width: 1240px; margin: 0 auto;
+  display: flex; justify-content: space-between; align-items: center; gap: 24px; flex-wrap: wrap;
+}
+.footer-brand img { height: 52px; width: auto; display: block; filter: invert(1); }
+.footer-note { font-size: 12px; color: rgba(250,249,247,0.25); letter-spacing: 0.04em; }
+
+@media (max-width: 900px) {
+  nav { padding: 14px 24px; }
+  .hero { padding: 120px 24px 60px; }
+  .blog-section { padding: 56px 24px; }
+  .articles-grid { grid-template-columns: 1fr 1fr; }
+  footer { padding: 32px 24px; }
+}
+@media (max-width: 580px) {
+  .articles-grid { grid-template-columns: 1fr; }
+  .footer-inner { flex-direction: column; align-items: flex-start; }
+  .nav-right { gap: 12px; }
+}
+</style>
+<script src="/lang.js"></script>
+</head>
+<body>
+
+<nav>
+  <div class="nav-brand">
+    <a href="/"><img src="/logo-kollder.png" alt="Kollder"></a>
+  </div>
+  <div class="nav-right">
+    <a href="/" class="nav-back">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
+      <span id="back-label">Retour au site</span>
+    </a>
+    <div class="lang-toggle">
+      <button class="lang-btn active" onclick="setLang('fr')" id="btn-fr">FR</button>
+      <button class="lang-btn" onclick="setLang('en')" id="btn-en">EN</button>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-inner">
+    <p class="hero-label" id="hero-label">Ressources & Expertise</p>
+    <h1 id="hero-title">Tout ce que vous devez savoir sur <em>le coup de chaleur.</em></h1>
+    <p class="hero-sub" id="hero-sub">Protocoles médicaux, retours terrain, actualités réglementaires. Par des experts pour des professionnels.</p>
+  </div>
+</section>
+
+<div class="blog-section">
+  <div class="articles-grid" id="articlesGrid">
+
+    <div id="fr-articles" style="display:contents;">
+      {% set frPosts = collections.blog_fr %}
+      {% if frPosts.length %}
+        {% for post in frPosts %}
+        <a href="{{ post.url }}" class="article-card">
+          <div class="article-body-inner">
+            <p class="article-cat">{{ post.data.category }}</p>
+            <h2 class="article-title">{{ post.data.title }}</h2>
+            <p class="article-desc">{{ post.data.description }}</p>
+            <p class="article-date">{{ post.date | dateFormat }}</p>
+            <span class="article-read">
+              Lire l'article
+              <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+            </span>
+          </div>
+        </a>
+        {% endfor %}
+      {% else %}
+        <div class="empty-state"><strong>Les articles arrivent bientôt.</strong><span>Revenez prochainement.</span></div>
+      {% endif %}
+    </div>
+
+    <div id="en-articles" style="display:none;">
+      {% set enPosts = collections.blog_en %}
+      {% if enPosts.length %}
+        {% for post in enPosts %}
+        <a href="{{ post.url }}" class="article-card">
+          <div class="article-body-inner">
+            <p class="article-cat">{{ post.data.category }}</p>
+            <h2 class="article-title">{{ post.data.title }}</h2>
+            <p class="article-desc">{{ post.data.description }}</p>
+            <p class="article-date">{{ post.date | dateFormatEN }}</p>
+            <span class="article-read">
+              Read article
+              <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+            </span>
+          </div>
+        </a>
+        {% endfor %}
+      {% else %}
+        <div class="empty-state"><strong>Articles coming soon.</strong><span>Check back soon.</span></div>
+      {% endif %}
+    </div>
+
+  </div>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand"><img src="/logo-kollder.png" alt="Kollder"></div>
+    <div class="footer-note">Emergency Cooling. Anywhere.</div>
+  </div>
+</footer>
+
+<script>
+// Read lang from URL param OR localStorage
+const _urlLang = new URLSearchParams(window.location.search).get('lang');
+const _initLang = _urlLang || localStorage.getItem('kollder_lang') || 'fr';
+if (_initLang === 'en') setLang('en');
+
+function setLang(l) {
+  localStorage.setItem('kollder_lang', l);
+  document.getElementById('btn-fr').classList.toggle('active', l==='fr');
+  document.getElementById('btn-en').classList.toggle('active', l==='en');
+  document.getElementById('fr-articles').style.display = l==='fr' ? 'contents' : 'none';
+  document.getElementById('en-articles').style.display = l==='en' ? 'contents' : 'none';
+  if (l==='fr') {
+    document.getElementById('hero-label').textContent = 'Ressources & Expertise';
+    document.getElementById('hero-title').innerHTML = 'Tout ce que vous devez savoir sur <em>le coup de chaleur.</em>';
+    document.getElementById('hero-sub').textContent = 'Protocoles médicaux, retours terrain, actualités réglementaires. Par des experts pour des professionnels.';
+    document.getElementById('back-label').textContent = 'Retour au site';
+  } else {
+    document.getElementById('hero-label').textContent = 'Resources & Expertise';
+    document.getElementById('hero-title').innerHTML = 'Everything you need to know about <em>heat stroke.</em>';
+    document.getElementById('hero-sub').textContent = 'Medical protocols, field reports, regulatory updates. By experts, for professionals.';
+    document.getElementById('back-label').textContent = 'Back to site';
+  }
+}
+</script>
+
+</body>
+</html>
