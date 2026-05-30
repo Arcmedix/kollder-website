@@ -229,18 +229,11 @@ footer {
         localStorage.setItem('kollder_lang_banner_dismissed', '1');
         dismiss();
         var p = window.location.pathname;
-        if (p.includes('/blog/fr/')) {
-          var targetUrl = p.replace('/blog/fr/', '/blog/en/');
-          fetch(targetUrl, {method: 'HEAD'}).then(function(r) {
-            window.location.href = r.ok ? targetUrl : '/blog/?lang=en';
-          }).catch(function(){ window.location.href = '/blog/?lang=en'; });
-        } else if (p.includes('/blog/en/')) {
-          var targetUrl = p.replace('/blog/en/', '/blog/fr/');
-          fetch(targetUrl, {method: 'HEAD'}).then(function(r) {
-            window.location.href = r.ok ? targetUrl : '/blog/';
-          }).catch(function(){ window.location.href = '/blog/'; });
+        if (p.includes('/blog/fr/') || p.includes('/blog/en/') || p.includes('/blog/')) {
+          window.location.href = '/blog/';
+        } else if (typeof setLang === 'function') {
+          setLang(browserLang);
         }
-        else if (typeof setLang === 'function') setLang(browserLang);
       });
       dismissBtn.addEventListener('click', function () {
         localStorage.setItem('kollder_lang', pageLang);
