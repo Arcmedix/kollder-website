@@ -289,10 +289,7 @@ function setLang(l) {
         localStorage.setItem('kollder_lang', browserLang);
         localStorage.setItem('kollder_lang_banner_dismissed', '1');
         dismiss();
-        var p = window.location.pathname;
-        if (p.includes('/blog/fr/')) window.location.href = p.replace('/blog/fr/', '/blog/en/');
-        else if (p.includes('/blog/en/')) window.location.href = p.replace('/blog/en/', '/blog/fr/');
-        else if (typeof setLang === 'function') setLang(browserLang);
+        if (typeof setLang === 'function') setLang(browserLang);
       });
       dismissBtn.addEventListener('click', function () {
         localStorage.setItem('kollder_lang', pageLang);
