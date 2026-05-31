@@ -1,0 +1,176 @@
+---
+layout: null
+pagination:
+  data: categories
+  size: 1
+  alias: cat
+permalink: /blog/en/category/{{ cat.slug_en }}/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SF9XF8JQZK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-SF9XF8JQZK');
+</script>
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "wy0jm2kj2r");
+</script>
+<meta charset="UTF-8">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ cat.label_en }} — Kollder Blog</title>
+<meta name="description" content="{{ cat.meta_en }}">
+<link rel="canonical" href="https://kollder.com/blog/en/category/{{ cat.slug_en }}/">
+<meta property="og:title" content="{{ cat.label_en }} — Kollder Blog">
+<meta property="og:description" content="{{ cat.meta_en }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kollder.com/blog/en/category/{{ cat.slug_en }}/">
+<link rel="alternate" hreflang="en" href="https://kollder.com/blog/en/category/{{ cat.slug_en }}/">
+<link rel="alternate" hreflang="fr" href="https://kollder.com/blog/fr/categorie/{{ cat.slug_fr }}/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --black: #0f0f0d; --ink: #1a1a17; --white: #faf9f7;
+  --cream: #f0ece4; --beige: #e8e0d4; --sand: #c8bfb0;
+  --muted: #8a8278; --border: rgba(26,26,23,0.1);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--white); color: var(--ink); font-family: 'DM Sans', sans-serif; font-weight: 300; }
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 14px 56px; background: rgba(255,255,255,0.95);
+  backdrop-filter: blur(20px); border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+.nav-brand img { height: 52px; width: auto; display: block; }
+.nav-right { display: flex; align-items: center; gap: 24px; }
+.nav-back { font-size: 13px; font-weight: 500; color: var(--muted); text-decoration: none; letter-spacing: 0.06em; display: flex; align-items: center; gap: 8px; transition: color .2s; }
+.nav-back:hover { color: var(--ink); }
+.lang-toggle { display: flex; border: 1px solid var(--border); }
+.lang-btn { background: none; border: none; font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 500; letter-spacing: 0.1em; padding: 6px 14px; cursor: pointer; color: var(--muted); transition: all .2s; }
+.lang-btn.active { background: var(--black); color: var(--white); }
+.hero { padding: 140px 56px 80px; background: var(--black); color: var(--white); }
+.hero-inner { max-width: 1240px; margin: 0 auto; }
+.hero-breadcrumb { font-size: 11px; font-weight: 500; letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); margin-bottom: 20px; display: flex; align-items: center; gap: 8px; }
+.hero-breadcrumb a { color: var(--muted); text-decoration: none; transition: color .2s; }
+.hero-breadcrumb a:hover { color: rgba(250,249,247,0.6); }
+.hero h1 { font-family: 'DM Serif Display', serif; font-size: clamp(36px, 4.5vw, 60px); font-weight: 400; line-height: 1.08; color: var(--white); margin-bottom: 20px; }
+.hero-sub { font-size: 16px; color: rgba(250,249,247,0.5); max-width: 560px; line-height: 1.75; }
+.hero-count { margin-top: 28px; font-size: 12px; color: rgba(250,249,247,0.25); letter-spacing: 0.12em; text-transform: uppercase; }
+.cat-nav { padding: 28px 56px 0; max-width: 1240px; margin: 0 auto; }
+.cat-nav-inner { display: flex; gap: 8px; flex-wrap: wrap; }
+.cat-pill { font-size: 11px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; padding: 7px 16px; border: 1px solid var(--border); text-decoration: none; color: var(--muted); transition: all .2s; white-space: nowrap; }
+.cat-pill:hover { border-color: var(--ink); color: var(--ink); }
+.cat-pill.active { background: var(--ink); color: var(--white); border-color: var(--ink); }
+.blog-section { padding: 48px 56px 80px; max-width: 1240px; margin: 0 auto; }
+.articles-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; }
+.article-card { background: var(--cream); text-decoration: none; color: inherit; display: flex; flex-direction: column; transition: background .2s, transform .25s ease; }
+.article-card:hover { background: var(--beige); transform: translateY(-4px); }
+.article-body-inner { padding: 28px 28px 32px; flex: 1; display: flex; flex-direction: column; }
+.article-cat { font-size: 10px; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.article-title { font-family: 'DM Serif Display', serif; font-size: 20px; font-weight: 400; line-height: 1.25; color: var(--black); margin-bottom: 12px; }
+.article-desc { font-size: 13px; color: var(--muted); line-height: 1.65; flex: 1; }
+.article-date { font-size: 11px; color: var(--sand); margin-top: 20px; letter-spacing: 0.06em; }
+.article-read { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 500; letter-spacing: 0.08em; color: var(--ink); margin-top: 16px; text-decoration: none; text-transform: uppercase; }
+.article-read svg { transition: transform .2s; }
+.article-card:hover .article-read svg { transform: translateX(4px); }
+.empty-state { grid-column: 1 / -1; text-align: center; padding: 80px 0; color: var(--muted); font-size: 15px; line-height: 1.8; }
+.empty-state strong { display: block; font-family: 'DM Serif Display', serif; font-size: 28px; color: var(--ink); margin-bottom: 12px; font-weight: 400; }
+footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 56px; }
+.footer-inner { max-width: 1240px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 24px; flex-wrap: wrap; }
+.footer-brand img { height: 52px; width: auto; display: block; filter: invert(1); }
+.footer-note { font-size: 12px; color: rgba(250,249,247,0.25); letter-spacing: 0.04em; }
+@media (max-width: 900px) {
+  nav { padding: 14px 24px; } .hero { padding: 120px 24px 60px; }
+  .cat-nav { padding: 20px 24px 0; } .blog-section { padding: 40px 24px 64px; }
+  .articles-grid { grid-template-columns: 1fr 1fr; } footer { padding: 32px 24px; }
+}
+@media (max-width: 580px) { .articles-grid { grid-template-columns: 1fr; } .footer-inner { flex-direction: column; align-items: flex-start; } }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-brand"><a href="/"><img src="/logo-kollder.png" alt="Kollder"></a></div>
+  <div class="nav-right">
+    <a href="/blog/" class="nav-back">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
+      All articles
+    </a>
+    <div class="lang-toggle">
+      <button class="lang-btn" onclick="window.location.href='/blog/fr/categorie/{{ cat.slug_fr }}/'">FR</button>
+      <button class="lang-btn active" onclick="window.location.href='/blog/en/category/{{ cat.slug_en }}/'">EN</button>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-inner">
+    <p class="hero-breadcrumb">
+      <a href="/blog/">Blog</a><span>›</span><span>{{ cat.label_en }}</span>
+    </p>
+    <h1>{{ cat.label_en }}</h1>
+    <p class="hero-sub">{{ cat.description_en }}</p>
+    {% set articleCount = 0 %}
+    {% for post in collections.blog_en %}{% if post.data.category == cat.label_en %}{% set articleCount = articleCount + 1 %}{% endif %}{% endfor %}
+    <p class="hero-count">{{ articleCount }} article{% if articleCount > 1 %}s{% endif %}</p>
+  </div>
+</section>
+
+<div class="cat-nav">
+  <div class="cat-nav-inner">
+    {% for c in categories %}
+    <a href="/blog/en/category/{{ c.slug_en }}/" class="cat-pill{% if c.slug_en == cat.slug_en %} active{% endif %}">{{ c.label_en }}</a>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="blog-section">
+  <div class="articles-grid">
+    {% set hasArticles = false %}
+    {% for post in collections.blog_en %}
+      {% if post.data.category == cat.label_en %}
+        {% set hasArticles = true %}
+        <a href="{{ post.url }}" class="article-card">
+          <div class="article-body-inner">
+            <p class="article-cat">{{ post.data.category }}</p>
+            <h2 class="article-title">{{ post.data.title }}</h2>
+            <p class="article-desc">{{ post.data.description }}</p>
+            <p class="article-date">{{ post.date | dateFormatEN }}</p>
+            <span class="article-read">
+              Read article
+              <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+            </span>
+          </div>
+        </a>
+      {% endif %}
+    {% endfor %}
+    {% if not hasArticles %}
+      <div class="empty-state"><strong>Articles coming soon.</strong><span>Check back for this category.</span></div>
+    {% endif %}
+  </div>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand"><img src="/logo-kollder.png" alt="Kollder"></div>
+    <div class="footer-note">Emergency Cooling. Anywhere.</div>
+  </div>
+</footer>
+
+</body>
+</html>
