@@ -2,7 +2,7 @@
 title: "Immersion en eau froide vs autres méthodes de refroidissement : comparatif chiffré"
 date: 2026-05-25
 description: "Immersion en eau froide, brumisation, poches de glace, serviettes humides : comparatif des vitesses de refroidissement, de l'efficacité et des recommandations pour le coup de chaleur d'effort."
-category: "Protocoles médicaux"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

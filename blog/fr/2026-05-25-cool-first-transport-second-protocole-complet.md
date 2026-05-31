@@ -2,7 +2,7 @@
 title: "Cool First Transport Second : le protocole qui sauve des vies sur le terrain"
 date: 2026-05-25
 description: "Cool First Transport Second est le protocole de référence pour le coup de chaleur d'effort. Origine, fondements scientifiques, application terrain et équipement nécessaire."
-category: "Protocoles médicaux"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

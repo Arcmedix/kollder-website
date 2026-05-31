@@ -2,7 +2,7 @@
 title: "Coup de chaleur d'effort : pourquoi l'immersion en eau froide est la seule solution validée"
 date: 2026-05-17T16:00:00.000+04:00
 description: Le coup de chaleur d'effort est une urgence vitale. Découvrez pourquoi l'immersion en eau froide est le seul traitement validé médicalement, et comment l'appliquer sur le terrain.
-category: Coup de chaleur
+category: "Médecine d'urgence"
 published: true
 layout: layouts/article.njk
 lang: fr

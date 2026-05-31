@@ -2,7 +2,7 @@
 title: "Hyrox de Lyon, marathon de Paris, BSPP : le week-end de la Pentecôte 2026 marque un tournant pour le coup de chaleur en sport"
 date: 2026-05-26
 description: "Une femme de 28 ans décède à l'Hyrox de Lyon, plusieurs malaises lors de courses à pied, 7 morts en France lors de la vague de chaleur. Ce week-end révèle l'urgence d'un protocole de refroidissement sur le terrain."
-category: "Actualités"
+category: "Événements sportifs"
 layout: layouts/article.njk
 lang: fr
 published: true

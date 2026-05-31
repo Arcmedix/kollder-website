@@ -2,7 +2,7 @@
 title: "Plan canicule entreprise : quel équipement de refroidissement prévoir pour vos salariés ?"
 date: 2026-05-27
 description: "Plan canicule en entreprise : obligations employeurs, Décret 2025-482, équipements de refroidissement d'urgence et protocole de prise en charge du coup de chaleur d'effort pour les RH et responsables EHS."
-category: "Santé au travail"
+category: "EHS et industrie"
 layout: layouts/article.njk
 lang: fr
 published: true

@@ -2,7 +2,7 @@
 title: "Canicule 2026 : ce que la loi impose desormais aux employeurs pour proteger leurs salaries"
 date: 2026-05-18
 description: "Depuis le 1er juillet 2025, un nouveau cadre reglementaire impose des obligations precises aux employeurs face aux vagues de chaleur. Ce que vous devez savoir avant la saison chaude 2026."
-category: "Industrie et EHS"
+category: "EHS et industrie"
 layout: layouts/article.njk
 lang: fr
 published: true

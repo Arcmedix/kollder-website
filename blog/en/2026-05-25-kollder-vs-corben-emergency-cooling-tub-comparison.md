@@ -2,7 +2,7 @@
 title: "Kollder vs Corben: Emergency Cooling Tub Comparison"
 date: 2026-05-25
 description: "Objective comparison between Kollder and the Corben emergency cooling tub: deployment, patient access, portability, protocol compliance and field suitability for rescue teams."
-category: "Comparisons"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

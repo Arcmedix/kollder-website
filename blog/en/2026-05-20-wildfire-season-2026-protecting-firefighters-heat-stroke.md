@@ -2,7 +2,7 @@
 title: "Wildfire season 2026: protecting your firefighters from heat stroke in the field"
 date: 2026-05-20
 description: "Wildfire seasons are getting longer and more intense. Heat stroke is one of the leading preventable causes of firefighter death. Here is what every fire service medical officer needs to know before summer."
-category: "Rescue equipment"
+category: "Fire & Rescue"
 layout: layouts/article.njk
 lang: en
 published: true

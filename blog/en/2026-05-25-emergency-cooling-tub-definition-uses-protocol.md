@@ -2,7 +2,7 @@
 title: "Emergency Cooling Tub: Definition, Uses and Field Protocol"
 date: 2026-05-25
 description: "What is an emergency cooling tub? How does it work, who uses it, and why is it the only validated equipment for treating exertional heat stroke in the field?"
-category: "Medical Emergency Equipment"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

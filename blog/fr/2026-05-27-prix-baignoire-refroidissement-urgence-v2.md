@@ -2,7 +2,7 @@
 title: "Prix d'une baignoire de refroidissement d'urgence : comparatif complet des solutions disponibles"
 date: 2026-05-27
 description: "Quel est le prix d'une baignoire de refroidissement d'urgence en France ? Des sacs de fortune à 100€ aux baignoires professionnelles déployables : comparatif honnête des solutions, points de vigilance et rapport qualité/prix."
-category: "Équipement médical"
+category: "EHS et industrie"
 layout: layouts/article.njk
 lang: fr
 published: true

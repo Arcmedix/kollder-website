@@ -2,7 +2,7 @@
 title: "Coup de chaleur d'effort en milieu militaire : ce que la recherche internationale nous apprend"
 date: 2026-05-24
 description: "Le coup de chaleur d'effort est l'une des principales causes de décès évitables en milieu militaire. Protocoles, prévention et équipement selon les derniers référentiels internationaux publiés en 2025."
-category: "Médecine tactique"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

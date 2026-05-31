@@ -2,7 +2,7 @@
 title: "Exertional Heat Stroke in Military Settings: What International Research Tells Us About Prevention and Treatment"
 date: 2026-05-24
 description: "Heat illness ranked among the top five medical events in the US military in 2024. A 2025 international research review consolidates what works — and what still fails — in prevention and field treatment of exertional heat stroke."
-category: "Tactical medicine"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

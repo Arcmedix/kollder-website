@@ -2,7 +2,7 @@
 title: "Cold Water Immersion vs Other Cooling Methods: A Data-Backed Comparison"
 date: 2026-05-25
 description: "Cold water immersion, misting, ice packs, wet towels: a data-backed comparison of cooling rates, effectiveness and recommendations for exertional heat stroke treatment."
-category: "Medical Protocols"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

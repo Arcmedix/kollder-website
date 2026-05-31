@@ -2,7 +2,7 @@
 title: "Saison trail et marathon 2026 : protocole coup de chaleur pour les equipes medicales d'evenements"
 date: 2026-05-19
 description: "Mai a octobre 2026, la saison des marathons, trails et Hyrox bat son plein. Voici le protocole medical complet pour gerer le coup de chaleur d'effort sur un evenement sportif."
-category: "Evenements sportifs"
+category: "Événements sportifs"
 layout: layouts/article.njk
 lang: fr
 published: true

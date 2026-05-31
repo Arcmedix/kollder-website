@@ -2,7 +2,7 @@
 title: "IOC, World Athletics, ASPETAR: What the International Sports Medicine Consensus Says About Heat Stroke at Events"
 date: 2026-05-24
 description: "The IOC Adverse Weather Impact Expert Working Group, co-led by Dr. Sebastien Racinais of ASPETAR Qatar, established international standards for heat stroke management at sports competitions. What every event medical director must implement."
-category: "Sporting events"
+category: "Sports Events"
 layout: layouts/article.njk
 lang: en
 published: true

@@ -2,7 +2,7 @@
 title: "Preventing Exertional Heat Stroke: a field guide for medical teams and EHS managers"
 date: 2026-05-29
 description: "A practical evidence-based guide for fire and rescue services, event medical teams, military units, and EHS managers to prevent, recognise, and treat exertional heat stroke before it becomes fatal."
-category: "Field Protocols"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

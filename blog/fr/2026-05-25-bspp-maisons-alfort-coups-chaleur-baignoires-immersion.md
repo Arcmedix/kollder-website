@@ -2,7 +2,7 @@
 title: "BSPP Maisons-Alfort : les pompiers de Paris traitent plusieurs coups de chaleur par immersion lors d'une course à pied"
 date: 2026-05-25
 description: "Le 24 mai 2026, les sapeurs-pompiers de Paris sont intervenus pour plusieurs coups de chaleur lors d'un événement sportif à Maisons-Alfort. Le refroidissement par 'brancards baignoires' confirme le protocole Cool First Transport Second."
-category: "Actualités"
+category: "Sapeurs-pompiers"
 layout: layouts/article.njk
 lang: fr
 published: true

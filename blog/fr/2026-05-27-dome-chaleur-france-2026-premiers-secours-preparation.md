@@ -2,7 +2,7 @@
 title: "Dôme de chaleur en France : comment les services de premiers secours peuvent se préparer"
 date: 2026-05-27
 description: "Plus de 1 000 records battus en France depuis le 21 mai 2026. Guide pratique pour les équipes de premiers secours — sapeurs-pompiers, secouristes événementiels, SST — face à la multiplication des coups de chaleur d'effort."
-category: "Premiers secours"
+category: "Sapeurs-pompiers"
 layout: layouts/article.njk
 lang: fr
 published: true

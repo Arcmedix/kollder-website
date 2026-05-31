@@ -2,7 +2,7 @@
 title: "Exertional heat stroke: why cold water immersion is the only validated treatment"
 date: 2026-05-20
 description: "Exertional heat stroke kills in minutes. Cold water immersion is the only treatment proven to work. Here is everything medical teams need to know to act fast in the field."
-category: "Heat stroke"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

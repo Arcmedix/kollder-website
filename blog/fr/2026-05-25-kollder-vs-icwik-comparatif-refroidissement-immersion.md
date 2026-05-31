@@ -2,7 +2,7 @@
 title: "Kollder vs I-CWIK : comparatif des systèmes de refroidissement par immersion"
 date: 2026-05-25
 description: "Comparatif objectif entre Kollder et le système I-CWIK (Nereus Medical) : protocole d'immersion, accès patient, déploiement et adéquation aux standards médicaux internationaux."
-category: "Comparatifs"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

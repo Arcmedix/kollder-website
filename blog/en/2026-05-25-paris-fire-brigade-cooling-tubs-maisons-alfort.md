@@ -2,7 +2,7 @@
 title: "Paris Fire Brigade Deploys Multiple Cooling Tubs at Maisons-Alfort Running Event"
 date: 2026-05-25
 description: "On May 24, 2026, the Paris Fire Brigade (BSPP) responded to multiple heat strokes at a running event in Maisons-Alfort, deploying several field immersion tubs on site. A real-world confirmation of the Cool First Transport Second protocol."
-category: "News"
+category: "Fire & Rescue"
 layout: layouts/article.njk
 lang: en
 published: true

@@ -2,7 +2,7 @@
 title: "Cool first, transport second : le protocole qui sauve des vies selon le Dr Douglas Casa"
 date: 2026-05-24
 description: "Le Dr Douglas Casa du Korey Stringer Institute a suivi plus de 3 000 cas de coup de chaleur d'effort avec 100% de survie quand le refroidissement est initié dans les 30 minutes. Son protocole expliqué."
-category: "Protocoles médicaux"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

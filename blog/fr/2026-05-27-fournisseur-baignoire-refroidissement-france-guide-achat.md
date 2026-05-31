@@ -2,7 +2,7 @@
 title: "Fournisseur de baignoire de refroidissement en France : guide d'achat et critères de choix"
 date: 2026-05-27
 description: "Comment choisir un fournisseur de baignoire de refroidissement d'urgence en France ? Critères techniques, points de vigilance, conformité protocoles et comparatif des solutions disponibles."
-category: "Équipement médical"
+category: "EHS et industrie"
 layout: layouts/article.njk
 lang: fr
 published: true

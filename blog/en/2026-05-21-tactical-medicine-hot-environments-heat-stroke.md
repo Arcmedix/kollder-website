@@ -2,7 +2,7 @@
 title: "Tactical medicine in hot environments: managing exertional heat stroke in the field"
 date: 2026-05-21
 description: "Exertional heat stroke is a leading preventable cause of death in military training and operational environments. Here is what military medical personnel need to know to treat it effectively."
-category: "Tactical medicine"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

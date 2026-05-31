@@ -2,7 +2,7 @@
 title: "Dr. Douglas Casa: Why Exertional Heat Stroke Is 100% Survivable — And Still Killing People"
 date: 2026-05-24
 description: "Dr. Douglas Casa of the Korey Stringer Institute has tracked over 3,000 exertional heat stroke cases with zero deaths when treated correctly. His research explains exactly why people are still dying — and what every responder must do differently."
-category: "Heat stroke research"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

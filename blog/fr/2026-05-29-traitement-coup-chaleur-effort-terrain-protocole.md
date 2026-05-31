@@ -2,7 +2,7 @@
 title: "Traitement du coup de chaleur d'effort sur le terrain : protocole etape par etape"
 date: 2026-05-29
 description: "Comment traiter un coup de chaleur d'effort sur le terrain avant l'arrivee des secours ? Protocole medical de reference etape par etape pour les secouristes et premiers intervenants."
-category: "Protocoles médicaux"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

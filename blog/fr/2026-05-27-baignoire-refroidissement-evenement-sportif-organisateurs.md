@@ -2,7 +2,7 @@
 title: "Baignoire de refroidissement pour événement sportif : guide pour les organisateurs"
 date: 2026-05-27
 description: "Tout ce que les organisateurs d'événements sportifs doivent savoir sur la baignoire de refroidissement d'urgence : obligations, protocole, équipement et retour d'expérience terrain."
-category: "Événementiel sportif"
+category: "Événements sportifs"
 layout: layouts/article.njk
 lang: fr
 published: true

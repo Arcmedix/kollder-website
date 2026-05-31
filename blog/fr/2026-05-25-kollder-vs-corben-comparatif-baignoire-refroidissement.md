@@ -2,7 +2,7 @@
 title: "Kollder vs Corben : comparatif des baignoires de refroidissement d'urgence"
 date: 2026-05-25
 description: "Comparatif objectif entre Kollder et la baignoire de refroidissement Corben : déploiement, accès patient, portabilité, protocole et adéquation terrain pour les équipes de secours."
-category: "Comparatifs"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

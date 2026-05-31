@@ -2,7 +2,7 @@
 title: "Hyrox Lyon Death, Paris Marathon Incidents, BSPP Response: Pentecost 2026 Weekend Exposes the Gap in Heat Stroke Field Response"
 date: 2026-05-26
 description: "A 28-year-old woman dies at Hyrox Lyon, multiple collapses at running events, 7 heat-related deaths across France. This weekend exposes the urgent need for on-site cooling protocols at sporting events."
-category: "News"
+category: "Sports Events"
 layout: layouts/article.njk
 lang: en
 published: true

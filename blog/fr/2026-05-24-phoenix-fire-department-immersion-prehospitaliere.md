@@ -2,7 +2,7 @@
 title: "Comment Phoenix Fire Department a réduit les décès par coup de chaleur grâce à l'immersion préhospitalière"
 date: 2026-05-24
 description: "En 2024, le Phoenix Fire Department a déployé l'immersion en eau froide préhospitalière sur plus de 300 cas. Malgré l'été le plus chaud de l'histoire de Phoenix, les décès ont baissé. Analyse et leçons."
-category: "Retours terrain"
+category: "Sapeurs-pompiers"
 layout: layouts/article.njk
 lang: fr
 published: true

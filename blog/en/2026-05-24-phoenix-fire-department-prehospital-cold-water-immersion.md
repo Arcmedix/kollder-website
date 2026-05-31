@@ -2,7 +2,7 @@
 title: "The Phoenix Experiment: How One Fire Department Proved Prehospital Cold Water Immersion Works at Scale"
 date: 2026-05-24
 description: "In 2024, Phoenix Fire Department treated over 300 heat stroke patients with prehospital cold water immersion. Despite the hottest summer on record, heat deaths dropped. The peer-reviewed data and lessons for every EMS agency."
-category: "Field case studies"
+category: "Fire & Rescue"
 layout: layouts/article.njk
 lang: en
 published: true

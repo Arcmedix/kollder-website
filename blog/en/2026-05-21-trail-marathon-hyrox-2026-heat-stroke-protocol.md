@@ -2,7 +2,7 @@
 title: "Trail, marathon, and Hyrox 2026: the heat stroke protocol every event medical team needs"
 date: 2026-05-21
 description: "The 2026 endurance season is underway. Exertional heat stroke is the primary life-threatening emergency at summer running events. Here is the complete medical protocol for event teams."
-category: "Sporting events"
+category: "Sports Events"
 layout: layouts/article.njk
 lang: en
 published: true

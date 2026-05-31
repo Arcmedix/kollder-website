@@ -2,7 +2,7 @@
 title: "Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke"
 date: 2026-05-25
 description: "Cool First Transport Second is the gold standard prehospital protocol for exertional heat stroke. Origins, science, field application and required equipment explained."
-category: "Medical Protocols"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

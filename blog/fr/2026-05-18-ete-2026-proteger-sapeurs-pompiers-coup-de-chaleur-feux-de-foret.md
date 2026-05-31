@@ -2,7 +2,7 @@
 title: "Ete 2026 : comment proteger vos sapeurs-pompiers du coup de chaleur sur les feux de foret"
 date: 2026-05-18
 description: "Saison 2025 record en France : 809 incendies, des feux hors-normes dans l'Aude. En 2026, comment proteger vos sapeurs-pompiers de l'hyperthermie sur le terrain ?"
-category: "Equipements secours"
+category: "Sapeurs-pompiers"
 layout: layouts/article.njk
 lang: fr
 published: true

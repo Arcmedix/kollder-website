@@ -2,7 +2,7 @@
 title: "Kollder vs I-CWIK: Cold Water Immersion System Comparison"
 date: 2026-05-25
 description: "Objective comparison between Kollder and the I-CWIK system by Nereus Medical: immersion protocol, patient access, deployment and compliance with international medical standards."
-category: "Comparisons"
+category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true

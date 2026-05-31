@@ -2,7 +2,7 @@
 title: "Prévenir l'hyperthermie d'effort : guide terrain pour les professionnels"
 date: 2026-05-29
 description: "Comment prévenir l'hyperthermie d'effort sur le terrain ? Guide pratique avec checklist opérationnelle pour SDIS, organisateurs d'événements sportifs et responsables EHS."
-category: "Protocoles médicaux"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

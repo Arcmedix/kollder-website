@@ -2,7 +2,7 @@
 title: "Été 2025 : 5 700 morts, 24 000 urgences — ce que le bilan de Santé Publique France révèle sur le coup de chaleur"
 date: 2026-05-24
 description: "L'été 2025 a tué plus de 5 700 personnes en France. Le bilan officiel de Santé Publique France documente l'ampleur du risque coup de chaleur pour les équipes médicales et les professionnels de terrain."
-category: "Épidémiologie et santé publique"
+category: "Épidémiologie"
 layout: layouts/article.njk
 lang: fr
 published: true

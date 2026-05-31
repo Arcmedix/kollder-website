@@ -2,7 +2,7 @@
 title: "Baignoire de refroidissement d'urgence : définition, usage et protocole terrain"
 date: 2026-05-25
 description: "Qu'est-ce qu'une baignoire de refroidissement d'urgence ? Comment fonctionne-t-elle, qui l'utilise et pourquoi est-elle le seul équipement validé contre le coup de chaleur d'effort ?"
-category: "Équipement d'urgence"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

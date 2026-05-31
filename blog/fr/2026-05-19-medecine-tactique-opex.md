@@ -2,7 +2,7 @@
 title: "Medecine tactique en ambiance chaude : gerer l'hyperthermie en OPEX et lors des entrainements intensifs"
 date: 2026-05-19
 description: "Le coup de chaleur d'effort est la premiere cause de deces evitable en medecine tactique en ambiance chaude. Protocoles, equipement et doctrine pour les medecins et infirmiers de l'avant."
-category: "Medecine tactique"
+category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true

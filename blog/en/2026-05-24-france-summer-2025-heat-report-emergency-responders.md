@@ -2,7 +2,7 @@
 title: "France Summer 2025 Heat Report: 5,700 Deaths and What It Means for Emergency Responders"
 date: 2026-05-24
 description: "France's official summer 2025 heat review recorded 5,700 deaths and 24,000 emergency visits. What field medical teams, firefighters, event medics and EHS professionals need to know before the 2026 season."
-category: "Epidemiology and public health"
+category: "Epidemiology"
 layout: layouts/article.njk
 lang: en
 published: true
