@@ -65,9 +65,8 @@ nav {
 }
 .lang-btn.active { background: var(--black); color: var(--white); }
 
-.hero {
-  padding: 140px 56px 80px; background: var(--black); color: var(--white);
-}
+/* Hero */
+.hero { padding: 140px 56px 60px; background: var(--black); color: var(--white); }
 .hero-inner { max-width: 1240px; margin: 0 auto; }
 .hero-label {
   font-size: 11px; font-weight: 500; letter-spacing: 0.2em;
@@ -81,25 +80,29 @@ nav {
 .hero h1 em { font-style: italic; color: rgba(250,249,247,0.4); }
 .hero-sub { font-size: 16px; color: rgba(250,249,247,0.5); max-width: 520px; line-height: 1.75; }
 
-/* Category navigation */
-.cat-nav { padding: 32px 56px 0; max-width: 1240px; margin: 0 auto; }
-.cat-nav-label {
-  font-size: 10px; font-weight: 500; letter-spacing: 0.2em;
-  text-transform: uppercase; color: var(--muted); margin-bottom: 12px;
+/* Tab bar — same style as category pages */
+.cat-bar { background: var(--black); border-top: 1px solid rgba(255,255,255,0.06); padding: 0 56px; }
+.cat-bar-inner {
+  max-width: 1240px; margin: 0 auto;
+  display: flex; align-items: center; gap: 4px;
+  overflow-x: auto; scrollbar-width: none;
 }
-.cat-nav-inner { display: flex; gap: 8px; flex-wrap: wrap; }
+.cat-bar-inner::-webkit-scrollbar { display: none; }
+
+/* FR tabs (shown by default) */
+.cat-tabs-fr, .cat-tabs-en { display: contents; }
+
 .cat-pill {
   font-size: 11px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase;
-  padding: 7px 16px; border: 1px solid var(--border); text-decoration: none;
-  color: var(--muted); transition: all .2s; white-space: nowrap;
+  padding: 14px 18px; text-decoration: none; color: rgba(250,249,247,0.35);
+  border-bottom: 2px solid transparent; white-space: nowrap; flex-shrink: 0;
+  transition: color .2s, border-color .2s;
 }
-.cat-pill:hover { border-color: var(--ink); color: var(--ink); }
+.cat-pill:hover { color: rgba(250,249,247,0.7); }
+.cat-pill.all { color: rgba(250,249,247,0.7); border-bottom-color: var(--white); }
 
-/* Hidden by language — JS toggles display */
-.cat-nav-fr, .cat-nav-en { display: none; }
-
-.blog-section { padding: 32px 56px 80px; max-width: 1240px; margin: 0 auto; }
-
+/* Grid */
+.blog-section { padding: 48px 56px 80px; max-width: 1240px; margin: 0 auto; }
 .articles-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; }
 .article-card {
   background: var(--cream); text-decoration: none; color: inherit;
@@ -124,7 +127,6 @@ nav {
 }
 .article-read svg { transition: transform .2s; }
 .article-card:hover .article-read svg { transform: translateX(4px); }
-
 .empty-state {
   grid-column: 1 / -1; text-align: center; padding: 80px 0;
   color: var(--muted); font-size: 15px; line-height: 1.8;
@@ -147,9 +149,9 @@ footer {
 
 @media (max-width: 900px) {
   nav { padding: 14px 24px; }
-  .hero { padding: 120px 24px 60px; }
-  .cat-nav { padding: 24px 24px 0; }
-  .blog-section { padding: 24px 24px 64px; }
+  .hero { padding: 120px 24px 48px; }
+  .cat-bar { padding: 0 24px; }
+  .blog-section { padding: 40px 24px 64px; }
   .articles-grid { grid-template-columns: 1fr 1fr; }
   footer { padding: 32px 24px; }
 }
@@ -186,20 +188,24 @@ footer {
   </div>
 </section>
 
-<!-- Category navigation — links to real indexed pages -->
-<div class="cat-nav">
-  <p class="cat-nav-label" id="cat-nav-label">Parcourir par thème</p>
+<!-- Tab bar — "Tous" active by default, links to category pages -->
+<div class="cat-bar">
+  <div class="cat-bar-inner" id="cat-bar-inner">
 
-  <div class="cat-nav-inner cat-nav-fr" id="cat-nav-fr">
-    {% for cat in collections.categories %}
-    <a href="/blog/fr/categorie/{{ cat.slug_fr }}/" class="cat-pill">{{ cat.label_fr }}</a>
-    {% endfor %}
-  </div>
+    <div id="cat-tabs-fr" style="display:contents;">
+      <a href="/blog/" class="cat-pill all" id="pill-all-fr">Tous</a>
+      {% for cat in collections.categories %}
+      <a href="/blog/fr/categorie/{{ cat.slug_fr }}/" class="cat-pill">{{ cat.label_fr }}</a>
+      {% endfor %}
+    </div>
 
-  <div class="cat-nav-inner cat-nav-en" id="cat-nav-en">
-    {% for cat in collections.categories %}
-    <a href="/blog/en/category/{{ cat.slug_en }}/" class="cat-pill">{{ cat.label_en }}</a>
-    {% endfor %}
+    <div id="cat-tabs-en" style="display:none;">
+      <a href="/blog/" class="cat-pill all" id="pill-all-en">All</a>
+      {% for cat in collections.categories %}
+      <a href="/blog/en/category/{{ cat.slug_en }}/" class="cat-pill">{{ cat.label_en }}</a>
+      {% endfor %}
+    </div>
+
   </div>
 </div>
 
@@ -240,7 +246,7 @@ footer {
             <p class="article-date">{{ post.date | dateFormatEN }}</p>
             <span class="article-read">
               Read article
-              <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+              <svg width="12" height="12" viewBox="0 0 16 16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
             </span>
           </div>
         </a>
@@ -268,24 +274,22 @@ else setLang('fr');
 
 function setLang(l) {
   localStorage.setItem('kollder_lang', l);
-  document.getElementById('btn-fr').classList.toggle('active', l==='fr');
-  document.getElementById('btn-en').classList.toggle('active', l==='en');
-  document.getElementById('fr-articles').style.display = l==='fr' ? 'contents' : 'none';
-  document.getElementById('en-articles').style.display = l==='en' ? 'contents' : 'none';
-  document.getElementById('cat-nav-fr').style.display = l==='fr' ? 'flex' : 'none';
-  document.getElementById('cat-nav-en').style.display = l==='en' ? 'flex' : 'none';
-  if (l==='fr') {
+  document.getElementById('btn-fr').classList.toggle('active', l === 'fr');
+  document.getElementById('btn-en').classList.toggle('active', l === 'en');
+  document.getElementById('fr-articles').style.display = l === 'fr' ? 'contents' : 'none';
+  document.getElementById('en-articles').style.display = l === 'en' ? 'contents' : 'none';
+  document.getElementById('cat-tabs-fr').style.display = l === 'fr' ? 'contents' : 'none';
+  document.getElementById('cat-tabs-en').style.display = l === 'en' ? 'contents' : 'none';
+  if (l === 'fr') {
     document.getElementById('hero-label').textContent = 'Ressources & Expertise';
     document.getElementById('hero-title').innerHTML = 'Tout ce que vous devez savoir sur <em>le coup de chaleur.</em>';
     document.getElementById('hero-sub').textContent = 'Protocoles médicaux, retours terrain, actualités réglementaires. Par des experts pour des professionnels.';
     document.getElementById('back-label').textContent = 'Retour au site';
-    document.getElementById('cat-nav-label').textContent = 'Parcourir par thème';
   } else {
     document.getElementById('hero-label').textContent = 'Resources & Expertise';
     document.getElementById('hero-title').innerHTML = 'Everything you need to know about <em>heat stroke.</em>';
     document.getElementById('hero-sub').textContent = 'Medical protocols, field reports, regulatory updates. By experts, for professionals.';
     document.getElementById('back-label').textContent = 'Back to site';
-    document.getElementById('cat-nav-label').textContent = 'Browse by topic';
   }
 }
 </script>
