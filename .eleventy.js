@@ -12,27 +12,32 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("android-chrome-512x512.png");
   eleventyConfig.addPassthroughCopy("lang.js");
   eleventyConfig.addPassthroughCopy("_headers");
-
   eleventyConfig.addTemplateFormats("njk,html,md,xml");
 
+  // Blog collections
   eleventyConfig.addCollection("blog_fr", function(collectionApi) {
     return collectionApi.getFilteredByGlob("blog/fr/*.md")
       .filter(item => item.data.published !== false)
       .sort((a, b) => b.date - a.date);
   });
-
   eleventyConfig.addCollection("blog_en", function(collectionApi) {
     return collectionApi.getFilteredByGlob("blog/en/*.md")
       .filter(item => item.data.published !== false)
       .sort((a, b) => b.date - a.date);
   });
 
+  // Categories — loaded from _data/categories.json and exposed as a global collection
+  // This ensures pagination can find "categories" from any template depth
+  eleventyConfig.addCollection("categories", function() {
+    return require("./_data/categories.json");
+  });
+
+  // Date filters
   eleventyConfig.addFilter("dateFormat", function(date) {
     return new Date(date).toLocaleDateString('fr-FR', {
       year: 'numeric', month: 'long', day: 'numeric'
     });
   });
-
   eleventyConfig.addFilter("dateFormatEN", function(date) {
     return new Date(date).toLocaleDateString('en-GB', {
       year: 'numeric', month: 'long', day: 'numeric'
