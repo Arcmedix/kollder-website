@@ -21,7 +21,7 @@ permalink: /sitemap.xml
   </url>
 
   <!-- Category pages FR -->
-  {% for cat in categories %}
+  {% for cat in collections.categories %}
   <url>
     <loc>https://kollder.com/blog/fr/categorie/{{ cat.slug_fr }}/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://kollder.com/blog/fr/categorie/{{ cat.slug_fr }}/"/>
@@ -32,7 +32,7 @@ permalink: /sitemap.xml
   {% endfor %}
 
   <!-- Category pages EN -->
-  {% for cat in categories %}
+  {% for cat in collections.categories %}
   <url>
     <loc>https://kollder.com/blog/en/category/{{ cat.slug_en }}/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://kollder.com/blog/en/category/{{ cat.slug_en }}/"/>
