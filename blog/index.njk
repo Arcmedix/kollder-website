@@ -81,7 +81,24 @@ nav {
 .hero h1 em { font-style: italic; color: rgba(250,249,247,0.4); }
 .hero-sub { font-size: 16px; color: rgba(250,249,247,0.5); max-width: 520px; line-height: 1.75; }
 
-.blog-section { padding: 80px 56px; max-width: 1240px; margin: 0 auto; }
+/* Category navigation */
+.cat-nav { padding: 32px 56px 0; max-width: 1240px; margin: 0 auto; }
+.cat-nav-label {
+  font-size: 10px; font-weight: 500; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 12px;
+}
+.cat-nav-inner { display: flex; gap: 8px; flex-wrap: wrap; }
+.cat-pill {
+  font-size: 11px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 7px 16px; border: 1px solid var(--border); text-decoration: none;
+  color: var(--muted); transition: all .2s; white-space: nowrap;
+}
+.cat-pill:hover { border-color: var(--ink); color: var(--ink); }
+
+/* Hidden by language — JS toggles display */
+.cat-nav-fr, .cat-nav-en { display: none; }
+
+.blog-section { padding: 32px 56px 80px; max-width: 1240px; margin: 0 auto; }
 
 .articles-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; }
 .article-card {
@@ -131,7 +148,8 @@ footer {
 @media (max-width: 900px) {
   nav { padding: 14px 24px; }
   .hero { padding: 120px 24px 60px; }
-  .blog-section { padding: 56px 24px; }
+  .cat-nav { padding: 24px 24px 0; }
+  .blog-section { padding: 24px 24px 64px; }
   .articles-grid { grid-template-columns: 1fr 1fr; }
   footer { padding: 32px 24px; }
 }
@@ -167,6 +185,23 @@ footer {
     <p class="hero-sub" id="hero-sub">Protocoles médicaux, retours terrain, actualités réglementaires. Par des experts pour des professionnels.</p>
   </div>
 </section>
+
+<!-- Category navigation — links to real indexed pages -->
+<div class="cat-nav">
+  <p class="cat-nav-label" id="cat-nav-label">Parcourir par thème</p>
+
+  <div class="cat-nav-inner cat-nav-fr" id="cat-nav-fr">
+    {% for cat in categories %}
+    <a href="/blog/fr/categorie/{{ cat.slug_fr }}/" class="cat-pill">{{ cat.label_fr }}</a>
+    {% endfor %}
+  </div>
+
+  <div class="cat-nav-inner cat-nav-en" id="cat-nav-en">
+    {% for cat in categories %}
+    <a href="/blog/en/category/{{ cat.slug_en }}/" class="cat-pill">{{ cat.label_en }}</a>
+    {% endfor %}
+  </div>
+</div>
 
 <div class="blog-section">
   <div class="articles-grid" id="articlesGrid">
@@ -226,10 +261,10 @@ footer {
 </footer>
 
 <script>
-// Read lang from URL param OR localStorage
 const _urlLang = new URLSearchParams(window.location.search).get('lang');
 const _initLang = _urlLang || localStorage.getItem('kollder_lang') || 'fr';
 if (_initLang === 'en') setLang('en');
+else setLang('fr');
 
 function setLang(l) {
   localStorage.setItem('kollder_lang', l);
@@ -237,16 +272,20 @@ function setLang(l) {
   document.getElementById('btn-en').classList.toggle('active', l==='en');
   document.getElementById('fr-articles').style.display = l==='fr' ? 'contents' : 'none';
   document.getElementById('en-articles').style.display = l==='en' ? 'contents' : 'none';
+  document.getElementById('cat-nav-fr').style.display = l==='fr' ? 'flex' : 'none';
+  document.getElementById('cat-nav-en').style.display = l==='en' ? 'flex' : 'none';
   if (l==='fr') {
     document.getElementById('hero-label').textContent = 'Ressources & Expertise';
     document.getElementById('hero-title').innerHTML = 'Tout ce que vous devez savoir sur <em>le coup de chaleur.</em>';
     document.getElementById('hero-sub').textContent = 'Protocoles médicaux, retours terrain, actualités réglementaires. Par des experts pour des professionnels.';
     document.getElementById('back-label').textContent = 'Retour au site';
+    document.getElementById('cat-nav-label').textContent = 'Parcourir par thème';
   } else {
     document.getElementById('hero-label').textContent = 'Resources & Expertise';
     document.getElementById('hero-title').innerHTML = 'Everything you need to know about <em>heat stroke.</em>';
     document.getElementById('hero-sub').textContent = 'Medical protocols, field reports, regulatory updates. By experts, for professionals.';
     document.getElementById('back-label').textContent = 'Back to site';
+    document.getElementById('cat-nav-label').textContent = 'Browse by topic';
   }
 }
 </script>
