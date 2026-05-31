@@ -191,13 +191,13 @@ footer {
   <p class="cat-nav-label" id="cat-nav-label">Parcourir par thème</p>
 
   <div class="cat-nav-inner cat-nav-fr" id="cat-nav-fr">
-    {% for cat in categories %}
+    {% for cat in collections.categories %}
     <a href="/blog/fr/categorie/{{ cat.slug_fr }}/" class="cat-pill">{{ cat.label_fr }}</a>
     {% endfor %}
   </div>
 
   <div class="cat-nav-inner cat-nav-en" id="cat-nav-en">
-    {% for cat in categories %}
+    {% for cat in collections.categories %}
     <a href="/blog/en/category/{{ cat.slug_en }}/" class="cat-pill">{{ cat.label_en }}</a>
     {% endfor %}
   </div>
