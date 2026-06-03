@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="{% if lang == 'en' %}en{% else %}fr{% endif %}">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SF9XF8JQZK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-SF9XF8JQZK');
+</script>
+<!-- Microsoft Clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "wy0jm2kj2r");
+</script>
+<meta charset="UTF-8">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }} — Kollder</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="https://kollder.com{{ page.url }}">
+<meta property="og:title" content="{{ title }} — Kollder">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kollder.com{{ page.url }}">
+<link rel="alternate" hreflang="fr" href="https://kollder.com/fr/distributeurs/">
+<link rel="alternate" hreflang="en" href="https://kollder.com/en/partners/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --black: #0f0f0d; --ink: #1a1a17; --white: #faf9f7;
+  --cream: #f0ece4; --beige: #e8e0d4; --sand: #c8bfb0;
+  --muted: #8a8278; --border: rgba(26,26,23,0.1);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--white); color: var(--ink); font-family: 'DM Sans', sans-serif; font-weight: 300; line-height: 1.7; }
+
+/* NAV — identique article.njk */
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 14px 56px; background: rgba(255,255,255,0.95);
+  backdrop-filter: blur(20px); border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+.nav-brand img { height: 52px; width: auto; display: block; }
+.nav-home {
+  font-size: 13px; font-weight: 500; color: var(--muted);
+  text-decoration: none; letter-spacing: 0.06em;
+  display: flex; align-items: center; gap: 8px; transition: color .2s;
+}
+.nav-home:hover { color: var(--ink); }
+
+/* HERO */
+.partner-hero {
+  padding: 140px 56px 80px;
+  background: var(--black); color: var(--white);
+}
+.partner-hero__inner { max-width: 860px; margin: 0 auto; }
+.partner-hero h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(32px, 4.5vw, 56px); font-weight: 400;
+  line-height: 1.1; color: var(--white); margin-bottom: 24px;
+}
+.partner-hero__sub {
+  font-size: 17px; color: rgba(250,249,247,0.65);
+  max-width: 620px; line-height: 1.65; margin-bottom: 40px;
+}
+.partner-btn {
+  display: inline-flex; align-items: center; gap: 10px;
+  background: var(--white); color: var(--black);
+  font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 15px 28px; text-decoration: none; transition: background .2s;
+}
+.partner-btn:hover { background: var(--cream); }
+
+/* SECTIONS */
+.partner-section { padding: 88px 56px; }
+.partner-section--alt { background: var(--cream); }
+.partner-section__inner { max-width: 1100px; margin: 0 auto; }
+.partner-section--narrow { max-width: 720px; }
+.partner-section h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(26px, 3vw, 40px); font-weight: 400;
+  color: var(--black); margin-bottom: 16px; line-height: 1.15;
+}
+.partner-section__lead {
+  font-size: 16px; color: var(--muted); max-width: 640px;
+  line-height: 1.7; margin-bottom: 52px;
+}
+
+/* STATS (section 2) */
+.partner-stats {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2px; background: var(--border);
+}
+.partner-stat {
+  background: var(--white); padding: 40px 36px;
+}
+.partner-section--alt .partner-stat { background: var(--cream); }
+.partner-stat__figure {
+  font-family: 'DM Serif Display', serif;
+  font-size: 48px; color: var(--black); line-height: 1; margin-bottom: 6px;
+}
+.partner-stat__label {
+  font-size: 11px; font-weight: 500; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 18px;
+}
+.partner-stat p { font-size: 14px; color: var(--muted); line-height: 1.65; }
+
+/* SEGMENTS (section 3) */
+.partner-segments {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 24px; margin-top: 8px;
+}
+.partner-segment {
+  border: 1px solid var(--border); padding: 32px 28px; background: var(--white);
+}
+.partner-section--alt .partner-segment { background: var(--cream); }
+.partner-segment__icon { font-size: 28px; margin-bottom: 16px; }
+.partner-segment h3 {
+  font-family: 'DM Sans', sans-serif; font-size: 16px; font-weight: 500;
+  color: var(--black); margin-bottom: 10px;
+}
+.partner-segment p { font-size: 14px; color: var(--muted); line-height: 1.65; }
+
+/* PRODUCT (section 4) */
+.partner-section--product {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 72px; align-items: center;
+}
+.partner-product__content h2 { margin-bottom: 10px; }
+.partner-product__content > p { font-size: 15px; color: var(--muted); margin-bottom: 40px; }
+.partner-product__points { display: flex; flex-direction: column; gap: 28px; margin-bottom: 32px; }
+.partner-product__point {
+  display: flex; gap: 20px; align-items: flex-start;
+}
+.partner-product__number {
+  font-family: 'DM Serif Display', serif; font-size: 22px;
+  color: var(--black); min-width: 56px; padding-top: 2px; flex-shrink: 0;
+}
+.partner-product__point strong { display: block; font-size: 15px; font-weight: 500; color: var(--black); margin-bottom: 4px; }
+.partner-product__point p { font-size: 13px; color: var(--muted); line-height: 1.6; margin: 0; }
+.partner-link {
+  font-size: 13px; font-weight: 500; color: var(--ink);
+  text-decoration: underline; text-underline-offset: 3px;
+  letter-spacing: 0.04em;
+}
+.partner-product__image img {
+  width: 100%; display: block; filter: grayscale(15%);
+}
+
+/* BENEFITS (section 5) */
+.partner-benefits {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px; margin-top: 8px;
+}
+.partner-benefit {
+  border-top: 2px solid var(--ink); padding-top: 20px;
+}
+.partner-benefit--wide { grid-column: 1 / -1; border-top-color: var(--sand); padding-top: 20px; }
+.partner-benefit strong { display: block; font-size: 15px; font-weight: 500; color: var(--black); margin-bottom: 8px; }
+.partner-benefit p { font-size: 14px; color: var(--muted); line-height: 1.65; }
+.partner-note {
+  margin-top: 40px; font-size: 13px; color: var(--muted);
+  font-style: italic; border-top: 1px solid var(--border); padding-top: 20px;
+}
+
+/* CRITERIA (section 6) */
+.partner-criteria {
+  list-style: none; padding: 0; margin: 0 0 28px;
+  display: flex; flex-direction: column; gap: 14px;
+}
+.partner-criteria li {
+  font-size: 15px; color: var(--ink); padding-left: 20px; position: relative; line-height: 1.55;
+}
+.partner-criteria li::before {
+  content: '—'; position: absolute; left: 0; color: var(--sand);
+}
+.partner-section--narrow > p {
+  font-size: 15px; color: var(--muted); line-height: 1.65;
+}
+
+/* FORM (section 7) */
+.partner-form { margin-top: 36px; display: flex; flex-direction: column; gap: 20px; }
+.partner-form__row { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.partner-form__field { display: flex; flex-direction: column; gap: 6px; }
+.partner-form__field label {
+  font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--muted);
+}
+.partner-form__field input,
+.partner-form__field textarea {
+  border: 1px solid var(--border); background: var(--white);
+  padding: 12px 14px; font-family: 'DM Sans', sans-serif;
+  font-size: 15px; font-weight: 300; color: var(--ink);
+  outline: none; transition: border-color .2s; resize: vertical;
+}
+.partner-form__field input:focus,
+.partner-form__field textarea:focus { border-color: var(--ink); }
+.partner-form .partner-btn {
+  background: var(--black); color: var(--white);
+  align-self: flex-start; margin-top: 8px;
+}
+.partner-form .partner-btn:hover { background: var(--ink); }
+
+/* FOOTER — identique article.njk */
+footer {
+  background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 56px;
+}
+.footer-inner {
+  max-width: 1240px; margin: 0 auto;
+  display: flex; justify-content: space-between; align-items: center; gap: 24px; flex-wrap: wrap;
+}
+.footer-brand img { height: 52px; width: auto; display: block; filter: invert(1); }
+.footer-note { font-size: 12px; color: rgba(250,249,247,0.25); letter-spacing: 0.04em; }
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  .partner-section--product { grid-template-columns: 1fr; gap: 40px; }
+  .partner-product__image { order: -1; }
+}
+@media (max-width: 768px) {
+  nav { padding: 14px 24px; }
+  .partner-hero { padding: 110px 24px 60px; }
+  .partner-section { padding: 64px 24px; }
+  footer { padding: 32px 24px; }
+  .partner-form__row { grid-template-columns: 1fr; }
+  .partner-stats { grid-template-columns: 1fr; }
+  .partner-segments { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-brand">
+    <a href="/"><img src="/logo-kollder.png" alt="Kollder"></a>
+  </div>
+  <a href="/" class="nav-home"
+     onclick="localStorage.setItem('kollder_lang','{% if lang == "en" %}en{% else %}fr{% endif %}')">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
+    {% if lang == 'en' %}Home{% else %}Accueil{% endif %}
+  </a>
+</nav>
+
+{{ content | safe }}
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand"><img src="/logo-kollder.png" alt="Kollder"></div>
+    <div class="footer-note">Emergency Cooling. Anywhere.</div>
+  </div>
+</footer>
+
+<script src="/lang.js"></script>
+</body>
+</html>
