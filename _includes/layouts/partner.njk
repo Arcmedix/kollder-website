@@ -124,40 +124,68 @@ nav {
   gap: 24px; margin-top: 8px;
 }
 .partner-segment {
-  border: 1px solid var(--border); padding: 32px 28px; background: var(--white);
+  border: 1px solid var(--border); background: var(--white); overflow: hidden;
 }
 .partner-section--alt .partner-segment { background: var(--cream); }
-.partner-segment__icon { font-size: 28px; margin-bottom: 16px; }
+.partner-segment__img { width: 100%; aspect-ratio: 16/9; overflow: hidden; background: var(--beige); }
+.partner-segment__img img { width: 100%; height: 100%; object-fit: cover; display: block; filter: grayscale(20%); transition: filter .3s; }
+.partner-segment:hover .partner-segment__img img { filter: grayscale(0%); }
+.partner-segment__img--placeholder {
+  display: flex; align-items: center; justify-content: center;
+  background: var(--ink);
+}
+.partner-segment__img--placeholder span {
+  font-size: 11px; font-weight: 500; letter-spacing: 0.12em;
+  text-transform: uppercase; color: rgba(250,249,247,0.35);
+}
+.partner-segment__body { padding: 24px; }
 .partner-segment h3 {
-  font-family: 'DM Sans', sans-serif; font-size: 16px; font-weight: 500;
-  color: var(--black); margin-bottom: 10px;
+  font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 500;
+  color: var(--black); margin-bottom: 8px;
 }
-.partner-segment p { font-size: 14px; color: var(--muted); line-height: 1.65; }
+.partner-segment p { font-size: 13px; color: var(--muted); line-height: 1.65; }
 
-/* PRODUCT (section 4) */
-.partner-section--product {
+/* PRODUCT DARK SECTION (section 4) */
+.partner-section--dark { background: var(--black); }
+.partner-section--dark h2 { color: var(--white); }
+.partner-section__h2--light { color: var(--white) !important; }
+.partner-section__lead--light { color: rgba(250,249,247,0.5) !important; }
+.partner-product-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2px; background: rgba(255,255,255,0.06); margin-top: 8px;
+}
+.partner-product-card { background: var(--black); overflow: hidden; }
+.partner-product-card img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; filter: grayscale(30%) brightness(0.75); }
+.partner-product-card__body { padding: 28px 24px; }
+.partner-product-card__kicker {
+  display: block; font-size: 11px; font-weight: 500; letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--sand); margin-bottom: 10px;
+}
+.partner-product-card h3 {
+  font-family: 'DM Serif Display', serif; font-size: 18px; font-weight: 400;
+  color: var(--white); line-height: 1.25; margin-bottom: 10px;
+}
+.partner-product-card p { font-size: 13px; color: rgba(250,249,247,0.45); line-height: 1.65; }
+
+/* MERGED APPLY SECTION (section 6) */
+.partner-apply {
   display: grid; grid-template-columns: 1fr 1fr;
-  gap: 72px; align-items: center;
+  gap: 72px; align-items: start;
 }
-.partner-product__content h2 { margin-bottom: 10px; }
-.partner-product__content > p { font-size: 15px; color: var(--muted); margin-bottom: 40px; }
-.partner-product__points { display: flex; flex-direction: column; gap: 28px; margin-bottom: 32px; }
-.partner-product__point {
-  display: flex; gap: 20px; align-items: flex-start;
+.partner-apply__left h2 { margin-bottom: 12px; }
+.partner-apply__left > p { font-size: 15px; color: var(--muted); margin-bottom: 32px; line-height: 1.65; }
+.partner-apply__criteria { margin-top: 8px; }
+.partner-apply__criteria-title {
+  font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 16px;
 }
-.partner-product__number {
-  font-family: 'DM Serif Display', serif; font-size: 22px;
-  color: var(--black); min-width: 56px; padding-top: 2px; flex-shrink: 0;
+.partner-apply__criteria-note {
+  margin-top: 20px; font-size: 13px; color: var(--muted); font-style: italic;
 }
-.partner-product__point strong { display: block; font-size: 15px; font-weight: 500; color: var(--black); margin-bottom: 4px; }
-.partner-product__point p { font-size: 13px; color: var(--muted); line-height: 1.6; margin: 0; }
-.partner-link {
-  font-size: 13px; font-weight: 500; color: var(--ink);
-  text-decoration: underline; text-underline-offset: 3px;
-  letter-spacing: 0.04em;
-}
-.partner-product__image img {
-  width: 100%; display: block; filter: grayscale(15%);
+
+@media (max-width: 900px) {
+  .partner-apply { grid-template-columns: 1fr; gap: 40px; }
+  .partner-product-grid { grid-template-columns: 1fr; }
 }
 
 /* BENEFITS (section 5) */
@@ -226,10 +254,6 @@ footer {
 .footer-note { font-size: 12px; color: rgba(250,249,247,0.25); letter-spacing: 0.04em; }
 
 /* RESPONSIVE */
-@media (max-width: 900px) {
-  .partner-section--product { grid-template-columns: 1fr; gap: 40px; }
-  .partner-product__image { order: -1; }
-}
 @media (max-width: 768px) {
   nav { padding: 14px 24px; }
   .partner-hero { padding: 110px 24px 60px; }
