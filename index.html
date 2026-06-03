@@ -1746,9 +1746,17 @@ function setLang(l) {
   document.getElementById('btn-fr').classList.toggle('active', l==='fr');
   document.getElementById('btn-en').classList.toggle('active', l==='en');
   document.querySelectorAll('[data-fr][data-en]').forEach(el => {
+    if (el.querySelector('#nav-article-count')) return;
     const v = el.getAttribute('data-'+l);
     if (v !== null) el.innerHTML = v;
   });
+  const blogNavLink = document.querySelector('.nav-blog-link[data-fr="Ressources"]');
+  if (blogNavLink) {
+    const badge = blogNavLink.querySelector('#nav-article-count');
+    const txt = l === 'en' ? 'Resources' : 'Ressources';
+    blogNavLink.childNodes[0].textContent = txt;
+    if (badge) blogNavLink.appendChild(badge);
+  }
   // Toggle blog preview cards
   document.querySelectorAll('.fr-card').forEach(el => el.style.display = l==='fr' ? 'flex' : 'none');
   document.querySelectorAll('.en-card').forEach(el => el.style.display = l==='en' ? 'flex' : 'none');
