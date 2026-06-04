@@ -269,10 +269,9 @@ footer {
 
 <nav>
   <div class="nav-brand">
-    <a href="/"><img src="/logo-kollder.png" alt="Kollder"></a>
+    <a href="{% if lang == 'en' %}/en/{% else %}/{% endif %}"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
-  <a href="/" class="nav-home"
-     onclick="localStorage.setItem('kollder_lang','{% if lang == "en" %}en{% else %}fr{% endif %}')">
+  <a href="{% if lang == 'en' %}/en/{% else %}/{% endif %}" class="nav-home">
     <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
     {% if lang == 'en' %}Home{% else %}Accueil{% endif %}
   </a>
@@ -287,6 +286,6 @@ footer {
   </div>
 </footer>
 
-<script src="/lang.js"></script>
+
 </body>
 </html>
