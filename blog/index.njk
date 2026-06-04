@@ -166,16 +166,16 @@ footer {
 
 <nav>
   <div class="nav-brand">
-    <a href="/"><img src="/logo-kollder.png" alt="Kollder"></a>
+    <a href="javascript:void(0)" onclick="window.location.href=document.getElementById('btn-fr').classList.contains('active')?'/?fr':'/en/'"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
   <div class="nav-right">
-    <a href="/" class="nav-back">
+    <a href="javascript:void(0)" onclick="window.location.href=document.getElementById('btn-fr').classList.contains('active')?'/?fr':'/en/'" class="nav-back">
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
       <span id="back-label">Retour au site</span>
     </a>
     <div class="lang-toggle">
-      <button class="lang-btn active" onclick="setLang('fr')" id="btn-fr">FR</button>
-      <button class="lang-btn" onclick="setLang('en')" id="btn-en">EN</button>
+      <a class="lang-btn" id="btn-fr" href="/blog/?fr" style="text-decoration:none">FR</a>
+      <a class="lang-btn" id="btn-en" href="/blog/?lang=en" style="text-decoration:none">EN</a>
     </div>
   </div>
 </nav>
