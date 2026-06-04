@@ -1716,8 +1716,9 @@ h1           { animation: up .5s ease both .2s; }
 <script>
 /* LANG */
 // Restore saved language on page load
-const _savedLang = localStorage.getItem('kollder_lang') || 'en';
-setTimeout(() => setLang(_savedLang), 0);
+// /en/ page — always English
+localStorage.setItem('kollder_lang', 'en');
+setTimeout(() => setLang('en'), 0);
 
 function setLang(l) {
   localStorage.setItem('kollder_lang', l);
