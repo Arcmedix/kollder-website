@@ -90,6 +90,9 @@ module.exports = function(eleventyConfig) {
       year: 'numeric', month: 'long', day: 'numeric'
     });
   });
+  eleventyConfig.addFilter("dateFormatISO", function(date) {
+    return new Date(date).toISOString().split('T')[0];
+  });
   eleventyConfig.addFilter("dateFormatEN", function(date) {
     return new Date(date).toLocaleDateString('en-GB', {
       year: 'numeric', month: 'long', day: 'numeric'
