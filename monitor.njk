@@ -102,6 +102,10 @@ nav {
   padding: 8px 16px; text-decoration: none; color: var(--muted);
 }
 .nav-overlay-lang a.active { background: var(--black); color: var(--white); }
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
 
 /* HERO */
 .hero { padding: 140px 56px 60px; background: var(--black); color: var(--white); }
@@ -283,14 +287,23 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
     <a href="/{{ lang }}/"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
   <div class="nav-right">
-    <a href="/{{ lang }}/" class="nav-back">
-      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
-      <span>{% if lang == "fr" %}Retour au site{% else %}Back to site{% endif %}</span>
+    <a href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}" class="nav-back" style="font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;transition:color .2s;">
+      {% if lang == "fr" %}Distributeurs{% else %}Partners{% endif %}
+    </a>
+    <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-back" style="font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;transition:color .2s;">
+      {% if lang == "fr" %}Ressources{% else %}Resources{% endif %}
+    </a>
+    <a href="/{{ lang }}/monitor/" class="nav-back" style="display:inline-flex;align-items:center;gap:5px;font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--ink);text-decoration:none;">
+      <span style="width:7px;height:7px;border-radius:50%;background:#e85c3a;display:inline-block;animation:pulse-dot 2s ease-in-out infinite;"></span>
+      {% if lang == "fr" %}Moniteur EHS{% else %}EHS Monitor{% endif %}
     </a>
     <div class="lang-toggle">
       <a class="lang-btn {% if lang == 'fr' %}active{% endif %}" href="/fr/monitor/">FR</a>
       <a class="lang-btn {% if lang == 'en' %}active{% endif %}" href="/en/monitor/">EN</a>
     </div>
+    <a href="/{{ lang }}/#contact" style="display:inline-flex;align-items:center;gap:10px;background:var(--black);color:var(--white);text-decoration:none;font-size:12px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;padding:10px 20px;">
+      {% if lang == "fr" %}Obtenir un devis{% else %}Get a quote{% endif %}
+    </a>
   </div>
   <button class="ham-btn" id="hamBtn" aria-label="Menu">
     <span></span><span></span><span></span>
@@ -301,7 +314,19 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
 <div class="nav-overlay" id="navOverlay">
   <div class="nav-overlay-links">
     <a class="nav-overlay-link" href="/{{ lang }}/">
-      <span>{% if lang == "fr" %}Retour au site{% else %}Back to site{% endif %}</span>
+      <span>{% if lang == "fr" %}Accueil{% else %}Home{% endif %}</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}">
+      <span>{% if lang == "fr" %}Distributeurs{% else %}Partners{% endif %}</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}">
+      <span>{% if lang == "fr" %}Ressources{% else %}Resources{% endif %}</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" href="/{{ lang }}/monitor/">
+      <span>{% if lang == "fr" %}Moniteur EHS{% else %}EHS Monitor{% endif %} <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
   </div>
