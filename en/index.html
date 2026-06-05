@@ -290,6 +290,29 @@ nav {
   white-space: nowrap;
 }
 .nav-devis-btn:hover { background: var(--cream); }
+.nav-monitor-link {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--ink);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  opacity: 0.85;
+  transition: opacity 0.2s;
+}
+.nav-monitor-link:hover { opacity: 1; }
+.nav-monitor-dot {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: #e85c3a;
+  flex-shrink: 0;
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
 .nav-blog-link { display: inline-flex; align-items: center; gap: 7px; }
 .nav-badge {
   font-size: 10px; font-weight: 500; letter-spacing: 0.04em;
@@ -1377,6 +1400,7 @@ h1           { animation: up .5s ease both .2s; }
 <div class="nav-right">
 <a class="nav-blog-link" href="/en/partners/" id="nav-partner-link" style="padding-bottom:2px;">Partners</a>
 <a class="nav-blog-link" href="/blog/?lang=en">Resources<span class="nav-badge" id="nav-article-count"></span></a>
+<a class="nav-monitor-link" href="/en/monitor/"><span class="nav-monitor-dot"></span>EHS Monitor</a>
 <a class="nav-devis-btn" href="#contact" id="nav-devis-btn">Get a quote</a>
 <div class="lang-toggle">
 <a class="lang-btn" href="/?lang=fr" style="text-decoration:none">FR</a>
@@ -1400,6 +1424,9 @@ h1           { animation: up .5s ease both .2s; }
     <a class="nav-overlay-link" href="/blog/?lang=en">
       <span>Resources</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" href="/en/monitor/">
+      <span>EHS Monitor <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
   </div>
   <a class="nav-overlay-cta" href="#contact">
@@ -1791,6 +1818,43 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 </div>
 </section>
+<!-- ══ MONITOR EHS WIDGET ══ -->
+<section class="monitor-widget-sec" style="background:var(--ink);padding:72px 24px;">
+<div style="max-width:900px;margin:0 auto;display:flex;flex-direction:column;align-items:center;gap:32px;text-align:center;">
+  <div>
+    <p style="font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:#e85c3a;margin:0 0 12px;">Live · Updated every 15 min</p>
+    <h2 style="font-size:clamp(28px,4vw,42px);font-family:'DM Serif Display',Georgia,serif;color:var(--white);margin:0 0 14px;line-height:1.15;">Monitor EHS risk <em style="font-style:italic;color:rgba(250,249,247,0.45);">in real time.</em></h2>
+    <p style="font-size:16px;color:rgba(250,249,247,0.65);max-width:560px;margin:0 auto;line-height:1.6;">WBGT (Wet-Bulb Globe Temperature) is the ACSM gold-standard indicator for exertional heat stroke risk. Check live levels across departments.</p>
+  </div>
+  <div id="monitor-live-card" style="background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);border-radius:16px;padding:32px 40px;min-width:260px;display:flex;flex-direction:column;align-items:center;gap:12px;">
+    <p style="font-size:12px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:rgba(250,249,247,0.45);margin:0;">Bouches-du-Rhône (13)</p>
+    <div id="monitor-wbgt-val" style="font-size:56px;font-family:'DM Serif Display',Georgia,serif;font-weight:700;line-height:1;color:var(--white);">—</div>
+    <div id="monitor-wbgt-unit" style="font-size:16px;color:rgba(250,249,247,0.55);">°C WBGT</div>
+    <div id="monitor-risk-badge" style="font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:6px 18px;border-radius:999px;background:rgba(255,255,255,0.1);color:var(--white);">Loading…</div>
+  </div>
+  <a href="/en/monitor/" style="display:inline-flex;align-items:center;gap:8px;background:var(--white);color:var(--ink);font-weight:600;font-size:15px;text-decoration:none;padding:14px 28px;border-radius:8px;">
+    View 7-day forecast
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+  </a>
+</div>
+</section>
+<script>
+(function(){
+  function calcWBGT(t,h){var tw=t*Math.atan(0.151977*Math.pow(h+8.313659,0.5))+Math.atan(t+h)-Math.atan(h-1.676331)+0.00391838*Math.pow(h,1.5)*Math.atan(0.023101*h)-4.686035;return Math.round((0.567*t+0.393*tw+3.94)*10)/10;}
+  function riskLabel(w){if(w<26)return{label:'Low',bg:'#22c55e',text:'#fff'};if(w<28)return{label:'Moderate',bg:'#f59e0b',text:'#fff'};if(w<32)return{label:'High',bg:'#f97316',text:'#fff'};return{label:'Critical',bg:'#dc2626',text:'#fff'};}
+  fetch('https://api.open-meteo.com/v1/forecast?latitude=43.5&longitude=5.4&current=temperature_2m,relative_humidity_2m&timezone=Europe/Paris')
+    .then(function(r){return r.json();})
+    .then(function(d){
+      var t=d.current.temperature_2m,h=d.current.relative_humidity_2m;
+      var wbgt=calcWBGT(t,h);
+      var r=riskLabel(wbgt);
+      document.getElementById('monitor-wbgt-val').textContent=wbgt.toFixed(1);
+      var badge=document.getElementById('monitor-risk-badge');
+      badge.textContent=r.label;badge.style.background=r.bg;badge.style.color=r.text;
+    })
+    .catch(function(){document.getElementById('monitor-risk-badge').textContent='Unavailable';});
+})();
+</script>
 <!-- ══ FOOTER ══ -->
 <footer>
 <div class="footer-inner">

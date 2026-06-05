@@ -242,6 +242,7 @@ footer {
     <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-link nav-link-active">
       {% if lang == 'en' %}Resources{% else %}Ressources{% endif %}<span class="nav-badge" id="nav-badge"></span>
     </a>
+    <a href="{% if lang == 'en' %}/en/monitor/{% else %}/fr/monitor/{% endif %}" class="nav-link" style="display:inline-flex;align-items:center;gap:5px;opacity:.85;"><span style="width:7px;height:7px;border-radius:50%;background:#e85c3a;display:inline-block;animation:pulse-dot 2s ease-in-out infinite;"></span>{% if lang == 'en' %}EHS Monitor{% else %}Moniteur EHS{% endif %}</a>
     <a href="{% if lang == 'en' %}/en/#contact{% else %}/#contact{% endif %}" class="nav-devis">
       {% if lang == 'en' %}Get a quote{% else %}Obtenir un devis{% endif %}
     </a>
@@ -269,6 +270,9 @@ footer {
     <a class="nav-overlay-link" id="ov-blog">
       <span id="ov-blog-label">Ressources</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" id="ov-monitor">
+      <span id="ov-monitor-label">Moniteur EHS <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
   </div>
   <a class="nav-overlay-cta" id="ov-cta">
@@ -332,6 +336,8 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('ov-distrib-label').textContent = isFr ? 'Distributeurs' : 'Partners';
   document.getElementById('ov-blog').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
   document.getElementById('ov-blog-label').textContent = isFr ? 'Ressources' : 'Resources';
+    document.getElementById('ov-monitor-label').innerHTML = (isFr ? 'Moniteur EHS' : 'EHS Monitor') + ' <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span>';
+    document.getElementById('ov-monitor').href = isFr ? '/fr/monitor/' : '/en/monitor/';
   document.getElementById('ov-cta').href = isFr ? '/#contact' : '/en/#contact';
   document.getElementById('ov-cta-label').textContent = isFr ? 'Obtenir un devis' : 'Get a quote';
 
