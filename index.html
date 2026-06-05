@@ -1827,7 +1827,7 @@ h1           { animation: up .5s ease both .2s; }
     <p style="font-size:16px;color:rgba(250,249,247,0.65);max-width:560px;margin:0 auto;line-height:1.6;">Le WBGT (Wet-Bulb Globe Temperature) est l'indicateur de référence ACSM pour évaluer le risque de coup de chaleur d'effort. Consultez les niveaux en direct pour votre département.</p>
   </div>
   <div id="monitor-live-card" style="background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);border-radius:16px;padding:32px 40px;min-width:260px;display:flex;flex-direction:column;align-items:center;gap:12px;">
-    <p style="font-size:12px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:rgba(250,249,247,0.45);margin:0;">Bouches-du-Rhône (13)</p>
+    <p id="monitor-dept-name" style="font-size:12px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:rgba(250,249,247,0.45);margin:0;">—</p>
     <div id="monitor-wbgt-val" style="font-size:56px;font-family:'DM Serif Display',Georgia,serif;font-weight:700;line-height:1;color:var(--white);">—</div>
     <div id="monitor-wbgt-unit" style="font-size:16px;color:rgba(250,249,247,0.55);">°C WBGT</div>
     <div id="monitor-risk-badge" style="font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:6px 18px;border-radius:999px;background:rgba(255,255,255,0.1);color:var(--white);">Chargement…</div>
@@ -1842,17 +1842,93 @@ h1           { animation: up .5s ease both .2s; }
 (function(){
   function calcWBGT(t,h){var tw=t*Math.atan(0.151977*Math.pow(h+8.313659,0.5))+Math.atan(t+h)-Math.atan(h-1.676331)+0.00391838*Math.pow(h,1.5)*Math.atan(0.023101*h)-4.686035;return Math.round((0.567*t+0.393*tw+3.94)*10)/10;}
   function riskLabel(w){if(w<26)return{label:'Faible',bg:'#22c55e',text:'#fff'};if(w<28)return{label:'Modéré',bg:'#f59e0b',text:'#fff'};if(w<32)return{label:'Élevé',bg:'#f97316',text:'#fff'};return{label:'Critique',bg:'#dc2626',text:'#fff'};}
-  fetch('https://api.open-meteo.com/v1/forecast?latitude=43.5&longitude=5.4&current=temperature_2m,relative_humidity_2m&timezone=Europe/Paris')
+
+  var DEPT_MAP={
+    "01":{lat:46.2,lon:5.2,n:"Ain"},"02":{lat:49.5,lon:3.6,n:"Aisne"},
+    "03":{lat:46.3,lon:3.4,n:"Allier"},"04":{lat:44.1,lon:6.2,n:"Alpes-de-Haute-Provence"},
+    "05":{lat:44.7,lon:6.3,n:"Hautes-Alpes"},"06":{lat:43.9,lon:7.2,n:"Alpes-Maritimes"},
+    "07":{lat:44.7,lon:4.4,n:"Ardèche"},"08":{lat:49.7,lon:4.7,n:"Ardennes"},
+    "09":{lat:43.0,lon:1.6,n:"Ariège"},"10":{lat:48.3,lon:4.1,n:"Aube"},
+    "11":{lat:43.2,lon:2.4,n:"Aude"},"12":{lat:44.3,lon:2.6,n:"Aveyron"},
+    "13":{lat:43.5,lon:5.4,n:"Bouches-du-Rhône"},"14":{lat:49.1,lon:-0.4,n:"Calvados"},
+    "15":{lat:45.1,lon:2.7,n:"Cantal"},"16":{lat:45.7,lon:0.2,n:"Charente"},
+    "17":{lat:45.8,lon:-0.8,n:"Charente-Maritime"},"18":{lat:47.1,lon:2.5,n:"Cher"},
+    "19":{lat:45.3,lon:1.8,n:"Corrèze"},"21":{lat:47.4,lon:4.8,n:"Côte-d'Or"},
+    "22":{lat:48.5,lon:-2.9,n:"Côtes-d'Armor"},"23":{lat:46.0,lon:2.0,n:"Creuse"},
+    "24":{lat:45.1,lon:0.7,n:"Dordogne"},"25":{lat:47.2,lon:6.4,n:"Doubs"},
+    "26":{lat:44.7,lon:5.0,n:"Drôme"},"27":{lat:49.1,lon:1.2,n:"Eure"},
+    "28":{lat:48.4,lon:1.4,n:"Eure-et-Loir"},"29":{lat:48.2,lon:-4.1,n:"Finistère"},
+    "30":{lat:44.0,lon:4.3,n:"Gard"},"31":{lat:43.4,lon:1.4,n:"Haute-Garonne"},
+    "32":{lat:43.6,lon:0.6,n:"Gers"},"33":{lat:44.8,lon:-0.6,n:"Gironde"},
+    "34":{lat:43.6,lon:3.9,n:"Hérault"},"35":{lat:48.1,lon:-1.7,n:"Ille-et-Vilaine"},
+    "36":{lat:46.8,lon:1.7,n:"Indre"},"37":{lat:47.2,lon:0.7,n:"Indre-et-Loire"},
+    "38":{lat:45.2,lon:5.7,n:"Isère"},"39":{lat:46.7,lon:5.6,n:"Jura"},
+    "40":{lat:43.9,lon:-0.5,n:"Landes"},"41":{lat:47.6,lon:1.3,n:"Loir-et-Cher"},
+    "42":{lat:45.5,lon:4.2,n:"Loire"},"43":{lat:45.1,lon:3.9,n:"Haute-Loire"},
+    "44":{lat:47.3,lon:-1.6,n:"Loire-Atlantique"},"45":{lat:47.9,lon:2.1,n:"Loiret"},
+    "46":{lat:44.6,lon:1.6,n:"Lot"},"47":{lat:44.4,lon:0.5,n:"Lot-et-Garonne"},
+    "48":{lat:44.5,lon:3.5,n:"Lozère"},"49":{lat:47.5,lon:-0.6,n:"Maine-et-Loire"},
+    "50":{lat:49.1,lon:-1.3,n:"Manche"},"51":{lat:49.1,lon:4.4,n:"Marne"},
+    "52":{lat:48.1,lon:5.1,n:"Haute-Marne"},"53":{lat:48.1,lon:-0.7,n:"Mayenne"},
+    "54":{lat:48.7,lon:6.2,n:"Meurthe-et-Moselle"},"55":{lat:49.0,lon:5.4,n:"Meuse"},
+    "56":{lat:47.8,lon:-2.9,n:"Morbihan"},"57":{lat:49.0,lon:6.5,n:"Moselle"},
+    "58":{lat:47.1,lon:3.5,n:"Nièvre"},"59":{lat:50.4,lon:3.1,n:"Nord"},
+    "60":{lat:49.4,lon:2.4,n:"Oise"},"61":{lat:48.6,lon:0.1,n:"Orne"},
+    "62":{lat:50.5,lon:2.3,n:"Pas-de-Calais"},"63":{lat:45.8,lon:3.1,n:"Puy-de-Dôme"},
+    "64":{lat:43.3,lon:-0.4,n:"Pyrénées-Atlantiques"},"65":{lat:43.2,lon:0.1,n:"Hautes-Pyrénées"},
+    "66":{lat:42.7,lon:2.6,n:"Pyrénées-Orientales"},"67":{lat:48.6,lon:7.5,n:"Bas-Rhin"},
+    "68":{lat:47.8,lon:7.3,n:"Haut-Rhin"},"69":{lat:45.8,lon:4.8,n:"Rhône"},
+    "70":{lat:47.6,lon:6.1,n:"Haute-Saône"},"71":{lat:46.6,lon:4.5,n:"Saône-et-Loire"},
+    "72":{lat:48.0,lon:0.2,n:"Sarthe"},"73":{lat:45.5,lon:6.4,n:"Savoie"},
+    "74":{lat:46.0,lon:6.4,n:"Haute-Savoie"},"75":{lat:48.86,lon:2.35,n:"Paris"},
+    "76":{lat:49.7,lon:1.1,n:"Seine-Maritime"},"77":{lat:48.6,lon:2.9,n:"Seine-et-Marne"},
+    "78":{lat:48.8,lon:1.9,n:"Yvelines"},"79":{lat:46.5,lon:-0.3,n:"Deux-Sèvres"},
+    "80":{lat:50.0,lon:2.3,n:"Somme"},"81":{lat:43.9,lon:2.1,n:"Tarn"},
+    "82":{lat:44.0,lon:1.3,n:"Tarn-et-Garonne"},"83":{lat:43.5,lon:6.1,n:"Var"},
+    "84":{lat:44.0,lon:5.1,n:"Vaucluse"},"85":{lat:46.7,lon:-1.4,n:"Vendée"},
+    "86":{lat:46.6,lon:0.3,n:"Vienne"},"87":{lat:45.8,lon:1.3,n:"Haute-Vienne"},
+    "88":{lat:48.2,lon:6.5,n:"Vosges"},"89":{lat:47.8,lon:3.6,n:"Yonne"},
+    "90":{lat:47.6,lon:6.9,n:"Territoire de Belfort"},"91":{lat:48.6,lon:2.2,n:"Essonne"},
+    "92":{lat:48.9,lon:2.2,n:"Hauts-de-Seine"},"93":{lat:48.9,lon:2.5,n:"Seine-Saint-Denis"},
+    "94":{lat:48.8,lon:2.5,n:"Val-de-Marne"},"95":{lat:49.1,lon:2.1,n:"Val-d'Oise"},
+    "2A":{lat:41.9,lon:8.9,n:"Corse-du-Sud"},"2B":{lat:42.4,lon:9.2,n:"Haute-Corse"},
+    "971":{lat:16.2,lon:-61.5,n:"Guadeloupe"},"972":{lat:14.6,lon:-61.0,n:"Martinique"},
+    "973":{lat:4.0,lon:-53.0,n:"Guyane"},"974":{lat:-21.1,lon:55.5,n:"La Réunion"},
+    "976":{lat:-12.8,lon:45.2,n:"Mayotte"}
+  };
+  var FALLBACK_DEPTS=["13","31","69","59","75","33","44","06","67","76"];
+
+  function loadWidget(lat,lon,deptName){
+    fetch('https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lon+'&current=temperature_2m,relative_humidity_2m&timezone=Europe/Paris')
+      .then(function(r){return r.json();})
+      .then(function(d){
+        var t=d.current.temperature_2m,h=d.current.relative_humidity_2m;
+        var wbgt=calcWBGT(t,h);
+        var r=riskLabel(wbgt);
+        document.getElementById('monitor-wbgt-val').textContent=wbgt.toFixed(1);
+        document.getElementById('monitor-dept-name').textContent=deptName;
+        var badge=document.getElementById('monitor-risk-badge');
+        badge.textContent=r.label;badge.style.background=r.bg;badge.style.color=r.text;
+      })
+      .catch(function(){document.getElementById('monitor-risk-badge').textContent='Indisponible';});
+  }
+  fetch('https://ipapi.co/json/')
     .then(function(r){return r.json();})
     .then(function(d){
-      var t=d.current.temperature_2m,h=d.current.relative_humidity_2m;
-      var wbgt=calcWBGT(t,h);
-      var r=riskLabel(wbgt);
-      document.getElementById('monitor-wbgt-val').textContent=wbgt.toFixed(1);
-      var badge=document.getElementById('monitor-risk-badge');
-      badge.textContent=r.label;badge.style.background=r.bg;badge.style.color=r.text;
+      var dept=null;
+      if(d.country_code==='FR'&&d.region_code&&DEPT_MAP[d.region_code]){
+        dept=DEPT_MAP[d.region_code];
+        dept.code=d.region_code;
+      } else {
+        var k=FALLBACK_DEPTS[Math.floor(Math.random()*FALLBACK_DEPTS.length)];
+        dept=DEPT_MAP[k];dept.code=k;
+      }
+      loadWidget(dept.lat,dept.lon,dept.n+' ('+dept.code+')');
     })
-    .catch(function(){document.getElementById('monitor-risk-badge').textContent='Indisponible';});
+    .catch(function(){
+      var def=DEPT_MAP["13"];
+      loadWidget(def.lat,def.lon,'Bouches-du-Rhône (13)');
+    });
 })();
 </script>
 <!-- ══ FOOTER ══ -->
