@@ -51,19 +51,79 @@ nav {
 }
 .nav-brand img { height: 52px; width: auto; display: block; }
 .nav-right { display: flex; align-items: center; gap: 24px; }
-.nav-back {
+.nav-link {
   font-size: 13px; font-weight: 500; color: var(--muted);
   text-decoration: none; letter-spacing: 0.06em;
   display: flex; align-items: center; gap: 8px; transition: color .2s;
 }
-.nav-back:hover { color: var(--ink); }
+.nav-link:hover { color: var(--ink); }
+.nav-link-active { color: var(--ink); }
+.nav-devis {
+  font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 500;
+  letter-spacing: 0.1em; text-transform: uppercase; text-decoration: none;
+  padding: 9px 20px; background: var(--black); color: var(--white);
+  transition: background .2s;
+}
+.nav-devis:hover { background: #333; }
+.nav-badge {
+  display: inline-flex; align-items: center; justify-content: center;
+  background: var(--sand); color: var(--ink); font-size: 10px; font-weight: 500;
+  padding: 1px 6px; border-radius: 10px; margin-left: 4px;
+}
 .lang-toggle { display: flex; border: 1px solid var(--border); }
 .lang-btn {
   background: none; border: none; font-family: 'DM Sans', sans-serif;
   font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
   padding: 6px 14px; cursor: pointer; color: var(--muted); transition: all .2s;
+  text-decoration: none; display: inline-block;
 }
 .lang-btn.active { background: var(--black); color: var(--white); }
+
+/* Hamburger */
+.ham-btn {
+  display: none; flex-direction: column; justify-content: center;
+  gap: 5px; background: none; border: none; cursor: pointer;
+  padding: 4px; z-index: 200;
+}
+.ham-btn span {
+  display: block; width: 22px; height: 2px;
+  background: var(--ink); transition: all .25s;
+}
+.ham-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.ham-btn.open span:nth-child(2) { opacity: 0; }
+.ham-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+/* Mobile overlay */
+.nav-overlay {
+  display: none; position: fixed; inset: 0; z-index: 150;
+  background: var(--white); flex-direction: column;
+  padding: 90px 32px 40px;
+}
+.nav-overlay.open { display: flex; }
+.nav-overlay-links { display: flex; flex-direction: column; gap: 8px; flex: 1; }
+.nav-overlay-link {
+  font-size: 22px; font-weight: 400; color: var(--ink);
+  text-decoration: none; padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between;
+  font-family: 'DM Serif Display', serif;
+}
+.nav-overlay-link:last-child { border-bottom: none; }
+.nav-overlay-cta {
+  display: inline-flex; align-items: center; gap: 10px; margin-top: 32px;
+  background: var(--black); color: var(--white); text-decoration: none;
+  font-size: 13px; font-weight: 500; letter-spacing: 0.1em;
+  text-transform: uppercase; padding: 16px 28px; align-self: flex-start;
+}
+.nav-overlay-lang {
+  display: flex; gap: 0; border: 1px solid var(--border);
+  margin-top: 24px; align-self: flex-start;
+}
+.nav-overlay-lang a {
+  font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
+  padding: 8px 16px; text-decoration: none; color: var(--muted);
+}
+.nav-overlay-lang a.active { background: var(--black); color: var(--white); }
 
 /* Hero */
 .hero { padding: 140px 56px 60px; background: var(--black); color: var(--white); }
@@ -149,6 +209,8 @@ footer {
 
 @media (max-width: 900px) {
   nav { padding: 14px 24px; }
+  .nav-right { display: none; }
+  .ham-btn { display: flex; }
   .hero { padding: 120px 24px 48px; }
   .cat-bar { padding: 0 24px; }
   .blog-section { padding: 40px 24px 64px; }
@@ -166,19 +228,50 @@ footer {
 
 <nav>
   <div class="nav-brand">
-    <a href="javascript:void(0)" onclick="window.location.href=document.getElementById('btn-fr').classList.contains('active')?'/?lang=fr':'/en/'"><img src="/logo-kollder.png" alt="Kollder"></a>
+    <a href="javascript:void(0)" id="nav-logo-link"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
   <div class="nav-right">
-    <a href="javascript:void(0)" onclick="window.location.href=document.getElementById('btn-fr').classList.contains('active')?'/?lang=fr':'/en/'" class="nav-back">
-      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
-      <span id="back-label">Retour au site</span>
+    <a href="/?lang=fr" class="nav-link" id="nav-home-link">Accueil</a>
+    <a href="/fr/distributeurs/" class="nav-link" id="nav-distrib-link">Distributeurs</a>
+    <a href="/blog/?lang=fr" class="nav-link nav-link-active" id="nav-blog-link">
+      Ressources<span class="nav-badge" id="nav-article-count"></span>
     </a>
+    <a href="/#contact" class="nav-devis" id="nav-devis-link">Obtenir un devis</a>
     <div class="lang-toggle">
       <a class="lang-btn" id="btn-fr" href="/blog/?lang=fr" style="text-decoration:none">FR</a>
       <a class="lang-btn" id="btn-en" href="/blog/?lang=en" style="text-decoration:none">EN</a>
     </div>
   </div>
+  <button class="ham-btn" id="hamBtn" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
 </nav>
+
+<!-- Mobile overlay -->
+<div class="nav-overlay" id="navOverlay">
+  <div class="nav-overlay-links">
+    <a class="nav-overlay-link" id="ov-home">
+      <span id="ov-home-label">Accueil</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" id="ov-distrib">
+      <span id="ov-distrib-label">Distributeurs</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" id="ov-blog">
+      <span id="ov-blog-label">Ressources</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+  </div>
+  <a class="nav-overlay-cta" id="ov-cta">
+    <span id="ov-cta-label">Obtenir un devis</span>
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+  </a>
+  <div class="nav-overlay-lang">
+    <a id="ov-fr" href="/blog/?lang=fr">FR</a>
+    <a id="ov-en" href="/blog/?lang=en">EN</a>
+  </div>
+</div>
 
 <section class="hero">
   <div class="hero-inner">
@@ -274,24 +367,71 @@ else setLang('fr');
 
 function setLang(l) {
   localStorage.setItem('kollder_lang', l);
-  document.getElementById('btn-fr').classList.toggle('active', l === 'fr');
-  document.getElementById('btn-en').classList.toggle('active', l === 'en');
-  document.getElementById('fr-articles').style.display = l === 'fr' ? 'contents' : 'none';
-  document.getElementById('en-articles').style.display = l === 'en' ? 'contents' : 'none';
-  document.getElementById('cat-tabs-fr').style.display = l === 'fr' ? 'contents' : 'none';
-  document.getElementById('cat-tabs-en').style.display = l === 'en' ? 'contents' : 'none';
-  if (l === 'fr') {
+  var isFr = l === 'fr';
+  document.getElementById('btn-fr').classList.toggle('active', isFr);
+  document.getElementById('btn-en').classList.toggle('active', !isFr);
+  document.getElementById('fr-articles').style.display = isFr ? 'contents' : 'none';
+  document.getElementById('en-articles').style.display = !isFr ? 'contents' : 'none';
+  document.getElementById('cat-tabs-fr').style.display = isFr ? 'contents' : 'none';
+  document.getElementById('cat-tabs-en').style.display = !isFr ? 'contents' : 'none';
+
+  // Desktop nav
+  document.getElementById('nav-logo-link').href = isFr ? '/?lang=fr' : '/en/';
+  document.getElementById('nav-home-link').href = isFr ? '/?lang=fr' : '/en/';
+  document.getElementById('nav-home-link').textContent = isFr ? 'Accueil' : 'Home';
+  document.getElementById('nav-distrib-link').href = isFr ? '/fr/distributeurs/' : '/en/partners/';
+  document.getElementById('nav-distrib-link').textContent = isFr ? 'Distributeurs' : 'Partners';
+  document.getElementById('nav-blog-link').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
+  document.getElementById('nav-devis-link').href = isFr ? '/#contact' : '/en/#contact';
+  document.getElementById('nav-devis-link').textContent = isFr ? 'Obtenir un devis' : 'Get a quote';
+
+  // Mobile overlay
+  document.getElementById('ov-home').href = isFr ? '/?lang=fr' : '/en/';
+  document.getElementById('ov-home-label').textContent = isFr ? 'Accueil' : 'Home';
+  document.getElementById('ov-distrib').href = isFr ? '/fr/distributeurs/' : '/en/partners/';
+  document.getElementById('ov-distrib-label').textContent = isFr ? 'Distributeurs' : 'Partners';
+  document.getElementById('ov-blog').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
+  document.getElementById('ov-blog-label').textContent = isFr ? 'Ressources' : 'Resources';
+  document.getElementById('ov-cta').href = isFr ? '/#contact' : '/en/#contact';
+  document.getElementById('ov-cta-label').textContent = isFr ? 'Obtenir un devis' : 'Get a quote';
+  document.getElementById('ov-fr').className = isFr ? 'active' : '';
+  document.getElementById('ov-en').className = !isFr ? 'active' : '';
+
+  // Hero text
+  if (isFr) {
     document.getElementById('hero-label').textContent = 'Ressources & Expertise';
     document.getElementById('hero-title').innerHTML = 'Tout ce que vous devez savoir sur <em>le coup de chaleur.</em>';
     document.getElementById('hero-sub').textContent = 'Protocoles médicaux, retours terrain, actualités réglementaires. Par des experts pour des professionnels.';
-    document.getElementById('back-label').textContent = 'Retour au site';
   } else {
     document.getElementById('hero-label').textContent = 'Resources & Expertise';
     document.getElementById('hero-title').innerHTML = 'Everything you need to know about <em>heat stroke.</em>';
     document.getElementById('hero-sub').textContent = 'Medical protocols, field reports, regulatory updates. By experts, for professionals.';
-    document.getElementById('back-label').textContent = 'Back to site';
   }
 }
+
+// Article count badge
+fetch('/article-count.json').then(function(r){ return r.json(); }).then(function(d){
+  var badge = document.getElementById('nav-article-count');
+  if (badge && d && d.total) badge.textContent = d.total;
+}).catch(function(){});
+
+// Hamburger
+document.addEventListener('DOMContentLoaded', function() {
+  var btn = document.getElementById('hamBtn');
+  var overlay = document.getElementById('navOverlay');
+  btn.addEventListener('click', function() {
+    var isOpen = overlay.classList.toggle('open');
+    btn.classList.toggle('open', isOpen);
+    document.body.style.overflow = isOpen ? 'hidden' : '';
+  });
+  overlay.querySelectorAll('a').forEach(function(a) {
+    a.addEventListener('click', function() {
+      overlay.classList.remove('open');
+      btn.classList.remove('open');
+      document.body.style.overflow = '';
+    });
+  });
+});
 </script>
 
 <script src="/lang.js"></script>
