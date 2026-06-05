@@ -1308,6 +1308,96 @@ h1           { animation: up .5s ease both .2s; }
 .thumb.active { border-color: var(--black); }
 .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
 @media (max-width: 580px) { .carousel-wrap { aspect-ratio: 3/2; } }
+
+/* ── Hamburger menu mobile ── */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 28px;
+  height: 20px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  z-index: 1001;
+}
+.hamburger span {
+  display: block;
+  height: 2px;
+  width: 100%;
+  background: var(--black, #0f0f0d);
+  border-radius: 2px;
+  transition: all 0.25s ease;
+}
+.hamburger.open span:nth-child(1) { transform: translateY(9px) rotate(45deg); }
+.hamburger.open span:nth-child(2) { opacity: 0; }
+.hamburger.open span:nth-child(3) { transform: translateY(-9px) rotate(-45deg); }
+
+.mobile-menu {
+  display: none;
+  position: fixed;
+  top: 64px;
+  left: 0;
+  right: 0;
+  background: #fff;
+  border-bottom: 1px solid #e8e4dc;
+  padding: 16px 20px 20px;
+  z-index: 1000;
+  flex-direction: column;
+  gap: 0;
+}
+.mobile-menu.open { display: flex; }
+.mobile-menu a {
+  display: block;
+  padding: 13px 0;
+  color: var(--black, #0f0f0d);
+  text-decoration: none;
+  font-size: 1rem;
+  border-bottom: 1px solid #f0ece4;
+  font-family: 'DM Sans', sans-serif;
+}
+.mobile-menu a:last-of-type { border-bottom: none; }
+.mob-devis-btn {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 11px 20px !important;
+  background: var(--black, #0f0f0d) !important;
+  color: #fff !important;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: 600;
+  border-bottom: none !important;
+}
+.mob-lang-row {
+  display: flex;
+  gap: 12px;
+  margin-top: 8px;
+  padding-top: 12px;
+  border-top: 1px solid #f0ece4;
+}
+.mob-lang-btn {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #999 !important;
+  border: none !important;
+  padding: 0 !important;
+  background: none !important;
+  cursor: pointer;
+}
+.mob-lang-btn.active { color: var(--black, #0f0f0d) !important; }
+#mob-article-count {
+  display: inline-block;
+  font-size: 10px; font-weight: 500; letter-spacing: 0.04em;
+  background: var(--beige, #e8e4dc); color: var(--muted, #888);
+  padding: 1px 7px; border-radius: 20px;
+  margin-left: 6px; vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+  .hamburger { display: flex; }
+  .nav-right { display: none !important; }
+}
 </style>
 </head>
 <body>
@@ -1323,7 +1413,19 @@ h1           { animation: up .5s ease both .2s; }
 <a class="lang-btn active" href="/en/" style="text-decoration:none">EN</a>
 </div>
 </div>
+<button class="hamburger" id="km-hamburger" aria-label="Menu">
+  <span></span><span></span><span></span>
+</button>
 </nav>
+<div class="mobile-menu" id="km-mobile-menu">
+  <a id="mob-partner-link" href="/en/partners/">Partners</a>
+  <a id="mob-blog-link" href="/blog/?lang=en">Resources<span id="mob-article-count"></span></a>
+  <a class="mob-devis-btn" id="mob-devis-btn" href="#contact">Get a quote</a>
+  <div class="mob-lang-row">
+    <button class="mob-lang-btn" id="mob-fr" onclick="window.location.href='/?lang=fr'">FR</button>
+    <button class="mob-lang-btn active" id="mob-en">EN</button>
+  </div>
+</div>
 <!-- ══ HERO ══ -->
 <section class="hero">
 <div class="hero-inner">
@@ -1718,6 +1820,8 @@ fetch('/article-count.json')
   .then(d => {
     const badge = document.getElementById('nav-article-count');
     if (badge && d.count) badge.textContent = d.count;
+    const mobBadge = document.getElementById('mob-article-count');
+    if (mobBadge && d.count) mobBadge.textContent = d.count;
   })
   .catch(() => {});
 
@@ -1806,5 +1910,34 @@ if (form) {
 })();
 </script>
 
+
+<script>
+(function() {
+  var btn = document.getElementById('km-hamburger');
+  var menu = document.getElementById('km-mobile-menu');
+  if (!btn || !menu) return;
+
+  btn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    var isOpen = menu.classList.contains('open');
+    menu.classList.toggle('open', !isOpen);
+    btn.classList.toggle('open', !isOpen);
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!menu.contains(e.target) && e.target !== btn) {
+      menu.classList.remove('open');
+      btn.classList.remove('open');
+    }
+  });
+
+  menu.querySelectorAll('a').forEach(function(link) {
+    link.addEventListener('click', function() {
+      menu.classList.remove('open');
+      btn.classList.remove('open');
+    });
+  });
+})();
+</script>
 </body>
 </html>
