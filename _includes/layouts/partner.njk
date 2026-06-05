@@ -45,7 +45,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 body { background: var(--white); color: var(--ink); font-family: 'DM Sans', sans-serif; font-weight: 300; line-height: 1.7; }
 
-/* NAV — identique article.njk */
+/* NAV */
 nav {
   position: fixed; top: 0; left: 0; right: 0; z-index: 100;
   display: flex; justify-content: space-between; align-items: center;
@@ -53,12 +53,82 @@ nav {
   backdrop-filter: blur(20px); border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 .nav-brand img { height: 52px; width: auto; display: block; }
-.nav-home {
+.nav-right { display: flex; align-items: center; gap: 28px; }
+.nav-link {
   font-size: 13px; font-weight: 500; color: var(--muted);
   text-decoration: none; letter-spacing: 0.06em;
   display: flex; align-items: center; gap: 8px; transition: color .2s;
 }
-.nav-home:hover { color: var(--ink); }
+.nav-link:hover { color: var(--ink); }
+.nav-link-active { color: var(--ink); }
+.nav-devis {
+  font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 500;
+  letter-spacing: 0.1em; text-transform: uppercase; text-decoration: none;
+  padding: 9px 20px; background: var(--black); color: var(--white);
+  transition: background .2s;
+}
+.nav-devis:hover { background: #333; }
+.nav-badge {
+  display: inline-flex; align-items: center; justify-content: center;
+  background: var(--sand); color: var(--ink); font-size: 10px; font-weight: 500;
+  padding: 1px 6px; border-radius: 10px; margin-left: 4px;
+}
+.lang-toggle { display: flex; border: 1px solid var(--border); }
+.lang-btn {
+  background: none; border: none; font-family: 'DM Sans', sans-serif;
+  font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
+  padding: 6px 12px; cursor: pointer; color: var(--muted); transition: all .2s;
+  text-decoration: none; display: inline-block;
+}
+.lang-btn.active { background: var(--black); color: var(--white); }
+
+/* Hamburger */
+.ham-btn {
+  display: none; flex-direction: column; justify-content: center;
+  gap: 5px; background: none; border: none; cursor: pointer;
+  padding: 4px; z-index: 200;
+}
+.ham-btn span {
+  display: block; width: 22px; height: 2px;
+  background: var(--ink); transition: all .25s;
+}
+.ham-btn.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.ham-btn.open span:nth-child(2) { opacity: 0; }
+.ham-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+/* Mobile overlay */
+.nav-overlay {
+  display: none; position: fixed; inset: 0; z-index: 150;
+  background: var(--white); flex-direction: column;
+  padding: 90px 32px 40px;
+}
+.nav-overlay.open { display: flex; }
+.nav-overlay-links {
+  display: flex; flex-direction: column; gap: 8px; flex: 1;
+}
+.nav-overlay-link {
+  font-size: 22px; font-weight: 400; color: var(--ink);
+  text-decoration: none; padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between;
+  font-family: 'DM Serif Display', serif;
+}
+.nav-overlay-link:last-child { border-bottom: none; }
+.nav-overlay-cta {
+  display: inline-flex; align-items: center; gap: 10px; margin-top: 32px;
+  background: var(--black); color: var(--white); text-decoration: none;
+  font-size: 13px; font-weight: 500; letter-spacing: 0.1em;
+  text-transform: uppercase; padding: 16px 28px; align-self: flex-start;
+}
+.nav-overlay-lang {
+  display: flex; gap: 0; border: 1px solid var(--border);
+  margin-top: 24px; align-self: flex-start;
+}
+.nav-overlay-lang a {
+  font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
+  padding: 8px 16px; text-decoration: none; color: var(--muted);
+}
+.nav-overlay-lang a.active { background: var(--black); color: var(--white); }
 
 /* HERO */
 .partner-hero {
@@ -256,6 +326,8 @@ footer {
 /* RESPONSIVE */
 @media (max-width: 768px) {
   nav { padding: 14px 24px; }
+  .nav-right { display: none; }
+  .ham-btn { display: flex; }
   .partner-hero { padding: 110px 24px 60px; }
   .partner-section { padding: 64px 24px; }
   footer { padding: 32px 24px; }
@@ -271,11 +343,50 @@ footer {
   <div class="nav-brand">
     <a href="{% if lang == 'en' %}/en/{% else %}/?lang=fr{% endif %}"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
-  <a href="{% if lang == 'en' %}/en/{% else %}/?lang=fr{% endif %}" class="nav-home">
-    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
-    {% if lang == 'en' %}Home{% else %}Accueil{% endif %}
-  </a>
+  <div class="nav-right">
+    <a href="{% if lang == 'en' %}/en/{% else %}/?lang=fr{% endif %}" class="nav-link">{% if lang == 'en' %}Home{% else %}Accueil{% endif %}</a>
+    <a href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}" class="nav-link nav-link-active">{% if lang == 'en' %}Partners{% else %}Distributeurs{% endif %}</a>
+    <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-link">
+      {% if lang == 'en' %}Resources{% else %}Ressources{% endif %}<span class="nav-badge" id="nav-badge"></span>
+    </a>
+    <a href="{% if lang == 'en' %}/en/#contact{% else %}/#contact{% endif %}" class="nav-devis">
+      {% if lang == 'en' %}Get a quote{% else %}Obtenir un devis{% endif %}
+    </a>
+    <div class="lang-toggle">
+      <a class="lang-btn{% if lang != 'en' %} active{% endif %}" href="/fr/distributeurs/" style="text-decoration:none">FR</a>
+      <a class="lang-btn{% if lang == 'en' %} active{% endif %}" href="/en/partners/" style="text-decoration:none">EN</a>
+    </div>
+  </div>
+  <button class="ham-btn" id="hamBtn" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
 </nav>
+
+<!-- Mobile overlay -->
+<div class="nav-overlay" id="navOverlay">
+  <div class="nav-overlay-links">
+    <a class="nav-overlay-link" id="ov-home">
+      <span id="ov-home-label">Accueil</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" id="ov-distrib">
+      <span id="ov-distrib-label">Distributeurs</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+    <a class="nav-overlay-link" id="ov-blog">
+      <span id="ov-blog-label">Ressources</span>
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    </a>
+  </div>
+  <a class="nav-overlay-cta" id="ov-cta">
+    <span id="ov-cta-label">Obtenir un devis</span>
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+  </a>
+  <div class="nav-overlay-lang">
+    <a id="ov-fr" href="/fr/distributeurs/">FR</a>
+    <a id="ov-en" href="/en/partners/">EN</a>
+  </div>
+</div>
 
 {{ content | safe }}
 
@@ -286,6 +397,47 @@ footer {
   </div>
 </footer>
 
+<script src="/lang.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var lang = localStorage.getItem('kollder_lang') || 'fr';
+  var isFr = lang !== 'en';
+
+  // Article count badge
+  fetch('/article-count.json').then(function(r){ return r.json(); }).then(function(d){
+    var badge = document.getElementById('nav-badge');
+    if (badge && d && d.total) badge.textContent = d.total;
+  }).catch(function(){});
+
+  // Overlay links
+  document.getElementById('ov-home').href = isFr ? '/?lang=fr' : '/en/';
+  document.getElementById('ov-home-label').textContent = isFr ? 'Accueil' : 'Home';
+  document.getElementById('ov-distrib').href = isFr ? '/fr/distributeurs/' : '/en/partners/';
+  document.getElementById('ov-distrib-label').textContent = isFr ? 'Distributeurs' : 'Partners';
+  document.getElementById('ov-blog').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
+  document.getElementById('ov-blog-label').textContent = isFr ? 'Ressources' : 'Resources';
+  document.getElementById('ov-cta').href = isFr ? '/#contact' : '/en/#contact';
+  document.getElementById('ov-cta-label').textContent = isFr ? 'Obtenir un devis' : 'Get a quote';
+  document.getElementById('ov-fr').className = isFr ? 'active' : '';
+  document.getElementById('ov-en').className = !isFr ? 'active' : '';
+
+  // Hamburger toggle
+  var btn = document.getElementById('hamBtn');
+  var overlay = document.getElementById('navOverlay');
+  btn.addEventListener('click', function() {
+    var isOpen = overlay.classList.toggle('open');
+    btn.classList.toggle('open', isOpen);
+    document.body.style.overflow = isOpen ? 'hidden' : '';
+  });
+  overlay.querySelectorAll('a').forEach(function(a) {
+    a.addEventListener('click', function() {
+      overlay.classList.remove('open');
+      btn.classList.remove('open');
+      document.body.style.overflow = '';
+    });
+  });
+});
+</script>
 
 </body>
 </html>
