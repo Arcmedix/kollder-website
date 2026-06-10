@@ -1589,6 +1589,120 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 </div>
 </section>
+<!-- ══ VALIDATION SCIENTIFIQUE ══ -->
+<section class="sci-valid">
+<div class="sci-valid-inner">
+<p class="sec-label reveal">Protocole de référence</p>
+<h2 class="sec-title reveal">Validé par les institutions qui font autorité.</h2>
+<p class="sci-valid-sub reveal">L'immersion en eau froide est le gold standard international pour le traitement de l'hyperthermie d'effort. Ce n'est pas Kollder qui le dit.</p>
+<div class="logos-strip reveal">
+<div class="logo-badge">
+<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="44" rx="6" fill="#f0ece4"/><text x="60" y="17" font-family="DM Sans, sans-serif" font-size="8" font-weight="500" fill="#8a8278" text-anchor="middle" letter-spacing="2">ACSM</text><text x="60" y="29" font-family="DM Sans, sans-serif" font-size="6" fill="#8a8278" text-anchor="middle">Expert Consensus 2023</text><text x="60" y="39" font-family="DM Sans, sans-serif" font-size="5" fill="#c8bfb0" text-anchor="middle">Am. College Sports Medicine</text></svg>
+</div>
+<div class="logo-badge">
+<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="44" rx="6" fill="#f0ece4"/><text x="60" y="17" font-family="DM Sans, sans-serif" font-size="8" font-weight="500" fill="#8a8278" text-anchor="middle" letter-spacing="2">IOC / BJSM</text><text x="60" y="29" font-family="DM Sans, sans-serif" font-size="6" fill="#8a8278" text-anchor="middle">Hosokawa &amp; Racinais, 2021</text><text x="60" y="39" font-family="DM Sans, sans-serif" font-size="5" fill="#c8bfb0" text-anchor="middle">Comité Intern. Olympique</text></svg>
+</div>
+<div class="logo-badge">
+<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="44" rx="6" fill="#f0ece4"/><text x="60" y="17" font-family="DM Sans, sans-serif" font-size="8" font-weight="500" fill="#8a8278" text-anchor="middle" letter-spacing="2">KSI / UConn</text><text x="60" y="29" font-family="DM Sans, sans-serif" font-size="6" fill="#8a8278" text-anchor="middle">Dr Douglas Casa, 401+ cas</text><text x="60" y="39" font-family="DM Sans, sans-serif" font-size="5" fill="#c8bfb0" text-anchor="middle">Korey Stringer Institute</text></svg>
+</div>
+<div class="logo-badge">
+<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="44" rx="6" fill="#f0ece4"/><text x="60" y="17" font-family="DM Sans, sans-serif" font-size="8" font-weight="500" fill="#8a8278" text-anchor="middle" letter-spacing="2">SFAR</text><text x="60" y="29" font-family="DM Sans, sans-serif" font-size="6" fill="#8a8278" text-anchor="middle">Consensus préhospitalier</text><text x="60" y="39" font-family="DM Sans, sans-serif" font-size="5" fill="#c8bfb0" text-anchor="middle">Société Fr. Anesthésie Réa.</text></svg>
+</div>
+</div>
+<div class="stat-cards reveal">
+<div class="stat-card">
+<span class="stat-num">100%</span>
+<span class="stat-label">de survie sur 401+ cas traités par immersion en eau froide, quand la température centrale chute sous 40°C dans les 30 minutes.</span>
+<span class="stat-source">Dr Douglas Casa — Korey Stringer Institute, UConn</span>
+</div>
+<div class="stat-card">
+<span class="stat-num">×10</span>
+<span class="stat-label">plus efficace que les packs de glace ou les draps humides. Vitesse de refroidissement : 0,35°C/min contre 0,03°C/min.</span>
+<span class="stat-source">Casa et al. — Exercise &amp; Sport Sciences Reviews, 2007</span>
+</div>
+<div class="stat-card">
+<span class="stat-num">30 min</span>
+<span class="stat-label">La fenêtre critique. L'immersion doit commencer immédiatement sur site. «&nbsp;Cool First, Transport Second&nbsp;» n'est pas un slogan — c'est un protocole de survie.</span>
+<span class="stat-source">ACSM Expert Consensus Statement, 2023</span>
+</div>
+</div>
+</div>
+</section>
+
+<style>
+.sci-valid {
+  padding: 96px 40px;
+  background: var(--white);
+}
+.sci-valid-inner {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.sci-valid-sub {
+  font-size: 1.05rem;
+  color: var(--muted);
+  max-width: 620px;
+  line-height: 1.7;
+  margin-bottom: 48px;
+}
+.logos-strip {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 56px;
+  align-items: center;
+}
+.logo-badge svg {
+  display: block;
+  width: 120px;
+  height: 44px;
+}
+.stat-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2px;
+  background: var(--beige);
+  border-radius: 12px;
+  overflow: hidden;
+}
+.stat-card {
+  background: var(--white);
+  padding: 32px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.stat-num {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.6rem;
+  color: var(--ink);
+  line-height: 1;
+}
+.stat-label {
+  font-size: 0.875rem;
+  color: var(--muted);
+  line-height: 1.6;
+  flex: 1;
+}
+.stat-source {
+  font-size: 0.72rem;
+  color: var(--sand);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding-top: 8px;
+  border-top: 1px solid var(--border2);
+}
+@media (max-width: 860px) {
+  .sci-valid { padding: 72px 24px; }
+  .stat-cards { grid-template-columns: 1fr; }
+}
+@media (max-width: 580px) {
+  .sci-valid { padding: 56px 20px; }
+  .logos-strip { gap: 8px; }
+  .stat-num { font-size: 2rem; }
+}
+</style>
+
 <!-- ══ WHO WE SERVE ══ -->
 <section class="serve">
 <div class="serve-inner">
