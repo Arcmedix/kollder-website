@@ -1595,18 +1595,19 @@ h1           { animation: up .5s ease both .2s; }
 <p class="sec-label reveal">Protocole de référence</p>
 <h2 class="sec-title reveal">Validé par les institutions qui font autorité.</h2>
 <p class="sci-valid-sub reveal">L'immersion en eau froide est le gold standard international pour le traitement de l'hyperthermie d'effort. Ce n'est pas Kollder qui le dit.</p>
+<p class="logos-label reveal">Protocole recommandé par</p>
 <div class="logos-strip reveal">
 <div class="logo-badge">
-<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="44" rx="6" fill="#f0ece4"/><text x="60" y="17" font-family="DM Sans, sans-serif" font-size="8" font-weight="500" fill="#8a8278" text-anchor="middle" letter-spacing="2">ACSM</text><text x="60" y="29" font-family="DM Sans, sans-serif" font-size="6" fill="#8a8278" text-anchor="middle">Expert Consensus 2023</text><text x="60" y="39" font-family="DM Sans, sans-serif" font-size="5" fill="#c8bfb0" text-anchor="middle">Am. College Sports Medicine</text></svg>
+<img src="/images/logo-acsm.svg" alt="ACSM — American College of Sports Medicine" loading="lazy">
 </div>
 <div class="logo-badge">
-<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="44" rx="6" fill="#f0ece4"/><text x="60" y="17" font-family="DM Sans, sans-serif" font-size="8" font-weight="500" fill="#8a8278" text-anchor="middle" letter-spacing="2">IOC / BJSM</text><text x="60" y="29" font-family="DM Sans, sans-serif" font-size="6" fill="#8a8278" text-anchor="middle">Hosokawa &amp; Racinais, 2021</text><text x="60" y="39" font-family="DM Sans, sans-serif" font-size="5" fill="#c8bfb0" text-anchor="middle">Comité Intern. Olympique</text></svg>
+<img src="/images/logo-ioc.svg" alt="IOC — International Olympic Committee / BJSM" loading="lazy">
 </div>
 <div class="logo-badge">
-<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="44" rx="6" fill="#f0ece4"/><text x="60" y="17" font-family="DM Sans, sans-serif" font-size="8" font-weight="500" fill="#8a8278" text-anchor="middle" letter-spacing="2">KSI / UConn</text><text x="60" y="29" font-family="DM Sans, sans-serif" font-size="6" fill="#8a8278" text-anchor="middle">Dr Douglas Casa, 401+ cas</text><text x="60" y="39" font-family="DM Sans, sans-serif" font-size="5" fill="#c8bfb0" text-anchor="middle">Korey Stringer Institute</text></svg>
+<img src="/images/logo-ksi.svg" alt="KSI — Korey Stringer Institute, UConn" loading="lazy">
 </div>
 <div class="logo-badge">
-<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="44" rx="6" fill="#f0ece4"/><text x="60" y="17" font-family="DM Sans, sans-serif" font-size="8" font-weight="500" fill="#8a8278" text-anchor="middle" letter-spacing="2">SFAR</text><text x="60" y="29" font-family="DM Sans, sans-serif" font-size="6" fill="#8a8278" text-anchor="middle">Consensus préhospitalier</text><text x="60" y="39" font-family="DM Sans, sans-serif" font-size="5" fill="#c8bfb0" text-anchor="middle">Société Fr. Anesthésie Réa.</text></svg>
+<img src="/images/logo-sfar.svg" alt="SFAR — Société Française d'Anesthésie et de Réanimation" loading="lazy">
 </div>
 </div>
 <div class="stat-cards reveal">
@@ -1645,18 +1646,30 @@ h1           { animation: up .5s ease both .2s; }
   line-height: 1.7;
   margin-bottom: 48px;
 }
+.logos-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--sand);
+  margin-bottom: 20px;
+}
 .logos-strip {
   display: flex;
-  gap: 12px;
+  gap: 16px;
   flex-wrap: wrap;
   margin-bottom: 56px;
   align-items: center;
 }
-.logo-badge svg {
+.logo-badge img {
   display: block;
-  width: 120px;
-  height: 44px;
+  width: 160px;
+  height: auto;
+  opacity: 0.55;
+  filter: grayscale(1);
+  transition: opacity 0.2s;
 }
+.logo-badge img:hover { opacity: 0.8; }
 .stat-cards {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

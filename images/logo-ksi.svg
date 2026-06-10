@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 56" fill="none">
+  <!-- KSI — Korey Stringer Institute, UConn -->
+  <text x="90" y="22" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1a1a17" text-anchor="middle" letter-spacing="3">KSI</text>
+  <line x1="55" y1="30" x2="125" y2="30" stroke="#c8bfb0" stroke-width="0.8"/>
+  <text x="90" y="42" font-family="Arial, sans-serif" font-size="7.5" fill="#8a8278" text-anchor="middle" letter-spacing="0.3">KOREY STRINGER INSTITUTE</text>
+  <text x="90" y="51" font-family="Arial, sans-serif" font-size="6.5" fill="#c8bfb0" text-anchor="middle">University of Connecticut</text>
+</svg>
