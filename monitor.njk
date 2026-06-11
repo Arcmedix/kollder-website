@@ -664,8 +664,9 @@ document.getElementById('km-alert-form').addEventListener('submit',function(e){e
     sel.value=code;
     loadDept(code);
   }catch(e){
-    sel.value='13';
-    loadDept('13');
+    var fallbackCode=DEPTS[Math.floor(Math.random()*DEPTS.length)].c;
+    sel.value=fallbackCode;
+    loadDept(fallbackCode);
   }
 })();
 </script>
