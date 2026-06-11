@@ -1635,11 +1635,11 @@ h1           { animation: up .5s ease both .2s; }
 
 <style>
 .sci-valid {
-  padding: 96px 40px;
+  padding: 80px 40px;
   background: var(--white);
 }
 .sci-valid-inner {
-  max-width: 960px;
+  max-width: 1240px;
   margin: 0 auto;
 }
 .sci-valid-sub {
@@ -1647,7 +1647,7 @@ h1           { animation: up .5s ease both .2s; }
   color: var(--muted);
   max-width: 620px;
   line-height: 1.7;
-  margin-bottom: 48px;
+  margin-bottom: 32px;
 }
 .logos-label {
   font-size: 0.72rem;
@@ -1655,19 +1655,24 @@ h1           { animation: up .5s ease both .2s; }
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--sand);
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 .logos-strip {
   display: flex;
-  gap: 16px;
+  gap: 40px;
   flex-wrap: wrap;
-  margin-bottom: 56px;
+  margin-bottom: 40px;
+  align-items: center;
+}
+.logo-badge {
+  display: flex;
   align-items: center;
 }
 .logo-badge img {
   display: block;
-  width: 160px;
-  height: auto;
+  width: auto;
+  height: 36px;
+  object-fit: contain;
   opacity: 0.55;
   filter: grayscale(1);
   transition: opacity 0.2s;
@@ -1709,12 +1714,14 @@ h1           { animation: up .5s ease both .2s; }
   border-top: 1px solid var(--border2);
 }
 @media (max-width: 860px) {
-  .sci-valid { padding: 72px 24px; }
+  .sci-valid { padding: 64px 24px; }
   .stat-cards { grid-template-columns: 1fr; }
+  .logos-strip { gap: 28px; }
 }
 @media (max-width: 580px) {
-  .sci-valid { padding: 56px 20px; }
-  .logos-strip { gap: 8px; }
+  .sci-valid { padding: 48px 20px; }
+  .logos-strip { gap: 24px; flex-wrap: wrap; align-items: center; }
+  .logo-badge img { height: 28px; }
   .stat-num { font-size: 2rem; }
 }
 </style>
