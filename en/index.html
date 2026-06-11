@@ -1560,35 +1560,56 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 </section>
 <!-- ══ PROOF ══ -->
-<section class="proof" data-hidden="restore-when-photos-ready" style="display:none;">
-<div class="proof-inner">
-<div>
-<p class="sec-label reveal">Credibility</p>
-<h2 class="reveal">Built with those who needed it.</h2>
-<p class="proof-body reveal">The Kollder cooling tub was developed with tactical medicine experts and former special forces operators. Not in a laboratory. On real missions, in extreme environments, in situations where every minute counts.</p>
-<div class="testimonial reveal">
-<!--
-          TÉMOIGNAGE
-          Remplacez le texte ci-dessous par un vrai témoignage.
-          Format : "Citation." puis Prénom NOM, Titre, Organisation
-        -->
-<p class="testimonial-quote">“Testimonial to insert. Name, rank and organisation.”</p>
-<p class="testimonial-author">First Last · Title · Organisation</p>
+<section class="sci-valid">
+<div class="sci-valid-inner">
+<p class="sec-label reveal">Reference protocol</p>
+<h2 class="sec-title reveal">Validated by the institutions that set the standard.</h2>
+<p class="sci-valid-sub reveal">Cold water immersion is the international gold standard for treating exertional heat stroke. This isn’t Kollder’s claim to make.</p>
+<p class="logos-label reveal">Protocol recommended by</p>
+<div class="logos-strip reveal">
+<div class="logo-badge"><img src="/images/logo-acsm.png" alt="ACSM — American College of Sports Medicine" loading="lazy"></div>
+<div class="logo-badge"><img src="/images/logo-ioc.png" alt="IOC — International Olympic Committee / BJSM" loading="lazy"></div>
+<div class="logo-badge"><img src="/images/logo-ksi.png" alt="KSI — Korey Stringer Institute, UConn" loading="lazy"></div>
+<div class="logo-badge"><img src="/images/logo-sfar.png" alt="SFAR — French Society of Anaesthesia and Intensive Care" loading="lazy"></div>
+<div class="logo-badge"><img src="/images/logo-phoenix.png" alt="Phoenix Fire Department" loading="lazy"></div>
 </div>
+<div class="stat-cards reveal">
+<div class="stat-card">
+<span class="stat-num">100%</span>
+<span class="stat-label">survival rate across 401+ cases treated with cold water immersion, when core temperature drops below 40°C within 30 minutes.</span>
+<span class="stat-source">Dr Douglas Casa — Korey Stringer Institute, UConn</span>
 </div>
-<div class="proof-photo reveal">
-<!--
-        PHOTO TERRAIN (section preuve)
-        Remplacez ce bloc par :
-        <img src="photo-terrain.jpg" alt="Kollder in use" style="width:100%;height:100%;object-fit:cover;display:block;">
-      -->
-<div class="proof-ph">
-<svg fill="none" height="48" stroke="currentColor" stroke-width="1" viewbox="0 0 48 48" width="48"><rect height="40" rx="2" width="40" x="4" y="4"></rect><circle cx="16" cy="18" r="6"></circle><path d="M4 38l14-12 8 8 8-6 10 10"></path></svg>
-<span>Insert field photo</span>
+<div class="stat-card">
+<span class="stat-num">×10</span>
+<span class="stat-label">more effective than ice packs or wet sheets. Cooling rate: 0.35°C/min vs. 0.03°C/min.</span>
+<span class="stat-source">Casa et al. — Exercise &amp; Sport Sciences Reviews, 2007</span>
+</div>
+<div class="stat-card">
+<span class="stat-num">30 min</span>
+<span class="stat-label">The critical window. Immersion must begin on-site, immediately. “Cool First, Transport Second” is not a tagline — it is a survival protocol.</span>
+<span class="stat-source">ACSM Expert Consensus Statement, 2023</span>
 </div>
 </div>
 </div>
 </section>
+
+<style>
+.sci-valid { padding: 80px 40px; background: var(--white); }
+.sci-valid-inner { max-width: 1240px; margin: 0 auto; }
+.sci-valid-sub { font-size: 1.05rem; color: var(--muted); max-width: 620px; line-height: 1.7; margin-bottom: 32px; }
+.logos-label { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--sand); margin-bottom: 16px; }
+.logos-strip { display: flex; gap: 40px; flex-wrap: wrap; margin-bottom: 40px; align-items: center; }
+.logo-badge { display: flex; align-items: center; }
+.logo-badge img { display: block; width: auto; height: 36px; object-fit: contain; opacity: 0.55; filter: grayscale(1); transition: opacity 0.2s; }
+.logo-badge img:hover { opacity: 0.8; }
+.stat-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; background: var(--beige); border-radius: 12px; overflow: hidden; }
+.stat-card { background: var(--white); padding: 32px 28px; display: flex; flex-direction: column; gap: 10px; }
+.stat-num { font-family: 'DM Serif Display', serif; font-size: 2.6rem; color: var(--ink); line-height: 1; }
+.stat-label { font-size: 0.875rem; color: var(--muted); line-height: 1.6; flex: 1; }
+.stat-source { font-size: 0.72rem; color: var(--sand); letter-spacing: 0.04em; text-transform: uppercase; padding-top: 8px; border-top: 1px solid var(--border2); }
+@media (max-width: 860px) { .sci-valid { padding: 64px 24px; } .stat-cards { grid-template-columns: 1fr; } .logos-strip { gap: 28px; } }
+@media (max-width: 580px) { .sci-valid { padding: 48px 20px; } .logos-strip { gap: 24px; flex-wrap: wrap; align-items: center; } .logo-badge img { height: 28px; } .stat-num { font-size: 2rem; } }
+</style>
 <!-- ══ WHO WE SERVE ══ -->
 <section class="serve">
 <div class="serve-inner">
