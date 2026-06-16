@@ -1621,6 +1621,57 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 </div>
 </section>
+<!-- ══ FIELD CAROUSEL ══ -->
+<div class="field">
+  <div class="field-inner">
+    <div class="field-header">
+      <p class="sec-label">Kollder sur le terrain</p>
+      <h2 class="sec-title" style="margin-bottom:0;">Déployé.<br><em>Partout où c'est nécessaire.</em></h2>
+    </div>
+    <div class="field-track-wrap" id="fieldTrackWrap">
+      <div class="field-track" id="fieldTrack">
+        <div class="field-slide">
+          <img src="/images/Kollder Go - ground - fr.png" alt="Kollder Go - Intervention au sol">
+          <div class="field-slide-label">Kollder Go &mdash; Terrain naturel</div>
+        </div>
+        <div class="field-slide">
+          <img src="/images/Kollder Go - medical event - fr.png" alt="Kollder Go - Poste médical événement">
+          <div class="field-slide-label">Kollder Go &mdash; Événement médical</div>
+        </div>
+        <div class="field-slide">
+          <img src="/images/Kollder One - firefighters - fr.png" alt="Kollder One - Sapeurs-pompiers">
+          <div class="field-slide-label">Kollder One &mdash; Sapeurs-pompiers</div>
+        </div>
+        <div class="field-slide">
+          <img src="/images/Kollder One - medical event - fr.png" alt="Kollder One - Poste médical événement">
+          <div class="field-slide-label">Kollder One &mdash; Événement médical</div>
+        </div>
+        <div class="field-slide">
+          <img src="/images/Kollder One - military - fr.png" alt="Kollder One - Équipe médicale militaire">
+          <div class="field-slide-label">Kollder One &mdash; Équipe militaire</div>
+        </div>
+      </div>
+    </div>
+    <div class="field-nav">
+      <div class="field-dots" id="fieldDots">
+        <button class="field-dot active" onclick="fieldGoTo(0)"></button>
+        <button class="field-dot" onclick="fieldGoTo(1)"></button>
+        <button class="field-dot" onclick="fieldGoTo(2)"></button>
+        <button class="field-dot" onclick="fieldGoTo(3)"></button>
+        <button class="field-dot" onclick="fieldGoTo(4)"></button>
+      </div>
+      <div class="field-arrows">
+        <button class="field-arrow" onclick="fieldStep(-1)" aria-label="Précédent">
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="9,2 4,7 9,12"/></svg>
+        </button>
+        <button class="field-arrow" onclick="fieldStep(1)" aria-label="Suivant">
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="5,2 10,7 5,12"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- ══ PROOF ══ -->
 <section class="proof" data-hidden="restore-when-photos-ready" style="display:none;">
 <div class="proof-inner">
@@ -1851,57 +1902,6 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 </div>
 </section>
-<!-- ══ FIELD CAROUSEL ══ -->
-<div class="field">
-  <div class="field-inner">
-    <div class="field-header">
-      <p class="sec-label">Kollder sur le terrain</p>
-      <h2 class="sec-title" style="margin-bottom:0;">Déployé.<br><em>Partout où c'est nécessaire.</em></h2>
-    </div>
-    <div class="field-track-wrap" id="fieldTrackWrap">
-      <div class="field-track" id="fieldTrack">
-        <div class="field-slide">
-          <img src="/images/Kollder Go - ground - fr.png" alt="Kollder Go - Intervention au sol">
-          <div class="field-slide-label">Kollder Go &mdash; Terrain naturel</div>
-        </div>
-        <div class="field-slide">
-          <img src="/images/Kollder Go - medical event - fr.png" alt="Kollder Go - Poste médical événement">
-          <div class="field-slide-label">Kollder Go &mdash; Événement médical</div>
-        </div>
-        <div class="field-slide">
-          <img src="/images/Kollder One - firefighters - fr.png" alt="Kollder One - Sapeurs-pompiers">
-          <div class="field-slide-label">Kollder One &mdash; Sapeurs-pompiers</div>
-        </div>
-        <div class="field-slide">
-          <img src="/images/Kollder One - medical event - fr.png" alt="Kollder One - Poste médical événement">
-          <div class="field-slide-label">Kollder One &mdash; Événement médical</div>
-        </div>
-        <div class="field-slide">
-          <img src="/images/Kollder One - military - fr.png" alt="Kollder One - Équipe médicale militaire">
-          <div class="field-slide-label">Kollder One &mdash; Équipe militaire</div>
-        </div>
-      </div>
-    </div>
-    <div class="field-nav">
-      <div class="field-dots" id="fieldDots">
-        <button class="field-dot active" onclick="fieldGoTo(0)"></button>
-        <button class="field-dot" onclick="fieldGoTo(1)"></button>
-        <button class="field-dot" onclick="fieldGoTo(2)"></button>
-        <button class="field-dot" onclick="fieldGoTo(3)"></button>
-        <button class="field-dot" onclick="fieldGoTo(4)"></button>
-      </div>
-      <div class="field-arrows">
-        <button class="field-arrow" onclick="fieldStep(-1)" aria-label="Précédent">
-          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="9,2 4,7 9,12"/></svg>
-        </button>
-        <button class="field-arrow" onclick="fieldStep(1)" aria-label="Suivant">
-          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="5,2 10,7 5,12"/></svg>
-        </button>
-      </div>
-    </div>
-  </div>
-</div>
-
 <!-- ══ SPECS ACCORDION ══ -->
 <section class="specs">
 <div class="specs-inner">
