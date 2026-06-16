@@ -908,8 +908,8 @@ h1 em {
 }
 .field-slide {
   flex: 0 0 auto;
-  width: 520px;
-  height: 360px;
+  width: 560px;
+  height: 420px;
   position: relative;
   overflow: hidden;
   background: var(--beige);
@@ -918,12 +918,10 @@ h1 em {
 .field-slide img {
   width: 100%; height: 100%;
   object-fit: cover; display: block;
-  transition: transform 0.5s ease, filter 0.5s ease;
-  filter: grayscale(15%);
+  transition: transform 0.5s ease;
 }
 .field-slide:hover img {
-  transform: scale(1.03);
-  filter: grayscale(0%);
+  transform: scale(1.02);
 }
 
 .field-nav {
@@ -974,7 +972,7 @@ h1 em {
 @media (max-width: 768px) {
   .field { padding: 56px 0; }
   .field-inner { padding: 0 20px; }
-  .field-slide { width: 80vw; height: 260px; }
+  .field-slide { width: 85vw; height: 300px; }
   .field-header { margin-bottom: 32px; }
 }
 
