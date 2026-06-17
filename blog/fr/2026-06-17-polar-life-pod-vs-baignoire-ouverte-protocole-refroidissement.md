@@ -1,7 +1,7 @@
 ---
-title: "Polar Life Pod vs baignoire ouverte : lequel respecte vraiment le protocole de refroidissement d'urgence ?"
+title: "Polar Life Pod vs Kollder : pourquoi une baignoire ouverte respecte mieux le protocole de refroidissement d'urgence"
 date: 2026-06-17
-description: "Comparatif scientifique entre le Polar Life Pod et une baignoire ouverte de refroidissement d'urgence pour le traitement du coup de chaleur d'effort : accès patient, surveillance, protocole ACSM et origine du produit."
+description: "Comparatif scientifique entre le Polar Life Pod et Kollder pour le traitement du coup de chaleur d'effort : accès patient, surveillance des voies aériennes, protocole ACSM 2023 et origine du produit."
 category: "Protocoles médicaux"
 layout: layouts/article.njk
 lang: fr

@@ -1,7 +1,7 @@
 ---
-title: "Polar Life Pod vs open immersion tub: which one actually follows the exertional heat stroke protocol?"
+title: "Polar Life Pod vs Kollder: why an open immersion tub better follows the exertional heat stroke protocol"
 date: 2026-06-17
-description: "A science-based comparison of the Polar Life Pod closed bag and an open cold water immersion tub for exertional heat stroke treatment: patient access, airway monitoring, ACSM 2023 protocol compliance, and product origin."
+description: "A science-based comparison of the Polar Life Pod and Kollder for exertional heat stroke treatment: patient access, airway monitoring, ACSM 2023 protocol compliance, and product origin."
 category: "Field Protocols"
 layout: layouts/article.njk
 lang: en
