@@ -4,5 +4,7 @@
 /*.css
   Content-Type: text/css; charset=utf-8
 
-/downloads/*
+/downloads/*.pdf
+  Content-Type: application/pdf
   X-Robots-Tag: noindex
+  Content-Disposition: attachment
