@@ -1821,6 +1821,78 @@ h1           { animation: up .5s ease both .2s; }
   .logo-badge img { height: 28px; }
   .stat-num { font-size: 2rem; }
 }
+
+/* ── Kollder sticky guide card ───────────────────────────────── */
+#kGuideSticky{
+  position:fixed;right:24px;top:50%;transform:translateY(-50%) translateX(320px);
+  width:252px;background:#1A1917;border-radius:12px;padding:20px;
+  display:flex;flex-direction:column;gap:12px;z-index:9000;
+  transition:transform .4s cubic-bezier(.22,1,.36,1);
+  box-shadow:0 8px 32px rgba(0,0,0,.45);
+}
+#kGuideSticky.kg-visible{transform:translateY(-50%) translateX(0);}
+#kGuideSticky.kg-hidden{display:none;}
+.kg-close{position:absolute;top:12px;right:14px;background:none;border:none;
+  cursor:pointer;color:#8A8580;font-size:18px;line-height:1;padding:0;}
+.kg-close:hover{color:#fff;}
+.kg-eyebrow{font-size:10px;letter-spacing:.12em;color:#8A8580;
+  text-transform:uppercase;margin:0;}
+.kg-headline{font-family:'Playfair Display',Georgia,serif;font-size:15px;
+  font-weight:700;color:#fff;line-height:1.35;margin:0;}
+.kg-sub{font-size:12px;color:#8A8580;line-height:1.5;margin:0;}
+.kg-divider{border:none;border-top:1px solid #2A2927;margin:2px 0;}
+.kg-benefits{display:flex;flex-direction:column;gap:7px;}
+.kg-benefit{display:flex;align-items:flex-start;gap:8px;}
+.kg-benefit-icon{font-size:13px;color:#F5F0E8;margin-top:1px;flex-shrink:0;}
+.kg-benefit-text{font-size:11px;color:#B0ABA6;line-height:1.4;}
+.kg-benefit-text strong{color:#F5F0E8;font-weight:500;}
+.kg-input{width:100%;background:#2A2927;border:1px solid #333;border-radius:6px;
+  padding:8px 10px;font-size:12px;color:#fff;font-family:inherit;
+  box-sizing:border-box;outline:none;}
+.kg-input::placeholder{color:#555;}
+.kg-input:focus{border-color:#666;}
+.kg-btn{width:100%;background:#fff;color:#1A1917;border:none;border-radius:6px;
+  padding:10px;font-size:12px;font-weight:600;font-family:inherit;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;gap:6px;
+  transition:opacity .2s;}
+.kg-btn:hover{opacity:.88;}
+.kg-btn:disabled{opacity:.55;cursor:not-allowed;}
+.kg-fine{font-size:10px;color:#555;text-align:center;margin:0;}
+.kg-success{display:none;flex-direction:column;gap:12px;}
+.kg-success-icon{width:34px;height:34px;background:#2A2927;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;font-size:16px;color:#F5F0E8;}
+.kg-success-title{font-family:'Playfair Display',Georgia,serif;font-size:16px;
+  font-weight:700;color:#fff;margin:0;}
+.kg-success-sub{font-size:12px;color:#8A8580;line-height:1.5;margin:0;}
+.kg-dl-btn{width:100%;background:transparent;color:#F5F0E8;
+  border:1px solid #444;border-radius:6px;padding:10px;font-size:12px;
+  font-weight:500;font-family:inherit;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;gap:6px;
+  text-decoration:none;transition:border-color .2s;}
+.kg-dl-btn:hover{border-color:#888;}
+@media(max-width:768px){
+  #kGuideSticky{
+    right:0;left:0;bottom:0;top:auto;width:100%;border-radius:12px 12px 0 0;
+    transform:translateY(100%);padding:16px 18px;
+    transition:transform .35s cubic-bezier(.22,1,.36,1);
+  }
+  #kGuideSticky.kg-visible{transform:translateY(0);}
+  .kg-compact{display:flex;align-items:center;gap:10px;}
+  .kg-compact-text{flex:1;}
+  .kg-compact-title{font-family:'Playfair Display',Georgia,serif;font-size:13px;
+    font-weight:700;color:#fff;margin:0 0 2px;}
+  .kg-compact-sub{font-size:11px;color:#8A8580;margin:0;}
+  .kg-compact-cta{background:#fff;color:#1A1917;border:none;border-radius:6px;
+    padding:8px 12px;font-size:11px;font-weight:600;white-space:nowrap;
+    cursor:pointer;font-family:inherit;}
+  .kg-expanded{display:none;}
+  #kGuideSticky.kg-mob-expanded .kg-compact{display:none;}
+  #kGuideSticky.kg-mob-expanded .kg-expanded{display:flex;flex-direction:column;gap:10px;}
+}
+@media(min-width:769px){
+  .kg-compact{display:none;}
+  .kg-expanded{display:flex;flex-direction:column;gap:12px;}
+}
 </style>
 
 <!-- ══ WHO WE SERVE ══ -->
@@ -2352,5 +2424,165 @@ if (form) {
   });
 })();
 </script>
+
+<!-- ── Kollder guide sticky card ───────────────────────────── -->
+<div id="kGuideSticky" role="complementary" aria-label="Télécharger le guide coup de chaleur">
+  <button class="kg-close" aria-label="Fermer" id="kGuideClose">&#215;</button>
+
+  <!-- MOBILE compact bar -->
+  <div class="kg-compact">
+    <div class="kg-compact-text">
+      <p class="kg-compact-title">Un coup de chaleur peut tuer en 30 min.</p>
+      <p class="kg-compact-sub">Protocole · 7 fiches · Cadre légal — gratuit</p>
+    </div>
+    <button class="kg-compact-cta" id="kMobExpand">Recevoir →</button>
+  </div>
+
+  <!-- DESKTOP full card + MOBILE expanded -->
+  <div class="kg-expanded">
+    <div>
+      <p class="kg-eyebrow">Guide terrain gratuit · 16 pages</p>
+      <p class="kg-headline">Cet été, un coup de chaleur peut tuer en 30 minutes.</p>
+    </div>
+    <p class="kg-sub">Êtes-vous équipé pour intervenir ?</p>
+    <hr class="kg-divider"/>
+    <div class="kg-benefits">
+      <div class="kg-benefit">
+        <span class="kg-benefit-icon">&#9654;</span>
+        <span class="kg-benefit-text"><strong>Protocole pas à pas</strong> — de la détection à l'évacuation.</span>
+      </div>
+      <div class="kg-benefit">
+        <span class="kg-benefit-icon">&#9654;</span>
+        <span class="kg-benefit-text"><strong>7 fiches audience</strong> — SDIS, SAMU, hôpitaux, événements, militaire.</span>
+      </div>
+      <div class="kg-benefit">
+        <span class="kg-benefit-icon">&#9654;</span>
+        <span class="kg-benefit-text"><strong>Données comparées</strong> — vitesses de refroidissement, fenêtre des 30 min.</span>
+      </div>
+      <div class="kg-benefit">
+        <span class="kg-benefit-icon">&#9654;</span>
+        <span class="kg-benefit-text"><strong>Cadre légal</strong> — ACSM 2023, IOC/BJSM, SFAR, Décret 2025-482.</span>
+      </div>
+    </div>
+    <hr class="kg-divider"/>
+    <!-- Form state -->
+    <div id="kGuideForm" style="display:flex;flex-direction:column;gap:8px;">
+      <input class="kg-input" type="email" id="kEmail" placeholder="Email professionnel" required autocomplete="email"/>
+      <input class="kg-input" type="text" id="kOrg" placeholder="Organisation" required/>
+      <button class="kg-btn" id="kSubmit" type="button">
+        Recevoir le guide gratuit &#8594;
+      </button>
+      <p class="kg-fine">Réservé aux professionnels de santé et de sécurité.</p>
+    </div>
+    <!-- Success state -->
+    <div id="kGuideSuccess" class="kg-success">
+      <div class="kg-success-icon">&#10003;</div>
+      <div>
+        <p class="kg-success-title">Votre guide est prêt.</p>
+        <p class="kg-success-sub">Préparez vos équipes avant la prochaine intervention.</p>
+      </div>
+      <a class="kg-dl-btn" id="kDlBtn" href="/downloads/kollder-guide-cce-2026.pdf" target="_blank" rel="noopener">
+        &#8595; Télécharger le guide — PDF 16 pages
+      </a>
+    </div>
+  </div>
+</div>
+<!-- ── END sticky card ─────────────────────────────────────── -->
+
+
+<script>
+(function(){
+  var STORAGE_KEY = 'kg_dismissed';
+  var FORM_ID     = 'mykovqeg';
+  var sticky      = document.getElementById('kGuideSticky');
+  var closeBtn    = document.getElementById('kGuideClose');
+  var submitBtn   = document.getElementById('kSubmit');
+  var emailIn     = document.getElementById('kEmail');
+  var orgIn       = document.getElementById('kOrg');
+  var formDiv     = document.getElementById('kGuideForm');
+  var successDiv  = document.getElementById('kGuideSuccess');
+  var mobExpand   = document.getElementById('kMobExpand');
+
+  if (!sticky) return;
+
+  // Don't show if already dismissed this session
+  if (sessionStorage.getItem(STORAGE_KEY)) { sticky.classList.add('kg-hidden'); return; }
+
+  // Show after 15% scroll
+  var shown = false;
+  function onScroll() {
+    if (shown) return;
+    var pct = window.scrollY / (document.body.scrollHeight - window.innerHeight);
+    if (pct >= 0.15) {
+      shown = true;
+      sticky.classList.add('kg-visible');
+      window.removeEventListener('scroll', onScroll);
+    }
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  // Close button
+  closeBtn.addEventListener('click', function(){
+    sticky.classList.remove('kg-visible');
+    setTimeout(function(){ sticky.classList.add('kg-hidden'); }, 400);
+    sessionStorage.setItem(STORAGE_KEY, '1');
+  });
+
+  // Mobile expand
+  if (mobExpand) {
+    mobExpand.addEventListener('click', function(){
+      sticky.classList.add('kg-mob-expanded');
+    });
+  }
+
+  // Form submission
+  submitBtn.addEventListener('click', function(){
+    var email = emailIn.value.trim();
+    var org   = orgIn.value.trim();
+    if (!email || !org) {
+      emailIn.style.borderColor = email ? '#333' : '#c0392b';
+      orgIn.style.borderColor   = org   ? '#333' : '#c0392b';
+      return;
+    }
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Envoi en cours...';
+
+    var data = new FormData();
+    data.append('email', email);
+    data.append('organisation', org);
+    data.append('_subject', 'Téléchargement guide CCE — kollder.com');
+    data.append('source', 'sticky-card');
+
+    fetch('https://formspree.io/f/' + FORM_ID, {
+      method: 'POST',
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    })
+    .then(function(r){ return r.json(); })
+    .then(function(json){
+      if (json.ok || json.next) {
+        formDiv.style.display = 'none';
+        successDiv.style.display = 'flex';
+      } else {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Réessayer →';
+      }
+    })
+    .catch(function(){
+      // On network error still show download (graceful degradation)
+      formDiv.style.display = 'none';
+      successDiv.style.display = 'flex';
+    });
+  });
+
+  // Allow enter key on inputs
+  [emailIn, orgIn].forEach(function(inp){
+    inp.addEventListener('keydown', function(e){
+      if (e.key === 'Enter') submitBtn.click();
+    });
+  });
+})();
+</script>
+
 </body>
 </html>

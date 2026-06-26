@@ -3,3 +3,6 @@
 
 /*.css
   Content-Type: text/css; charset=utf-8
+
+/downloads/*
+  X-Robots-Tag: noindex
