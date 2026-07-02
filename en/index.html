@@ -878,54 +878,103 @@ h1 em {
   line-height: 1.55;
 }
 
-/* ── FIELD PHOTOS ── */
+/* ── FIELD CAROUSEL ── */
 .field {
   background: var(--cream);
-  padding: 0;
+  padding: 80px 0 80px;
   border-top: 1px solid var(--border);
+  overflow: hidden;
 }
-.field-grid {
-  display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  grid-template-rows: 320px 320px;
-  gap: 3px;
+.field-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 56px;
 }
-.field-cell {
+.field-header {
+  margin-bottom: 48px;
+}
+.field-track-wrap {
+  position: relative;
+  overflow: hidden;
+  cursor: grab;
+  user-select: none;
+}
+.field-track-wrap:active { cursor: grabbing; }
+.field-track {
+  display: flex;
+  gap: 20px;
+  transition: transform 0.45s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  will-change: transform;
+}
+.field-slide {
+  flex: 0 0 auto;
+  width: 560px;
+  height: 420px;
   position: relative;
   overflow: hidden;
   background: var(--beige);
+  border-radius: 4px;
 }
-.field-cell.large { grid-row: 1 / 3; }
-.field-cell img {
+.field-slide img {
   width: 100%; height: 100%;
   object-fit: cover; display: block;
-  filter: grayscale(20%);
-  transition: filter .35s;
+  transition: transform 0.5s ease;
 }
-.field-cell:hover img { filter: grayscale(0%); }
-/*
-  ═══════════════════════════════════════════════
-  HOW TO ADD FIELD PHOTOS:
+.field-slide:hover img {
+  transform: scale(1.02);
+}
 
-  Replace each .field-ph div inside .field-cell with:
-  <img src="photo-field-1.jpg" alt="Kollder in the field">
-
-  The large cell (first one) is the hero field photo.
-  Use your best action shot there.
-  5 photos total: field-1.jpg (large) + field-2 to 5.jpg
-  ═══════════════════════════════════════════════
-*/
-.field-ph {
-  width: 100%; height: 100%;
-  display: flex; flex-direction: column;
-  align-items: center; justify-content: center;
-  gap: 10px; color: var(--sand); background: var(--beige);
+.field-nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 28px;
+  padding: 0 4px;
 }
-.field-ph span {
-  font-size: 10px; letter-spacing: .15em;
-  text-transform: uppercase; color: var(--sand);
+.field-dots {
+  display: flex;
+  gap: 6px;
+  flex: 1;
 }
-.field-ph svg { opacity: .25; }
+.field-dot {
+  width: 24px; height: 2px;
+  background: var(--sand);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.25s, width 0.25s;
+  border-radius: 1px;
+}
+.field-dot.active {
+  background: var(--ink);
+  width: 40px;
+}
+.field-arrows {
+  display: flex;
+  gap: 8px;
+}
+.field-arrow {
+  width: 36px; height: 36px;
+  border: 1px solid var(--border);
+  background: var(--white);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+  color: var(--ink);
+}
+.field-arrow:hover {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.field-arrow svg { pointer-events: none; }
+@media (max-width: 768px) {
+  .field { padding: 56px 0; }
+  .field-inner { padding: 0 20px; }
+  .field-slide { width: 85vw; height: 300px; }
+  .field-header { margin-bottom: 32px; }
+}
 
 /* ── SPECS ACCORDION ── */
 .specs {
@@ -1234,9 +1283,6 @@ h1           { animation: up .5s ease both .2s; }
   .benefits-grid { grid-template-columns: 1fr; gap: 2px; }
   .icp-grid      { grid-template-columns: 1fr 1fr; gap: 3px; }
 
-  .field-grid { grid-template-columns: 1fr 1fr; grid-template-rows: auto; }
-  .field-cell.large { grid-row: auto; grid-column: 1 / 3; }
-
   /* Agit stats: stack vertically, numbers smaller */
   .agit-stats { flex-direction: column; gap: 3px; }
   .stat-block { width: 100%; }
@@ -1298,11 +1344,6 @@ h1           { animation: up .5s ease both .2s; }
 
   /* ── ICP : single column on small mobile ── */
   .icp-grid { grid-template-columns: 1fr; }
-
-  /* ── Field photos ── */
-  .field-grid { grid-template-columns: 1fr; grid-template-rows: auto; }
-  .field-cell.large { grid-column: auto; }
-  .field-cell { min-height: 180px; }
 
   /* ── SPECS & FAQ ── */
   .specs { padding: 44px 20px; }
@@ -1674,36 +1715,50 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 </div>
 </section>
-<!-- ══ FIELD PHOTOS ══ -->
-<div class="field" data-hidden="restore-when-photos-ready" style="display:none;">
-<div class="field-grid">
-<div class="field-cell large">
-<!--
-        GRANDE PHOTO TERRAIN
-        <img src="field-1.jpg" alt="Kollder in action">
-      -->
-<div class="field-ph">
-<svg fill="none" height="36" stroke="currentColor" stroke-width="1" viewbox="0 0 48 36" width="48"><rect height="32" rx="2" width="44" x="2" y="2"></rect><circle cx="14" cy="13" r="5"></circle><path d="M2 28l12-10 8 8 8-6 10 8"></path></svg>
-<span>Large field photo</span>
-</div>
-</div>
-<div class="field-cell">
-<!-- <img src="field-2.jpg" alt=""> -->
-<div class="field-ph"><svg fill="none" height="24" stroke="currentColor" stroke-width="1" viewbox="0 0 48 36" width="32"><rect height="32" rx="2" width="44" x="2" y="2"></rect><circle cx="14" cy="13" r="5"></circle><path d="M2 28l12-10 8 8 8-6 10 8"></path></svg><span>Photo 2</span></div>
-</div>
-<div class="field-cell">
-<!-- <img src="field-3.jpg" alt=""> -->
-<div class="field-ph"><svg fill="none" height="24" stroke="currentColor" stroke-width="1" viewbox="0 0 48 36" width="32"><rect height="32" rx="2" width="44" x="2" y="2"></rect><circle cx="14" cy="13" r="5"></circle><path d="M2 28l12-10 8 8 8-6 10 8"></path></svg><span>Photo 3</span></div>
-</div>
-<div class="field-cell">
-<!-- <img src="field-4.jpg" alt=""> -->
-<div class="field-ph"><svg fill="none" height="24" stroke="currentColor" stroke-width="1" viewbox="0 0 48 36" width="32"><rect height="32" rx="2" width="44" x="2" y="2"></rect><circle cx="14" cy="13" r="5"></circle><path d="M2 28l12-10 8 8 8-6 10 8"></path></svg><span>Photo 4</span></div>
-</div>
-<div class="field-cell">
-<!-- <img src="field-5.jpg" alt=""> -->
-<div class="field-ph"><svg fill="none" height="24" stroke="currentColor" stroke-width="1" viewbox="0 0 48 36" width="32"><rect height="32" rx="2" width="44" x="2" y="2"></rect><circle cx="14" cy="13" r="5"></circle><path d="M2 28l12-10 8 8 8-6 10 8"></path></svg><span>Photo 5</span></div>
-</div>
-</div>
+<!-- ══ FIELD CAROUSEL ══ -->
+<div class="field">
+  <div class="field-inner">
+    <div class="field-header">
+      <p class="sec-label">Kollder in the field</p>
+      <h2 class="sec-title" style="margin-bottom:0;">Deployed.<br><em>Wherever it's needed.</em></h2>
+    </div>
+    <div class="field-track-wrap" id="fieldTrackWrap">
+      <div class="field-track" id="fieldTrack">
+        <div class="field-slide">
+          <img src="/images/Kollder Go - ground - en.png" alt="Kollder Go - Ground intervention">
+        </div>
+        <div class="field-slide">
+          <img src="/images/Kollder Go - medical event - en.png" alt="Kollder Go - Medical event station">
+        </div>
+        <div class="field-slide">
+          <img src="/images/Kollder One - firefighters - en.png" alt="Kollder One - Firefighters">
+        </div>
+        <div class="field-slide">
+          <img src="/images/Kollder One - medical event - en.png" alt="Kollder One - Medical event station">
+        </div>
+        <div class="field-slide">
+          <img src="/images/Kollder One - military - en.png" alt="Kollder One - Military medical team">
+        </div>
+      </div>
+    </div>
+    <div class="field-nav">
+      <div class="field-dots" id="fieldDots">
+        <button class="field-dot active" onclick="fieldGoTo(0)"></button>
+        <button class="field-dot" onclick="fieldGoTo(1)"></button>
+        <button class="field-dot" onclick="fieldGoTo(2)"></button>
+        <button class="field-dot" onclick="fieldGoTo(3)"></button>
+        <button class="field-dot" onclick="fieldGoTo(4)"></button>
+      </div>
+      <div class="field-arrows">
+        <button class="field-arrow" onclick="fieldStep(-1)" aria-label="Previous">
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="9,2 4,7 9,12"/></svg>
+        </button>
+        <button class="field-arrow" onclick="fieldStep(1)" aria-label="Next">
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="5,2 10,7 5,12"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
 </div>
 <!-- ══ SPECS ACCORDION ══ -->
 <section class="specs">
@@ -2103,6 +2158,71 @@ if (form) {
       btn.classList.remove('open');
       document.body.style.overflow = '';
     });
+  });
+})();
+
+// ── FIELD CAROUSEL ──────────────────────────────────────────────
+(function() {
+  var track = document.getElementById('fieldTrack');
+  var wrap = document.getElementById('fieldTrackWrap');
+  var dots = document.querySelectorAll('.field-dot');
+  if (!track) return;
+
+  var current = 0;
+  var total = track.children.length;
+
+  function getSlideWidth() {
+    var slide = track.children[0];
+    if (!slide) return 540;
+    var style = window.getComputedStyle(track);
+    var gap = parseInt(style.gap || style.columnGap || '20') || 20;
+    return slide.offsetWidth + gap;
+  }
+
+  window.fieldGoTo = function(n) {
+    current = Math.max(0, Math.min(n, total - 1));
+    track.style.transform = 'translateX(-' + (current * getSlideWidth()) + 'px)';
+    dots.forEach(function(d, i) {
+      d.classList.toggle('active', i === current);
+    });
+  };
+
+  window.fieldStep = function(dir) {
+    var next = current + dir;
+    if (next < 0) next = total - 1;
+    if (next >= total) next = 0;
+    window.fieldGoTo(next);
+  };
+
+  // Drag / swipe
+  var startX = 0, startScroll = 0, dragging = false;
+  wrap.addEventListener('mousedown', function(e) {
+    dragging = true; startX = e.pageX;
+    startScroll = current * getSlideWidth();
+    wrap.style.cursor = 'grabbing';
+  });
+  document.addEventListener('mouseup', function(e) {
+    if (!dragging) return;
+    dragging = false;
+    wrap.style.cursor = 'grab';
+    var diff = startX - e.pageX;
+    if (Math.abs(diff) > 60) window.fieldStep(diff > 0 ? 1 : -1);
+    else window.fieldGoTo(current);
+  });
+  wrap.addEventListener('touchstart', function(e) {
+    startX = e.touches[0].pageX;
+  }, { passive: true });
+  wrap.addEventListener('touchend', function(e) {
+    var diff = startX - e.changedTouches[0].pageX;
+    if (Math.abs(diff) > 50) window.fieldStep(diff > 0 ? 1 : -1);
+  }, { passive: true });
+
+  // Auto-advance every 5s
+  var timer = setInterval(function() { window.fieldStep(1); }, 5000);
+  wrap.addEventListener('mouseenter', function() { clearInterval(timer); });
+  wrap.addEventListener('mouseleave', function() {
+    clearInterval(timer);
+    timer = setInterval(function() { window.fieldStep(1); }, 5000);
   });
 })();
 </script>
