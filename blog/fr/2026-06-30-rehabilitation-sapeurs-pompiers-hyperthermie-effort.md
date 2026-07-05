@@ -131,6 +131,7 @@ Le SSSM a un rôle central dans cette démarche : c'est lui qui valide la doctri
 
 ## Pour aller plus loin
 
+- [Équipement de réhabilitation thermique pour les SDIS](https://kollder.com/fr/sdis-pompiers/)
 - [Guide complet du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-06-16-guide-complet-coup-de-chaleur-d-effort/)
 - [Équipement de traitement du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-06-23-equipement-traitement-coup-de-chaleur-effort/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

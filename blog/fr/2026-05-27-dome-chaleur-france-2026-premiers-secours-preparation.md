@@ -94,9 +94,11 @@ La connaissance du protocole ne suffit pas si la baignoire n'est pas là. Voici 
 
 Les équipes de premiers secours ne peuvent pas se permettre une baignoire qui prend 5 minutes à monter à deux personnes. Elles ont besoin d'un équipement qui se déploie seul, immédiatement, sur n'importe quel terrain.
 
-Kollder a été conçue avec ces contraintes opérationnelles comme point de départ. Déploiement en moins de 30 secondes par une seule personne, structure inox résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, accès patient total pendant le refroidissement.
+Kollder a été conçue avec ces contraintes opérationnelles comme point de départ. Déploiement en moins de 2 minutes par une seule personne, structure inox résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, accès patient total pendant le refroidissement.
 
 Dans le contexte du dôme de chaleur de mai 2026 — et des épisodes qui vont se multiplier — disposer de cet équipement n'est plus une option.
+
+Les SDIS et sapeurs-pompiers peuvent retrouver [l'équipement de refroidissement dédié à leurs contraintes terrain](https://kollder.com/fr/sdis-pompiers/) sur notre page audience.
 
 Pour les équipes de secours qui souhaitent évaluer Kollder avant l'été : [kollder.com/#contact](https://kollder.com/#contact)
 

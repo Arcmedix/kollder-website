@@ -19,7 +19,7 @@ Le president de la Federation Nationale des Sapeurs-Pompiers a decrit des feux q
 Ce qui change aussi, c'est la geographie du risque. Des regions comme le Jura, la Bretagne ou la Charente -- qui n'etaient pas habituees aux feux de foret -- commencent a y etre confrontees. Cela signifie des SDIS moins prepares logistiquement a des interventions longues en ambiance chaude.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se deploie en moins de 30 secondes.</strong> Concue pour une utilisation terrain en conditions extremes.</p>
+<p><strong>Kollder se deploie en moins de 2 minutes.</strong> Concue pour une utilisation terrain en conditions extremes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -58,7 +58,7 @@ Le probleme sur les feux de foret est logistique. Le Vehicle Poste Medical Avanc
 - Un seul medecin ou infirmier pour plusieurs victimes potentielles
 - Equipement a transporter sur un vehicule deja charge
 
-C'est precisement cette contrainte qui a conduit au developpement de la baignoire de refroidissement Kollder -- deployable en moins de 30 secondes par une seule personne, transportable dans tout type de vehicule d'intervention.
+C'est precisement cette contrainte qui a conduit au developpement de la baignoire de refroidissement Kollder -- deployable en moins de 2 minutes par une seule personne, transportable dans tout type de vehicule d'intervention.
 
 ## Ce que les SDIS doivent anticiper avant la saison 2026
 
@@ -81,3 +81,5 @@ Sur les feux de longue duree, l'approvisionnement en glace pour maintenir la tem
 ## Preparer la saison 2026 : le moment c'est maintenant
 
 Nous sommes en mai 2026, au debut de la saison a risque. Les premiers feux significatifs de la saison interviennent generalement en juin dans le sud de la France. C'est maintenant qu'il faut verifier les equipements, mettre a jour les protocoles SSSM et s'assurer que chaque Vehicle Poste Medical Avance est pret a traiter un coup de chaleur d'effort sur le terrain.
+
+Pour les critères de choix d'un équipement de refroidissement adapté aux SDIS, consultez notre [page dédiée aux sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/).

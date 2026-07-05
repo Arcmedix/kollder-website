@@ -88,12 +88,13 @@ Un CCE sévère peut se compliquer d'un arrêt cardiaque. Dans ce cas : RCP imm�
 
 ## Kollder dans la politique d'équipement des SDIS
 
-Kollder est développée en réponse directe aux besoins opérationnels des sapeurs-pompiers. Déploiement en moins de 30 secondes par une seule personne, structure inox alimentaire résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, stabilité sur terrain non plat, accès patient complet.
+Kollder est développée en réponse directe aux besoins opérationnels des sapeurs-pompiers. Déploiement en moins de 2 minutes par une seule personne, structure inox alimentaire résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, stabilité sur terrain non plat, accès patient complet.
 
 Les SDIS, UIISC et services de déminage qui souhaitent intégrer Kollder dans leur politique d'équipement estival peuvent demander une démonstration terrain via [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 
+- [Solution de refroidissement d'urgence pour SDIS](https://kollder.com/fr/sdis-pompiers/)
 - [Équipement de refroidissement pour les feux de forêt](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
 - [Brancard baignoire : l'équipement que la BSPP déploie sur le terrain](https://kollder.com/blog/fr/2026-05-29-brancard-baignoire-bspp-refroidissement-terrain/)
 - [Cool First Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

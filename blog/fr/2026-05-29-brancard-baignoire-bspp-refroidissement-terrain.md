@@ -43,7 +43,7 @@ Une seule baignoire n'aurait pas suffi. La BSPP avait anticipé ce scénario et 
 
 Pour être utile sur le terrain, une baignoire de refroidissement d'urgence doit répondre à des contraintes opérationnelles précises que les baignoires domestiques ou hospitalières ne remplissent pas :
 
-**Déploiement immédiat** — moins de 2 minutes sur le terrain, idéalement moins de 30 secondes, par une seule personne.
+**Déploiement immédiat** — moins de 2 minutes sur le terrain, par une seule personne.
 
 **Portabilité** — s'intégrer replié dans un VSAV, un fourgon pompe-tonne ou un véhicule de commandement sans contraindre le reste du matériel.
 
@@ -55,12 +55,13 @@ Pour être utile sur le terrain, une baignoire de refroidissement d'urgence doit
 
 ## Kollder : conçue pour les contraintes des sapeurs-pompiers
 
-Kollder est la baignoire de refroidissement d'urgence développée pour répondre aux contraintes opérationnelles des équipes terrain — notamment les sapeurs-pompiers et les équipes SSSM. Sa structure inox alimentaire et son liner haute résistance permettent un déploiement en moins de 30 secondes par une seule personne, sur n'importe quel terrain, avec accès patient complet.
+Kollder est la baignoire de refroidissement d'urgence développée pour répondre aux contraintes opérationnelles des équipes terrain — notamment les sapeurs-pompiers et les équipes SSSM. Sa structure inox alimentaire et son liner haute résistance permettent un déploiement en moins de 2 minutes par une seule personne, sur n'importe quel terrain, avec accès patient complet.
 
 Les SDIS et SSSM qui souhaitent évaluer Kollder dans le cadre de leur politique d'équipement peuvent contacter l'équipe via [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 
+- [Équipement de refroidissement pour SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)
 - [Équipement de refroidissement pour les sapeurs-pompiers sur feux de forêt](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
 - [Baignoire de refroidissement d'urgence : définition complète](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)
 - [Cool First Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

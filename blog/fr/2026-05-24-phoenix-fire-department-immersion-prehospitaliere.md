@@ -46,6 +46,8 @@ L'expérience de Phoenix illustre trois points directement applicables :
 
 Face au [bilan de l'été 2025 en France](https://kollder.com/blog/fr/2026-05-24-bilan-chaleur-ete-2025-sante-publique-france/) — 5 700 décès, 24 000 recours aux urgences — les questions pratiques pour les équipes de terrain françaises sont directes : quel équipement de refroidissement est présent sur chaque véhicule exposé au risque CCE ? Les équipes sont-elles formées au protocole "cool first, transport second" ?
 
+Retrouvez l'[équipement de refroidissement d'urgence pensé pour les sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/) sur notre page dédiée aux SDIS.
+
 ## Sources
 
 - Comp G, Pugsley P, Stowell JR, et al., *Fighting Fire with Ice*, Prehospital Emergency Care, février 2026 — [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41739962/)
