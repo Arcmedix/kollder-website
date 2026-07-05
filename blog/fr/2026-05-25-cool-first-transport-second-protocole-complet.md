@@ -62,7 +62,7 @@ Avant Cool First Transport Second, les équipes improvisaient avec les moyens di
 
 Le protocole impose une contrainte logistique claire : **il faut une baignoire, de l'eau et de la glace, disponibles en moins de 2 minutes sur chaque intervention à risque**.
 
-C'est cette contrainte logistique que Kollder résout. La baignoire de refroidissement déployable en 30 secondes permet aux équipes terrain — SDIS, SSSM, équipes médicales événementielles — d'appliquer le protocole sans infrastructure préalable.
+C'est cette contrainte logistique que Kollder résout. La baignoire de refroidissement déployable en moins de 2 minutes permet aux équipes terrain — SDIS, SSSM, équipes médicales événementielles — d'appliquer le protocole sans infrastructure préalable.
 
 ## Qui doit connaître ce protocole ?
 

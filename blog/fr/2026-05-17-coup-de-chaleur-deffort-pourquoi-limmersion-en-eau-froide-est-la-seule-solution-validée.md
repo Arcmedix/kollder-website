@@ -94,7 +94,7 @@ Les contraintes opérationnelles sont réelles :
 - Les points d'eau ne sont pas toujours disponibles à proximité
 - Le temps de déploiement doit être inférieur au temps d'aggravation
 
-**La baignoire de refroidissement d'urgence Kollder a été conçue pour répondre précisément à cette contrainte** : déployable en moins de 30 secondes par une seule personne, transportable dans tout type de véhicule, utilisable sur n'importe quel type de sol.
+**La baignoire de refroidissement d'urgence Kollder a été conçue pour répondre précisément à cette contrainte** : déployable en moins de 2 minutes par une seule personne, transportable dans tout type de véhicule, utilisable sur n'importe quel type de sol.
 
 ---
 

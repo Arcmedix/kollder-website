@@ -48,7 +48,7 @@ Cela suppose que les véhicules SMUR soient équipés d'une baignoire de refroid
 
 C'est la mesure qui change le pronostic des cas sévères. Le Dr Douglas Casa (Korey Stringer Institute) a documenté 0 décès sur 401 cas de coup de chaleur sévère traités par immersion dans les 30 premières minutes. Ce chiffre est conditionné à la disponibilité de l'équipement sur le lieu d'intervention.
 
-Kollder est conçue pour s'intégrer dans tout véhicule de secours — déployable en moins de 30 secondes par une seule personne, avec accès patient complet pendant le refroidissement.
+Kollder est conçue pour s'intégrer dans tout véhicule de secours — déployable en moins de 2 minutes par une seule personne, avec accès patient complet pendant le refroidissement.
 
 ### 4. Coordonner avec les organisateurs d'événements sportifs
 

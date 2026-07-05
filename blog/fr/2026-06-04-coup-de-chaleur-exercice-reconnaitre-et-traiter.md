@@ -58,9 +58,9 @@ Le protocole **Cool First, Transport Second**, formalisé par l'ACSM et repris d
 
 Ce changement de paradigme implique que les équipements de refroidissement soient disponibles sur les lieux mêmes de l'urgence — pas uniquement à l'hôpital.
 
-## La baignoire Kollder : l'immersion partout, en 30 secondes
+## La baignoire Kollder : l'immersion partout, en moins de 2 minutes
 
-Déployer une cuve d'immersion sur un sentier de trail, dans une salle omnisports ou sur un chantier industriel n'était pas possible jusqu'ici avec des équipements classiques. La **baignoire de refroidissement Kollder** est conçue pour rendre la CWI opérationnelle partout : déployable en moins de 30 secondes par une seule personne, sur tout terrain, sans infrastructure.
+Déployer une cuve d'immersion sur un sentier de trail, dans une salle omnisports ou sur un chantier industriel n'était pas possible jusqu'ici avec des équipements classiques. La **baignoire de refroidissement Kollder** est conçue pour rendre la CWI opérationnelle partout : déployable en moins de 2 minutes par une seule personne, sur tout terrain, sans infrastructure.
 
 La cuve (205 × 65 × 35 cm déployée) permet une immersion complète du patient jusqu'aux épaules. Elle offre un accès total aux équipes médicales : surveillance clinique, thermométrie rectale, perfusion — sans devoir extraire le patient pendant le traitement. Pour les organisateurs d'événements sportifs, les SDIS ou les responsables EHS en milieu industriel, c'est la solution qui permet d'appliquer le protocole recommandé sans dépendre d'une infrastructure fixe.
 

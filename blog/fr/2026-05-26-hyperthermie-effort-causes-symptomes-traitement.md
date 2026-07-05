@@ -76,7 +76,7 @@ L'immersion en eau froide (1,5°C à 15°C) refroidit à **0,35°C par minute**,
 
 Connaître le protocole ne suffit pas. Sur le terrain, les équipes médicales sont souvent confrontées à l'absence d'équipement adapté : pas de baignoire, pas d'eau froide en quantité suffisante, pas de glace.
 
-C'est pour répondre à cet enjeu logistique que Kollder a été développée. La baignoire de refroidissement Kollder se déploie en **moins de 30 secondes, par une seule personne, sans infrastructure préalable**. Sa structure inox alimentaire et son liner haute résistance permettent une immersion corps entier conforme aux protocoles internationaux, avec accès complet au patient pour tous les gestes médicaux avancés.
+C'est pour répondre à cet enjeu logistique que Kollder a été développée. La baignoire de refroidissement Kollder se déploie en **moins de 2 minutes, par une seule personne, sans infrastructure préalable**. Sa structure inox alimentaire et son liner haute résistance permettent une immersion corps entier conforme aux protocoles internationaux, avec accès complet au patient pour tous les gestes médicaux avancés.
 
 Repliée, elle s'intègre dans tout véhicule de secours, VSAV, pick-up ou sac de portage. Déployée, elle permet d'appliquer le protocole Cool First Transport Second dans les conditions les plus contraignantes — feu de forêt, compétition sportive, site industriel.
 
