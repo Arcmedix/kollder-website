@@ -62,7 +62,9 @@ Depuis le 1er juillet 2025, le [décret n°2025-482](https://kollder.com/blog/fr
 
 Quand le coup de chaleur survient, chaque minute sans refroidissement aggrave le pronostic. Le protocole "cool first, transport second" — refroidir d'abord, transporter ensuite — est la règle clinique de référence internationale pour le CCE. Il ne peut s'appliquer que si l'équipement est présent sur le terrain, pas dans un dépôt.
 
-Santé Publique France conclut son rapport en notant que la société doit se préparer à des étés encore plus chauds. Pour les professionnels de terrain, cela se traduit par une question simple : avez-vous, sur chaque site exposé, la capacité de refroidir un patient par immersion en moins de 30 secondes ?
+Santé Publique France conclut son rapport en notant que la société doit se préparer à des étés encore plus chauds. Pour les professionnels de terrain, cela se traduit par une question simple : avez-vous, sur chaque site exposé, la capacité de refroidir un patient par immersion en moins de 2 minutes ?
+
+Retrouvez [l'équipement de refroidissement pour les dispositifs de secours et de protection civile](https://kollder.com/fr/protection-civile/) sur notre page dédiée.
 
 ## Sources
 
