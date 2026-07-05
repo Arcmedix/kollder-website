@@ -24,7 +24,7 @@ Le Dr Douglas Casa, CEO du Korey Stringer Institute (Université du Connecticut)
 
 Une baignoire de refroidissement d'urgence est conçue pour trois contraintes spécifiques que les baignoires classiques ne peuvent pas satisfaire :
 
-**Déploiement immédiat** — La baignoire doit être opérationnelle en moins de 30 secondes, par une seule personne, sans outillage. Les rigides nécessitent un transport spécifique et une infrastructure.
+**Déploiement immédiat** — La baignoire doit être opérationnelle en moins de 2 minutes, par une seule personne, sans outillage. Les rigides nécessitent un transport spécifique et une infrastructure.
 
 **Portabilité totale** — Elle doit s'intégrer dans un véhicule léger, un VTT de piste, un poste médical avancé ou un camion de pompiers, repliée sans encombrement.
 
@@ -59,11 +59,13 @@ La durée d'immersion recommandée est **jusqu'à ce que la température rectale
 
 La règle fondamentale : **Cool first, transport second**. Ne jamais transporter avant d'avoir refroidi.
 
-## Kollder : la baignoire de refroidissement d'urgence déployable en 30 secondes
+## Kollder : la baignoire de refroidissement d'urgence déployable en moins de 2 minutes
 
-Kollder est conçue pour répondre à ces exigences opérationnelles. Sa structure en inox alimentaire et son liner haute résistance permettent un déploiement par une seule personne en moins de 30 secondes, sur n'importe quel terrain.
+Kollder est conçue pour répondre à ces exigences opérationnelles. Sa structure en inox alimentaire et son liner haute résistance permettent un déploiement par une seule personne en moins de 2 minutes, sur n'importe quel terrain.
 
 Repliée, elle s'intègre dans tout véhicule de secours. Déployée, elle permet une immersion corps entier conforme aux protocoles internationaux.
+
+Retrouvez [l'équipement de refroidissement pour SAMU, SMUR et urgences hospitalières](https://kollder.com/fr/services-urgence-hopitaux/) sur notre page dédiée.
 
 Pour en savoir plus ou obtenir un devis : [contact@kollder.com](mailto:contact@kollder.com) ou [kollder.com/#contact](https://kollder.com/#contact)
 

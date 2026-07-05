@@ -73,10 +73,11 @@ Dans la pratique, de nombreuses équipes SMUR françaises transportent encore le
 
 Le résultat est documenté : les victimes arrivent aux urgences avec une température centrale encore élevée, après un délai qui dépasse souvent la fenêtre des 30 minutes. La prise en charge hospitalière est alors plus lourde et le pronostic plus sombre.
 
-Kollder est conçue pour répondre à ce déficit d'équipement préhospitalier. Sa baignoire se déploie en moins de 30 secondes par une seule personne et s'intègre dans tout véhicule SMUR. L'accès patient complet pendant l'immersion permet de maintenir l'ensemble des gestes de réanimation. Pour les équipes SMUR qui souhaitent l'évaluer : [kollder.com/#contact](https://kollder.com/#contact).
+Kollder est conçue pour répondre à ce déficit d'équipement préhospitalier. Sa baignoire se déploie en moins de 2 minutes par une seule personne et s'intègre dans tout véhicule SMUR. L'accès patient complet pendant l'immersion permet de maintenir l'ensemble des gestes de réanimation. Pour les équipes SMUR qui souhaitent l'évaluer : [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 
+- [L'équipement de refroidissement pour les équipes SMUR et SAMU](https://kollder.com/fr/services-urgence-hopitaux/)
 - [Cool First Transport Second : protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Traitement du CCE sur le terrain : guide des premiers intervenants](https://kollder.com/blog/fr/2026-05-29-traitement-coup-chaleur-effort-terrain-protocole/)
 - [Immersion eau froide vs autres méthodes](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

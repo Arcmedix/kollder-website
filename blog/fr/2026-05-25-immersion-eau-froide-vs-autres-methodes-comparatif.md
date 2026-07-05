@@ -85,6 +85,8 @@ La connaissance du protocole ne suffit pas — l'équipement doit être disponib
 
 C'est pourquoi la disponibilité d'une baignoire de refroidissement déployable — comme Kollder — est la condition logistique sine qua non de l'application correcte du protocole.
 
+Retrouvez [le matériel recommandé pour les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/) sur notre page dédiée.
+
 [Obtenir un devis Kollder](https://kollder.com/#contact)
 
 ---

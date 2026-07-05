@@ -76,6 +76,7 @@ Le consensus IOC de 2021 (Hosokawa, Racinais et al., BJSM) précise que la forma
 
 ## Pour aller plus loin
 
+- [Le protocole appliqué par les services d'urgence hospitaliers](https://kollder.com/fr/services-urgence-hopitaux/)
 - [Baignoire de refroidissement d'urgence : définition et protocole](/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)
 - [Immersion eau froide vs autres méthodes : comparatif chiffré](/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Demander un devis Kollder](https://kollder.com/#contact)

@@ -70,6 +70,8 @@ Météo-France confirme que la journée du mardi 27 mai a été la plus chaude j
 
 La préparation ne se fait pas pendant la crise. Elle se fait maintenant.
 
+Retrouvez [l'équipement de refroidissement recommandé pour les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/) sur notre page dédiée.
+
 Pour les services d'urgence qui souhaitent évaluer l'intégration de Kollder dans leur dispositif : [kollder.com/#contact](https://kollder.com/#contact)
 
 ---

@@ -92,6 +92,8 @@ La prévention de l'hyperthermie d'effort repose sur quatre piliers :
 
 **Équipement** — Disposer d'une baignoire de refroidissement déployable sur chaque intervention ou événement à risque. C'est la recommandation explicite du consensus IOC 2021 (Hosokawa, Racinais et al., BJSM).
 
+Retrouvez [l'équipement de refroidissement pour les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/) sur notre page dédiée.
+
 [Demander un devis ou une démonstration terrain Kollder](https://kollder.com/#contact)
 
 ---

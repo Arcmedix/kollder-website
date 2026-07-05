@@ -122,6 +122,7 @@ Après refroidissement :
 
 ## Pour aller plus loin
 
+- [Ce que les services d'urgence hospitaliers doivent mettre en place](https://kollder.com/fr/services-urgence-hopitaux/)
 - [Immersion en eau froide vs autres méthodes de refroidissement : comparatif](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Hyperthermie d'effort : conséquences sur les organes](https://kollder.com/blog/fr/2026-05-29-hyperthermie-effort-consequences-organes/)

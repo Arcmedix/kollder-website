@@ -55,6 +55,8 @@ Casa compare le protocole à l'utilisation d'un défibrillateur : *"Cool first, 
 - Inclure un thermomètre rectal dans le kit de base — les thermomètres frontaux ou auriculaires sont insuffisants pour le CCE
 - Ne pas attendre l'avis médical pour initier le refroidissement sur un patient suspect
 
+Retrouvez [l'application du protocole Cool First par les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/) sur notre page dédiée aux SAMU, SMUR et urgences hospitalières.
+
 ## Sources
 
 - SciLine, *Dr. Douglas Casa: Heat stroke care — Cool first, transport second*, novembre 2025 — [sciline.org](https://www.sciline.org/health-medicine/rapid-cooling-heat-stroke/)
