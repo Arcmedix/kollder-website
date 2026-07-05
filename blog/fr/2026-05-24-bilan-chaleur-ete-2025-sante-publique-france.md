@@ -48,7 +48,7 @@ Ce chiffre devrait figurer dans tout plan canicule d'entreprise, tout protocole 
 
 L'augmentation des interventions liées à la chaleur est structurelle. Les sapeurs-pompiers et les médecins du SSSM seront confrontés à davantage de cas de CCE potentiel lors des interventions estivales — pas seulement sur les feux de forêt, mais sur les chantiers, les événements sportifs, les manifestations en plein air.
 
-La question logistique est centrale : un équipement de refroidissement par immersion est-il disponible et déployable en moins de 30 secondes sur chaque véhicule ou poste avancé exposé au risque ?
+La question logistique est centrale : un équipement de refroidissement par immersion est-il disponible et déployable en moins de 2 minutes sur chaque véhicule ou poste avancé exposé au risque ?
 
 **Pour les médecins et infirmiers d'événements sportifs**
 
