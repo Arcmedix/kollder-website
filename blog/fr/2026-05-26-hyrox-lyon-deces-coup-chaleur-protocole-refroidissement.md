@@ -58,7 +58,7 @@ La question que cet événement pose est simple : si une baignoire de refroidiss
 
 On ne peut pas répondre avec certitude à cette question. Mais les données scientifiques indiquent que le refroidissement immédiat par immersion est le seul traitement dont l'efficacité est documentée à ce niveau.
 
-C'est pour répondre à cet enjeu logistique que Kollder a été développée. La baignoire de refroidissement Kollder se déploie en **moins de 30 secondes, par une seule personne**, dans n'importe quelle salle de compétition, n'importe quel parcours de trail, n'importe quel événement sportif. Sans infrastructure. Sans eau courante nécessaire au préalable.
+C'est pour répondre à cet enjeu logistique que Kollder a été développée. La baignoire de refroidissement Kollder se déploie en **moins de 2 minutes, par une seule personne**, dans n'importe quelle salle de compétition, n'importe quel parcours de trail, n'importe quel événement sportif. Sans infrastructure. Sans eau courante nécessaire au préalable.
 
 Sa conception ouverte permet un accès complet au patient pendant l'immersion — pour surveiller les voies aériennes, mesurer la température, intervenir médicalement si nécessaire.
 
@@ -67,6 +67,8 @@ Sa conception ouverte permet un accès complet au patient pendant l'immersion �
 L'été 2026 commence. Les prochains mois vont voir des dizaines de marathons, trails, triathlons et épreuves de fitness se dérouler en France et en Europe par des températures qui ne feront qu'augmenter.
 
 Le consensus scientifique est clair. Les exemples terrain se multiplient. Il reste à agir avant le prochain incident.
+
+Retrouvez [l'équipement que tout organisateur d'événement sportif doit prévoir](https://kollder.com/fr/assistance-medicale-evenements/) sur notre page dédiée.
 
 [Demander un devis ou une démonstration terrain pour votre événement](https://kollder.com/#contact)
 

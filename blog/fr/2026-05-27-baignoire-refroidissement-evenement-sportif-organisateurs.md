@@ -57,9 +57,11 @@ Lors de l'intervention de la BSPP à Maisons-Alfort le 24 mai 2026, plusieurs vi
 
 Kollder a été conçue en pensant aux contraintes spécifiques des événements sportifs : logistique réduite, équipe médicale de taille variable, terrain imprévisible, nécessité d'intervenir vite sur plusieurs victimes potentielles simultanées.
 
-Son déploiement en moins de 30 secondes par une seule personne permet à un infirmier ou un médecin de terrain de monter la baignoire pendant qu'un second soignant prend en charge la victime — sans perdre une seconde.
+Son déploiement en moins de 2 minutes par une seule personne permet à un infirmier ou un médecin de terrain de monter la baignoire pendant qu'un second soignant prend en charge la victime — sans perdre une seconde.
 
 Sa structure compacte repliée s'intègre dans une camionnette médicale, un véhicule de coordination ou même un coffre de voiture. Pas d'infrastructure fixe nécessaire. Pas d'eau courante nécessaire à l'avance.
+
+Retrouvez [la baignoire de refroidissement pour l'assistance médicale événementielle](https://kollder.com/fr/assistance-medicale-evenements/) sur notre page dédiée.
 
 Pour les organisateurs qui souhaitent équiper leur événement pour la saison estivale 2026 : [kollder.com/#contact](https://kollder.com/#contact)
 

@@ -60,6 +60,8 @@ En pratique, le protocole reste le même — l'immersion reste le meilleur trait
 - Arbre de décision pour les modifications d'épreuve selon les conditions WBGT
 - Coordination établie avec les hôpitaux récepteurs avant la compétition
 
+Retrouvez [les obligations d'un directeur médical d'événement sportif](https://kollder.com/fr/assistance-medicale-evenements/) sur notre page dédiée.
+
 ## Sources
 
 - Hosokawa Y, Racinais S, Akama T, Casa DJ, et al., *Prehospital management of exertional heat stroke at sports competitions: IOC Adverse Weather Impact Expert Working Group*, British Journal of Sports Medicine, 2021 — [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8639927/)

@@ -98,3 +98,5 @@ La ligne d'arrivee est le point critique -- c'est la que survient la majorite de
 5. Identifier les evacuations possibles vers les structures hospitalieres les plus proches
 6. Briefer le medecin responsable sur la regle "cool first, transport second"
 
+Pour l'equipement medical recommande pour les evenements sportifs, consultez notre [page dediee a l'assistance medicale evenementielle](https://kollder.com/fr/assistance-medicale-evenements/).
+

@@ -108,6 +108,7 @@ Pour les directeurs médicaux d'événements qui souhaitent l'intégrer à leur 
 
 ## Pour aller plus loin
 
+- [Le dispositif médical complet pour un événement sportif](https://kollder.com/fr/assistance-medicale-evenements/)
 - [Guide complet du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-06-16-guide-complet-coup-de-chaleur-d-effort/)
 - [Quel matériel pour traiter un coup de chaleur d'effort ?](https://kollder.com/blog/fr/2026-06-18-quel-materiel-traiter-coup-de-chaleur-d-effort/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

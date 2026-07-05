@@ -70,6 +70,7 @@ Plusieurs événements sportifs sont déjà en contact avec notre équipe pour i
 
 ## Pour aller plus loin
 
+- [L'équipement médical à prévoir pour un événement Hyrox](https://kollder.com/fr/assistance-medicale-evenements/)
 - [Hyrox et coup de chaleur : le risque thermique spécifique de cette discipline](https://kollder.com/blog/fr/2026-05-30-hyrox-coup-chaleur-risque-thermique-protocole/)
 - [Baignoire de refroidissement pour événement sportif : guide pour les organisateurs](https://kollder.com/blog/fr/2026-05-27-baignoire-refroidissement-evenement-sportif-organisateurs/)
 - [Immersion eau froide vs autres méthodes : comparatif chiffré](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

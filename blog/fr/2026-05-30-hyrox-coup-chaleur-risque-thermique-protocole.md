@@ -52,10 +52,11 @@ Cela implique concrètement :
 
 Un événement Hyrox réunit plusieurs milliers de participants sur plusieurs jours dans un espace intérieur. Les postes médicaux avancés sont fixes, mais la logistique doit permettre une intervention rapide sur n'importe quel point de la salle.
 
-Kollder répond à ces contraintes. Sa baignoire se déploie en moins de 30 secondes par une seule personne et peut être repositionnée rapidement entre les interventions. Sa structure ouverte permet l'accès complet au patient — surveillance des voies aériennes, mesure de température rectale, gestes médicaux avancés — pendant toute la durée de l'immersion. Pour les directeurs médicaux d'événements Hyrox qui souhaitent l'intégrer à leur dispositif : [kollder.com/#contact](https://kollder.com/#contact).
+Kollder répond à ces contraintes. Sa baignoire se déploie en moins de 2 minutes par une seule personne et peut être repositionnée rapidement entre les interventions. Sa structure ouverte permet l'accès complet au patient — surveillance des voies aériennes, mesure de température rectale, gestes médicaux avancés — pendant toute la durée de l'immersion. Pour les directeurs médicaux d'événements Hyrox qui souhaitent l'intégrer à leur dispositif : [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 
+- [Les obligations médicales pour les organisateurs d'Hyrox](https://kollder.com/fr/assistance-medicale-evenements/)
 - [Équipement médical obligatoire pour un trail ou marathon en canicule](https://kollder.com/blog/fr/2026-05-29-equipement-medical-trail-marathon-canicule/)
 - [Obligation d'équipement de refroidissement lors d'un événement sportif en France](https://kollder.com/blog/fr/2026-05-27-obligation-equipement-refroidissement-evenement-sportif-france/)
 - [Cool First Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
