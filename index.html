@@ -821,45 +821,23 @@ h1 em {
   background: var(--cream);
 }
 .icp-img {
-  aspect-ratio: 2/3;
+  aspect-ratio: 4/3;
   position: relative;
   overflow: hidden;
   background: var(--beige);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.icp-img img {
-  width: 100%; height: 100%;
-  object-fit: cover;
-  display: block;
-  filter: grayscale(40%);
-  transition: transform .4s, filter .4s;
+.icp-img svg {
+  width: 44px; height: 44px;
+  color: var(--black);
+  opacity: .82;
+  transition: transform .4s ease, opacity .4s ease;
 }
-.icp:hover .icp-img img {
-  transform: scale(1.03);
-  filter: grayscale(10%);
-}
-/*
-  ═══════════════════════════════════════════════
-  HOW TO ADD ICP PHOTOS:
-
-  Each .icp-img div contains a .icp-ph placeholder.
-  Replace each .icp-ph div with:
-  <img src="photo-icp-pompiers.jpg" alt="Pompiers">
-
-  There are 6 ICP cards total. Name your files clearly:
-  photo-icp-1.jpg, photo-icp-2.jpg ... photo-icp-6.jpg
-  ═══════════════════════════════════════════════
-*/
-.icp-ph {
-  width: 100%; height: 100%;
-  display: flex; flex-direction: column;
-  align-items: center; justify-content: center;
-  gap: 10px; color: var(--sand);
-  min-height: 280px;
-}
-.icp-ph svg { opacity: .3; }
-.icp-ph span {
-  font-size: 10px; letter-spacing: .15em;
-  text-transform: uppercase; color: var(--sand);
+.icp:hover .icp-img svg {
+  transform: scale(1.08);
+  opacity: 1;
 }
 .icp-info {
   padding: 20px 22px;
@@ -1929,7 +1907,7 @@ h1           { animation: up .5s ease both .2s; }
 <div class="icp-grid">
 <div class="icp reveal">
 <div class="icp-img">
-<img alt="Sapeurs pompiers intervention feux de forêt" src="/images/icp-firefighters.jpg" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(30%);"/>
+<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4C10 9 8 12 8 15a6 6 0 1012 0c0-3-2-6-6-11z"/><path d="M14 12c1 2 2 3 2 4.5a2 2 0 11-4 0c0-.8.3-1.3.6-1.8"/></svg>
 </div>
 <div class="icp-info">
 <div class="icp-title">Services d'incendie & secours</div>
@@ -1938,7 +1916,7 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 <div class="icp reveal d1">
 <div class="icp-img">
-<img alt="Forces armées désert" src="/images/icp-military.jpg" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(30%);"/>
+<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4l2.5 6.2 6.5.5-5 4.4 1.6 6.4L14 18l-5.6 3.5 1.6-6.4-5-4.4 6.5-.5z"/></svg>
 </div>
 <div class="icp-info">
 <div class="icp-title">Forces armées & spéciales</div>
@@ -1947,7 +1925,7 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 <div class="icp reveal d2">
 <div class="icp-img">
-<img alt="Défense civile MEA" src="/images/icp-civil-defense.jpg" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(30%);"/>
+<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4l8 3v6c0 6-4 9.5-8 11-4-1.5-8-5-8-11V7z"/></svg>
 </div>
 <div class="icp-info">
 <div class="icp-title">Défense civile & sécurité</div>
@@ -1956,7 +1934,7 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 <div class="icp reveal">
 <div class="icp-img">
-<img alt="Médecine tactique terrain" src="/images/icp-tactical-medicine.jpg" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(30%);"/>
+<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="14" cy="14" r="9"/><path d="M14 10v8M10 14h8"/></svg>
 </div>
 <div class="icp-info">
 <div class="icp-title">Médecine tactique & SAMU</div>
@@ -1965,7 +1943,7 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 <div class="icp reveal d1">
 <div class="icp-img">
-<img alt="Secours marathon événement sportif" src="/images/icp-marathon.jpg" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(30%);"/>
+<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M8 4v20"/><path d="M8 5h12l-3 3.5L20 12H8"/></svg>
 </div>
 <div class="icp-info">
 <div class="icp-title">Événements & sport de masse</div>
@@ -1974,7 +1952,7 @@ h1           { animation: up .5s ease both .2s; }
 </div>
 <div class="icp reveal d2">
 <div class="icp-img">
-<img alt="Travailleur oil and gas chaleur extrême" src="/images/icp-oil-gas.jpg" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(30%);"/>
+<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M6 18a8 8 0 1116 0z"/><path d="M4 18h20"/><path d="M14 6v4"/></svg>
 </div>
 <div class="icp-info">
 <div class="icp-title">Industrie, BTP, Oil & Gas, Transport</div>
