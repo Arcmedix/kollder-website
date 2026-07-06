@@ -1451,7 +1451,7 @@ h1           { animation: up .5s ease both .2s; }
 .video-portrait-wrap { position: relative; width: 100%; max-width: 360px; margin: 0 auto; aspect-ratio: 9/16; border-radius: 12px; overflow: hidden; box-shadow: 0 24px 64px rgba(0,0,0,0.5); }
 .video-portrait-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
 .video-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; max-width: 1040px; margin: 0 auto; }
-.video-grid .video-portrait-wrap { max-width: none; margin: 0; }
+.video-grid .video-portrait-wrap { max-width: none; margin: 0; cursor: pointer; }
 .ugc-video { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
 .ugc-play-overlay { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 52px; height: 52px; border-radius: 50%; background: rgba(0,0,0,0.45); border: 1px solid rgba(255,255,255,0.35); display: flex; align-items: center; justify-content: center; color: var(--white); transition: opacity 0.25s ease, transform 0.25s ease; pointer-events: none; }
 .ugc-card.is-playing .ugc-play-overlay { opacity: 0; transform: translate(-50%, -50%) scale(0.85); }
@@ -2375,7 +2375,7 @@ if (form) {
     video.addEventListener('pause', function() { card.classList.remove('is-playing'); });
 
     if (canHover) {
-      // Desktop: hover is the only trigger.
+      // Desktop: hover triggers playback.
       card.addEventListener('mouseenter', function() {
         var p = video.play();
         if (p && p.catch) p.catch(function() {});
@@ -2385,6 +2385,17 @@ if (form) {
         video.currentTime = 0;
       });
     }
+
+    // Click/tap always toggles play, regardless of device — a guaranteed fallback
+    // since a click is always treated as a valid trigger by browser autoplay policies.
+    card.addEventListener('click', function() {
+      if (video.paused) {
+        var p2 = video.play();
+        if (p2 && p2.catch) p2.catch(function() {});
+      } else {
+        video.pause();
+      }
+    });
   });
 
   if (!canHover && 'IntersectionObserver' in window) {
