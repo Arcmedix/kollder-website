@@ -56,6 +56,12 @@ Pour en savoir plus sur [la baignoire de refroidissement pour SDIS et sapeurs-po
 
 [Obtenir un devis ou une démonstration terrain](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Le rôle du SSSM dans le choix et la validation du matériel de refroidissement](https://kollder.com/blog/fr/2026-07-07-role-sssm-validation-materiel-refroidissement/)
+- [Brancard baignoire : l'équipement que la BSPP déploie sur le terrain](https://kollder.com/blog/fr/2026-05-29-brancard-baignoire-bspp-refroidissement-terrain/)
+- [Solutions Kollder pour les SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)
+
 ---
 
 *Source : @PompiersParis, post X du 24 mai 2026. Protocoles : SFAR, ACSM Expert Consensus Statement 2023, IOC BJSM 2021 (Hosokawa, Racinais et al.), Korey Stringer Institute.*

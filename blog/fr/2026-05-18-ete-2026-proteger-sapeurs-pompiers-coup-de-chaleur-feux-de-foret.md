@@ -83,3 +83,9 @@ Sur les feux de longue duree, l'approvisionnement en glace pour maintenir la tem
 Nous sommes en mai 2026, au debut de la saison a risque. Les premiers feux significatifs de la saison interviennent generalement en juin dans le sud de la France. C'est maintenant qu'il faut verifier les equipements, mettre a jour les protocoles SSSM et s'assurer que chaque Vehicle Poste Medical Avance est pret a traiter un coup de chaleur d'effort sur le terrain.
 
 Pour les critères de choix d'un équipement de refroidissement adapté aux SDIS, consultez notre [page dédiée aux sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/).
+
+## Pour aller plus loin
+
+- [Plan canicule et SDIS : ce que couvre (et ne couvre pas) le cadre réglementaire](https://kollder.com/blog/fr/2026-07-07-plan-canicule-sdis-cadre-reglementaire/)
+- [Coup de chaleur d'effort chez les jeunes sapeurs-pompiers (JSP) : spécificités et prévention](https://kollder.com/blog/fr/2026-07-07-coup-de-chaleur-effort-jeunes-sapeurs-pompiers-jsp/)
+- [Solutions Kollder pour les SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)

@@ -101,6 +101,7 @@ Les SDIS, équipes médicales événementielles et responsables EHS qui souhaite
 - [Hyperthermie d'effort : conséquences sur le cerveau, les reins et le cœur](https://kollder.com/blog/fr/2026-05-29-hyperthermie-effort-consequences-organes/)
 - [Cool First Transport Second : le protocole terrain complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Immersion eau froide vs autres méthodes : comparatif chiffré](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
+- [Coup de chaleur d'effort chez les jeunes sapeurs-pompiers (JSP) : spécificités et prévention](https://kollder.com/blog/fr/2026-07-07-coup-de-chaleur-effort-jeunes-sapeurs-pompiers-jsp/)
 
 ---
 

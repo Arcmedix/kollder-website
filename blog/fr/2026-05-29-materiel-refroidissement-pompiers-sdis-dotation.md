@@ -98,6 +98,8 @@ Les SDIS, UIISC et services de déminage qui souhaitent intégrer Kollder dans l
 - [Équipement de refroidissement pour les feux de forêt](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
 - [Brancard baignoire : l'équipement que la BSPP déploie sur le terrain](https://kollder.com/blog/fr/2026-05-29-brancard-baignoire-bspp-refroidissement-terrain/)
 - [Cool First Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
+- [Le rôle du SSSM dans le choix et la validation du matériel de refroidissement](https://kollder.com/blog/fr/2026-07-07-role-sssm-validation-materiel-refroidissement/)
+- [Immersion en eau froide en intervention SDIS : lever les freins opérationnels courants](https://kollder.com/blog/fr/2026-07-07-immersion-eau-froide-sdis-freins-operationnels/)
 
 ---
 

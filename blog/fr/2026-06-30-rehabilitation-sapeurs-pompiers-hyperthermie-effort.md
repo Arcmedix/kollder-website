@@ -136,6 +136,8 @@ Le SSSM a un rôle central dans cette démarche : c'est lui qui valide la doctri
 - [Équipement de traitement du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-06-23-equipement-traitement-coup-de-chaleur-effort/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Équipement de refroidissement pour les sapeurs-pompiers](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
+- [Coup de chaleur d'effort en intervention : quelle décision pour l'officier avant l'arrivée du renfort médical ?](https://kollder.com/blog/fr/2026-07-07-officier-chef-agres-decision-coup-de-chaleur-intervention/)
+- [Formation SSSM à la prise en charge du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-07-07-formation-sssm-prise-en-charge-coup-de-chaleur-effort/)
 
 ---
 

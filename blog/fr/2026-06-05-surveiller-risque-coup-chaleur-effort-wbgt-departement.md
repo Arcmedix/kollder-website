@@ -65,6 +65,7 @@ La baignoire de refroidissement [Kollder](https://kollder.com/#contact) est con�
 - [Protocole Cool First, Transport Second — Guide complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Immersion en eau froide vs autres méthodes de refroidissement](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Équipement de refroidissement pour pompiers et SDIS](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
+- [Plan canicule et SDIS : ce que couvre (et ne couvre pas) le cadre réglementaire](https://kollder.com/blog/fr/2026-07-07-plan-canicule-sdis-cadre-reglementaire/)
 - [Demander un devis Kollder](https://kollder.com/#contact)
 
 ---

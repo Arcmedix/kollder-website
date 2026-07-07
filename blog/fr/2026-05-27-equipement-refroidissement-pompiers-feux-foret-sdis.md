@@ -70,6 +70,12 @@ Retrouvez [les critères de sélection pour équiper un SDIS](https://kollder.co
 
 Les SDIS, UIISC et services de déminage qui souhaitent évaluer Kollder dans le cadre de leur politique d'équipement peuvent contacter notre équipe pour une démonstration terrain : [kollder.com/#contact](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Immersion en eau froide en intervention SDIS : lever les freins opérationnels courants](https://kollder.com/blog/fr/2026-07-07-immersion-eau-froide-sdis-freins-operationnels/)
+- [Matériel de refroidissement pour pompiers : ce que chaque SDIS doit avoir en dotation](https://kollder.com/blog/fr/2026-05-29-materiel-refroidissement-pompiers-sdis-dotation/)
+- [Solutions Kollder pour les SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)
+
 ---
 
 *Sources : ACSM Expert Consensus Statement 2023, IOC BJSM 2021 (Hosokawa, Racinais et al.), Service de Santé et de Secours Médical BSPP, données épidémiologiques NIFC (National Interagency Fire Center) feux de forêt 2024-2025.*

@@ -81,6 +81,8 @@ Kollder est conçue pour répondre à ce déficit d'équipement préhospitalier.
 - [Cool First Transport Second : protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Traitement du CCE sur le terrain : guide des premiers intervenants](https://kollder.com/blog/fr/2026-05-29-traitement-coup-chaleur-effort-terrain-protocole/)
 - [Immersion eau froide vs autres méthodes](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
+- [Coup de chaleur d'effort en intervention : quelle décision pour l'officier avant l'arrivée du renfort médical ?](https://kollder.com/blog/fr/2026-07-07-officier-chef-agres-decision-coup-de-chaleur-intervention/)
+- [Formation SSSM à la prise en charge du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-07-07-formation-sssm-prise-en-charge-coup-de-chaleur-effort/)
 
 ---
 
