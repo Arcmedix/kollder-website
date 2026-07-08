@@ -83,6 +83,8 @@ Kollder est conçue pour répondre à ce déficit d'équipement préhospitalier.
 - [Immersion eau froide vs autres méthodes](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Coup de chaleur d'effort en intervention : quelle décision pour l'officier avant l'arrivée du renfort médical ?](https://kollder.com/blog/fr/2026-07-07-officier-chef-agres-decision-coup-de-chaleur-intervention/)
 - [Formation SSSM à la prise en charge du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-07-07-formation-sssm-prise-en-charge-coup-de-chaleur-effort/)
+- [Coordination SDIS-SMUR-SAMU sur intervention coup de chaleur d'effort](https://kollder.com/blog/fr/2026-07-08-coordination-sdis-smur-samu-coup-chaleur-effort-intervention/)
+- [Régulation SAMU et coup de chaleur d'effort : anticiper le pic saisonnier](https://kollder.com/blog/fr/2026-07-08-regulation-samu-coup-de-chaleur-effort-anticipation-saisonniere/)
 
 ---
 
