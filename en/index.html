@@ -2120,6 +2120,9 @@ if (form) {
         if (r.ok) {
           form.style.display = 'none';
           document.getElementById('successMsg').classList.add('show');
+          if (typeof gtag === 'function') {
+            gtag('event', 'quote_request_submit', { form_location: 'homepage_en' });
+          }
         }
       }).catch(() => form.submit());
     e.preventDefault();

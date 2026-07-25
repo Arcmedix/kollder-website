@@ -196,7 +196,7 @@ permalink: /fr/distributeurs/
     </div>
 
     <div class="partner-apply__right">
-      <form action="https://formspree.io/f/xpqealgr" method="POST" class="partner-form">
+      <form action="https://formspree.io/f/xpqealgr" method="POST" class="partner-form" onsubmit="if(typeof gtag==='function'){gtag('event','distributor_application_submit',{form_location:'distributeurs',transport_type:'beacon'});}">
         <div class="partner-form__row">
           <div class="partner-form__field">
             <label for="prenom">Prénom</label>

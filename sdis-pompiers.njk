@@ -402,7 +402,7 @@ faqSchema: |
     </div>
 
     <div class="partner-apply__right">
-      <form action="https://formspree.io/f/mykovqeg" method="POST" class="partner-form">
+      <form action="https://formspree.io/f/mykovqeg" method="POST" class="partner-form" onsubmit="if(typeof gtag==='function'){gtag('event','quote_request_submit',{form_location:'sdis-pompiers',transport_type:'beacon'});}">
         <div class="partner-form__field">
           <label for="name">Prénom & Nom</label>
           <input type="text" id="name" name="name" placeholder="Ex : Jean Dupont" required>

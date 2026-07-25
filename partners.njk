@@ -207,7 +207,7 @@ permalink: /en/partners/
     </div>
 
     <div class="partner-apply__right">
-      <form action="https://formspree.io/f/xpqealgr" method="POST" class="partner-form">
+      <form action="https://formspree.io/f/xpqealgr" method="POST" class="partner-form" onsubmit="if(typeof gtag==='function'){gtag('event','partner_interest_submit',{form_location:'partners',transport_type:'beacon'});}">
         <div class="partner-form__row">
           <div class="partner-form__field">
             <label for="firstname">First name</label>

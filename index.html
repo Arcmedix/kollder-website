@@ -2318,6 +2318,9 @@ if (form) {
         if (r.ok) {
           form.style.display = 'none';
           document.getElementById('successMsg').classList.add('show');
+          if (typeof gtag === 'function') {
+            gtag('event', 'quote_request_submit', { form_location: 'homepage_fr' });
+          }
         }
       }).catch(() => form.submit());
     e.preventDefault();
@@ -2634,6 +2637,9 @@ if (form) {
       if (json.ok || json.next) {
         formDiv.style.display = 'none';
         successDiv.style.display = 'flex';
+        if (typeof gtag === 'function') {
+          gtag('event', 'pdf_lead_submit', { form_location: 'sticky_card' });
+        }
       } else {
         submitBtn.disabled = false;
         submitBtn.textContent = 'Réessayer →';
@@ -2643,6 +2649,9 @@ if (form) {
       // On network error still show download (graceful degradation)
       formDiv.style.display = 'none';
       successDiv.style.display = 'flex';
+      if (typeof gtag === 'function') {
+        gtag('event', 'pdf_lead_submit', { form_location: 'sticky_card' });
+      }
     });
   });
 
