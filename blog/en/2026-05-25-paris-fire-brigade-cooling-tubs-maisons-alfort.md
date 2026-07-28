@@ -52,6 +52,7 @@ Its stainless steel frame and high-resistance liner enable immediate deployment 
 
 [Request a quote or field demonstration](https://kollder.com/#contact)
 
+Event organisers looking to equip their own medical posts can find selection criteria on our dedicated [event medical support page](https://kollder.com/en/event-medical-support/).
 ---
 
 *Source: @PompiersParis, X post May 24, 2026. Protocols: SFAR, ACSM Expert Consensus Statement 2023, IOC BJSM 2021 (Hosokawa, Racinais et al.), Korey Stringer Institute.*

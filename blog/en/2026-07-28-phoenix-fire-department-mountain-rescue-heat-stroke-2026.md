@@ -31,6 +31,7 @@ The **IOC/BJSM 2021 consensus** on exertional heat illness makes clear that time
 - [The Phoenix Experiment: How One Fire Department Proved Prehospital Cold Water Immersion Works at Scale](https://kollder.com/blog/en/2026-05-24-phoenix-fire-department-prehospital-cold-water-immersion/)
 - [Cold Water Immersion in Fire Departments: Operational Barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)
 - [Emergency Cooling Tub: Definition, Uses, Protocol](https://kollder.com/blog/en/2026-05-25-emergency-cooling-tub-definition-uses-protocol/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
 ---

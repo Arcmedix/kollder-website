@@ -31,6 +31,7 @@ Because SAMU and SMUR teams are working the same tub a fire crew may have deploy
 - [How French Fire Departments Made Cold Water Immersion Standard Equipment](https://kollder.com/blog/en/2026-07-17-how-french-fire-departments-made-cold-water-immersion-standard/)
 - [Fire and EMS Coordination for Exertional Heat Stroke Response](https://kollder.com/blog/en/2026-07-09-fire-ems-coordination-exertional-heat-stroke-response/)
 - [Cooling Station Setup for Sports Events: A Guide](https://kollder.com/blog/en/2026-07-09-cooling-station-setup-sports-events-guide/)
+- [Kollder solutions for EMS and emergency departments](https://kollder.com/en/emergency-medical-services/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

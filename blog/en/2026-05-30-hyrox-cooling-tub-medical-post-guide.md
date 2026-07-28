@@ -73,6 +73,7 @@ For Hyrox and fitness event organisers who want to act before the 2026 summer se
 - [Hyrox and heat stroke: the specific thermal risk of this discipline](https://kollder.com/blog/en/2026-05-30-hyrox-heat-stroke-risk-protocol/)
 - [Emergency cooling tub for sporting events: a guide for organisers](https://kollder.com/blog/en/2026-05-25-emergency-cooling-tub-definition-uses-protocol/)
 - [Paris Fire Brigade deploys cooling tubs at Maisons-Alfort running event](https://kollder.com/blog/en/2026-05-25-paris-fire-brigade-cooling-tubs-maisons-alfort/)
+- [Kollder solutions for event medical support](https://kollder.com/en/event-medical-support/)
 
 ---
 

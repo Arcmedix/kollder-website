@@ -31,6 +31,7 @@ Faster dispatch recognition only pays off if responding units can act on it imme
 - [Fire and EMS Coordination for Exertional Heat Stroke Response](https://kollder.com/blog/en/2026-07-09-fire-ems-coordination-exertional-heat-stroke-response/)
 - [Incident Commander Decision-Making for Exertional Heat Stroke on Scene](https://kollder.com/blog/en/2026-07-09-incident-commander-decision-making-exertional-heat-stroke/)
 - [Régulation SAMU et coup de chaleur d'effort : anticipation saisonnière (FR)](https://kollder.com/blog/fr/2026-07-08-regulation-samu-coup-de-chaleur-effort-anticipation-saisonniere/)
+- [Kollder solutions for EMS and emergency departments](https://kollder.com/en/emergency-medical-services/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

@@ -50,6 +50,7 @@ Departments evaluating equipment for prehospital, wilderness, or event-medicine 
 - [What US and UK Fire Departments Can Learn From the French SDIS Cooling Tub Model](https://kollder.com/blog/en/2026-07-20-what-us-uk-fire-departments-learn-french-sdis-cooling-model/)
 - [Cold Water Immersion in Fire Departments: Operational Barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)
 - [Emergency Cooling Tub Manufacturers: A Comparison](https://kollder.com/blog/en/2026-06-09-emergency-cooling-tub-manufacturers-comparison/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
 ---

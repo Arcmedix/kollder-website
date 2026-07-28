@@ -31,6 +31,7 @@ The Kollder emergency cooling tub folds into the Kollder Go transport bag (85×1
 - [Cold Water Immersion vs Other Methods: Comparison](https://kollder.com/blog/en/2026-05-25-cold-water-immersion-vs-other-methods-comparison/)
 - [Exertional Heat Stroke: Organ Consequences](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
 - [Équipement embarqué ambulance / SMUR (FR)](https://kollder.com/blog/fr/2026-07-08-equipement-embarque-ambulance-smur-coup-chaleur-effort/)
+- [Kollder solutions for EMS and emergency departments](https://kollder.com/en/emergency-medical-services/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

@@ -31,6 +31,7 @@ The Kollder emergency cooling tub deploys solo, without tools, in under 2 minute
 - [Exertional Hyperthermia: Causes, Symptoms, Treatment](https://kollder.com/blog/en/2026-05-26-exertional-hyperthermia-causes-symptoms-treatment/)
 - [Cool First, Transport Second: The Complete Protocol Guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Coup de chaleur d'effort chez les jeunes sapeurs-pompiers (FR)](https://kollder.com/blog/fr/2026-07-07-coup-de-chaleur-effort-jeunes-sapeurs-pompiers-jsp/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

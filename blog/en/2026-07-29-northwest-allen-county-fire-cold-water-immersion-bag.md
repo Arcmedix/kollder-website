@@ -31,6 +31,7 @@ The **ACSM 2023 Expert Consensus Statement** is explicit that the "cool first, t
 - [Cold Water Immersion in Fire Departments: Operational Barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)
 - [Medical Service Validation of Cooling Equipment for Fire Departments](https://kollder.com/blog/en/2026-07-09-medical-service-validation-cooling-equipment-fire-departments/)
 - [Cooling Solutions for Exertional Heat Stroke: A Field Comparison](https://kollder.com/blog/en/2026-06-04-cooling-solutions-exertional-heat-stroke-field-comparison/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
 ---

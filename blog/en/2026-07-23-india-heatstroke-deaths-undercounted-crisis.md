@@ -37,6 +37,7 @@ Getting that window right depends on having cooling equipment where the exposure
 - [Heat-Related Deaths and Mortality Trends](https://kollder.com/blog/en/2026-07-09-heat-related-deaths-us-mortality-trends/)
 - [Heat-Vulnerable Populations: A Risk Factor Overview](https://kollder.com/blog/en/2026-07-09-heat-vulnerable-populations-risk-factor-overview/)
 - [What Counts as a Heat Wave? Definitions and Warning Thresholds](https://kollder.com/blog/en/2026-07-09-what-counts-as-heat-wave-definitions-warning-thresholds/)
+- [Kollder solutions for civil protection associations](https://kollder.com/en/civil-protection/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 
 ---

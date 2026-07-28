@@ -68,3 +68,5 @@ Based on KSI's recommendations:
 **Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
 
 [Request a quote](https://kollder.com/#contact)
+
+Find how this protocol applies in prehospital and hospital settings on our dedicated [EMS and emergency departments page](https://kollder.com/en/emergency-medical-services/).

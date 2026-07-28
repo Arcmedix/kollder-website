@@ -35,6 +35,7 @@ The Kollder emergency cooling tub offers full torso and limb immersion, 360° pa
 - [Kollder vs Corben: Emergency Cooling Tub Comparison](https://kollder.com/blog/en/2026-05-25-kollder-vs-corben-emergency-cooling-tub-comparison/)
 - [Kollder vs iCWIK: Cold Water Immersion Comparison](https://kollder.com/blog/en/2026-05-25-kollder-vs-icwik-cold-water-immersion-comparison/)
 - [Rôle du SSSM dans la validation du matériel (FR)](https://kollder.com/blog/fr/2026-07-07-role-sssm-validation-materiel-refroidissement/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

@@ -31,6 +31,7 @@ For a fire department, SDIS-equivalent agency, or event medical program operatin
 - [OSHA Heat Standard: EHS Employer Obligations](https://kollder.com/blog/en/2026-05-31-osha-heat-standard-ehs-employer-obligations/)
 - [Heat Illness Prevention Plan: EHS Template](https://kollder.com/blog/en/2026-05-31-heat-illness-prevention-plan-ehs-template/)
 - [How French Fire Departments Made Cold Water Immersion Standard Equipment](https://kollder.com/blog/en/2026-07-17-how-french-fire-departments-made-cold-water-immersion-standard/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

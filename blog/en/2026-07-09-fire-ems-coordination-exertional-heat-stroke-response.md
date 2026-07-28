@@ -31,6 +31,7 @@ The Kollder emergency cooling tub's one-person, sub-2-minute deployment and comp
 - [Cool First, Transport Second: The Complete Protocol Guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Phoenix Fire Department: Prehospital Cold Water Immersion](https://kollder.com/blog/en/2026-05-24-phoenix-fire-department-prehospital-cold-water-immersion/)
 - [Coordination SDIS / SMUR / SAMU (FR)](https://kollder.com/blog/fr/2026-07-08-coordination-sdis-smur-samu-coup-chaleur-effort-intervention/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

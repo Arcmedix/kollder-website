@@ -31,6 +31,7 @@ Twenty years of institutional learning point to the same conclusion for exertion
 - [France Summer 2025 Heat Report for Emergency Responders](https://kollder.com/blog/en/2026-05-24-france-summer-2025-heat-report-emergency-responders/)
 - [Heat-Vulnerable Populations: A Risk Factor Overview](https://kollder.com/blog/en/2026-07-09-heat-vulnerable-populations-risk-factor-overview/)
 - [Canicule 2003, 2022, 2025 : évolution de la réponse sanitaire (FR)](https://kollder.com/blog/fr/2026-07-08-canicule-2003-2022-2025-evolution-reponse-sanitaire-france/)
+- [Kollder solutions for civil protection associations](https://kollder.com/en/civil-protection/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

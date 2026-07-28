@@ -31,6 +31,7 @@ Executing a precise 10-15 minute immersion window depends on equipment that reac
 - [Post-Cooling Resuscitation and Monitoring for Exertional Heat Stroke](https://kollder.com/blog/en/2026-07-09-post-cooling-resuscitation-monitoring-exertional-heat-stroke/)
 - [Firefighter Rehab and Exertional Hyperthermia](https://kollder.com/blog/en/2026-07-09-firefighter-rehab-exertional-hyperthermia/)
 - [Medical Service Validation of Cooling Equipment for Fire Departments](https://kollder.com/blog/en/2026-07-09-medical-service-validation-cooling-equipment-fire-departments/)
+- [Kollder solutions for EMS and emergency departments](https://kollder.com/en/emergency-medical-services/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
 ---

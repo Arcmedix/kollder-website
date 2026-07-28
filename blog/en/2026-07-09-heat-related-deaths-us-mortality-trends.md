@@ -31,6 +31,7 @@ Rising mortality figures are a population-level signal, but the response has to 
 - [Douglas Casa: Exertional Heat Stroke Is Survivable](https://kollder.com/blog/en/2026-05-24-douglas-casa-exertional-heat-stroke-survivable/)
 - [Climate Change and the Rising Frequency of Heat Waves](https://kollder.com/blog/en/2026-07-09-climate-change-rising-frequency-heat-waves/)
 - [Coup de chaleur en France : chiffres de mortalité année après année (FR)](https://kollder.com/blog/fr/2026-07-08-coup-de-chaleur-france-chiffres-mortalite-annee-apres-annee/)
+- [Kollder solutions for civil protection associations](https://kollder.com/en/civil-protection/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

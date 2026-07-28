@@ -42,6 +42,7 @@ That is the exact constraint Kollder One was designed to remove. A stainless ste
 - [Firefighter rehab and exertional hyperthermia](https://kollder.com/blog/en/2026-07-09-firefighter-rehab-exertional-hyperthermia/)
 - [France's 2026 Gironde wildfires and the hidden heat stroke risk](https://kollder.com/blog/en/2026-07-27-france-gironde-wildfires-2026-firefighter-heat-stroke-risk/)
 - [Exertional heat stroke: organ consequences](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 
 ---

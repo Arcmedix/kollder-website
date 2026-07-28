@@ -33,6 +33,7 @@ Departments evaluating equipment for this exact scenario can review the specific
 - [Cold Water Immersion in Fire Departments: Operational Barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)
 - [Fire and EMS Coordination for Exertional Heat Stroke Response](https://kollder.com/blog/en/2026-07-09-fire-ems-coordination-exertional-heat-stroke-response/)
 - [Cool First, Transport Second: The Complete Protocol Guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
 ---

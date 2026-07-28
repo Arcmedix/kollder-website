@@ -31,6 +31,7 @@ Adding an immersion-capable cooling tub to the rehab sector, alongside the usual
 - [Wildfire Season 2026: Protecting Firefighters from Heat Stroke](https://kollder.com/blog/en/2026-05-20-wildfire-season-2026-protecting-firefighters-heat-stroke/)
 - [Exertional Hyperthermia: Causes, Symptoms, Treatment](https://kollder.com/blog/en/2026-05-26-exertional-hyperthermia-causes-symptoms-treatment/)
 - [Réhabilitation des sapeurs-pompiers et hyperthermie d'effort (FR)](https://kollder.com/blog/fr/2026-06-30-rehabilitation-sapeurs-pompiers-hyperthermie-effort/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

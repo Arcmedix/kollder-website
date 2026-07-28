@@ -35,6 +35,7 @@ The Kollder emergency cooling tub folds into the Kollder Go bag (85×10×10cm, h
 - [Trail, Marathon, Hyrox 2026: Heat Stroke Protocol](https://kollder.com/blog/en/2026-05-21-trail-marathon-hyrox-2026-heat-stroke-protocol/)
 - [Hyrox Cooling Tub: Medical Post Guide](https://kollder.com/blog/en/2026-05-30-hyrox-cooling-tub-medical-post-guide/)
 - [Poste de refroidissement sur événements sportifs : guide (FR)](https://kollder.com/blog/fr/2026-06-25-poste-refroidissement-evenements-sportifs-guide/)
+- [Kollder solutions for event medical support](https://kollder.com/en/event-medical-support/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

@@ -70,3 +70,5 @@ Every minute without cooling worsens outcomes. The "cool first, transport second
 **Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
 
 [Request a quote](https://kollder.com/#contact)
+
+Civil protection associations covering public events can find equipment criteria on our dedicated [civil protection page](https://kollder.com/en/civil-protection/).

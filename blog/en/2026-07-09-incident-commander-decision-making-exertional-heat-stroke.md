@@ -31,6 +31,7 @@ An officer is far more likely to commit to immediate immersion when the equipmen
 - [Tactical Medicine in Hot Environments: Heat Stroke](https://kollder.com/blog/en/2026-05-21-tactical-medicine-hot-environments-heat-stroke/)
 - [Cool First, Transport Second: The Complete Protocol Guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Officier / chef d'agrès : la décision face à un coup de chaleur (FR)](https://kollder.com/blog/fr/2026-07-07-officier-chef-agres-decision-coup-de-chaleur-intervention/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

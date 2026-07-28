@@ -59,6 +59,7 @@ Kollder meets these constraints. Its tub deploys in under 2 minutes by one perso
 - [Emergency cooling tub: definition, uses and field protocol](https://kollder.com/blog/en/2026-05-25-emergency-cooling-tub-definition-uses-protocol/)
 - [Cool First Transport Second: the complete guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Cold water immersion vs other methods: a data-backed comparison](https://kollder.com/blog/en/2026-05-25-cold-water-immersion-vs-other-methods-comparison/)
+- [Kollder solutions for event medical support](https://kollder.com/en/event-medical-support/)
 
 ---
 

@@ -48,6 +48,7 @@ This is exactly where emergency cooling equipment becomes an operational questio
 - [Firefighter rehab and exertional hyperthermia](https://kollder.com/blog/en/2026-07-09-firefighter-rehab-exertional-hyperthermia/)
 - [Cold water immersion in fire departments: operational barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)
 - [Why French fire departments choose Kollder for cold water immersion](https://kollder.com/blog/en/2026-07-21-why-french-fire-departments-choose-kollder-cold-water-immersion/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 
 ---

@@ -31,6 +31,7 @@ A heat action plan is only as effective as the equipment behind it. The Kollder 
 - [OSHA Heat Standard: EHS Employer Obligations](https://kollder.com/blog/en/2026-05-31-osha-heat-standard-ehs-employer-obligations/)
 - [Firefighter Rehab and Exertional Hyperthermia](https://kollder.com/blog/en/2026-07-09-firefighter-rehab-exertional-hyperthermia/)
 - [Plan canicule et SDIS : cadre réglementaire (FR)](https://kollder.com/blog/fr/2026-07-07-plan-canicule-sdis-cadre-reglementaire/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

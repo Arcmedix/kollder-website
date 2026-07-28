@@ -31,6 +31,7 @@ A cooling tub that takes new team members multiple sessions to learn defeats the
 - [Exertional Heat Stroke: Recognise and Treat](https://kollder.com/blog/en/2026-06-04-exertional-heat-stroke-recognise-and-treat/)
 - [Cool First, Transport Second: The Complete Protocol Guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Formation des équipes médicales et paramédicales (FR)](https://kollder.com/blog/fr/2026-07-08-formation-equipes-medicales-paramedicales-coup-chaleur-effort/)
+- [Kollder solutions for EMS and emergency departments](https://kollder.com/en/emergency-medical-services/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

@@ -31,6 +31,7 @@ Because heat waves are becoming more frequent rather than occasional, cooling eq
 - [Monitoring Exertional Heat Stroke Risk: WBGT by Region](https://kollder.com/blog/en/2026-06-05-monitoring-exertional-heat-stroke-risk-wbgt-by-region/)
 - [Two Decades of Public Health Heat Response](https://kollder.com/blog/en/2026-07-09-two-decades-public-health-heat-response/)
 - [Canicule et réchauffement climatique : les vagues de chaleur en France (FR)](https://kollder.com/blog/fr/2026-07-08-canicule-rechauffement-climatique-vagues-chaleur-france/)
+- [Kollder solutions for civil protection associations](https://kollder.com/en/civil-protection/)
 - [Request a Kollder Quote](https://kollder.com/#contact)
 
 ---

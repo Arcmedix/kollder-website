@@ -31,6 +31,7 @@ For that "already staged" model to work well, whatever the on-site medical team 
 - [Cool First, Transport Second: The Complete Protocol Guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Cooling Station Setup for Sports Events: A Guide](https://kollder.com/blog/en/2026-07-09-cooling-station-setup-sports-events-guide/)
 - [Cold Water Immersion vs. Other Methods: A Comparison](https://kollder.com/blog/en/2026-05-25-cold-water-immersion-vs-other-methods-comparison/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
 ---

@@ -70,6 +70,7 @@ The scientific consensus is clear. Field examples are multiplying. What remains 
 
 [Request a quote or field demonstration for your event](https://kollder.com/#contact)
 
+Selection criteria for equipping a race or competition medical post are on our dedicated [event medical support page](https://kollder.com/en/event-medical-support/).
 ---
 
 *Sources: France 3 Auvergne-Rhône-Alpes, 24 May 2026. France Info / Dr Damien Mascret, 25 May 2026. @PompiersParis, 24 May 2026. ACSM Expert Consensus Statement 2023. IOC BJSM 2021 (Hosokawa, Racinais et al.). Korey Stringer Institute — Douglas Casa (UConn).*

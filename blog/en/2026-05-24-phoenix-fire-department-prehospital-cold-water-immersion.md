@@ -65,3 +65,5 @@ The Phoenix program worked because the equipment was in every unit. The same log
 **Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
 
 [Request a quote](https://kollder.com/#contact)
+
+For departments evaluating a prehospital cooling program of their own, selection criteria and specifications are on our [fire and rescue services page](https://kollder.com/en/fire-rescue/).
