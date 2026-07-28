@@ -237,7 +237,7 @@ footer {
     <a href="/"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
   <div class="nav-right">
-    <a href="{% if lang == 'en' %}/en/{% else %}/?lang=fr{% endif %}" class="nav-link">Accueil</a>
+    <a href="{% if lang == 'en' %}/en/{% else %}/?lang=fr{% endif %}" class="nav-link">{% if lang == 'en' %}Home{% else %}Accueil{% endif %}</a>
     <a href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}" class="nav-link">{% if lang == 'en' %}Partners{% else %}Distributeurs{% endif %}</a>
     <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-link nav-link-active">
       {% if lang == 'en' %}Resources{% else %}Ressources{% endif %}<span class="nav-badge" id="nav-badge"></span>
