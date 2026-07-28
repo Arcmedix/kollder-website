@@ -58,7 +58,7 @@ The question this event raises is simple: if a cooling tub had been available at
 
 That question cannot be answered with certainty. But the scientific data indicates that immediate cold water immersion is the only treatment whose effectiveness is documented at this level.
 
-This is the logistical problem Kollder was developed to solve. The Kollder cooling tub deploys in **under 30 seconds, by one person**, in any competition hall, any trail course, any sporting event. No infrastructure required. No running water needed in advance.
+This is the logistical problem Kollder was developed to solve. The Kollder cooling tub deploys in **under 2 minutes, by one person**, in any competition hall, any trail course, any sporting event. No infrastructure required. No running water needed in advance.
 
 Its open design allows full patient access during immersion — to monitor the airway, measure temperature, and intervene medically if required.
 

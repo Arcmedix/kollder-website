@@ -64,7 +64,7 @@ This requires that cooling equipment is available at the point of emergency — 
 
 Cold water immersion has been the evidence-based standard for over two decades. The barrier to its widespread use has never been clinical — it has been operational. Standard immersion tubs are fixed, heavy, and infrastructure-dependent. They cannot follow athletes onto a mountain trail, be deployed at an industrial incident, or be staged at a field medical post.
 
-The **Kollder emergency cooling tub** addresses this directly: a portable PVC and aluminium-frame tub (205 × 65 × 35 cm deployed) that is operational in under 30 seconds by a single person, on any terrain. It allows full patient immersion with complete medical access — rectal thermometry, IV access, airway management — without interrupting the cooling process.
+The **Kollder emergency cooling tub** addresses this directly: a portable PVC and aluminium-frame tub (205 × 65 × 35 cm deployed) that is operational in under 2 minutes by a single person, on any terrain. It allows full patient immersion with complete medical access — rectal thermometry, IV access, airway management — without interrupting the cooling process.
 
 For event medical directors, SDIS teams, military medical units, or industrial EHS managers looking to apply the recommended protocol in the field: [kollder.com/#contact](https://kollder.com/#contact)
 

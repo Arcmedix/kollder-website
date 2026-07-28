@@ -75,7 +75,7 @@ In the field, cooling a casualty to the standard of care requires a container la
 
 The Kollder emergency cooling tub was developed specifically to address this gap. It:
 
-- Deploys in under 30 seconds by a single operator
+- Deploys in under 2 minutes by a single operator
 - Works on uneven, rocky, and sloped terrain
 - Transports in any tactical vehicle or support platform
 - Holds a fully equipped casualty

@@ -62,7 +62,7 @@ Before Cool First Transport Second, teams improvised with available means — we
 
 The protocol imposes a clear logistical requirement: **a tub, water and ice must be available within 2 minutes at every at-risk intervention**.
 
-This is the logistical constraint Kollder solves. The cooling tub deployable in 30 seconds allows field teams — fire services, military medical units, event medical teams — to apply the protocol without any prior infrastructure.
+This is the logistical constraint Kollder solves. The cooling tub deployable in under 2 minutes allows field teams — fire services, military medical units, event medical teams — to apply the protocol without any prior infrastructure.
 
 ## Who needs to know this protocol?
 

@@ -44,7 +44,7 @@ The Sante Publique France report places 2025 in a clear trajectory: **since 2017
 
 **For fire services and emergency medical units**
 
-The increase in heat-related interventions is structural. The logistical question is direct: is cold water immersion equipment deployable in under 30 seconds at every operational position exposed to EHS risk?
+The increase in heat-related interventions is structural. The logistical question is direct: is cold water immersion equipment deployable in under 2 minutes at every operational position exposed to EHS risk?
 
 **For event medical directors**
 
@@ -67,6 +67,6 @@ Every minute without cooling worsens outcomes. The "cool first, transport second
 
 ---
 
-**Kollder is the emergency cooling tub that deploys in under 30 seconds, anywhere.**
+**Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
 
 [Request a quote](https://kollder.com/#contact)

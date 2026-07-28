@@ -69,7 +69,7 @@ Chaque site exposé doit disposer d'une baignoire de refroidissement déployable
 
 Kollder est la solution qui permet à vos équipes terrain d'appliquer le protocole médical de référence sans infrastructure fixe préalable.
 
-Sa baignoire se déploie en moins de 30 secondes par une seule personne. Elle s'intègre dans tout véhicule de chantier, camion de livraison ou véhicule d'encadrement. Elle permet une immersion corps entier conforme aux recommandations SFAR et ACSM, avec accès complet au patient pendant le refroidissement.
+Sa baignoire se déploie en moins de 2 minutes par une seule personne. Elle s'intègre dans tout véhicule de chantier, camion de livraison ou véhicule d'encadrement. Elle permet une immersion corps entier conforme aux recommandations SFAR et ACSM, avec accès complet au patient pendant le refroidissement.
 
 Pour les entreprises qui souhaitent intégrer Kollder dans leur plan canicule — devis, formation au protocole, démonstration terrain : [kollder.com/#contact](https://kollder.com/#contact)
 

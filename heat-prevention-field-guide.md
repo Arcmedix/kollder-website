@@ -96,7 +96,7 @@ To include in any heat emergency plan:
 
 Most teams know the protocol. The problem is that the equipment needed to apply it — a tub allowing full-body immersion — is neither available nor transportable in standard operational conditions.
 
-That's the problem **Kollder** solves. A structure deployable in under 30 seconds, transportable in any light vehicle, enabling full-body immersion compliant with ACSM and IOC recommendations, with full access to the patient throughout the cooling process.
+That's the problem **Kollder** solves. A structure deployable in under 2 minutes, transportable in any light vehicle, enabling full-body immersion compliant with ACSM and IOC recommendations, with full access to the patient throughout the cooling process.
 
 For fire and rescue services, event medical teams, military medical units, and EHS managers looking to integrate Kollder into their operations: [kollder.com](https://kollder.com)
 

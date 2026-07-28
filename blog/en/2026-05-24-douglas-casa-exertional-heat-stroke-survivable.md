@@ -65,6 +65,6 @@ Based on KSI's recommendations:
 
 ---
 
-**Kollder is the emergency cooling tub that deploys in under 30 seconds, anywhere.**
+**Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
 
 [Request a quote](https://kollder.com/#contact)

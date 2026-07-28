@@ -192,7 +192,7 @@ L'immersion en eau froide est **dix fois plus rapide** que les méthodes alterna
 
 Sur un chantier extérieur en zone semi-rurale, le SAMU peut mettre 20 à 40 minutes après l'appel pour arriver. Sur un site industriel isolé, les délais sont similaires. Sans équipement de refroidissement par immersion sur place, la fenêtre des 30 minutes est systématiquement dépassée avant même l'arrivée des premiers secours.
 
-C'est ce constat qui a conduit au développement d'équipements portables de refroidissement d'urgence. **Kollder** est une baignoire de refroidissement d'urgence déployable en moins de 30 secondes par une seule personne, sur tout terrain. Elle permet d'initier une immersion complète immédiatement, sans attendre les secours, tout en laissant le patient entièrement accessible pour le monitoring, la ventilation et la communication. Pour les responsables EHS qui cherchent à combler le gap entre la prévention et la gestion de l'urgence thermique, plus d'informations sur [kollder.com/#contact](https://kollder.com/#contact).
+C'est ce constat qui a conduit au développement d'équipements portables de refroidissement d'urgence. **Kollder** est une baignoire de refroidissement d'urgence déployable en moins de 2 minutes par une seule personne, sur tout terrain. Elle permet d'initier une immersion complète immédiatement, sans attendre les secours, tout en laissant le patient entièrement accessible pour le monitoring, la ventilation et la communication. Pour les responsables EHS qui cherchent à combler le gap entre la prévention et la gestion de l'urgence thermique, plus d'informations sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## 6. Intégration dans le Document Unique (DUERP)
 

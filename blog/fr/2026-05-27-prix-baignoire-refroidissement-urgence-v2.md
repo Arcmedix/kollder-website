@@ -54,7 +54,7 @@ La Corben a été le choix par défaut pendant des années parce qu'il n'existai
 Kollder est développée précisément pour répondre aux limitations documentées des solutions existantes. Sa structure inox alimentaire et son liner haute résistance ont été conçus pour un usage intensif en conditions difficiles.
 
 **Ce qu'elle apporte par rapport à la Corben :**
-- Déploiement en moins de 30 secondes par une seule personne — sans montage, sans Velcro
+- Déploiement en moins de 2 minutes par une seule personne — sans montage, sans Velcro
 - Structure inox alimentaire : résistance à la corrosion et aux chocs supérieure à l'aluminium tubulaire
 - Liner intégré sans jonctions Velcro — pas de point de fuite mécanique
 - Stabilité sur terrain non plat grâce à la conception du châssis

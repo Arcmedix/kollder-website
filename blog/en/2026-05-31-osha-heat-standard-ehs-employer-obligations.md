@@ -42,7 +42,7 @@ The ACSM Expert Consensus Statement 2023 and the Korey Stringer Institute (Dr Do
 
 For EHS managers building a heat illness programme that is both regulation-ready and clinically sound, the plan needs two distinct components: a prevention layer (what the OSHA standard addresses) and an emergency treatment layer (what it does not). The emergency layer means having a means of cold water immersion available on site, with staff trained to deploy it before EMS arrives — particularly on remote or semi-rural sites where response times can exceed 20 minutes.
 
-**Kollder** is a portable emergency cooling tub that deploys in under 30 seconds by one person, on any surface, and allows full patient access during immersion. For EHS teams working to close the gap between prevention and emergency response, more information is available at [kollder.com/#contact](https://kollder.com/#contact).
+**Kollder** is a portable emergency cooling tub that deploys in under 2 minutes by one person, on any surface, and allows full patient access during immersion. For EHS teams working to close the gap between prevention and emergency response, more information is available at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## What to do now
 

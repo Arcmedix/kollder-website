@@ -72,7 +72,7 @@ Un patient en coup de chaleur peut convulser ou perdre connaissance rapidement. 
 
 Appliquer ce protocole sur un chantier BTP sans équipement adapté revient à compter sur des draps mouillés et des bouteilles d'eau froide. C'est insuffisant au regard de la physiologie.
 
-**Kollder** est une baignoire de refroidissement d'urgence portable, développée pour permettre une immersion complète en milieu extérieur. Elle se déploie en moins de 30 secondes par une seule personne sur n'importe quel terrain — une route de chantier, un parking, l'espace au pied d'un bâtiment en construction. Une fois déployée, elle peut être remplie d'eau froide et de glace en quelques minutes et permet une immersion du tronc et des membres inférieurs, là où le réseau sanguin est le plus dense.
+**Kollder** est une baignoire de refroidissement d'urgence portable, développée pour permettre une immersion complète en milieu extérieur. Elle se déploie en moins de 2 minutes par une seule personne sur n'importe quel terrain — une route de chantier, un parking, l'espace au pied d'un bâtiment en construction. Une fois déployée, elle peut être remplie d'eau froide et de glace en quelques minutes et permet une immersion du tronc et des membres inférieurs, là où le réseau sanguin est le plus dense.
 
 Le patient reste entièrement accessible pendant l'immersion : les bras sont dégagés pour le monitoring, la communication reste possible, et les secours peuvent continuer la prise en charge sans interrompre le refroidissement. C'est un point critique que les équipements concurrents en sac fermé ne permettent pas.
 

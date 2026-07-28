@@ -58,7 +58,7 @@ WBGT is a decision-support tool, not a substitute for treatment. Once an exertio
 
 The **"Cool First, Transport Second" protocol** (ACSM 2023, Hutchins et al., Frontiers in Physiology 2022) establishes that lowering core temperature below 39°C takes absolute priority over transport. Survival rate reaches 100% on more than 401 documented cases when this threshold is achieved within 30 minutes (Korey Stringer Institute, Dr Douglas Casa, UConn).
 
-The [Kollder](https://kollder.com/#contact) emergency cooling tub is built for this protocol: deployable in under 30 seconds by a single person, it enables immediate on-site immersion regardless of terrain or setting.
+The [Kollder](https://kollder.com/#contact) emergency cooling tub is built for this protocol: deployable in under 2 minutes by a single person, it enables immediate on-site immersion regardless of terrain or setting.
 
 ## Further reading
 

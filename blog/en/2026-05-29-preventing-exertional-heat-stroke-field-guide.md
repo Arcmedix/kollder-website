@@ -91,7 +91,7 @@ When any of these signs appears, exertion must stop immediately. Definitive diag
 
 Prevention reduces risk. It does not eliminate it. When a case occurs despite preventive measures, everything depends on the immediate availability of immersion equipment.
 
-Kollder is designed for teams that cannot afford to wait. Deployable in under 30 seconds by one person, on any terrain, it allows the *Cool first, transport second* protocol to be applied without any prior infrastructure.
+Kollder is designed for teams that cannot afford to wait. Deployable in under 2 minutes by one person, on any terrain, it allows the *Cool first, transport second* protocol to be applied without any prior infrastructure.
 
 Fire and rescue services, event medical teams, military medical units, and EHS managers who want to evaluate Kollder can contact our team: [kollder.com/#contact](https://kollder.com/#contact)
 

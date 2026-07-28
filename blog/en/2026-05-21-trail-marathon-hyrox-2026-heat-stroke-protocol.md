@@ -118,4 +118,4 @@ Activate EMS simultaneously with the initiation of cooling. Transport to a hospi
 
 ---
 
-*Kollder is the emergency cooling tub designed for event medical teams. Deploys in under 30 seconds at the finish line or anywhere on course. Fits in any support vehicle.*
+*Kollder is the emergency cooling tub designed for event medical teams. Deploys in under 2 minutes at the finish line or anywhere on course. Fits in any support vehicle.*

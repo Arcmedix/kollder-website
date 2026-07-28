@@ -68,7 +68,7 @@ Heat stroke is different. The worker is confused, disoriented, has lost coordina
 
 The principle underpinning steps 3 and 4 is **Cool First, Transport Second** — the protocol validated by the ACSM, the IOC, and the Korey Stringer Institute. The 30-minute window to bring core temperature below 40°C is the single most important factor in heat stroke survival. On remote sites where EMS response times exceed 15-20 minutes, the gap between calling for help and the arrival of trained responders is where outcomes are decided.
 
-**Kollder** is a portable emergency cooling tub designed for this gap. It deploys in under 30 seconds by one person on any surface — a car park, a factory floor, a construction site — and allows full patient access during immersion for monitoring and airway management. For EHS teams that want to close the space between prevention protocol and emergency capability, visit [kollder.com/#contact](https://kollder.com/#contact).
+**Kollder** is a portable emergency cooling tub designed for this gap. It deploys in under 2 minutes by one person on any surface — a car park, a factory floor, a construction site — and allows full patient access during immersion for monitoring and airway management. For EHS teams that want to close the space between prevention protocol and emergency capability, visit [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Layer 5 — Documentation and review
 

@@ -42,7 +42,7 @@ Un équipement à structure ouverte est indispensable. Un sac fermé autour du p
 
 ### 3. Le temps de déploiement
 
-La fenêtre thérapeutique du coup de chaleur d'effort est de **30 minutes**. Le déploiement de la baignoire doit donc être possible en **moins de 2 minutes** sur le terrain, idéalement en moins de 30 secondes.
+La fenêtre thérapeutique du coup de chaleur d'effort est de **30 minutes**. Le déploiement de la baignoire doit donc être possible en **moins de 2 minutes** sur le terrain.
 
 Demandez systématiquement au fournisseur une démonstration chronométrée du déploiement, dans les conditions réelles d'utilisation — par une seule personne, sur un terrain non préparé.
 
@@ -87,7 +87,7 @@ Le marché français de la baignoire de refroidissement d'urgence est encore ém
 
 **I-CWIK (Nereus Medical)** — Solution britannique, très portable sous forme de sac. Point de vigilance majeur : système fermé limitant l'accès patient pendant l'immersion, documentation fabricant elle-même mentionnant le risque de noyade si le patient n'est pas surveillé en permanence.
 
-**Kollder** — Solution française en phase de développement avancé, conçue spécifiquement pour lever les limitations des systèmes existants. Structure inox alimentaire, déploiement en moins de 30 secondes par une seule personne, immersion corps entier complète, accès patient total pendant le refroidissement. Pensée pour les équipes mobiles : SDIS, SSSM militaires, équipes médicales événementielles, responsables EHS terrain.
+**Kollder** — Solution française en phase de développement avancé, conçue spécifiquement pour lever les limitations des systèmes existants. Structure inox alimentaire, déploiement en moins de 2 minutes par une seule personne, immersion corps entier complète, accès patient total pendant le refroidissement. Pensée pour les équipes mobiles : SDIS, SSSM militaires, équipes médicales événementielles, responsables EHS terrain.
 
 ## Pourquoi le choix du fournisseur engage votre responsabilité
 

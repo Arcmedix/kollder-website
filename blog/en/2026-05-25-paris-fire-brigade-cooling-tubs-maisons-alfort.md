@@ -46,7 +46,7 @@ The BSPP response at Maisons-Alfort, and the official communication that accompa
 
 ## Kollder: built for situations like this
 
-Kollder is the emergency cooling tub that deploys in under 30 seconds, by one person, with no infrastructure. It was designed precisely for situations like Maisons-Alfort: multiple potential victims, reduced team, no fixed infrastructure on site.
+Kollder is the emergency cooling tub that deploys in under 2 minutes, by one person, with no infrastructure. It was designed precisely for situations like Maisons-Alfort: multiple potential victims, reduced team, no fixed infrastructure on site.
 
 Its stainless steel frame and high-resistance liner enable immediate deployment and full-body immersion compliant with international protocols, with full patient access for all advanced medical procedures during cooling.
 

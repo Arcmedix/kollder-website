@@ -58,7 +58,7 @@ Sur un chantier extérieur, en période de vigilance canicule, l'employeur doit 
 
 C'est le gap que les équipes de secours et les responsables EHS les plus rigoureux ont identifié : l'espace entre la prévention et la prise en charge d'un coup de chaleur constitué.
 
-**Kollder** a été conçu précisément pour combler ce gap. La baignoire de refroidissement d'urgence se déploie en moins de 30 secondes par une seule personne, sur n'importe quel terrain — y compris à pied d'un chantier. Elle permet d'initier l'immersion en eau froide immédiatement, sans attendre l'arrivée des secours. Le patient reste entièrement accessible : monitoring, ventilation, communication — rien n'est compromis.
+**Kollder** a été conçu précisément pour combler ce gap. La baignoire de refroidissement d'urgence se déploie en moins de 2 minutes par une seule personne, sur n'importe quel terrain — y compris à pied d'un chantier. Elle permet d'initier l'immersion en eau froide immédiatement, sans attendre l'arrivée des secours. Le patient reste entièrement accessible : monitoring, ventilation, communication — rien n'est compromis.
 
 Pour les responsables EHS, les directeurs de travaux et les chefs de chantier exposés à des épisodes de chaleur intense, c'est un équipement à intégrer dans le plan de prévention au même titre qu'un défibrillateur. Pas parce que la prévention est insuffisante, mais parce que l'accident peut survenir malgré elle.
 

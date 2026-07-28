@@ -24,7 +24,7 @@ Dr Douglas Casa, CEO of the Korey Stringer Institute (University of Connecticut)
 
 An emergency cooling tub is engineered around three operational constraints that standard bathtubs cannot meet:
 
-**Immediate deployment** — The tub must be operational in under 30 seconds, by one person, with no tools. Rigid tubs require dedicated transport and infrastructure.
+**Immediate deployment** — The tub must be operational in under 2 minutes, by one person, with no tools. Rigid tubs require dedicated transport and infrastructure.
 
 **Full portability** — It must fit folded into a light vehicle, a trail motorcycle, a forward medical post, or a fire truck, without excess bulk.
 
@@ -59,9 +59,9 @@ Recommended immersion duration is **until rectal temperature returns below 38.6�
 
 The fundamental rule: **Cool first, transport second.** Never transport before cooling.
 
-## Kollder: the emergency cooling tub that deploys in 30 seconds
+## Kollder: the emergency cooling tub that deploys in under 2 minutes
 
-Kollder is built to meet these operational requirements. Its food-grade stainless steel frame and high-resistance waterproof liner enable deployment by one person in under 30 seconds, on any terrain.
+Kollder is built to meet these operational requirements. Its food-grade stainless steel frame and high-resistance waterproof liner enable deployment by one person in under 2 minutes, on any terrain.
 
 Folded, it fits in any emergency vehicle. Deployed, it enables full-body immersion fully compliant with international protocols.
 

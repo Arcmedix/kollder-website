@@ -96,7 +96,7 @@ Même des équipes bien formées commettent des erreurs sous pression. En voici 
 
 La plupart des équipes connaissent le protocole. Le problème est que l'équipement nécessaire pour l'appliquer — une baignoire permettant l'immersion corps entier — n'est ni disponible ni transportable dans les conditions habituelles d'intervention.
 
-C'est le problème que **Kollder** résout. Une structure déployable en moins de 30 secondes, transportable dans tout véhicule léger, permettant une immersion corps entier conforme aux recommandations ACSM et IOC, avec accès complet au patient pendant toute la durée du refroidissement.
+C'est le problème que **Kollder** résout. Une structure déployable en moins de 2 minutes, transportable dans tout véhicule léger, permettant une immersion corps entier conforme aux recommandations ACSM et IOC, avec accès complet au patient pendant toute la durée du refroidissement.
 
 Pour les SDIS, les SSSM, les équipes médicales d'événements et les responsables EHS qui souhaitent intégrer Kollder dans leur dispositif : [kollder.com](https://kollder.com)
 

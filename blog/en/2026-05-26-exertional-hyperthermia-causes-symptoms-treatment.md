@@ -76,7 +76,7 @@ Cold water immersion (1.5°C to 15°C) cools at **0.35°C per minute**, versus 0
 
 Knowing the protocol is not enough. In the field, medical teams frequently face the absence of appropriate equipment: no tub, insufficient cold water, no ice.
 
-This is the logistical problem Kollder was developed to solve. The Kollder cooling tub deploys in **under 30 seconds, by one person, with no prior infrastructure**. Its food-grade stainless steel frame and high-resistance liner enable whole-body immersion fully compliant with international protocols, with full patient access for all advanced medical procedures.
+This is the logistical problem Kollder was developed to solve. The Kollder cooling tub deploys in **under 2 minutes, by one person, with no prior infrastructure**. Its food-grade stainless steel frame and high-resistance liner enable whole-body immersion fully compliant with international protocols, with full patient access for all advanced medical procedures.
 
 Folded, it fits in any rescue vehicle, ambulance, pick-up truck or carry bag. Deployed, it enables the Cool First Transport Second protocol to be applied in the most demanding conditions — wildland fire, sporting event, industrial site.
 

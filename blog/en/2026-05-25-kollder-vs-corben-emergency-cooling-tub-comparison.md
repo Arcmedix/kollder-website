@@ -22,7 +22,7 @@ Choosing an emergency cooling tub for your service or medical team is a technica
 |---|---|---|
 | Full-body immersion | ✅ Yes | ✅ Yes |
 | Patient access for advanced care | ✅ Open | ✅ Open |
-| Deployment time | ⚠️ Several minutes | ✅ < 30 seconds |
+| Deployment time | ⚠️ Several minutes | ✅ < 2 min |
 | Single-person deployment | ⚠️ Difficult | ✅ Yes |
 | Portability | ⚠️ Bulky folded (190 x 48 cm) | ✅ Compact folded |
 | Frame material | Aluminium tubing | Food-grade stainless steel |
@@ -48,7 +48,7 @@ The Corben tub has two significant advantages that explain its adoption by the P
 
 ## What Kollder adds
 
-**30-second deployment by one person.** This is the key operational difference. At a wildland fire, a sporting event, or a mobile EMS response, the medical team does not always have two people available to assemble equipment while others manage the patient. Kollder enables a single responder to deploy the tub while a second handles the patient.
+**2-minute deployment by one person.** This is the key operational difference. At a wildland fire, a sporting event, or a mobile EMS response, the medical team does not always have two people available to assemble equipment while others manage the patient. Kollder enables a single responder to deploy the tub while a second handles the patient.
 
 **Food-grade stainless steel frame.** More resistant to corrosion and repeated impact than aluminium tubing, for a longer operational lifespan.
 

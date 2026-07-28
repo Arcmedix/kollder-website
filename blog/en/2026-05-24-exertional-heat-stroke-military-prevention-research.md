@@ -71,6 +71,6 @@ The international review is explicit: the principal remaining barrier to effecti
 
 ---
 
-**Kollder is the emergency cooling tub that deploys in under 30 seconds, anywhere.**
+**Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
 
 [Request a quote](https://kollder.com/#contact)

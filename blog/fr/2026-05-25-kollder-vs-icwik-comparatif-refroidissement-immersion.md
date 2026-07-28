@@ -26,7 +26,7 @@ L'I-CWIK (Ice-Cold Water Immersion Kit) de Nereus Medical est l'un des systèmes
 | Surveillance des voies aériennes | ⚠️ Difficile | ✅ Directe |
 | Gestes médicaux avancés | ❌ Impossibles | ✅ Possibles |
 | Portabilité | ✅ Très légère | ✅ Compacte |
-| Déploiement | ✅ Rapide | ✅ < 30 secondes |
+| Déploiement | ✅ Rapide | ✅ < 2 min |
 | Conformité protocole CWI complet | ⚠️ Partielle | ✅ Complète |
 
 ## Ce que l'I-CWIK fait bien

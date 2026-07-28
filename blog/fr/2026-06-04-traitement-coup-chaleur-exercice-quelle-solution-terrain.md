@@ -61,7 +61,7 @@ Le suivi continu par thermométrie rectale pendant l'immersion permet un retrait
 
 La CWI est reconnue comme la méthode de référence depuis les années 2000. Pourtant, elle reste sous-déployée sur le terrain pour une raison simple : les cuves d'immersion classiques sont lourdes, encombrantes, et nécessitent une infrastructure fixe. Un SDIS engagé sur un feu de forêt, un médecin de trail au 60e kilomètre d'une course, un infirmier HSE sur un chantier — aucun d'eux ne peut transporter une baignoire hospitalière.
 
-C'est précisément ce problème que résout la **baignoire de refroidissement Kollder** : une cuve portable en PVC renforcé et structure aluminium, déployable en moins de 30 secondes par une seule personne, sur tout terrain. Les dimensions (205 × 65 × 35 cm) permettent une immersion complète du patient avec un accès total aux équipes médicales pour surveiller la thermométrie rectale, administrer des soins ou intuber si nécessaire — sans jamais extraire le patient de l'eau.
+C'est précisément ce problème que résout la **baignoire de refroidissement Kollder** : une cuve portable en PVC renforcé et structure aluminium, déployable en moins de 2 minutes par une seule personne, sur tout terrain. Les dimensions (205 × 65 × 35 cm) permettent une immersion complète du patient avec un accès total aux équipes médicales pour surveiller la thermométrie rectale, administrer des soins ou intuber si nécessaire — sans jamais extraire le patient de l'eau.
 
 Pour les organisateurs d'événements sportifs, les équipes médicales SDIS/SSSM, ou les responsables EHS en industrie : [kollder.com/#contact](https://kollder.com/#contact)
 

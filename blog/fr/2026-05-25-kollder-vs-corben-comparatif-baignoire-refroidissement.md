@@ -22,7 +22,7 @@ Choisir une baignoire de refroidissement d'urgence pour son service ou son équi
 |---|---|---|
 | Immersion corps entier | ✅ Oui | ✅ Oui |
 | Accès patient pour gestes avancés | ✅ Ouvert | ✅ Ouvert |
-| Temps de déploiement | ⚠️ Plusieurs minutes | ✅ < 30 secondes |
+| Temps de déploiement | ⚠️ Plusieurs minutes | ✅ < 2 min |
 | Déploiement par une seule personne | ⚠️ Difficile | ✅ Oui |
 | Portabilité | ⚠️ Encombrante repliée (190 x 48 cm) | ✅ Compacte repliée |
 | Matériau cadre | Aluminium tubulaire | Inox alimentaire |
@@ -48,7 +48,7 @@ La baignoire Corben présente deux avantages significatifs qui expliquent son ad
 
 ## Ce que Kollder apporte en plus
 
-**Le déploiement en 30 secondes par une seule personne.** C'est la différence opérationnelle majeure. Sur un feu de forêt, un événement sportif ou une intervention SMUR, l'équipe médicale n'a pas toujours deux personnes disponibles pour monter l'équipement pendant que d'autres prennent en charge la victime. Kollder permet à un soignant seul de déployer la baignoire pendant qu'un second s'occupe du patient.
+**Le déploiement en moins de 2 minutes par une seule personne.** C'est la différence opérationnelle majeure. Sur un feu de forêt, un événement sportif ou une intervention SMUR, l'équipe médicale n'a pas toujours deux personnes disponibles pour monter l'équipement pendant que d'autres prennent en charge la victime. Kollder permet à un soignant seul de déployer la baignoire pendant qu'un second s'occupe du patient.
 
 **La structure inox alimentaire.** Plus résistante à la corrosion et aux chocs répétés que l'aluminium tubulaire, pour une durée de vie opérationnelle plus longue.
 

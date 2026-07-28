@@ -58,7 +58,7 @@ Le WBGT est un outil d'aide à la décision, pas un substitut au protocole de tr
 
 **Le protocole "Cool First, Transport Second"** (ACSM 2023, Hutchins et al., Frontiers in Physiology 2022) stipule que la priorité absolue est de ramener la température centrale sous 39°C avant le transport. Le taux de survie est de 100 % sur plus de 401 cas documentés lorsque ce seuil est atteint dans les 30 minutes (Korey Stringer Institute, Dr Douglas Casa, UConn).
 
-La baignoire de refroidissement [Kollder](https://kollder.com/#contact) est conçue pour ce protocole : déployable en moins de 30 secondes par une seule personne, elle permet d'initier l'immersion immédiatement sur site, quelle que soit la configuration du terrain.
+La baignoire de refroidissement [Kollder](https://kollder.com/#contact) est conçue pour ce protocole : déployable en moins de 2 minutes par une seule personne, elle permet d'initier l'immersion immédiatement sur site, quelle que soit la configuration du terrain.
 
 ## Pour aller plus loin
 

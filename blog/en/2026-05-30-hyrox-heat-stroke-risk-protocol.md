@@ -52,7 +52,7 @@ This means in practice:
 
 A Hyrox event brings together several thousand participants over multiple days in an indoor space. Medical posts are fixed, but logistics must allow rapid intervention at any point in the venue.
 
-Kollder meets these constraints. Its tub deploys in under 30 seconds by one person and can be repositioned quickly between interventions. Its open structure allows full patient access — airway monitoring, rectal temperature measurement, advanced medical procedures — throughout the immersion. For Hyrox medical directors who wish to integrate it into their setup: [kollder.com/#contact](https://kollder.com/#contact).
+Kollder meets these constraints. Its tub deploys in under 2 minutes by one person and can be repositioned quickly between interventions. Its open structure allows full patient access — airway monitoring, rectal temperature measurement, advanced medical procedures — throughout the immersion. For Hyrox medical directors who wish to integrate it into their setup: [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further reading
 

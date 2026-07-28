@@ -87,7 +87,7 @@ The protocol is not the bottleneck. The equipment is.
 
 Cold water immersion requires a tub that can hold a person, water, and ice. On a wildfire line, a race finish line, or a military training ground, that tub is not standard issue. Teams improvise. Improvised solutions are not fast enough, not stable enough, and not reliably available.
 
-**The Kollder emergency cooling tub was built specifically for this problem.** It deploys in under 30 seconds by a single operator, on any surface, and fits in any standard vehicle. It removes the logistics barrier between knowing what to do and actually doing it.
+**The Kollder emergency cooling tub was built specifically for this problem.** It deploys in under 2 minutes by a single operator, on any surface, and fits in any standard vehicle. It removes the logistics barrier between knowing what to do and actually doing it.
 
 ---
 
@@ -112,4 +112,4 @@ Cold water immersion requires a tub that can hold a person, water, and ice. On a
 
 ---
 
-*Kollder is the emergency cooling tub designed to make cold water immersion possible anywhere. Deployed in under 30 seconds by one person, on any terrain.*
+*Kollder is the emergency cooling tub designed to make cold water immersion possible anywhere. Deployed in under 2 minutes by one person, on any terrain.*
