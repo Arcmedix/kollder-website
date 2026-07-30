@@ -275,6 +275,8 @@ footer {
         <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}">{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</a>
         <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}">{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</a>
         <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}">{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/defense-military/{% else %}/fr/defense-militaire/{% endif %}">{% if lang == 'en' %}Defense & Military{% else %}Défense & Militaire{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/occupational-safety/{% else %}/fr/securite-travail/{% endif %}">{% if lang == 'en' %}Occupational Safety{% else %}Sécurité au travail{% endif %}</a>
       </div>
     </div>
     <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-link nav-link-active">
@@ -310,6 +312,8 @@ footer {
     <a class="nav-overlay-sublink" id="ov-samu"><span id="ov-samu-label">SAMU / SMUR</span></a>
     <a class="nav-overlay-sublink" id="ov-civile"><span id="ov-civile-label">Protection civile</span></a>
     <a class="nav-overlay-sublink" id="ov-event"><span id="ov-event-label">Événementiel sportif</span></a>
+    <a class="nav-overlay-sublink" id="ov-defense"><span id="ov-defense-label">Défense & Militaire</span></a>
+    <a class="nav-overlay-sublink" id="ov-ehs"><span id="ov-ehs-label">Sécurité au travail</span></a>
     <a class="nav-overlay-link" id="ov-blog">
       <span id="ov-blog-label">Ressources</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
@@ -386,6 +390,10 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('ov-civile-label').textContent = isFr ? 'Protection civile' : 'Civil Protection';
   document.getElementById('ov-event').href = isFr ? '/fr/assistance-medicale-evenements/' : '/en/event-medical-support/';
   document.getElementById('ov-event-label').textContent = isFr ? 'Événementiel sportif' : 'Event Medical';
+  document.getElementById('ov-defense').href = isFr ? '/fr/defense-militaire/' : '/en/defense-military/';
+  document.getElementById('ov-defense-label').textContent = isFr ? 'Défense & Militaire' : 'Defense & Military';
+  document.getElementById('ov-ehs').href = isFr ? '/fr/securite-travail/' : '/en/occupational-safety/';
+  document.getElementById('ov-ehs-label').textContent = isFr ? 'Sécurité au travail' : 'Occupational Safety';
   document.getElementById('ov-blog').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
   document.getElementById('ov-blog-label').textContent = isFr ? 'Ressources' : 'Resources';
     document.getElementById('ov-monitor-label').innerHTML = (isFr ? 'Moniteur EHS' : 'EHS Monitor') + ' <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span>';

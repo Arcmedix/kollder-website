@@ -576,6 +576,8 @@ footer {
         <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}">{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</a>
         <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}">{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</a>
         <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}">{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/defense-military/{% else %}/fr/defense-militaire/{% endif %}">{% if lang == 'en' %}Defense & Military{% else %}Défense & Militaire{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/occupational-safety/{% else %}/fr/securite-travail/{% endif %}">{% if lang == 'en' %}Occupational Safety{% else %}Sécurité au travail{% endif %}</a>
       </div>
     </div>
     <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-link">
@@ -606,11 +608,13 @@ footer {
       <span id="ov-distrib-label">Distributeurs</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
-    <p class="nav-overlay-group-label" id="ov-secteurs-label">Secteurs</p>
-    <a class="nav-overlay-sublink" id="ov-sdis"><span id="ov-sdis-label">SDIS / Pompiers</span></a>
-    <a class="nav-overlay-sublink" id="ov-samu"><span id="ov-samu-label">SAMU / SMUR</span></a>
-    <a class="nav-overlay-sublink" id="ov-civile"><span id="ov-civile-label">Protection civile</span></a>
-    <a class="nav-overlay-sublink" id="ov-event"><span id="ov-event-label">Événementiel sportif</span></a>
+    <p class="nav-overlay-group-label">{% if lang == "fr" %}Secteurs{% else %}Who We Serve{% endif %}</p>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/fire-rescue/{% else %}/fr/sdis-pompiers/{% endif %}"><span>{% if lang == 'en' %}Fire & Rescue{% else %}SDIS / Pompiers{% endif %}</span></a>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}"><span>{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</span></a>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}"><span>{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</span></a>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}"><span>{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</span></a>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/defense-military/{% else %}/fr/defense-militaire/{% endif %}"><span>{% if lang == 'en' %}Defense & Military{% else %}Défense & Militaire{% endif %}</span></a>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/occupational-safety/{% else %}/fr/securite-travail/{% endif %}"><span>{% if lang == 'en' %}Occupational Safety{% else %}Sécurité au travail{% endif %}</span></a>
     <a class="nav-overlay-link" id="ov-blog">
       <span id="ov-blog-label">Ressources</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>

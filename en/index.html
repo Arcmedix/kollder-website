@@ -848,6 +848,10 @@ h1 em {
   position: relative;
   overflow: hidden;
   background: var(--cream);
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
 .icp-img {
   aspect-ratio: 4/3;
@@ -1470,6 +1474,8 @@ h1           { animation: up .5s ease both .2s; }
 <a class="nav-dropdown-item" href="/en/emergency-medical-services/">EMS & Emergency Depts</a>
 <a class="nav-dropdown-item" href="/en/civil-protection/">Civil Protection</a>
 <a class="nav-dropdown-item" href="/en/event-medical-support/">Event Medical</a>
+<a class="nav-dropdown-item" href="/en/defense-military/">Defense & Military</a>
+<a class="nav-dropdown-item" href="/en/occupational-safety/">Occupational Safety</a>
 </div>
 </div>
 <a class="nav-blog-link" href="/blog/?lang=en">Resources<span class="nav-badge" id="nav-article-count"></span></a>
@@ -1499,6 +1505,8 @@ h1           { animation: up .5s ease both .2s; }
     <a class="nav-overlay-sublink" href="/en/emergency-medical-services/"><span>EMS & Emergency Depts</span></a>
     <a class="nav-overlay-sublink" href="/en/civil-protection/"><span>Civil Protection</span></a>
     <a class="nav-overlay-sublink" href="/en/event-medical-support/"><span>Event Medical</span></a>
+    <a class="nav-overlay-sublink" href="/en/defense-military/"><span>Defense & Military</span></a>
+    <a class="nav-overlay-sublink" href="/en/occupational-safety/"><span>Occupational Safety</span></a>
     <a class="nav-overlay-link" href="/blog/?lang=en">
       <span>Resources</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
@@ -1719,7 +1727,7 @@ h1           { animation: up .5s ease both .2s; }
 <p class="sec-label reveal">Those we equip</p>
 <h2 class="sec-title reveal">Built for those<br>who <em>respond.</em></h2>
 <div class="icp-grid">
-<div class="icp reveal">
+<a class="icp reveal" href="/en/fire-rescue/">
 <div class="icp-img">
 <svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4C10 9 8 12 8 15a6 6 0 1012 0c0-3-2-6-6-11z"/><path d="M14 12c1 2 2 3 2 4.5a2 2 0 11-4 0c0-.8.3-1.3.6-1.8"/></svg>
 </div>
@@ -1727,8 +1735,8 @@ h1           { animation: up .5s ease both .2s; }
 <div class="icp-title">Fire & rescue services</div>
 <div class="icp-desc">National and regional fire services. Medical forward posts, wildfire operations and extended response in hot conditions.</div>
 </div>
-</div>
-<div class="icp reveal d1">
+</a>
+<a class="icp reveal d1" href="/en/defense-military/">
 <div class="icp-img">
 <svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4l2.5 6.2 6.5.5-5 4.4 1.6 6.4L14 18l-5.6 3.5 1.6-6.4-5-4.4 6.5-.5z"/></svg>
 </div>
@@ -1736,17 +1744,17 @@ h1           { animation: up .5s ease both .2s; }
 <div class="icp-title">Military & special forces</div>
 <div class="icp-desc">Elite units, OPEX in hot environments, forward combat medicine.</div>
 </div>
-</div>
-<div class="icp reveal d2">
+</a>
+<a class="icp reveal d2" href="/en/civil-protection/">
 <div class="icp-img">
 <svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4l8 3v6c0 6-4 9.5-8 11-4-1.5-8-5-8-11V7z"/></svg>
 </div>
 <div class="icp-info">
 <div class="icp-title">Civil defence & security</div>
-<div class="icp-desc">Civil protection, EMS, police, and private security companies.</div>
+<div class="icp-desc">Civil protection associations and volunteer emergency medical organizations.</div>
 </div>
-</div>
-<div class="icp reveal">
+</a>
+<a class="icp reveal" href="/en/emergency-medical-services/">
 <div class="icp-img">
 <svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="14" cy="14" r="9"/><path d="M14 10v8M10 14h8"/></svg>
 </div>
@@ -1754,8 +1762,8 @@ h1           { animation: up .5s ease both .2s; }
 <div class="icp-title">Tactical medicine & EMS</div>
 <div class="icp-desc">Emergency medical teams and forward medical officers. Protocols for field operations.</div>
 </div>
-</div>
-<div class="icp reveal d1">
+</a>
+<a class="icp reveal d1" href="/en/event-medical-support/">
 <div class="icp-img">
 <svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M8 4v20"/><path d="M8 5h12l-3 3.5L20 12H8"/></svg>
 </div>
@@ -1763,8 +1771,8 @@ h1           { animation: up .5s ease both .2s; }
 <div class="icp-title">Events & mass sport</div>
 <div class="icp-desc">Marathons, trail runs, triathlons, Hyrox, mass gatherings. Medical cover at the finish line and throughout the course.</div>
 </div>
-</div>
-<div class="icp reveal d2">
+</a>
+<a class="icp reveal d2" href="/en/occupational-safety/">
 <div class="icp-img">
 <svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M6 18a8 8 0 1116 0z"/><path d="M4 18h20"/><path d="M14 6v4"/></svg>
 </div>
@@ -1772,7 +1780,7 @@ h1           { animation: up .5s ease both .2s; }
 <div class="icp-title">Industry, Construction, Oil & Gas, Transport</div>
 <div class="icp-desc">EHS teams in industrial, transport, construction, oil & gas, mining and infrastructure environments in hot conditions.</div>
 </div>
-</div>
+</a>
 </div>
 </div>
 </section>
