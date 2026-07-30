@@ -71,6 +71,36 @@ nav {
 .ham-btn.open span:nth-child(2) { opacity: 0; }
 .ham-btn.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
+.nav-dropdown { position: relative; display: inline-flex; align-items: center; }
+.nav-dropdown-arrow { margin-left: 5px; transition: transform .2s; }
+.nav-dropdown:hover .nav-dropdown-arrow, .nav-dropdown:focus-within .nav-dropdown-arrow { transform: rotate(180deg); }
+.nav-dropdown-menu {
+  position: absolute; top: 100%; left: 0; margin-top: 14px;
+  background: var(--white); border: 1px solid var(--border);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.1); min-width: 230px; padding: 8px;
+  opacity: 0; visibility: hidden; transform: translateY(6px);
+  transition: opacity .2s ease, transform .2s ease, visibility .2s;
+}
+.nav-dropdown:hover .nav-dropdown-menu, .nav-dropdown:focus-within .nav-dropdown-menu {
+  opacity: 1; visibility: visible; transform: translateY(0);
+}
+.nav-dropdown-item {
+  display: block; padding: 10px 14px; font-size: 13px; font-weight: 500;
+  color: var(--ink); text-decoration: none; letter-spacing: 0.02em;
+  transition: background .15s;
+}
+.nav-dropdown-item:hover { background: var(--cream); }
+.nav-overlay-group-label {
+  font-size: 12px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--muted); padding: 16px 0 4px; font-family: 'DM Sans', sans-serif;
+}
+.nav-overlay-sublink {
+  font-size: 16px; font-weight: 400; color: var(--ink); text-decoration: none;
+  padding: 10px 0 10px 4px; display: flex; align-items: center; justify-content: space-between;
+  font-family: 'DM Sans', sans-serif; border-bottom: 1px solid var(--border);
+}
+.nav-overlay-sublink:last-of-type { border-bottom: none; }
+
 /* Mobile overlay */
 .nav-overlay {
   display: none; position: fixed; inset: 0; z-index: 150;
@@ -290,6 +320,17 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
     <a href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}" class="nav-back" style="font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;transition:color .2s;">
       {% if lang == "fr" %}Distributeurs{% else %}Partners{% endif %}
     </a>
+    <div class="nav-dropdown">
+      <a href="javascript:void(0)" class="nav-back" style="font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;transition:color .2s;display:inline-flex;align-items:center;">
+        {% if lang == "fr" %}Secteurs{% else %}Who We Serve{% endif %}<svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg>
+      </a>
+      <div class="nav-dropdown-menu">
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/fire-rescue/{% else %}/fr/sdis-pompiers/{% endif %}">{% if lang == 'en' %}Fire & Rescue{% else %}SDIS / Pompiers{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}">{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}">{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}">{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</a>
+      </div>
+    </div>
     <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-back" style="font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;transition:color .2s;">
       {% if lang == "fr" %}Ressources{% else %}Resources{% endif %}
     </a>
@@ -321,6 +362,11 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
       <span>{% if lang == "fr" %}Distributeurs{% else %}Partners{% endif %}</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
+    <p class="nav-overlay-group-label">{% if lang == "fr" %}Secteurs{% else %}Who We Serve{% endif %}</p>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/fire-rescue/{% else %}/fr/sdis-pompiers/{% endif %}"><span>{% if lang == 'en' %}Fire & Rescue{% else %}SDIS / Pompiers{% endif %}</span></a>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}"><span>{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</span></a>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}"><span>{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</span></a>
+    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}"><span>{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</span></a>
     <a class="nav-overlay-link" href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}">
       <span>{% if lang == "fr" %}Ressources{% else %}Resources{% endif %}</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>

@@ -323,6 +323,35 @@ nav {
   white-space: nowrap;
 }
 .nav-blog-link:hover .nav-badge { background: var(--ink); color: var(--white); }
+.nav-dropdown { position: relative; display: inline-flex; align-items: center; }
+.nav-dropdown-arrow { margin-left: 5px; transition: transform .2s; }
+.nav-dropdown:hover .nav-dropdown-arrow, .nav-dropdown:focus-within .nav-dropdown-arrow { transform: rotate(180deg); }
+.nav-dropdown-menu {
+  position: absolute; top: 100%; left: 0; margin-top: 12px;
+  background: var(--white); border: 1px solid var(--border);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.1); min-width: 230px; padding: 8px;
+  opacity: 0; visibility: hidden; transform: translateY(6px);
+  transition: opacity .2s ease, transform .2s ease, visibility .2s;
+}
+.nav-dropdown:hover .nav-dropdown-menu, .nav-dropdown:focus-within .nav-dropdown-menu {
+  opacity: 1; visibility: visible; transform: translateY(0);
+}
+.nav-dropdown-item {
+  display: block; padding: 10px 14px; font-size: 13px; font-weight: 500;
+  color: var(--ink); text-decoration: none; letter-spacing: 0.02em;
+  transition: background .15s;
+}
+.nav-dropdown-item:hover { background: var(--cream); }
+.nav-overlay-group-label {
+  font-size: 12px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--muted); padding: 16px 0 4px; font-family: 'DM Sans', sans-serif;
+}
+.nav-overlay-sublink {
+  font-size: 16px; font-weight: 400; color: var(--ink); text-decoration: none;
+  padding: 10px 0 10px 4px; display: flex; align-items: center; justify-content: space-between;
+  font-family: 'DM Sans', sans-serif; border-bottom: 1px solid var(--border, #e8e4dc);
+}
+.nav-overlay-sublink:last-of-type { border-bottom: none; }
 
 /* ── PREMIUM ANIMATIONS ── */
 
@@ -1443,6 +1472,15 @@ h1           { animation: up .5s ease both .2s; }
 <div class="nav-brand"><img alt="Kollder" src="/images/logo-kollder.png"/></div>
 <div class="nav-right">
 <a class="nav-blog-link" href="/fr/distributeurs/?lang=fr" id="nav-partner-link" style="padding-bottom:2px;">Distributeurs</a>
+<div class="nav-dropdown">
+<a class="nav-blog-link" href="javascript:void(0)" style="padding-bottom:2px;">Secteurs<svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg></a>
+<div class="nav-dropdown-menu">
+<a class="nav-dropdown-item" href="/fr/sdis-pompiers/">SDIS / Pompiers</a>
+<a class="nav-dropdown-item" href="/fr/services-urgence-hopitaux/">SAMU / SMUR</a>
+<a class="nav-dropdown-item" href="/fr/protection-civile/">Protection civile</a>
+<a class="nav-dropdown-item" href="/fr/assistance-medicale-evenements/">Événementiel sportif</a>
+</div>
+</div>
 <a class="nav-blog-link" href="/blog/?lang=fr">Ressources<span class="nav-badge" id="nav-article-count"></span></a>
 <a class="nav-monitor-link" href="/fr/monitor/"><span class="nav-monitor-dot"></span>Moniteur EHS</a>
 <a class="nav-devis-btn" href="#contact" id="nav-devis-btn">Obtenir un devis</a>
@@ -1465,6 +1503,11 @@ h1           { animation: up .5s ease both .2s; }
     <a class="nav-overlay-link" href="/fr/distributeurs/">
       <span>Distributeurs</span><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
+    <p class="nav-overlay-group-label">Secteurs</p>
+    <a class="nav-overlay-sublink" href="/fr/sdis-pompiers/"><span>SDIS / Pompiers</span></a>
+    <a class="nav-overlay-sublink" href="/fr/services-urgence-hopitaux/"><span>SAMU / SMUR</span></a>
+    <a class="nav-overlay-sublink" href="/fr/protection-civile/"><span>Protection civile</span></a>
+    <a class="nav-overlay-sublink" href="/fr/assistance-medicale-evenements/"><span>Événementiel sportif</span></a>
     <a class="nav-overlay-link" href="/blog/?lang=fr">
       <span>Ressources</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>

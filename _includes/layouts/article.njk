@@ -80,6 +80,35 @@ nav {
   background: var(--sand); color: var(--ink); font-size: 10px; font-weight: 500;
   padding: 1px 6px; border-radius: 10px; margin-left: 4px;
 }
+.nav-dropdown { position: relative; display: inline-flex; align-items: center; }
+.nav-dropdown-arrow { margin-left: 5px; transition: transform .2s; }
+.nav-dropdown:hover .nav-dropdown-arrow, .nav-dropdown:focus-within .nav-dropdown-arrow { transform: rotate(180deg); }
+.nav-dropdown-menu {
+  position: absolute; top: 100%; left: 0; margin-top: 14px;
+  background: var(--white); border: 1px solid var(--border);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.1); min-width: 230px; padding: 8px;
+  opacity: 0; visibility: hidden; transform: translateY(6px);
+  transition: opacity .2s ease, transform .2s ease, visibility .2s;
+}
+.nav-dropdown:hover .nav-dropdown-menu, .nav-dropdown:focus-within .nav-dropdown-menu {
+  opacity: 1; visibility: visible; transform: translateY(0);
+}
+.nav-dropdown-item {
+  display: block; padding: 10px 14px; font-size: 13px; font-weight: 500;
+  color: var(--ink); text-decoration: none; letter-spacing: 0.02em;
+  transition: background .15s;
+}
+.nav-dropdown-item:hover { background: var(--cream); }
+.nav-overlay-group-label {
+  font-size: 12px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--muted); padding: 16px 0 4px; font-family: 'DM Sans', sans-serif;
+}
+.nav-overlay-sublink {
+  font-size: 16px; font-weight: 400; color: var(--ink); text-decoration: none;
+  padding: 10px 0 10px 4px; display: flex; align-items: center; justify-content: space-between;
+  font-family: 'DM Sans', sans-serif; border-bottom: 1px solid var(--border);
+}
+.nav-overlay-sublink:last-of-type { border-bottom: none; }
 .lang-toggle { display: flex; border: 1px solid var(--border); }
 .lang-btn {
   background: none; border: none; font-family: 'DM Sans', sans-serif;
@@ -239,6 +268,15 @@ footer {
   <div class="nav-right">
     <a href="{% if lang == 'en' %}/en/{% else %}/?lang=fr{% endif %}" class="nav-link">{% if lang == 'en' %}Home{% else %}Accueil{% endif %}</a>
     <a href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}" class="nav-link">{% if lang == 'en' %}Partners{% else %}Distributeurs{% endif %}</a>
+    <div class="nav-dropdown">
+      <a href="javascript:void(0)" class="nav-link">{% if lang == 'en' %}Who We Serve{% else %}Secteurs{% endif %}<svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg></a>
+      <div class="nav-dropdown-menu">
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/fire-rescue/{% else %}/fr/sdis-pompiers/{% endif %}">{% if lang == 'en' %}Fire & Rescue{% else %}SDIS / Pompiers{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}">{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}">{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</a>
+        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}">{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</a>
+      </div>
+    </div>
     <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-link nav-link-active">
       {% if lang == 'en' %}Resources{% else %}Ressources{% endif %}<span class="nav-badge" id="nav-badge"></span>
     </a>
@@ -267,6 +305,11 @@ footer {
       <span id="ov-distrib-label">Distributeurs</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
+    <p class="nav-overlay-group-label" id="ov-secteurs-label">Secteurs</p>
+    <a class="nav-overlay-sublink" id="ov-sdis"><span id="ov-sdis-label">SDIS / Pompiers</span></a>
+    <a class="nav-overlay-sublink" id="ov-samu"><span id="ov-samu-label">SAMU / SMUR</span></a>
+    <a class="nav-overlay-sublink" id="ov-civile"><span id="ov-civile-label">Protection civile</span></a>
+    <a class="nav-overlay-sublink" id="ov-event"><span id="ov-event-label">Événementiel sportif</span></a>
     <a class="nav-overlay-link" id="ov-blog">
       <span id="ov-blog-label">Ressources</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
@@ -334,6 +377,15 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('ov-home-label').textContent = isFr ? 'Accueil' : 'Home';
   document.getElementById('ov-distrib').href = isFr ? '/fr/distributeurs/' : '/en/partners/';
   document.getElementById('ov-distrib-label').textContent = isFr ? 'Distributeurs' : 'Partners';
+  document.getElementById('ov-secteurs-label').textContent = isFr ? 'Secteurs' : 'Who We Serve';
+  document.getElementById('ov-sdis').href = isFr ? '/fr/sdis-pompiers/' : '/en/fire-rescue/';
+  document.getElementById('ov-sdis-label').textContent = isFr ? 'SDIS / Pompiers' : 'Fire & Rescue';
+  document.getElementById('ov-samu').href = isFr ? '/fr/services-urgence-hopitaux/' : '/en/emergency-medical-services/';
+  document.getElementById('ov-samu-label').textContent = isFr ? 'SAMU / SMUR' : 'EMS & Emergency Depts';
+  document.getElementById('ov-civile').href = isFr ? '/fr/protection-civile/' : '/en/civil-protection/';
+  document.getElementById('ov-civile-label').textContent = isFr ? 'Protection civile' : 'Civil Protection';
+  document.getElementById('ov-event').href = isFr ? '/fr/assistance-medicale-evenements/' : '/en/event-medical-support/';
+  document.getElementById('ov-event-label').textContent = isFr ? 'Événementiel sportif' : 'Event Medical';
   document.getElementById('ov-blog').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
   document.getElementById('ov-blog-label').textContent = isFr ? 'Ressources' : 'Resources';
     document.getElementById('ov-monitor-label').innerHTML = (isFr ? 'Moniteur EHS' : 'EHS Monitor') + ' <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span>';
