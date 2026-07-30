@@ -342,10 +342,16 @@ nav {
   transition: background .15s;
 }
 .nav-dropdown-item:hover { background: var(--cream); }
-.nav-overlay-group-label {
+.nav-overlay-toggle {
+  display: flex; align-items: center; justify-content: space-between;
+  width: 100%; background: none; border: none; text-align: left; cursor: pointer;
   font-size: 12px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase;
-  color: var(--muted); padding: 16px 0 4px; font-family: 'DM Sans', sans-serif;
+  color: var(--muted); padding: 16px 0 12px; font-family: 'DM Sans', sans-serif;
 }
+.nav-overlay-toggle-arrow { transition: transform .25s ease; flex-shrink: 0; }
+.nav-overlay-toggle[aria-expanded="true"] .nav-overlay-toggle-arrow { transform: rotate(180deg); }
+.nav-overlay-sublinks { max-height: 0; overflow: hidden; transition: max-height .3s ease; }
+.nav-overlay-sublinks.open { max-height: 480px; }
 .nav-overlay-sublink {
   font-size: 16px; font-weight: 400; color: var(--ink); text-decoration: none;
   padding: 10px 0 10px 4px; display: flex; align-items: center; justify-content: space-between;
@@ -1414,6 +1420,8 @@ h1           { animation: up .5s ease both .2s; }
   display: none; position: fixed; inset: 0; z-index: 150;
   background: var(--white, #faf9f7); flex-direction: column;
   padding: 90px 32px 40px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .nav-overlay.open { display: flex; }
 .nav-overlay-links { display: flex; flex-direction: column; gap: 8px; flex: 1; }
@@ -1509,13 +1517,18 @@ h1           { animation: up .5s ease both .2s; }
     <a class="nav-overlay-link" href="/fr/distributeurs/">
       <span>Distributeurs</span><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
-    <p class="nav-overlay-group-label">Secteurs</p>
+    <button type="button" class="nav-overlay-toggle" aria-expanded="false" onclick="toggleNavOverlayGroup(this)">
+      <span>Secteurs</span>
+      <svg class="nav-overlay-toggle-arrow" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg>
+    </button>
+    <div class="nav-overlay-sublinks">
     <a class="nav-overlay-sublink" href="/fr/sdis-pompiers/"><span>SDIS / Pompiers</span></a>
     <a class="nav-overlay-sublink" href="/fr/services-urgence-hopitaux/"><span>SAMU / SMUR</span></a>
     <a class="nav-overlay-sublink" href="/fr/protection-civile/"><span>Protection civile</span></a>
     <a class="nav-overlay-sublink" href="/fr/assistance-medicale-evenements/"><span>Événementiel sportif</span></a>
     <a class="nav-overlay-sublink" href="/fr/defense-militaire/"><span>Défense & Militaire</span></a>
     <a class="nav-overlay-sublink" href="/fr/securite-travail/"><span>Sécurité au travail</span></a>
+    </div>
     <a class="nav-overlay-link" href="/blog/?lang=fr">
       <span>Ressources</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
@@ -2483,6 +2496,12 @@ if (form) {
     });
   });
 })();
+
+window.toggleNavOverlayGroup = function(btn) {
+  var panel = btn.nextElementSibling;
+  var isOpen = panel.classList.toggle('open');
+  btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+};
 
 // ── FIELD CAROUSEL ──────────────────────────────────────────────
 (function() {
