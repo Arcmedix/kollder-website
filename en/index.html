@@ -342,6 +342,13 @@ nav {
   transition: background .15s;
 }
 .nav-dropdown-item:hover { background: var(--cream); }
+.nav-overlay-close {
+  position: absolute; top: 24px; right: 24px; z-index: 5;
+  display: flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px; background: none; border: none; cursor: pointer;
+  color: var(--ink, #1a1a17);
+}
+.nav-overlay-close svg { display: block; }
 .nav-overlay-toggle {
   display: flex; align-items: center; justify-content: space-between;
   width: 100%; background: none; border: none; text-align: left; cursor: pointer;
@@ -1502,6 +1509,9 @@ h1           { animation: up .5s ease both .2s; }
 
 <!-- Mobile overlay -->
 <div class="nav-overlay" id="navOverlay">
+  <button type="button" class="nav-overlay-close" aria-label="Close menu" onclick="closeNavOverlay()">
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M5 5l10 10M15 5L5 15"/></svg>
+  </button>
   <div class="nav-overlay-links">
     <a class="nav-overlay-link" href="/en/">
       <span>Home</span><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
@@ -2301,6 +2311,14 @@ window.toggleNavOverlayGroup = function(btn) {
   var isOpen = panel.classList.toggle('open');
   btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
 };
+window.closeNavOverlay = function() {
+  var overlay = document.getElementById('navOverlay');
+  var btn = document.getElementById('hamBtn');
+  if (overlay) overlay.classList.remove('open');
+  if (btn) btn.classList.remove('open');
+  document.body.style.overflow = '';
+};
+
 
 // ── FIELD CAROUSEL ──────────────────────────────────────────────
 (function() {
