@@ -22,13 +22,9 @@ SAMU and SMUR physicians need to reach the airway, place lines, and monitor a pa
 
 Fire and EMS equipment gets used hard, repeatedly, often outdoors in conditions that degrade lighter materials quickly. Kollder's stainless steel chassis is built for that duty cycle rather than for occasional or single-season use, which matters to SDIS procurement decisions where equipment is expected to survive years of field deployment, not one good season.
 
-## French-made, assembled in Normandy
-
-Kollder is a French company, with equipment assembled in Normandy. For SDIS and SAMU procurement processes that weigh domestic sourcing and supply chain reliability alongside technical specification, that matters in a way that is separate from, but reinforces, the equipment case. It also means field feedback from French SDIS and SAMU teams feeds directly back into how the equipment is built and refined.
-
 ## What this means for departments outside France
 
-None of these four factors, deployment speed, patient access, build durability, and manufacturing accountability, are specific to France. They are the same evaluation criteria any fire department or EMS agency should apply when specifying cold water immersion equipment, which is why the French adoption pattern is a useful reference point rather than a regional curiosity. Details at [kollder.com/#contact](https://kollder.com/#contact).
+None of these three factors, deployment speed, patient access, and build durability, are specific to France. They are the same evaluation criteria any fire department or EMS agency should apply when specifying cold water immersion equipment, which is why the French adoption pattern is a useful reference point rather than a regional curiosity. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 
