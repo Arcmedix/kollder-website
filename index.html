@@ -866,6 +866,28 @@ h1 em {
 }
 .vsl-wrap .ugc-video { object-fit: cover; }
 .vsl-wrap .ugc-play-overlay { width: 64px; height: 64px; }
+.vsl-sound-toggle {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(0,0,0,0.55);
+  border: 1px solid rgba(255,255,255,0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  cursor: pointer;
+  z-index: 2;
+  transition: background .2s ease;
+}
+.vsl-sound-toggle:hover { background: rgba(0,0,0,0.75); }
+.vsl-sound-toggle .icon-muted { display: block; }
+.vsl-sound-toggle .icon-unmuted { display: none; }
+.vsl-wrap.is-unmuted .vsl-sound-toggle .icon-muted { display: none; }
+.vsl-wrap.is-unmuted .vsl-sound-toggle .icon-unmuted { display: block; }
 
 .audience-buttons {
   display: flex;
@@ -2001,6 +2023,10 @@ h1           { animation: up .5s ease both .2s; }
 <source src="/videos/vsl-final.mp4" type="video/mp4">
 </video>
 <div class="ugc-play-overlay" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M6 4L16 10L6 16V4Z" fill="currentColor"/></svg></div>
+<button class="vsl-sound-toggle" type="button" aria-label="Activer le son">
+<svg class="icon-muted" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 9v6h4l5 5V4L8 9H4z"/><path d="M17 8l5 8M22 8l-5 8"/></svg>
+<svg class="icon-unmuted" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 9v6h4l5 5V4L8 9H4z"/><path d="M16 8.5a5 5 0 010 7M19 6a9 9 0 010 12"/></svg>
+</button>
 </div>
 <div class="audience-buttons">
 <a class="audience-btn reveal" href="/fr/sdis-pompiers/">
@@ -2463,6 +2489,22 @@ if (form) {
     }, { threshold: 0.6 });
     document.querySelectorAll('.ugc-card').forEach(function(card) { observer.observe(card); });
   }
+})();
+</script>
+
+<script>
+(function() {
+  var wrap = document.querySelector('.vsl-wrap');
+  if (!wrap) return;
+  var video = wrap.querySelector('.ugc-video');
+  var toggle = wrap.querySelector('.vsl-sound-toggle');
+  if (!video || !toggle) return;
+
+  toggle.addEventListener('click', function(e) {
+    e.stopPropagation(); // don't trigger the card's own play/pause toggle
+    video.muted = !video.muted;
+    wrap.classList.toggle('is-unmuted', !video.muted);
+  });
 })();
 </script>
 
