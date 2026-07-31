@@ -387,8 +387,8 @@ nav {
 .benefit { transition: background .2s, transform .25s ease, box-shadow .25s ease; }
 .benefit:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(26,26,23,0.08); }
 
-.icp { transition: transform .25s ease, box-shadow .25s ease; }
-.icp:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(26,26,23,0.1); }
+.audience-btn { transition: background .25s ease, border-color .25s ease, transform .25s ease, box-shadow .25s ease; }
+.audience-btn:hover { box-shadow: 0 8px 20px rgba(26,26,23,0.12); }
 
 /* FAQ icon rotation */
 .faq-icon { display: inline-block; }
@@ -852,56 +852,56 @@ h1 em {
 }
 .serve-inner { max-width: 1240px; margin: 0 auto; }
 
-.icp-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 3px;
-  margin-top: 64px;
-}
-.icp {
+.vsl-wrap {
   position: relative;
+  width: 100%;
+  max-width: 920px;
+  margin: 48px auto 0;
+  aspect-ratio: 16/9;
+  border-radius: 14px;
   overflow: hidden;
-  background: var(--cream);
-  display: block;
-  text-decoration: none;
-  color: inherit;
+  box-shadow: 0 24px 64px rgba(0,0,0,0.28);
   cursor: pointer;
+  background: var(--black);
 }
-.icp-img {
-  aspect-ratio: 4/3;
-  position: relative;
-  overflow: hidden;
-  background: var(--beige);
+.vsl-wrap .ugc-video { object-fit: cover; }
+.vsl-wrap .ugc-play-overlay { width: 64px; height: 64px; }
+
+.audience-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  max-width: 920px;
+  margin: 32px auto 0;
+}
+.audience-btn {
   display: flex;
   align-items: center;
-  justify-content: center;
-}
-.icp-img svg {
-  width: 44px; height: 44px;
-  color: var(--black);
-  opacity: .82;
-  transition: transform .4s ease, opacity .4s ease;
-}
-.icp:hover .icp-img svg {
-  transform: scale(1.08);
-  opacity: 1;
-}
-.icp-info {
-  padding: 20px 22px;
+  gap: 10px;
+  padding: 13px 20px;
+  border: 1px solid var(--border2);
+  border-radius: 999px;
   background: var(--cream);
-  border-top: 1px solid var(--border2);
-}
-.icp-title {
-  font-family: 'DM Serif Display', serif;
-  font-size: 16px;
+  text-decoration: none;
   color: var(--black);
-  margin-bottom: 5px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13.5px;
+  letter-spacing: 0.01em;
+  transition: background .25s ease, border-color .25s ease, transform .25s ease;
 }
-.icp-desc {
-  font-size: 12px;
-  color: var(--muted);
-  line-height: 1.55;
+.audience-btn svg {
+  width: 18px; height: 18px;
+  flex-shrink: 0;
+  opacity: .85;
 }
+.audience-btn:hover {
+  background: var(--black);
+  border-color: var(--black);
+  color: var(--white);
+  transform: translateY(-1px);
+}
+.audience-btn:hover svg { opacity: 1; }
 
 /* ── FIELD CAROUSEL ── */
 .field {
@@ -1306,7 +1306,9 @@ h1           { animation: up .5s ease both .2s; }
   .form-inner  { grid-template-columns: 1fr; gap: 48px; }
 
   .benefits-grid { grid-template-columns: 1fr; gap: 2px; }
-  .icp-grid      { grid-template-columns: 1fr 1fr; gap: 3px; }
+  .vsl-wrap { margin-top: 36px; border-radius: 10px; }
+  .audience-buttons { gap: 10px; margin-top: 24px; }
+  .audience-btn { flex: 1 1 calc(50% - 10px); justify-content: flex-start; padding: 12px 16px; font-size: 13px; }
 
   /* Agit stats: stack vertically, numbers smaller */
   .agit-stats { flex-direction: column; gap: 3px; }
@@ -1367,8 +1369,9 @@ h1           { animation: up .5s ease both .2s; }
   .proof { padding: 56px 20px; }
   .proof-photo { aspect-ratio: 4/3; }
 
-  /* ── ICP : single column on small mobile ── */
-  .icp-grid { grid-template-columns: 1fr; }
+  /* ── VSL & audience buttons: single column on small mobile ── */
+  .audience-btn { flex: 1 1 100%; }
+  .vsl-wrap .ugc-play-overlay { width: 52px; height: 52px; }
 
   /* ── SPECS & FAQ ── */
   .specs { padding: 44px 20px; }
@@ -1750,60 +1753,36 @@ h1           { animation: up .5s ease both .2s; }
 <div class="serve-inner">
 <p class="sec-label reveal">Those we equip</p>
 <h2 class="sec-title reveal">Built for those<br>who <em>respond.</em></h2>
-<div class="icp-grid">
-<a class="icp reveal" href="/en/fire-rescue/">
-<div class="icp-img">
-<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4C10 9 8 12 8 15a6 6 0 1012 0c0-3-2-6-6-11z"/><path d="M14 12c1 2 2 3 2 4.5a2 2 0 11-4 0c0-.8.3-1.3.6-1.8"/></svg>
+<div class="vsl-wrap ugc-card reveal">
+<video class="ugc-video" muted loop playsinline preload="auto" poster="/images/vsl-final-poster.jpg">
+<source src="/videos/vsl-final.mp4" type="video/mp4">
+</video>
+<div class="ugc-play-overlay" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M6 4L16 10L6 16V4Z" fill="currentColor"/></svg></div>
 </div>
-<div class="icp-info">
-<div class="icp-title">Fire & rescue services</div>
-<div class="icp-desc">National and regional fire services. Medical forward posts, wildfire operations and extended response in hot conditions.</div>
-</div>
+<div class="audience-buttons">
+<a class="audience-btn reveal" href="/en/fire-rescue/">
+<svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4C10 9 8 12 8 15a6 6 0 1012 0c0-3-2-6-6-11z"/><path d="M14 12c1 2 2 3 2 4.5a2 2 0 11-4 0c0-.8.3-1.3.6-1.8"/></svg>
+Fire & rescue services
 </a>
-<a class="icp reveal d1" href="/en/defense-military/">
-<div class="icp-img">
-<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4l2.5 6.2 6.5.5-5 4.4 1.6 6.4L14 18l-5.6 3.5 1.6-6.4-5-4.4 6.5-.5z"/></svg>
-</div>
-<div class="icp-info">
-<div class="icp-title">Military & special forces</div>
-<div class="icp-desc">Elite units, OPEX in hot environments, forward combat medicine.</div>
-</div>
+<a class="audience-btn reveal" href="/en/defense-military/">
+<svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4l2.5 6.2 6.5.5-5 4.4 1.6 6.4L14 18l-5.6 3.5 1.6-6.4-5-4.4 6.5-.5z"/></svg>
+Military & special forces
 </a>
-<a class="icp reveal d2" href="/en/civil-protection/">
-<div class="icp-img">
-<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4l8 3v6c0 6-4 9.5-8 11-4-1.5-8-5-8-11V7z"/></svg>
-</div>
-<div class="icp-info">
-<div class="icp-title">Civil defence & security</div>
-<div class="icp-desc">Civil protection associations and volunteer emergency medical organizations.</div>
-</div>
+<a class="audience-btn reveal" href="/en/civil-protection/">
+<svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M14 4l8 3v6c0 6-4 9.5-8 11-4-1.5-8-5-8-11V7z"/></svg>
+Civil defence & security
 </a>
-<a class="icp reveal" href="/en/emergency-medical-services/">
-<div class="icp-img">
-<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="14" cy="14" r="9"/><path d="M14 10v8M10 14h8"/></svg>
-</div>
-<div class="icp-info">
-<div class="icp-title">Tactical medicine & EMS</div>
-<div class="icp-desc">Emergency medical teams and forward medical officers. Protocols for field operations.</div>
-</div>
+<a class="audience-btn reveal" href="/en/emergency-medical-services/">
+<svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="14" cy="14" r="9"/><path d="M14 10v8M10 14h8"/></svg>
+Tactical medicine & EMS
 </a>
-<a class="icp reveal d1" href="/en/event-medical-support/">
-<div class="icp-img">
-<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M8 4v20"/><path d="M8 5h12l-3 3.5L20 12H8"/></svg>
-</div>
-<div class="icp-info">
-<div class="icp-title">Events & mass sport</div>
-<div class="icp-desc">Marathons, trail runs, triathlons, Hyrox, mass gatherings. Medical cover at the finish line and throughout the course.</div>
-</div>
+<a class="audience-btn reveal" href="/en/event-medical-support/">
+<svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M8 4v20"/><path d="M8 5h12l-3 3.5L20 12H8"/></svg>
+Events & mass sport
 </a>
-<a class="icp reveal d2" href="/en/occupational-safety/">
-<div class="icp-img">
-<svg width="44" height="44" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M6 18a8 8 0 1116 0z"/><path d="M4 18h20"/><path d="M14 6v4"/></svg>
-</div>
-<div class="icp-info">
-<div class="icp-title">Industry, Construction, Oil & Gas, Transport</div>
-<div class="icp-desc">EHS teams in industrial, transport, construction, oil & gas, mining and infrastructure environments in hot conditions.</div>
-</div>
+<a class="audience-btn reveal" href="/en/occupational-safety/">
+<svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M6 18a8 8 0 1116 0z"/><path d="M4 18h20"/><path d="M14 6v4"/></svg>
+Industry, Construction, Oil & Gas, Transport
 </a>
 </div>
 </div>
