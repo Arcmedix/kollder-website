@@ -28,6 +28,7 @@ Training is only as good as the equipment available to practice on. The Kollder 
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Training Medical and Paramedical Teams for Exertional Heat Stroke](https://kollder.com/blog/en/2026-07-09-training-medical-paramedical-teams-exertional-heat-stroke/)
 - [Firefighter Rehab and Exertional Hyperthermia](https://kollder.com/blog/en/2026-07-09-firefighter-rehab-exertional-hyperthermia/)
 - [Formation SSSM à la prise en charge du coup de chaleur d'effort (FR)](https://kollder.com/blog/fr/2026-07-07-formation-sssm-prise-en-charge-coup-de-chaleur-effort/)

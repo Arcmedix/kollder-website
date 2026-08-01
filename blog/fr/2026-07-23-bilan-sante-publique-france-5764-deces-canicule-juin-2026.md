@@ -34,6 +34,7 @@ Ce niveau de surmortalité, comparable à celui de 2003, intervient alors que le
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Baignoire de refroidissement d'urgence : le guide complet](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)
 - [Coup de chaleur en France : les chiffres de mortalité année après année](https://kollder.com/blog/fr/2026-07-08-coup-de-chaleur-france-chiffres-mortalite-annee-apres-annee/)

@@ -53,6 +53,7 @@ Non. Le CCE impose un refroidissement actif immédiat par immersion, avec une fe
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Coup de chaleur d'effort : prise en charge préhospitalière par les équipes SMUR et SAMU](https://kollder.com/blog/fr/2026-05-29-coup-chaleur-effort-prise-en-charge-prehospitaliere-smur-samu/)
 - [Hyperthermie d'effort : causes, symptômes et traitement](https://kollder.com/blog/fr/2026-05-26-hyperthermie-effort-causes-symptomes-traitement/)
 - [Baignoire de refroidissement d'urgence pour SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)

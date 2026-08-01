@@ -110,3 +110,8 @@ Beyond operational deployments, military training produces significant EHS casua
 ---
 
 *Kollder is the emergency cooling tub designed for tactical medicine. Built with input from special operations medical personnel for use in the environments where standard solutions fail.*
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

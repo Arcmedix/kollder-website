@@ -96,6 +96,11 @@ Retrouvez [l'équipement de refroidissement pour les services d'urgence](https:/
 
 [Demander un devis ou une démonstration terrain Kollder](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : Santé Publique France — Bulletin épidémiologique été 2023, ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn), Décret 2025-482, Wikipedia Heat stroke / Hyperthermia.*

@@ -122,6 +122,7 @@ La saison chaude 2026 a débuté. Voici les points de préparation essentiels po
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Comment les services d'urgence hospitaliers s'organisent face au CCE](https://kollder.com/fr/services-urgence-hopitaux/)
 - Recommandations SFAR sur le coup de chaleur d'exercice (2024)
 - Bulletin Épidémiologique Hebdomadaire — Chaleur et performance sportive, Santé Publique France (2025)

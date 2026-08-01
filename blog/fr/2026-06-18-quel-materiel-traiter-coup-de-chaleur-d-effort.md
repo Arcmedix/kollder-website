@@ -76,6 +76,7 @@ La question n'est donc pas seulement "quel matériel ?", mais "quel matériel, d
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Guide complet du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-06-16-guide-complet-coup-de-chaleur-d-effort/)
 - [Immersion en eau froide vs autres méthodes : comparatif](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

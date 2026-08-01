@@ -69,3 +69,8 @@ For severe exertional heat stroke — precisely the situations where cooling equ
 ---
 
 *I-CWIK data: nereusmedical.com (public product documentation). Protocol data: ACSM Expert Consensus Statement 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021).*
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

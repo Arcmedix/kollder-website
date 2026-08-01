@@ -102,6 +102,11 @@ Les SDIS et sapeurs-pompiers peuvent retrouver [l'équipement de refroidissement
 
 Pour les équipes de secours qui souhaitent évaluer Kollder avant l'été : [kollder.com/#contact](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : Météo-France — Épisode de chaleur mai 2026 (27/05/2026), France Info — Records mensuels mai 2026 (22/05/2026), ConsoGlobe — Canicule mai 2026 (26/05/2026), Euronews — Record May heat France (26/05/2026), Bilan climatique été 2025 Météo-France, ACSM Expert Consensus Statement 2023, IOC BJSM 2021 (Hosokawa, Racinais et al.), Korey Stringer Institute — Douglas Casa (UConn).*

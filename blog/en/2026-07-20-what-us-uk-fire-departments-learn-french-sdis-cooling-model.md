@@ -28,6 +28,7 @@ Departments looking to replicate French adoption speed should specify against th
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [How French Fire Departments Made Cold Water Immersion Standard Equipment](https://kollder.com/blog/en/2026-07-17-how-french-fire-departments-made-cold-water-immersion-standard/)
 - [France's Heat Illness Regulation and What It Means for Fire Services Abroad](https://kollder.com/blog/en/2026-07-19-france-heat-illness-regulation-fire-services-abroad/)
 - [Cold Water Immersion in Fire Departments: Operational Barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)

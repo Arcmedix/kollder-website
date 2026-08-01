@@ -32,6 +32,7 @@ Sur un site de fonderie ou de sidérurgie, la distance entre le poste de travail
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Immersion en eau froide vs autres méthodes : comparatif](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Guide EHS : coup de chaleur au travail, prévention et urgence](https://kollder.com/blog/fr/2026-05-31-guide-ehs-coup-de-chaleur-travail-prevention-urgence/)
 - [Surveiller le risque de coup de chaleur d'effort : WBGT par département](https://kollder.com/blog/fr/2026-06-05-surveiller-risque-coup-chaleur-effort-wbgt-departement/)

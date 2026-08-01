@@ -28,6 +28,7 @@ La baignoire Kollder One se déploie seule, sans outil, en moins de 2 minutes, a
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Solution Kollder pour la Protection Civile](https://kollder.com/fr/protection-civile/)
 - [Quel matériel pour traiter un coup de chaleur d'effort ?](https://kollder.com/blog/fr/2026-06-18-quel-materiel-traiter-coup-de-chaleur-d-effort/)
 - [Immersion en eau froide contre autres méthodes : comparatif](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

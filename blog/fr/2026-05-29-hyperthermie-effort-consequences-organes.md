@@ -62,6 +62,7 @@ Kollder est conçue pour ça : déployable en moins de 2 minutes, sur n'importe 
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [L'équipement qui permet aux services d'urgence de gagner les 30 premières minutes](https://kollder.com/fr/services-urgence-hopitaux/)
 - [Cool First Transport Second : le protocole terrain complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Baignoire de refroidissement d'urgence : définition et usage](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)

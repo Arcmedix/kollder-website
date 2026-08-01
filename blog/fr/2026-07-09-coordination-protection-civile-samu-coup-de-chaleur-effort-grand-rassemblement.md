@@ -28,6 +28,7 @@ Pour que le poste Protection Civile puisse débuter le refroidissement sans dél
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Solution Kollder pour la Protection Civile](https://kollder.com/fr/protection-civile/)
 - [Coup de chaleur d'effort : prise en charge préhospitalière SMUR/SAMU](https://kollder.com/blog/fr/2026-05-29-coup-chaleur-effort-prise-en-charge-prehospitaliere-smur-samu/)
 - [Régulation SAMU et coup de chaleur d'effort : anticipation saisonnière](https://kollder.com/blog/fr/2026-07-08-regulation-samu-coup-de-chaleur-effort-anticipation-saisonniere/)

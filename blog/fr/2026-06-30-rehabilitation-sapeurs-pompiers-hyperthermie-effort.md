@@ -131,6 +131,7 @@ Le SSSM a un rôle central dans cette démarche : c'est lui qui valide la doctri
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Équipement de réhabilitation thermique pour les SDIS](https://kollder.com/fr/sdis-pompiers/)
 - [Guide complet du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-06-16-guide-complet-coup-de-chaleur-d-effort/)
 - [Équipement de traitement du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-06-23-equipement-traitement-coup-de-chaleur-effort/)

@@ -49,6 +49,7 @@ For departments evaluating a dedicated immersion solution against any of these f
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cold Water Immersion in Fire Departments: Operational Barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)
 - [Heat Action Plans for Fire Departments: Covering Your Own Personnel](https://kollder.com/blog/en/2026-07-09-heat-action-plans-fire-departments-covering-own-personnel/)
 - [What US and UK Fire Departments Can Learn From the French SDIS Cooling Model](https://kollder.com/blog/en/2026-07-20-what-us-uk-fire-departments-learn-french-sdis-cooling-model/)

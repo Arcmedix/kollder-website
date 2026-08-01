@@ -74,6 +74,7 @@ Kollder résout ce problème. Sa baignoire de refroidissement se déploie en moi
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Le matériel de refroidissement adapté aux services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/)
 - [Cool First Transport Second : protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Immersion eau froide vs autres méthodes : comparatif chiffré](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

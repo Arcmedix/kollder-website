@@ -28,6 +28,7 @@ A cooling response designed for elderly heat-wave victims (shaded rest areas, hy
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Preventing Exertional Heat Stroke: A Field Guide](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Heat Illness Prevention Plan: EHS Template](https://kollder.com/blog/en/2026-05-31-heat-illness-prevention-plan-ehs-template/)
 - [Populations à risque chaleur : panorama des facteurs de vulnérabilité (FR)](https://kollder.com/blog/fr/2026-07-08-populations-risque-chaleur-panorama-facteurs-vulnerabilite/)

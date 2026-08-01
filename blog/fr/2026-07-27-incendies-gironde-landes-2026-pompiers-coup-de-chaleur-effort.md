@@ -45,6 +45,7 @@ C'est precisement sur ce point que le materiel de refroidissement d'urgence devi
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Equipement de refroidissement pour pompiers sur feux de foret SDIS](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
 - [Rehabilitation des sapeurs-pompiers et hyperthermie d'effort](https://kollder.com/blog/fr/2026-06-30-rehabilitation-sapeurs-pompiers-hyperthermie-effort/)
 - [Plan ORSEC chaleurs extremes ete 2026 pour les SDIS](https://kollder.com/blog/fr/2026-07-16-plan-orsec-chaleurs-extremes-ete-2026-sdis/)

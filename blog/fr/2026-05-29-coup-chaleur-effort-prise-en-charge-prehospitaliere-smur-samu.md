@@ -77,6 +77,7 @@ Kollder est conçue pour répondre à ce déficit d'équipement préhospitalier.
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [L'équipement de refroidissement pour les équipes SMUR et SAMU](https://kollder.com/fr/services-urgence-hopitaux/)
 - [Cool First Transport Second : protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Traitement du CCE sur le terrain : guide des premiers intervenants](https://kollder.com/blog/fr/2026-05-29-traitement-coup-chaleur-effort-terrain-protocole/)

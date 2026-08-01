@@ -61,6 +61,7 @@ Les SDIS et SSSM qui souhaitent évaluer Kollder dans le cadre de leur politique
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Équipement de refroidissement pour SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)
 - [Équipement de refroidissement pour les sapeurs-pompiers sur feux de forêt](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
 - [Baignoire de refroidissement d'urgence : définition complète](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)

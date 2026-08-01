@@ -80,3 +80,8 @@ Les mesures de prevention a integrer dans la planification :
 4. **L'immersion est 6 a 10 fois plus efficace** que les methodes alternatives
 5. **Arreter le refroidissement a 38,5 degres** -- pas avant, pas trop tard
 6. **Transferer vers une structure hospitaliere** meme apres amelioration clinique rapide
+
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

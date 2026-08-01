@@ -36,6 +36,7 @@ Pour un site agroalimentaire, disposer d'un dispositif de refroidissement d'urge
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Guide EHS : coup de chaleur au travail, prévention et urgence](https://kollder.com/blog/fr/2026-05-31-guide-ehs-coup-de-chaleur-travail-prevention-urgence/)
 - [Plan canicule en entreprise : quel équipement de refroidissement](https://kollder.com/blog/fr/2026-05-27-plan-canicule-entreprise-equipement-refroidissement/)
 - [Entrepôts et logistique : plan de prévention du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-07-09-entrepots-logistique-plan-prevention-coup-de-chaleur-effort/)

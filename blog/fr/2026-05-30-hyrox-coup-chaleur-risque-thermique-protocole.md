@@ -56,6 +56,7 @@ Kollder répond à ces contraintes. Sa baignoire se déploie en moins de 2 minut
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Les obligations médicales pour les organisateurs d'Hyrox](https://kollder.com/fr/assistance-medicale-evenements/)
 - [Équipement médical obligatoire pour un trail ou marathon en canicule](https://kollder.com/blog/fr/2026-05-29-equipement-medical-trail-marathon-canicule/)
 - [Obligation d'équipement de refroidissement lors d'un événement sportif en France](https://kollder.com/blog/fr/2026-05-27-obligation-equipement-refroidissement-evenement-sportif-france/)

@@ -97,6 +97,7 @@ Les SDIS, équipes médicales événementielles et responsables EHS qui souhaite
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [L'équipement recommandé pour les secouristes et bénévoles de la protection civile](https://kollder.com/fr/protection-civile/)
 - [Hyperthermie d'effort : conséquences sur le cerveau, les reins et le cœur](https://kollder.com/blog/fr/2026-05-29-hyperthermie-effort-consequences-organes/)
 - [Cool First Transport Second : le protocole terrain complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

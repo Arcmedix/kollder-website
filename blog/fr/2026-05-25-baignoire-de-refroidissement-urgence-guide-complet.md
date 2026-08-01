@@ -69,6 +69,11 @@ Retrouvez [l'équipement de refroidissement pour SAMU, SMUR et urgences hospital
 
 Pour en savoir plus ou obtenir un devis : [contact@kollder.com](mailto:contact@kollder.com) ou [kollder.com/#contact](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : SFAR, ACSM Expert Consensus Statement 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute (Douglas Casa, UConn), Décret 2025-482.*

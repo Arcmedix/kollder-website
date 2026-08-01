@@ -65,3 +65,8 @@ For teams with a permanent infrastructure (event medical post, fire station), th
 ---
 
 *Corben data: corben.fr (public product page). Protocol data: SFAR, ACSM Expert Consensus Statement 2023, IOC Adverse Weather Impact Expert Working Group 2021.*
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

@@ -34,6 +34,7 @@ Combler cet écart ne nécessite pas de refondre un cursus entier : il s'agit d'
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Coup de chaleur d'effort : prise en charge préhospitalière par les équipes SMUR et SAMU](https://kollder.com/blog/fr/2026-05-29-coup-chaleur-effort-prise-en-charge-prehospitaliere-smur-samu/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Matériel de refroidissement pour pompiers : ce que chaque SDIS doit avoir en dotation](https://kollder.com/blog/fr/2026-05-29-materiel-refroidissement-pompiers-sdis-dotation/)

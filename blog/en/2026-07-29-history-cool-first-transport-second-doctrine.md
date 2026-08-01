@@ -44,6 +44,7 @@ That gap between accepted protocol and field-deployable equipment is what the Ko
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Dr. Douglas Casa: Why Exertional Heat Stroke Is 100% Survivable, and Still Killing People](https://kollder.com/blog/en/2026-05-24-douglas-casa-exertional-heat-stroke-survivable/)
 - [Exertional Heat Stroke: The Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)

@@ -32,6 +32,7 @@ Pour les équipes de sécurité interne des sites Seveso et pétrochimiques, dis
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Rôle du SSSM dans la validation du matériel de refroidissement](https://kollder.com/blog/fr/2026-07-07-role-sssm-validation-materiel-refroidissement/)
 - [Métallurgie, fonderie, sidérurgie : la chaleur radiante, un risque documenté](https://kollder.com/blog/fr/2026-07-11-coup-de-chaleur-effort-metallurgie-fonderie-siderurgie/)

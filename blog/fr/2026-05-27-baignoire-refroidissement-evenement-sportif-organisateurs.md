@@ -65,6 +65,11 @@ Retrouvez [la baignoire de refroidissement pour l'assistance médicale événeme
 
 Pour les organisateurs qui souhaitent équiper leur événement pour la saison estivale 2026 : [kollder.com/#contact](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), ACSM Expert Consensus Statement 2023, Korey Stringer Institute — Douglas Casa (UConn), @PompiersParis 24 mai 2026.*

@@ -67,3 +67,8 @@ The Phoenix program worked because the equipment was in every unit. The same log
 [Request a quote](https://kollder.com/#contact)
 
 For departments evaluating a prehospital cooling program of their own, selection criteria and specifications are on our [fire and rescue services page](https://kollder.com/en/fire-rescue/).
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

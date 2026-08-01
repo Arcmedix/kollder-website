@@ -72,3 +72,8 @@ Every minute without cooling worsens outcomes. The "cool first, transport second
 [Request a quote](https://kollder.com/#contact)
 
 Civil protection associations covering public events can find equipment criteria on our dedicated [civil protection page](https://kollder.com/en/civil-protection/).
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

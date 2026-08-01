@@ -28,6 +28,7 @@ Continuous monitoring during immersion requires physical access to the patient, 
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Exertional Heat Stroke: Organ Consequences](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
 - [Douglas Casa: Exertional Heat Stroke Is Survivable](https://kollder.com/blog/en/2026-05-24-douglas-casa-exertional-heat-stroke-survivable/)
 - [Réanimation et surveillance post-refroidissement (FR)](https://kollder.com/blog/fr/2026-07-08-reanimation-surveillance-post-refroidissement-coup-chaleur-effort/)

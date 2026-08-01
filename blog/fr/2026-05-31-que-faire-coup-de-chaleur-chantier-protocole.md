@@ -100,6 +100,7 @@ La mort de Daniel, 19 ans, sur un toit dans la Drôme, n'était pas une fatalit�
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Obligations de l'employeur BTP en canicule : ce que dit le Décret 2025-482](https://kollder.com/blog/fr/2026-05-31-mort-travailleur-btp-hyperthermie-canicule-obligations-employeur/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Baignoire de refroidissement d'urgence : guide complet](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)

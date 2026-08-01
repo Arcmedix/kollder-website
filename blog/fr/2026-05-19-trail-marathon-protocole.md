@@ -100,3 +100,7 @@ La ligne d'arrivee est le point critique -- c'est la que survient la majorite de
 
 Pour l'equipement medical recommande pour les evenements sportifs, consultez notre [page dediee a l'assistance medicale evenementielle](https://kollder.com/fr/assistance-medicale-evenements/).
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

@@ -74,6 +74,11 @@ Retrouvez [l'équipement de refroidissement recommandé pour les services d'urge
 
 Pour les services d'urgence qui souhaitent évaluer l'intégration de Kollder dans leur dispositif : [kollder.com/#contact](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : Météo-France — Épisode de chaleur mai 2026, Copernicus Climate Change Service avril 2026, Euronews 26 mai 2026, ConsoGlobe 26 mai 2026, Bilan climatique été 2025 Météo-France, ACSM Expert Consensus Statement 2023, Korey Stringer Institute — Douglas Casa (UConn).*

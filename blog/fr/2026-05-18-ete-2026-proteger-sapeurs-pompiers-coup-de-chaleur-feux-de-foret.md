@@ -86,6 +86,7 @@ Pour les critères de choix d'un équipement de refroidissement adapté aux SDIS
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Plan canicule et SDIS : ce que couvre (et ne couvre pas) le cadre réglementaire](https://kollder.com/blog/fr/2026-07-07-plan-canicule-sdis-cadre-reglementaire/)
 - [Coup de chaleur d'effort chez les jeunes sapeurs-pompiers (JSP) : spécificités et prévention](https://kollder.com/blog/fr/2026-07-07-coup-de-chaleur-effort-jeunes-sapeurs-pompiers-jsp/)
 - [Solutions Kollder pour les SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)

@@ -74,3 +74,8 @@ La revue Epstein et al. (2025) consolide les recommandations pour le milieu mili
 - CHAMP/USUHS, *Clinical Practice Guideline: Exertional Heat Illness*, juin 2024 — [champ.usuhs.edu](https://champ.usuhs.edu/sites/default/files/media/documents/champ_whec_ehi_cpg_508_070224_acc.pdf)
 
 ---
+
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

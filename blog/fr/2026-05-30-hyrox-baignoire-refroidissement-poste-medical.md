@@ -70,6 +70,7 @@ Plusieurs événements sportifs sont déjà en contact avec notre équipe pour i
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [L'équipement médical à prévoir pour un événement Hyrox](https://kollder.com/fr/assistance-medicale-evenements/)
 - [Hyrox et coup de chaleur : le risque thermique spécifique de cette discipline](https://kollder.com/blog/fr/2026-05-30-hyrox-coup-chaleur-risque-thermique-protocole/)
 - [Baignoire de refroidissement pour événement sportif : guide pour les organisateurs](https://kollder.com/blog/fr/2026-05-27-baignoire-refroidissement-evenement-sportif-organisateurs/)

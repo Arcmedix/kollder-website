@@ -130,6 +130,7 @@ For the full clinical picture of what happens if this window is missed, see our 
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Exertional Heat Stroke: How to Recognise It and What to Do](https://kollder.com/blog/en/2026-06-04-exertional-heat-stroke-recognise-and-treat/)
 - [Classic Heat Stroke vs Exertional Heat Stroke: What's the Difference](https://kollder.com/blog/en/2026-07-09-classic-heat-stroke-vs-exertional-heat-stroke-difference/)
 - [Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)

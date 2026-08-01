@@ -80,6 +80,7 @@ Pour équiper votre prochain événement ou obtenir un devis multi-unités : [ko
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Le dispositif médical recommandé pour les événements sportifs](https://kollder.com/fr/assistance-medicale-evenements/)
 - [Obligation d'équipement de refroidissement lors d'un événement sportif en France](https://kollder.com/blog/fr/2026-05-27-obligation-equipement-refroidissement-evenement-sportif-france/)
 - [Baignoire de refroidissement pour événement sportif : guide pour les organisateurs](https://kollder.com/blog/fr/2026-05-27-baignoire-refroidissement-evenement-sportif-organisateurs/)

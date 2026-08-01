@@ -52,6 +52,7 @@ Four parameters drive procurement decisions in this segment:
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cold water immersion vs other cooling methods: comparison](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Exertional heat stroke: organ consequences](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
 - [Request a Kollder quote](https://kollder.com/#contact)

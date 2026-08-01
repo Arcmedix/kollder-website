@@ -28,6 +28,7 @@ None of these three factors, deployment speed, patient access, and build durabil
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [How French Fire Departments Made Cold Water Immersion Standard Equipment](https://kollder.com/blog/en/2026-07-17-how-french-fire-departments-made-cold-water-immersion-standard/)
 - [What US and UK Fire Departments Can Learn From the French SDIS Cooling Tub Model](https://kollder.com/blog/en/2026-07-20-what-us-uk-fire-departments-learn-french-sdis-cooling-model/)
 - [Inside France's SAMU and SMUR Cold Water Immersion Protocol](https://kollder.com/blog/en/2026-07-18-france-samu-smur-cold-water-immersion-protocol/)

@@ -65,3 +65,8 @@ Pour les équipes disposant d'une infrastructure permanente (poste médical d'é
 ---
 
 *Données Corben : corben.fr (fiche produit publique). Données protocoles : SFAR, ACSM Expert Consensus Statement 2023, IOC Adverse Weather Impact Expert Working Group 2021.*
+
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

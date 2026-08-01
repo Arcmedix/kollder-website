@@ -72,6 +72,11 @@ Retrouvez [l'équipement que tout organisateur d'événement sportif doit prévo
 
 [Demander un devis ou une démonstration terrain pour votre événement](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : France 3 Auvergne-Rhône-Alpes, 24 mai 2026. France Info / Dr Damien Mascret, 25 mai 2026. @PompiersParis, 24 mai 2026. ACSM Expert Consensus Statement 2023. IOC BJSM 2021 (Hosokawa, Racinais et al.). Korey Stringer Institute — Douglas Casa (UConn).*

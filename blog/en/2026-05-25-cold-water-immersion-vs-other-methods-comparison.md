@@ -87,6 +87,11 @@ That is why having a deployable cooling tub — such as Kollder — is the non-n
 
 [Request a Kollder quote](https://kollder.com/#contact)
 
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)
+
 ---
 
 *Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Hosokawa Y, Racinais S et al. BJSM 2021, Casa DJ — Korey Stringer Institute, CHAMP Clinical Practice Guideline 2024.*

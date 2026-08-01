@@ -28,6 +28,7 @@ Because these thresholds are published in advance, they give organizers, employe
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Monitoring Exertional Heat Stroke Risk: WBGT by Region](https://kollder.com/blog/en/2026-06-05-monitoring-exertional-heat-stroke-risk-wbgt-by-region/)
 - [Heat-Vulnerable Populations: A Risk Factor Overview](https://kollder.com/blog/en/2026-07-09-heat-vulnerable-populations-risk-factor-overview/)
 - [Qu'est-ce qu'une canicule : définition et seuils de vigilance météo (FR)](https://kollder.com/blog/fr/2026-07-08-quest-ce-quune-canicule-definition-seuils-vigilance-meteo/)

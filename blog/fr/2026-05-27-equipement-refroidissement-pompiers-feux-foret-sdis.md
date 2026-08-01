@@ -72,6 +72,7 @@ Les SDIS, UIISC et services de déminage qui souhaitent évaluer Kollder dans le
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Immersion en eau froide en intervention SDIS : lever les freins opérationnels courants](https://kollder.com/blog/fr/2026-07-07-immersion-eau-froide-sdis-freins-operationnels/)
 - [Matériel de refroidissement pour pompiers : ce que chaque SDIS doit avoir en dotation](https://kollder.com/blog/fr/2026-05-29-materiel-refroidissement-pompiers-sdis-dotation/)
 - [Solutions Kollder pour les SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)

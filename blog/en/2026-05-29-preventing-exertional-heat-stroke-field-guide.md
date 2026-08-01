@@ -97,6 +97,7 @@ Fire and rescue services, event medical teams, military medical units, and EHS m
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Exertional heat stroke: consequences on the brain, kidneys, and heart](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
 - [Cold water immersion vs other methods: data comparison](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Cool First Transport Second: the complete field protocol](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

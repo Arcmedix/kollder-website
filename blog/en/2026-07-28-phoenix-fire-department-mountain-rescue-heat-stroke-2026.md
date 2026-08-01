@@ -34,6 +34,11 @@ The **IOC/BJSM 2021 consensus** on exertional heat illness makes clear that time
 - [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)
+
 ---
 
 *Sources: ABC15 Arizona, "Phoenix firefighters use blue bag and ice to save hikers from deadly heat stroke on Arizona mountain trails"; Comp G et al., Prehospital Emergency Care, 2026; IOC, Hosokawa Y, Racinais S et al., BJSM 2021.*

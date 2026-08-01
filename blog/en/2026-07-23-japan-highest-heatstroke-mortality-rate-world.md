@@ -34,6 +34,7 @@ This is where equipment readiness becomes as important as the policy target. A s
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Heat-Related Deaths and Mortality Trends](https://kollder.com/blog/en/2026-07-09-heat-related-deaths-us-mortality-trends/)
 - [Two Decades of Public Health Heat Response](https://kollder.com/blog/en/2026-07-09-two-decades-public-health-heat-response/)
 - [Heat-Vulnerable Populations: A Risk Factor Overview](https://kollder.com/blog/en/2026-07-09-heat-vulnerable-populations-risk-factor-overview/)

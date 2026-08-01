@@ -45,6 +45,7 @@ Elle est fréquente compte tenu de la combinaison effort intense et hyperthermie
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Hyperthermie d'effort : conséquences sur les organes](https://kollder.com/blog/fr/2026-05-29-hyperthermie-effort-consequences-organes/)
 - [Coup de chaleur d'effort : prise en charge préhospitalière par les équipes SMUR et SAMU](https://kollder.com/blog/fr/2026-05-29-coup-chaleur-effort-prise-en-charge-prehospitaliere-smur-samu/)
 - [Baignoire de refroidissement d'urgence pour SAMU, SMUR et services des urgences](https://kollder.com/fr/services-urgence-hopitaux/)

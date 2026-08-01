@@ -56,3 +56,8 @@ Event organisers looking to equip their own medical posts can find selection cri
 ---
 
 *Source: @PompiersParis, X post May 24, 2026. Protocols: SFAR, ACSM Expert Consensus Statement 2023, IOC BJSM 2021 (Hosokawa, Racinais et al.), Korey Stringer Institute.*
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

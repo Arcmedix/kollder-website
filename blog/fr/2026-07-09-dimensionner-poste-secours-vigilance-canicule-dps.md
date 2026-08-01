@@ -28,6 +28,7 @@ La baignoire Kollder se transporte pliée dans son sac Kollder Go (85×10×10cm,
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Solution Kollder pour la Protection Civile](https://kollder.com/fr/protection-civile/)
 - [Surveiller le risque de coup de chaleur d'effort : WBGT par département](https://kollder.com/blog/fr/2026-06-05-surveiller-risque-coup-chaleur-effort-wbgt-departement/)
 - [Poste de refroidissement sur événements sportifs : guide](https://kollder.com/blog/fr/2026-06-25-poste-refroidissement-evenements-sportifs-guide/)

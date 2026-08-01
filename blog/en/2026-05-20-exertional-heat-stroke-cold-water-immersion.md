@@ -113,3 +113,8 @@ Cold water immersion requires a tub that can hold a person, water, and ice. On a
 ---
 
 *Kollder is the emergency cooling tub designed to make cold water immersion possible anywhere. Deployed in under 2 minutes by one person, on any terrain.*
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

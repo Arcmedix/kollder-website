@@ -34,6 +34,7 @@ A deployable, grid-independent immersion tub is one of the few interventions tha
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Heat-Vulnerable Populations: A Risk Factor Overview](https://kollder.com/blog/en/2026-07-09-heat-vulnerable-populations-risk-factor-overview/)
 - [What Counts as a Heat Wave? Definitions and Warning Thresholds](https://kollder.com/blog/en/2026-07-09-what-counts-as-heat-wave-definitions-warning-thresholds/)
 - [Preventing Exertional Heat Stroke: A Field Guide](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)

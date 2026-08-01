@@ -32,6 +32,7 @@ Une fois ces critères établis, la validation du SSSM peut s'appuyer sur une gr
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Matériel de refroidissement pour pompiers : ce que chaque SDIS doit avoir en dotation](https://kollder.com/blog/fr/2026-05-29-materiel-refroidissement-pompiers-sdis-dotation/)
 - [Baignoire de refroidissement d'urgence : guide complet](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)
 - [Immersion en eau froide vs autres méthodes : comparatif](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

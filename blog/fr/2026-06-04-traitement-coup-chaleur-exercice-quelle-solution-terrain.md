@@ -71,6 +71,7 @@ Depuis le décret 2025-482, les employeurs français ont des obligations renforc
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Guide complet de la baignoire de refroidissement d'urgence](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)
 - [Prévenir l'hyperthermie d'effort : guide terrain](https://kollder.com/blog/fr/2026-05-29-prevenir-hyperthermie-effort-guide-terrain/)

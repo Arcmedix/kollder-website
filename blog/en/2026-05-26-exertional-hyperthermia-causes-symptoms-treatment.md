@@ -94,6 +94,11 @@ Prevention of exertional hyperthermia rests on four pillars:
 
 [Request a Kollder quote or field demonstration](https://kollder.com/#contact)
 
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)
+
 ---
 
 *Sources: Santé Publique France — Epidemiological Bulletin Summer 2023, ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn), 2024 Hajj extreme heat disaster data, Wikipedia Heat stroke / Hyperthermia / Heat illness.*

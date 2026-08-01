@@ -34,6 +34,7 @@ This is precisely the deployment scenario Kollder was designed around: a stainle
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Preventing Exertional Heat Stroke: A Field Guide](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Exertional Heat Stroke: Organ Consequences](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
 - [Heat-Vulnerable Populations: A Risk Factor Overview](https://kollder.com/blog/en/2026-07-09-heat-vulnerable-populations-risk-factor-overview/)

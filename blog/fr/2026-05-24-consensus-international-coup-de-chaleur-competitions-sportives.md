@@ -70,3 +70,7 @@ Retrouvez [les obligations d'un directeur médical d'événement sportif](https:
 
 ---
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

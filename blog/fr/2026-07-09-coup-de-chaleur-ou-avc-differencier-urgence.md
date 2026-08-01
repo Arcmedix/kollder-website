@@ -32,6 +32,7 @@ Sur un terrain d'effort (course, chantier, intervention), disposer d'un moyen d'
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Coup de chaleur classique et coup de chaleur d'effort : quelle différence](https://kollder.com/blog/fr/2026-07-08-coup-de-chaleur-classique-coup-de-chaleur-effort-difference/)
 - [Hyperthermie d'effort : causes, symptômes, traitement](https://kollder.com/blog/fr/2026-05-26-hyperthermie-effort-causes-symptomes-traitement/)
 - [Hyperthermie d'effort : conséquences sur les organes](https://kollder.com/blog/fr/2026-05-29-hyperthermie-effort-consequences-organes/)

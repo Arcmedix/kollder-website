@@ -32,6 +32,7 @@ The Kollder emergency cooling tub was built against these specific constraints: 
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Wildfire Season 2026: Protecting Firefighters from Heat Stroke](https://kollder.com/blog/en/2026-05-20-wildfire-season-2026-protecting-firefighters-heat-stroke/)
 - [Paris Fire Brigade: Cooling Tubs at Maisons-Alfort](https://kollder.com/blog/en/2026-05-25-paris-fire-brigade-cooling-tubs-maisons-alfort/)
 - [Immersion en eau froide en SDIS : freins opérationnels (FR)](https://kollder.com/blog/fr/2026-07-07-immersion-eau-froide-sdis-freins-operationnels/)

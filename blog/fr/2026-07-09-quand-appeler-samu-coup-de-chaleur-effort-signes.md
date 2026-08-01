@@ -32,6 +32,7 @@ Sur un terrain à risque (course, chantier, caserne, entrepôt), disposer d'un m
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Coup de chaleur d'effort : prise en charge préhospitalière SMUR/SAMU](https://kollder.com/blog/fr/2026-05-29-coup-chaleur-effort-prise-en-charge-prehospitaliere-smur-samu/)
 - [Régulation SAMU et coup de chaleur d'effort : anticipation saisonnière](https://kollder.com/blog/fr/2026-07-08-regulation-samu-coup-de-chaleur-effort-anticipation-saisonniere/)
 - [Que faire en cas de coup de chaleur sur un chantier : protocole](https://kollder.com/blog/fr/2026-05-31-que-faire-coup-de-chaleur-chantier-protocole/)

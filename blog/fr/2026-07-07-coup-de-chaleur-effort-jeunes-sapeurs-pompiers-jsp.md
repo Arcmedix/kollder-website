@@ -28,6 +28,7 @@ Contrairement à une intervention opérationnelle, un exercice JSP se déroule s
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Prévenir l'hyperthermie d'effort : guide terrain pour les professionnels](https://kollder.com/blog/fr/2026-05-29-prevenir-hyperthermie-effort-guide-terrain/)
 - [Comment surveiller le risque de coup de chaleur d'effort par département](https://kollder.com/blog/fr/2026-06-05-surveiller-risque-coup-chaleur-effort-wbgt-departement/)

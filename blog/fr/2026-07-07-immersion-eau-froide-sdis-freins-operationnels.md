@@ -32,6 +32,7 @@ Chacun de ces freins a été, historiquement, justifié par les limites du maté
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Immersion en eau froide vs autres méthodes : comparatif](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Le rôle du SSSM dans le choix et la validation du matériel de refroidissement](https://kollder.com/blog/fr/2026-07-07-role-sssm-validation-materiel-refroidissement/)
 - [Matériel de refroidissement pour pompiers : ce que chaque SDIS doit avoir en dotation](https://kollder.com/blog/fr/2026-05-29-materiel-refroidissement-pompiers-sdis-dotation/)

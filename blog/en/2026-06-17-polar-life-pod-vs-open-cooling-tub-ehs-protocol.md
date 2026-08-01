@@ -64,6 +64,7 @@ Kollder is developed and produced in France, with French institutions, for Frenc
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Emergency cooling tub: complete guide](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Exertional heat stroke: organ consequences](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
 - [Cold water immersion vs other cooling methods](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

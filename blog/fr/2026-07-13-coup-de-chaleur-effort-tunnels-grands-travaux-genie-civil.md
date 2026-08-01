@@ -32,6 +32,7 @@ Pour les grands travaux de génie civil, la solution la plus efficace consiste �
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Que faire face à un coup de chaleur sur un chantier : protocole](https://kollder.com/blog/fr/2026-05-31-que-faire-coup-de-chaleur-chantier-protocole/)
 - [Mort d'un travailleur BTP par hyperthermie : obligations de l'employeur](https://kollder.com/blog/fr/2026-05-31-mort-travailleur-btp-hyperthermie-canicule-obligations-employeur/)
 - [Prévenir l'hyperthermie d'effort : guide terrain](https://kollder.com/blog/fr/2026-05-29-prevenir-hyperthermie-effort-guide-terrain/)

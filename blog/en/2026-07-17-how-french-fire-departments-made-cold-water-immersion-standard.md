@@ -28,6 +28,7 @@ None of this works if the equipment on the truck cannot keep pace with the doctr
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cold Water Immersion in Fire Departments: Operational Barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)
 - [Paris Fire Brigade Deploys Multiple Cooling Tubs at Maisons-Alfort Running Event](https://kollder.com/blog/en/2026-05-25-paris-fire-brigade-cooling-tubs-maisons-alfort/)
 - [Cool First, Transport Second: Complete Protocol Guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)

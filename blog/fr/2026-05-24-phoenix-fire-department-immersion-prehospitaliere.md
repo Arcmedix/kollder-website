@@ -56,3 +56,8 @@ Retrouvez l'[équipement de refroidissement d'urgence pensé pour les sapeurs-po
 - University of Arizona College of Medicine-Phoenix, *New Protocol Significantly Improves Outcomes*, avril 2026 — [phoenixmed.arizona.edu](https://phoenixmed.arizona.edu/newsroom/news/new-protocol-significantly-improves-outcomes-patients-suffering-heat-related-illness)
 
 ---
+
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

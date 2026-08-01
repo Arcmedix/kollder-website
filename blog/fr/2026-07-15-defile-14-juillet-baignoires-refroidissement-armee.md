@@ -32,6 +32,7 @@ C'est précisément l'écart que Kollder One™ vient combler : un déploiement 
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Notre dispositif pour les SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)
 - [BSPP Maisons-Alfort : les pompiers de Paris traitent plusieurs coups de chaleur par immersion](https://kollder.com/blog/fr/2026-05-25-bspp-maisons-alfort-coups-chaleur-baignoires-immersion/)
 - [Matériel de refroidissement pompiers SDIS : quelle dotation ?](https://kollder.com/blog/fr/2026-05-29-materiel-refroidissement-pompiers-sdis-dotation/)

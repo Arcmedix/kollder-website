@@ -121,3 +121,8 @@ Activate EMS simultaneously with the initiation of cooling. Transport to a hospi
 *Kollder is the emergency cooling tub designed for event medical teams. Deploys in under 2 minutes at the finish line or anywhere on course. Fits in any support vehicle.*
 
 Equipment criteria for race and event medical teams are detailed on our dedicated [event medical support page](https://kollder.com/en/event-medical-support/).
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

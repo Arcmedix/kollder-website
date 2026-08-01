@@ -70,3 +70,8 @@ Based on KSI's recommendations:
 [Request a quote](https://kollder.com/#contact)
 
 Find how this protocol applies in prehospital and hospital settings on our dedicated [EMS and emergency departments page](https://kollder.com/en/emergency-medical-services/).
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

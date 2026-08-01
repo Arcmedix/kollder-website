@@ -28,6 +28,7 @@ A heat action plan is only as effective as the equipment behind it. The Kollder 
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [OSHA Heat Standard: EHS Employer Obligations](https://kollder.com/blog/en/2026-05-31-osha-heat-standard-ehs-employer-obligations/)
 - [Firefighter Rehab and Exertional Hyperthermia](https://kollder.com/blog/en/2026-07-09-firefighter-rehab-exertional-hyperthermia/)
 - [Plan canicule et SDIS : cadre réglementaire (FR)](https://kollder.com/blog/fr/2026-07-07-plan-canicule-sdis-cadre-reglementaire/)

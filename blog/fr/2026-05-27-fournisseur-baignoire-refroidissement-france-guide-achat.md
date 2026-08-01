@@ -99,6 +99,11 @@ La règle est simple : choisissez un équipement qui vous permet d'appliquer le 
 
 Pour une démonstration terrain de Kollder ou pour obtenir un devis : [kollder.com/#contact](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), SFAR, Décret 2025-482, documentation publique Corben et Nereus Medical.*

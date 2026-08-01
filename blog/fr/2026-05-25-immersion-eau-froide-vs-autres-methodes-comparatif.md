@@ -89,6 +89,11 @@ Retrouvez [le matériel recommandé pour les services d'urgence](https://kollder
 
 [Obtenir un devis Kollder](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Hosokawa Y, Racinais S et al. BJSM 2021, Casa DJ — Korey Stringer Institute, EM-Consulte 2024, SFAR.*

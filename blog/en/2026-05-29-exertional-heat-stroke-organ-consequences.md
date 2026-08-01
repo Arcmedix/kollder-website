@@ -62,6 +62,7 @@ Kollder is designed for that: deployable in under 2 minutes, on any terrain, by 
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cool First Transport Second: the complete field protocol](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Emergency cooling tub: definition and usage](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)
 - [Cold water immersion vs other methods: data comparison](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

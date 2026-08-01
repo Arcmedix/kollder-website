@@ -74,6 +74,7 @@ Ce n'est pas une question de budget. C'est une question d'anticipation.
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Coup de chaleur d'effort : conséquences sur les organes](https://kollder.com/blog/fr/2026-05-29-hyperthermie-effort-consequences-organes/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Baignoire de refroidissement d'urgence : guide complet](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)

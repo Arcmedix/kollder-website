@@ -111,3 +111,8 @@ Check your medical kit. Brief your crews. Position your cooling equipment. The p
 *Kollder is the emergency cooling tub built for fire service operations. Deploys in under 2 minutes, fits any apparatus, works on any terrain.*
 
 Full equipment criteria and specifications for fire departments are available on our dedicated [fire and rescue services page](https://kollder.com/en/fire-rescue/).
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

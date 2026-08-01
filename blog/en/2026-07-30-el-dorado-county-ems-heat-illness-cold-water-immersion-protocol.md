@@ -34,6 +34,11 @@ Executing a precise 10-15 minute immersion window depends on equipment that reac
 - [Kollder solutions for EMS and emergency departments](https://kollder.com/en/emergency-medical-services/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)
+
 ---
 
 *Sources: El Dorado County EMS Agency, Protocol 502, Heat Illness, effective June 2026; Casa DJ et al., Exercise and Sport Sciences Reviews, 2007; ACSM Expert Consensus Statement 2023.*

@@ -28,6 +28,7 @@ A cooling solution built for exertional heat stroke needs to prioritize speed of
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Exertional Hyperthermia: Causes, Symptoms, Treatment](https://kollder.com/blog/en/2026-05-26-exertional-hyperthermia-causes-symptoms-treatment/)
 - [Cool First, Transport Second: The Complete Protocol Guide](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Cool First, Transport Second: le protocole complet (FR)](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

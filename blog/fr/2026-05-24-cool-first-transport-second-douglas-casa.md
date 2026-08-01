@@ -66,3 +66,8 @@ Retrouvez [l'application du protocole Cool First par les services d'urgence](htt
 - Burlaton G. et al., *Le coup de chaleur d'exercice*, Annales Françaises de Médecine d'Urgence, 2024 — [cairn.info](https://stm.cairn.info/revue-annales-francaises-de-medecine-d-urgence-2024-5-page-320?lang=fr)
 
 ---
+
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

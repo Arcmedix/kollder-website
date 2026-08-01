@@ -36,6 +36,11 @@ Departments evaluating equipment for this exact scenario can review the specific
 - [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)
+
 ---
 
 *Sources: KFOR News 4, "OKCFD transport crews first to use cold water immersions during heat emergencies"; ACSM Expert Consensus Statement 2023; Casa DJ et al., Exercise and Sport Sciences Reviews 2007; Korey Stringer Institute, University of Connecticut.*

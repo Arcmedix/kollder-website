@@ -58,6 +58,7 @@ Document your emergency response procedure in writing. Identify the nearest hosp
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [What to do when a worker collapses from heat on a construction site](https://kollder.com/blog/fr/2026-05-31-que-faire-coup-de-chaleur-chantier-protocole/)
 - [Preventing exertional heat stroke: a field guide for EHS managers](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Exertional heat stroke: organ consequences](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)

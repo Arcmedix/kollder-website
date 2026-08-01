@@ -84,6 +84,7 @@ A written **emergency response procedure** specific to each site, including EMS 
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [OSHA Heat Standard 2025: What Every EHS Manager Needs to Know](https://kollder.com/blog/en/2026-05-31-osha-heat-standard-ehs-employer-obligations/)
 - [Preventing exertional heat stroke: a field guide for EHS managers](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Cold water immersion vs other cooling methods: a data-backed comparison](https://kollder.com/blog/en/2026-05-25-cold-water-immersion-vs-other-methods-comparison/)

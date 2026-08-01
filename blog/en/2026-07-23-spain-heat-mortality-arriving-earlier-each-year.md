@@ -34,6 +34,7 @@ Because the risk window no longer aligns neatly with peak summer, cooling equipm
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Two Decades of Public Health Heat Response](https://kollder.com/blog/en/2026-07-09-two-decades-public-health-heat-response/)
 - [Heat-Related Deaths and Mortality Trends](https://kollder.com/blog/en/2026-07-09-heat-related-deaths-us-mortality-trends/)
 - [What Counts as a Heat Wave? Definitions and Warning Thresholds](https://kollder.com/blog/en/2026-07-09-what-counts-as-heat-wave-definitions-warning-thresholds/)

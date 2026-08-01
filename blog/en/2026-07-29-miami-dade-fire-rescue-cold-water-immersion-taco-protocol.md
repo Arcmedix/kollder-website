@@ -34,6 +34,11 @@ For that "already staged" model to work well, whatever the on-site medical team 
 - [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Demander un devis Kollder / Request a Kollder quote](https://kollder.com/#contact)
 
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)
+
 ---
 
 *Sources: Miami-Dade County, Procedure 60, Cold Water Immersion (CWI) / TARP Assisted Cooling Method (TACO), rev. June 2026; ACSM Expert Consensus Statement 2023; IOC, Hosokawa Y, Racinais S et al., BJSM 2021.*

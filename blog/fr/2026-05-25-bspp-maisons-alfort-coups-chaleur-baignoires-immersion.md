@@ -58,6 +58,7 @@ Pour en savoir plus sur [la baignoire de refroidissement pour SDIS et sapeurs-po
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Le rôle du SSSM dans le choix et la validation du matériel de refroidissement](https://kollder.com/blog/fr/2026-07-07-role-sssm-validation-materiel-refroidissement/)
 - [Brancard baignoire : l'équipement que la BSPP déploie sur le terrain](https://kollder.com/blog/fr/2026-05-29-brancard-baignoire-bspp-refroidissement-terrain/)
 - [Solutions Kollder pour les SDIS et sapeurs-pompiers](https://kollder.com/fr/sdis-pompiers/)

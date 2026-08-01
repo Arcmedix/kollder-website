@@ -34,6 +34,7 @@ Cette clarification n'a de valeur pratique que si le matériel de refroidissemen
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Coup de chaleur d'effort : prise en charge préhospitalière par les équipes SMUR et SAMU](https://kollder.com/blog/fr/2026-05-29-coup-chaleur-effort-prise-en-charge-prehospitaliere-smur-samu/)
 - [Le rôle du SSSM dans le choix et la validation du matériel de refroidissement](https://kollder.com/blog/fr/2026-07-07-role-sssm-validation-materiel-refroidissement/)

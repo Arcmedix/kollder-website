@@ -74,3 +74,8 @@ Retrouvez [l'équipement de refroidissement pour les dispositifs de secours et d
 - INRS, *Canicule et fortes chaleurs au travail*, juin 2025 — [inrs.fr](https://www.inrs.fr/header/presse/cp-canicule-fortes-chaleurs-travail.html)
 
 ---
+
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

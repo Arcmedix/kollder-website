@@ -74,6 +74,7 @@ Un équipement stocké mais non planifié dans le dispositif médical ne sera pa
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [La grille de sélection pour les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/)
 - [Guide complet du coup de chaleur d'effort](https://kollder.com/blog/fr/2026-06-16-guide-complet-coup-de-chaleur-d-effort/)
 - [Quel matériel pour traiter un coup de chaleur d'effort ?](https://kollder.com/blog/fr/2026-06-18-quel-materiel-traiter-coup-de-chaleur-d-effort/)

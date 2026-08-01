@@ -55,6 +55,7 @@ En croisant le calendrier des événements sportifs d'endurance, les vigilances 
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Coup de chaleur d'effort : prise en charge préhospitalière par les équipes SMUR et SAMU](https://kollder.com/blog/fr/2026-05-29-coup-chaleur-effort-prise-en-charge-prehospitaliere-smur-samu/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Baignoire de refroidissement d'urgence pour SAMU, SMUR et services des urgences](https://kollder.com/fr/services-urgence-hopitaux/)

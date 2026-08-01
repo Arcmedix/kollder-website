@@ -68,6 +68,7 @@ Pour un devis ou une démonstration : [kollder.com/#contact](https://kollder.com
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [L'équipement de refroidissement utilisé par les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/)
 - [Guide complet de la baignoire de refroidissement d'urgence](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

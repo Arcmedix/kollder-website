@@ -88,6 +88,11 @@ La vraie question n'est pas "quel est le prix le plus bas ?" mais "quel est l'é
 
 Pour une démonstration terrain de Kollder ou pour obtenir un devis : [kollder.com/#contact](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : documentation publique Corben (corben.fr), documentation publique Nereus Medical (nereusmedical.com), ACSM Expert Consensus Statement 2023, IOC BJSM 2021 (Hosokawa, Racinais et al.), retours d'utilisateurs terrain SDIS France.*

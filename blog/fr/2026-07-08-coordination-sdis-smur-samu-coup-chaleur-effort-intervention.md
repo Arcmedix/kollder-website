@@ -45,6 +45,7 @@ Parce qu'il évite toute réinstallation ou changement de méthode au moment de 
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Coup de chaleur d'effort : prise en charge préhospitalière par les équipes SMUR et SAMU](https://kollder.com/blog/fr/2026-05-29-coup-chaleur-effort-prise-en-charge-prehospitaliere-smur-samu/)
 - [Rôle du SSSM dans la validation du matériel de refroidissement](https://kollder.com/blog/fr/2026-07-07-role-sssm-validation-materiel-refroidissement/)
 - [Baignoire de refroidissement d'urgence pour SAMU, SMUR et services des urgences](https://kollder.com/fr/services-urgence-hopitaux/)

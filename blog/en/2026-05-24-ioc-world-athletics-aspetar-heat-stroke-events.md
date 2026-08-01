@@ -73,3 +73,8 @@ The practical implication is not to change the protocol — cold water immersion
 **Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
 
 [Request a quote](https://kollder.com/#contact)
+
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)

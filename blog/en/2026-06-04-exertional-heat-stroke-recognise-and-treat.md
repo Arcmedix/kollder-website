@@ -70,6 +70,7 @@ For event medical directors, SDIS teams, military medical units, or industrial E
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cold Water Immersion vs Other Methods: Comparative Review](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
 - [Preventing Exertional Heat Stroke: Field Guide](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Cool First, Transport Second: the Full Protocol (FR)](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)

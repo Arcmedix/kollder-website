@@ -82,3 +82,8 @@ Ce que les responsables HSE doivent anticiper :
 3. Rediger ou mettre a jour le plan canicule RH et le diffuser aux managers
 4. Former les referents securite au protocole de prise en charge du coup de chaleur
 5. S'assurer que le materiel de refroidissement d'urgence est disponible sur les sites a risque
+
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

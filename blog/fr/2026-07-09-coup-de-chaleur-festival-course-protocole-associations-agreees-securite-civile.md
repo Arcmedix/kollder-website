@@ -28,6 +28,7 @@ Entre deux vagues de participants ou pendant un pic d'affluence, le poste de sec
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Solution Kollder pour la Protection Civile](https://kollder.com/fr/protection-civile/)
 - [Baignoire de refroidissement pour organisateurs d'événements sportifs](https://kollder.com/blog/fr/2026-05-27-baignoire-refroidissement-evenement-sportif-organisateurs/)
 - [Trail, marathon : protocole de prise en charge](https://kollder.com/blog/fr/2026-05-19-trail-marathon-protocole/)

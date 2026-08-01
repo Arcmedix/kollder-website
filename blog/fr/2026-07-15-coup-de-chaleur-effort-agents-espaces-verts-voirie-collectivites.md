@@ -32,6 +32,7 @@ Les collectivités peuvent équiper leurs véhicules d'intervention ou leurs bas
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Mort d'un travailleur BTP par hyperthermie : obligations de l'employeur](https://kollder.com/blog/fr/2026-05-31-mort-travailleur-btp-hyperthermie-canicule-obligations-employeur/)
 - [Que faire face à un coup de chaleur sur un chantier : protocole](https://kollder.com/blog/fr/2026-05-31-que-faire-coup-de-chaleur-chantier-protocole/)
 - [Agriculture et travaux extérieurs : prévenir le coup de chaleur d'effort](https://kollder.com/blog/fr/2026-07-09-coup-de-chaleur-effort-agriculture-travaux-exterieurs-prevention/)

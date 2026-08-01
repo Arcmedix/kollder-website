@@ -48,6 +48,7 @@ Teams running their own evaluation against this framework can request specificat
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cooling Solutions for Exertional Heat Stroke: Which Method Works in the Field?](https://kollder.com/blog/en/2026-06-04-cooling-solutions-exertional-heat-stroke-field-comparison/)
 - [Kollder vs Corben: Emergency Cooling Tub Comparison](https://kollder.com/blog/en/2026-05-25-kollder-vs-corben-emergency-cooling-tub-comparison/)
 - [Kollder vs I-CWIK: Cold Water Immersion System Comparison](https://kollder.com/blog/en/2026-05-25-kollder-vs-icwik-cold-water-immersion-comparison/)

@@ -69,3 +69,8 @@ Pour les cas de coup de chaleur d'effort sévère — qui sont précisément les
 ---
 
 *Données I-CWIK : nereusmedical.com (documentation publique produit). Données protocoles : ACSM Expert Consensus Statement 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), SFAR.*
+
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)

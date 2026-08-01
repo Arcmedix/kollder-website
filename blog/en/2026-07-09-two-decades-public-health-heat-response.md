@@ -28,6 +28,7 @@ Twenty years of institutional learning point to the same conclusion for exertion
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [France Summer 2025 Heat Report for Emergency Responders](https://kollder.com/blog/en/2026-05-24-france-summer-2025-heat-report-emergency-responders/)
 - [Heat-Vulnerable Populations: A Risk Factor Overview](https://kollder.com/blog/en/2026-07-09-heat-vulnerable-populations-risk-factor-overview/)
 - [Canicule 2003, 2022, 2025 : évolution de la réponse sanitaire (FR)](https://kollder.com/blog/fr/2026-07-08-canicule-2003-2022-2025-evolution-reponse-sanitaire-france/)

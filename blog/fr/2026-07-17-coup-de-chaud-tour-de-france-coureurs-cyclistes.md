@@ -36,6 +36,7 @@ Pour un directeur médical de course cycliste, la question n'est pas de savoir s
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Baignoire de refroidissement d'urgence : le guide complet](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Dimensionner un poste de secours en cas de vigilance canicule](https://kollder.com/blog/fr/2026-07-09-dimensionner-poste-secours-vigilance-canicule-dps/)

@@ -39,6 +39,7 @@ C'est la contrainte que Kollder One a ete concu pour lever. Une baignoire de ref
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Equipement de refroidissement pour pompiers sur feux de foret SDIS](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
 - [Incendies de Gironde et des Landes 2026 : pompiers epuises et risque de coup de chaleur d'effort](https://kollder.com/blog/fr/2026-07-27-incendies-gironde-landes-2026-pompiers-coup-de-chaleur-effort/)
 - [Consequences sur les organes de l'hyperthermie d'effort](https://kollder.com/blog/fr/2026-05-29-hyperthermie-effort-consequences-organes/)

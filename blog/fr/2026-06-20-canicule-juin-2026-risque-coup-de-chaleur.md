@@ -62,6 +62,7 @@ La baignoire de refroidissement d'urgence **Kollder** est conçue pour répondre
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Le dispositif d'immersion pour les associations de protection civile](https://kollder.com/fr/protection-civile/)
 - [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Immersion en eau froide vs autres méthodes : comparatif](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

@@ -94,6 +94,7 @@ Les SDIS, UIISC et services de déminage qui souhaitent intégrer Kollder dans l
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Solution de refroidissement d'urgence pour SDIS](https://kollder.com/fr/sdis-pompiers/)
 - [Équipement de refroidissement pour les feux de forêt](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
 - [Brancard baignoire : l'équipement que la BSPP déploie sur le terrain](https://kollder.com/blog/fr/2026-05-29-brancard-baignoire-bspp-refroidissement-terrain/)

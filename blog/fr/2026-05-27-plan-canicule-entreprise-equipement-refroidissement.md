@@ -73,6 +73,11 @@ Sa baignoire se déploie en moins de 2 minutes par une seule personne. Elle s'in
 
 Pour les entreprises qui souhaitent intégrer Kollder dans leur plan canicule — devis, formation au protocole, démonstration terrain : [kollder.com/#contact](https://kollder.com/#contact)
 
+## Pour aller plus loin
+
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Demander un devis Kollder](https://kollder.com/#contact)
+
 ---
 
 *Sources : Décret 2025-482 du 15 mars 2025, Code du travail art. R. 4225-1 et suivants, ACSM Expert Consensus Statement 2023, INRS — Ambiances thermiques, Santé Publique France — Bulletin épidémiologique été 2025.*

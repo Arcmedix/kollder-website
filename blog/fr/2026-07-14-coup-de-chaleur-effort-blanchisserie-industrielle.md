@@ -32,6 +32,7 @@ Pour un site de blanchisserie industrielle, positionner un dispositif de refroid
 
 ## Pour aller plus loin
 
+- [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Coup de chaleur d'effort en agroalimentaire : fours et lignes de production](https://kollder.com/blog/fr/2026-07-10-coup-de-chaleur-effort-agroalimentaire-fours-lignes-production/)
 - [Guide EHS : coup de chaleur au travail, prévention et urgence](https://kollder.com/blog/fr/2026-05-31-guide-ehs-coup-de-chaleur-travail-prevention-urgence/)
 - [Immersion en eau froide vs autres méthodes : comparatif](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

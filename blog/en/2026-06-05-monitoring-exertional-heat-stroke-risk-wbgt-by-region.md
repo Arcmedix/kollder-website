@@ -62,6 +62,7 @@ The [Kollder](https://kollder.com/#contact) emergency cooling tub is built for t
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cool First, Transport Second — Complete Protocol Guide](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Exertional Heat Stroke — Organ Consequences](https://kollder.com/blog/en/2026-05-29-exertional-heat-stroke-organ-consequences/)
 - [Cold Water Immersion vs Other Cooling Methods](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)

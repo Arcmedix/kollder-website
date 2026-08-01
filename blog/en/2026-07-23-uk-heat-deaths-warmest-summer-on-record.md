@@ -32,6 +32,7 @@ UK fire and rescue services already have a documented interest in how French SDI
 
 ## Further reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [What US and UK Fire Departments Can Learn from the French SDIS Cooling Model](https://kollder.com/blog/en/2026-07-20-what-us-uk-fire-departments-learn-french-sdis-cooling-model/)
 - [France's Heat Illness Regulation and Fire Services Abroad](https://kollder.com/blog/en/2026-07-19-france-heat-illness-regulation-fire-services-abroad/)
 - [Heat-Vulnerable Populations: A Risk Factor Overview](https://kollder.com/blog/en/2026-07-09-heat-vulnerable-populations-risk-factor-overview/)

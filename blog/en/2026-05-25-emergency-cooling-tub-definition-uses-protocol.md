@@ -68,6 +68,11 @@ Folded, it fits in any emergency vehicle. Deployed, it enables full-body immersi
 For more information or a quote: [contact@kollder.com](mailto:contact@kollder.com) or [kollder.com/#contact](https://kollder.com/#contact)
 
 Full selection criteria for EMS and hospital emergency departments are on our dedicated [EMS and emergency departments page](https://kollder.com/en/emergency-medical-services/).
+## Further Reading
+
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Request a Kollder quote](https://kollder.com/#contact)
+
 ---
 
 *Sources: ACSM Expert Consensus Statement 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute (Douglas Casa, UConn), US Army Medical Surveillance Activity 2023.*

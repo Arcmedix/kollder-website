@@ -28,6 +28,7 @@ Triage protocols only work if the department can act on what they flag. An emerg
 
 ## Further Reading
 
+- [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Post-Cooling Resuscitation and Monitoring in Exertional Heat Stroke](https://kollder.com/blog/en/2026-07-09-post-cooling-resuscitation-monitoring-exertional-heat-stroke/)
 - [Onboard Ambulance Equipment for Exertional Heat Stroke](https://kollder.com/blog/en/2026-07-09-onboard-ambulance-equipment-exertional-heat-stroke/)
 - [Afflux aux urgences et canicule : tri et organisation du SAU (FR)](https://kollder.com/blog/fr/2026-07-08-afflux-urgences-canicule-tri-organisation-sau/)
