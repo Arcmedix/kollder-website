@@ -21,29 +21,27 @@ L'I-CWIK (Ice-Cold Water Immersion Kit) de Nereus Medical est l'un des systèmes
 | Critère | I-CWIK | Kollder |
 |---|---|---|
 | Type de système | Sac souple fermé | Baignoire ouverte |
-| Immersion corps entier | ⚠️ Partielle (sac refermé) | ✅ Complète |
-| Accès patient pendant l'immersion | ❌ Limité (sac fermé) | ✅ Total |
-| Surveillance des voies aériennes | ⚠️ Difficile | ✅ Directe |
-| Gestes médicaux avancés | ❌ Impossibles | ✅ Possibles |
-| Portabilité | ✅ Très légère | ✅ Compacte |
-| Déploiement | ✅ Rapide | ✅ < 2 min |
-| Conformité protocole CWI complet | ⚠️ Partielle | ✅ Complète |
+| Immersion | Corps immergé, sac refermé autour du patient | Corps entier, structure ouverte |
+| Accès patient pendant l'immersion | Via panneaux latéraux rigidifiés | Total, en continu |
+| Portabilité | Très légère | Compacte |
+| Déploiement | Rapide, sans structure à assembler | < 2 min, un opérateur |
+| Fermeture | Fermetures étanches YKK AQUASEAL® | Structure rigide sans fermeture |
 
 ## Ce que l'I-CWIK fait bien
 
 **La portabilité.** Le système I-CWIK est extrêmement léger et compact. Il peut être transporté dans un sac à dos ou dans le moindre véhicule léger, ce qui en fait un choix populaire pour les équipes opérant avec des contraintes logistiques très fortes (patrouilles militaires, secourisme en montagne).
 
-**Le déploiement rapide.** Le sac se déploie très rapidement sans structure à assembler — c'est son avantage principal sur les systèmes à cadre rigide.
+**Le déploiement rapide.** Le sac se déploie très rapidement sans structure à assembler, c'est son avantage principal sur les systèmes à cadre rigide.
 
 **La robustesse des matériaux.** Les fermetures YKK AQUASEAL® et la résistance du PVC sont des points positifs documentés.
 
-## La limite fondamentale de l'I-CWIK : l'accès patient
+## Accès patient et conception en sac fermé
 
-Le point critique de l'I-CWIK est sa conception en sac fermé. Une fois le patient immergé, le sac est refermé autour de lui — ce qui limite considérablement, voire empêche, les gestes médicaux avancés pendant le refroidissement.
+Un point structurel distingue les deux systèmes. Une fois le patient immergé dans l'I-CWIK, le sac est refermé autour de lui : l'accès aux gestes médicaux avancés pendant le refroidissement passe par l'ouverture des panneaux latéraux rigidifiés, plutôt que par un accès continu.
 
 Or les recommandations médicales sont explicites : pendant l'immersion d'un patient en coup de chaleur d'effort, l'équipe médicale doit pouvoir :
 
-- **Surveiller les voies aériennes en continu** — un patient en hyperthermie sévère peut présenter des convulsions, des vomissements ou une perte de conscience brutale
+- **Surveiller les voies aériennes en continu**, un patient en hyperthermie sévère peut présenter des convulsions, des vomissements ou une perte de conscience brutale
 - **Mesurer la température rectale** toutes les 5 minutes pour déterminer le moment d'arrêt du refroidissement
 - **Poser une voie veineuse** si nécessaire
 - **Pratiquer une réanimation cardio-pulmonaire** en cas d'arrêt cardiaque secondaire
@@ -54,7 +52,7 @@ La documentation de Nereus Medical elle-même précise : *"Les personnes doivent
 
 ## La question du protocole validé
 
-L'I-CWIK revendique une immersion en eau froide — ce qui est exact. Mais le protocole de référence international (CWI) spécifie une immersion **corps entier**, cuir chevelu compris, avec voies aériennes maintenues hors de l'eau par les soignants. Cette surveillance active est difficile à maintenir avec un sac fermé.
+L'I-CWIK revendique une immersion en eau froide, ce qui est exact. Mais le protocole de référence international (CWI) spécifie une immersion **corps entier**, cuir chevelu compris, avec voies aériennes maintenues hors de l'eau par les soignants. Cette surveillance active est difficile à maintenir avec un sac fermé.
 
 Les équipes médicales de compétition et les médecins militaires qui pratiquent régulièrement des immersions préhospitalières soulèvent ce point : la capacité à intervenir à tout moment sur le patient pendant l'immersion n'est pas négociable pour les cas sévères.
 
@@ -62,7 +60,7 @@ Les équipes médicales de compétition et les médecins militaires qui pratique
 
 L'I-CWIK est un outil utile pour des équipes disposant de contraintes logistiques extrêmes et traitant des cas d'hyperthermie modérée. Sa portabilité est un avantage réel.
 
-Pour les cas de coup de chaleur d'effort sévère — qui sont précisément les situations où l'équipement de refroidissement est nécessaire — le protocole de référence exige un accès patient complet pendant l'immersion. Kollder répond à cette exigence sans compromis sur la portabilité ou la vitesse de déploiement.
+Pour les cas de coup de chaleur d'effort sévère, qui sont précisément les situations où l'équipement de refroidissement est nécessaire, le protocole de référence exige un accès patient complet pendant l'immersion. Kollder répond à cette exigence sans compromis sur la portabilité ou la vitesse de déploiement.
 
 [Demander un devis Kollder](https://kollder.com/#contact)
 

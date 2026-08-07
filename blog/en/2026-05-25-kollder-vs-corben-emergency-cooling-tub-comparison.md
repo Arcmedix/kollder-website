@@ -1,70 +1,55 @@
 ---
 title: "Kollder vs Corben: Emergency Cooling Tub Comparison"
 date: 2026-05-25
-description: "Objective comparison between Kollder and the Corben emergency cooling tub: deployment, patient access, portability, protocol compliance and field suitability for rescue teams."
+description: "Factual comparison between Kollder and the Corben emergency cooling tub, based on the publicly available technical specifications of both products."
 category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true
 ---
 
-Choosing an emergency cooling tub for your service or medical team is a technical decision that directly affects patient outcomes. Here is an objective comparison between Kollder and the Corben cooling tub, based on publicly available product specifications and international protocol requirements.
+Choosing an emergency cooling tub for your service or medical team is a technical decision. Here is a factual comparison between Kollder and the Corben cooling tub, based solely on the publicly available technical specifications of both products.
 
 ## Product overview
 
-**Corben** is a French medical device developed in collaboration with the Paris Fire Brigade (BSPP). It features an aluminium tubular frame (Ø34 mm) with a welded blue PVC waterproof liner, integrated headrest and rapid drainage valve. It is distributed through standard French fire service equipment channels.
+**Corben** is a French emergency cooling manufacturer, active in prehospital equipment since 2004. It features an aluminium tubular frame (Ø34 mm) with a welded blue PVC waterproof liner, integrated headrest and a drainage valve positioned at the foot end. The liner is attached with 10 Velcro straps.
 
-**Kollder** is an emergency cooling tub with a food-grade stainless steel frame and high-resistance liner, engineered specifically for rapid prehospital deployment by one person on any terrain.
+**Kollder** is an emergency cooling tub with a food-grade stainless steel frame and high-resistance liner, engineered for single-person prehospital deployment on any terrain.
 
 ## Technical comparison
 
 | Criterion | Corben | Kollder |
 |---|---|---|
-| Full-body immersion | ✅ Yes | ✅ Yes |
-| Patient access for advanced care | ✅ Open | ✅ Open |
-| Deployment time | ⚠️ Several minutes | ✅ < 2 min |
-| Single-person deployment | ⚠️ Difficult | ✅ Yes |
-| Portability | ⚠️ Bulky folded (190 x 48 cm) | ✅ Compact folded |
-| Frame material | Aluminium tubing | Food-grade stainless steel |
+| Full-body immersion | Yes | Yes |
+| Patient access during immersion | Open structure | Open structure |
+| Frame material | Aluminium tubing, Ø34 mm | Food-grade stainless steel |
 | Liner attachment | 10 Velcro straps | Integrated liner |
-| Drainage valve | ✅ Yes | ✅ Yes |
-| CWI protocol compliance | ✅ Yes | ✅ Yes |
+| Deployed dimensions | 205 x 65 cm | 205 x 80 x 60 cm |
+| Folded dimensions | 190 x 48 cm | 85 x 10 x 10 cm |
+| Drainage valve | Yes, at foot end | Yes |
+| CWI protocol compliance | Yes | Yes |
 
-## What Corben does well
+## What Corben offers
 
-The Corben tub has two significant advantages that explain its adoption by the Paris Fire Brigade and several French fire departments.
+Like Kollder, the Corben tub is an open structure that allows medical staff to access the patient throughout immersion: airway monitoring, rectal temperature measurement, and advanced medical procedures remain possible without interrupting cooling. It is an established product in the French prehospital equipment market, with a presence in fire department tenders.
 
-**Full patient access.** Like Kollder, the Corben is an open tub that allows medical staff to freely access the patient during immersion — to monitor the airway, measure rectal temperature, insert an IV line or perform any other advanced medical procedure. This is the fundamental difference from closed bag-type systems.
+## What differentiates Kollder
 
-**Full immersion protocol compliance.** The Corben enables whole-body immersion consistent with SFAR and ACSM recommendations — shoulders and scalp submerged, airway maintained above water. The Cool First Transport Second protocol is fully applicable.
+**Deployment.** Kollder deploys in under 2 minutes by one person, with no tools, thanks to its direct-opening stainless steel structure (no liner to fasten with Velcro straps).
 
-## Identified limitations of the Corben
+**Frame material.** Food-grade stainless steel offers greater structural rigidity and corrosion resistance than aluminium over the long term, particularly under repeated decontamination cycles.
 
-**Deployment.** The aluminium frame structure with 10 Velcro attachment points requires several minutes and ideally two people to assemble correctly under operational stress. In a real emergency, every second matters.
-
-**Portability.** Folded, the Corben measures 190 x 48 cm — significant bulk in an already-loaded rescue vehicle, and a real constraint for wildland fire operations or forward medical posts that must be carried on foot.
-
-**Durability.** Field user feedback points to a frame that is less rigid than desired under repeated use in harsh conditions.
-
-## What Kollder adds
-
-**2-minute deployment by one person.** This is the key operational difference. At a wildland fire, a sporting event, or a mobile EMS response, the medical team does not always have two people available to assemble equipment while others manage the patient. Kollder enables a single responder to deploy the tub while a second handles the patient.
-
-**Food-grade stainless steel frame.** More resistant to corrosion and repeated impact than aluminium tubing, for a longer operational lifespan.
-
-**Compact folded profile.** Kollder integrates into any rescue vehicle without compromising the organisation of other equipment.
+**Folded footprint.** 85 x 10 x 10 cm in the included carry bag, versus 190 x 48 cm folded for the Corben, a significant space saving in a rescue vehicle.
 
 ## Conclusion
 
-Both products share the essentials: full-body immersion, open patient access, Cool First Transport Second protocol compliance. The difference comes down to deployment speed and portability — two decisive criteria for teams operating outside a fixed medical post.
-
-For teams with a permanent infrastructure (event medical post, fire station), the Corben is an established French solution. For mobile operations, wildland fires, mobile EMS units or tactical medicine teams, Kollder offers a decisive operational advantage.
+Both products share the essentials: full-body immersion, open patient access, Cool First Transport Second protocol compliance. They differ on frame material, attachment mechanism and folded footprint, criteria to weigh according to each team's operational context (fixed post vs. mobile response).
 
 [Request a Kollder quote](https://kollder.com/#contact)
 
 ---
 
-*Corben data: corben.fr (public product page). Protocol data: SFAR, ACSM Expert Consensus Statement 2023, IOC Adverse Weather Impact Expert Working Group 2021.*
+*Corben data: corben.fr (public product page, accessed 2026). Protocol data: SFAR, ACSM Expert Consensus Statement 2023, IOC Adverse Weather Impact Expert Working Group 2021.*
 
 ## Further Reading
 

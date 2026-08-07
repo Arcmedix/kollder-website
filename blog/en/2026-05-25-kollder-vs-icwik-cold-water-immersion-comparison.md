@@ -21,29 +21,27 @@ The I-CWIK (Ice-Cold Water Immersion Kit) by Nereus Medical is one of the most w
 | Criterion | I-CWIK | Kollder |
 |---|---|---|
 | System type | Closed flexible bag | Open tub |
-| Full-body immersion | ⚠️ Partial (bag closed around patient) | ✅ Complete |
-| Patient access during immersion | ❌ Limited (closed bag) | ✅ Full |
-| Airway monitoring | ⚠️ Difficult | ✅ Direct |
-| Advanced medical procedures | ❌ Not possible | ✅ Possible |
-| Portability | ✅ Very lightweight | ✅ Compact |
-| Deployment | ✅ Fast | ✅ < 2 min |
-| Full CWI protocol compliance | ⚠️ Partial | ✅ Complete |
+| Immersion | Body immersed, bag closed around patient | Full body, open structure |
+| Patient access during immersion | Via reinforced side panels | Full, continuous |
+| Portability | Very lightweight | Compact |
+| Deployment | Fast, no frame to assemble | < 2 min, one operator |
+| Closure | Waterproof YKK AQUASEAL® zips | Rigid structure, no closure |
 
 ## What the I-CWIK does well
 
 **Portability.** The I-CWIK system is extremely lightweight and compact. It can be carried in a backpack or in the smallest vehicle, making it a popular choice for teams operating under extreme logistical constraints (military patrols, mountain rescue).
 
-**Rapid deployment.** The bag deploys quickly with no frame to assemble — this is its primary advantage over rigid frame systems.
+**Rapid deployment.** The bag deploys quickly with no frame to assemble, this is its primary advantage over rigid frame systems.
 
 **Material quality.** The YKK AQUASEAL® zips and PVC durability are well-documented strengths.
 
-## The fundamental limitation of the I-CWIK: patient access
+## Patient access and closed-bag design
 
-The critical issue with the I-CWIK is its closed-bag design. Once the patient is immersed, the bag is closed around them — which significantly limits or prevents advanced medical procedures during cooling.
+A structural difference separates the two systems. Once the patient is immersed in the I-CWIK, the bag is closed around them: access for advanced medical procedures during cooling is provided through the reinforced side panels, rather than continuous open access.
 
 Yet medical recommendations are explicit: during immersion of an exertional heat stroke patient, the medical team must be able to:
 
-- **Continuously monitor the airway** — a severely hyperthermic patient may experience seizures, vomiting or sudden loss of consciousness
+- **Continuously monitor the airway**, a severely hyperthermic patient may experience seizures, vomiting or sudden loss of consciousness
 - **Measure rectal temperature** every 5 minutes to determine when to stop cooling
 - **Insert an IV line** if required
 - **Perform cardiopulmonary resuscitation** in the event of secondary cardiac arrest
@@ -54,7 +52,7 @@ Nereus Medical's own documentation states: *"Persons should be monitored continu
 
 ## The protocol validation question
 
-The I-CWIK claims cold water immersion capability — which is accurate. But the international reference protocol (CWI) specifies **whole-body** immersion, scalp included, with the airway maintained above water by attending medical staff. This active monitoring is difficult to sustain with a closed bag.
+The I-CWIK claims cold water immersion capability, which is accurate. But the international reference protocol (CWI) specifies **whole-body** immersion, scalp included, with the airway maintained above water by attending medical staff. This active monitoring is difficult to sustain with a closed bag.
 
 Medical teams at major competitions and military medical officers who regularly perform prehospital immersions raise this point: the ability to intervene at any moment during immersion is non-negotiable for severe cases.
 
@@ -62,7 +60,7 @@ Medical teams at major competitions and military medical officers who regularly 
 
 The I-CWIK is a useful tool for teams operating under extreme logistical constraints and managing mild-to-moderate hyperthermia cases. Its portability is a genuine advantage.
 
-For severe exertional heat stroke — precisely the situations where cooling equipment is critical — the reference protocol requires full patient access during immersion. Kollder meets this requirement without compromising portability or deployment speed.
+For severe exertional heat stroke, precisely the situations where cooling equipment is critical, the reference protocol requires full patient access during immersion. Kollder meets this requirement without compromising portability or deployment speed.
 
 [Request a Kollder quote](https://kollder.com/#contact)
 
