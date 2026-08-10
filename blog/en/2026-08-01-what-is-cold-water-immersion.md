@@ -6,6 +6,53 @@ category: "Field Protocols"
 layout: layouts/article.njk
 lang: en
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is cold water immersion?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cold water immersion (CWI) is the practice of submerging a severely hyperthermic person's entire body in cold water until core temperature returns to a safe level. It is the reference treatment for exertional heat stroke, recognized as such by every major international sports medicine and emergency medicine body."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is cold water immersion different from ice packs or cold towels?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Water conducts heat roughly 25 times faster than air, and full-body immersion maintains continuous contact across the entire body surface. Casa et al. (2007) found cold water immersion cools the body at 0.35 degrees Celsius per minute, versus 0.03 degrees Celsius per minute for wet towels or localized ice packs, a tenfold difference within the critical 30-minute treatment window."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What water temperature is used for cold water immersion?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Water temperature is typically 1 to 15 degrees Celsius (34 to 59 degrees Fahrenheit), maintained until core temperature drops below 38.6 to 39 degrees Celsius, measured rectally."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who uses cold water immersion in emergency response?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Fire and rescue services during wildfire operations and crew rehab, military medical services on deployments and hot-weather training, EMS and emergency departments in prehospital and in-hospital care, civil protection organizations at mass gatherings, event medical teams at endurance races, and occupational safety teams in industrial heat environments."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the Cool First, Transport Second principle?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cool First, Transport Second means cooling takes priority over evacuation: immediate cold water immersion must begin on scene before transport to a hospital. The Korey Stringer Institute documents a 100% survival rate across more than 401 treated cases when core temperature drops below 40 degrees Celsius within 30 minutes of onset."
+        }
+      }
+    ]
+  }
 ---
 
 Cold water immersion (CWI) is the practice of submerging a severely hyperthermic person's entire body in cold water until core temperature returns to a safe level. It is the reference treatment for exertional heat stroke, recognized as such by every major international sports medicine and emergency medicine body.

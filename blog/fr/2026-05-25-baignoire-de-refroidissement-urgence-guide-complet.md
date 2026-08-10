@@ -6,6 +6,45 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Qu'est-ce qu'une baignoire de refroidissement d'urgence ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Une baignoire de refroidissement d'urgence est un dispositif portable permettant l'immersion corps entier d'un patient en hyperthermie sévère dans de l'eau froide, immédiatement sur le lieu de l'incident, avant tout transport médicalisé. C'est l'équipement de référence recommandé par la SFAR, l'ACSM et le CIO pour le traitement du coup de chaleur d'effort."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Pourquoi une baignoire plutôt que des serviettes humides ou de la glace ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Les méthodes alternatives (serviettes humides, brumisateurs, poches de glace) refroidissent à environ 0,03°C par minute. L'immersion en eau froide atteint 0,35°C par minute, soit plus de 10 fois plus rapide, ce qui change directement le pronostic dans la fenêtre critique des 30 premières minutes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Qui utilise une baignoire de refroidissement d'urgence ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Les principaux utilisateurs sont les SDIS lors des feux de forêt estivaux, les forces armées pour le coup de chaleur d'exercice, les équipes médicales d'événements sportifs (marathons, trails, Hyrox) et les équipes EHS des secteurs exposés à la chaleur (BTP, industrie, fonderies)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quelle température d'eau utiliser dans une baignoire de refroidissement d'urgence ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Les recommandations internationales préconisent une eau entre 1,5°C et 15°C, idéalement avec ajout de glace. L'immersion est maintenue jusqu'à ce que la température rectale revienne sous 38,6°C, en surveillance continue."
+        }
+      }
+    ]
+  }
 ---
 
 Une baignoire de refroidissement d'urgence est un dispositif portable permettant l'immersion corps entier d'un patient en hyperthermie sévère dans de l'eau froide, immédiatement sur le lieu de l'incident, avant tout transport médicalisé.
