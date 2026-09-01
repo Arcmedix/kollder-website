@@ -1,20 +1,22 @@
 ---
-title: "Poste de refroidissement pour événements sportifs : guide pour les organisateurs"
+title: "Rafraîchisseur pour événements sportifs : guide du poste de refroidissement pour organisateurs"
 date: 2026-06-25
-description: "Comment dimensionner et équiper un poste de refroidissement d'urgence pour trails, marathons et événements d'endurance selon les recommandations IOC et ACSM."
+description: "Rafraîchisseur, baignoire de refroidissement, poste médical : comment dimensionner et équiper le dispositif de refroidissement d'urgence pour trails, marathons et événements d'endurance selon les recommandations IOC et ACSM."
 category: "Événements sportifs"
 layout: layouts/article.njk
 lang: fr
 published: true
 ---
 
-Un coup de chaleur d'effort sur un événement sportif, c'est une urgence qui se joue en quelques minutes sur un terrain rarement préparé pour ça. La tente médicale, le médecin de permanence, le brancard — tout ça existe. Mais le dispositif de refroidissement capable de traiter un CCE sévère dans les 30 premières minutes, il est présent sur combien d'événements en France ? La question mérite d'être posée avant le départ du prochain dossard.
+Un coup de chaleur d'effort sur un événement sportif, c'est une urgence qui se joue en quelques minutes sur un terrain rarement préparé pour ça. La tente médicale, le médecin de permanence, le brancard, tout ça existe. Mais le dispositif de refroidissement capable de traiter un CCE sévère dans les 30 premières minutes, autrement dit le rafraîchisseur ou poste de refroidissement d'urgence, il est présent sur combien d'événements en France ? La question mérite d'être posée avant le départ du prochain dossard.
+
+Les organisateurs cherchent ce type d'équipement sous plusieurs noms : rafraîchisseur, poste de refroidissement, baignoire de refroidissement d'urgence. Il s'agit dans tous les cas du même dispositif, celui qui permet d'immerger un participant en état de coup de chaleur dans l'eau froide, directement sur le terrain.
 
 ## Ce que les recommandations internationales imposent aux organisateurs
 
 L'IOC et la BJSM ont publié en 2021 un consensus clair sur les obligations des organisateurs d'événements sportifs en matière de gestion de la chaleur. Le document est sans ambiguïté : tout événement se déroulant dans des conditions à risque thermique doit disposer d'un protocole de refroidissement actif et du matériel permettant de l'appliquer.
 
-L'ACSM (2023) précise que l'immersion en eau froide doit être disponible sur site — pas en route vers l'hôpital, pas dans le véhicule du SMUR en attente. Sur site, accessible immédiatement.
+L'ACSM (2023) précise que l'immersion en eau froide doit être disponible sur site, pas en route vers l'hôpital, pas dans le véhicule du SMUR en attente. Sur site, accessible immédiatement.
 
 En France, le cadre réglementaire des événements sportifs (arrêtés préfectoraux, plan de secours) intègre de plus en plus ces exigences dans les conditions d'autorisation. Un directeur médical qui ne peut pas justifier d'un dispositif de refroidissement actif prend un risque à la fois médical et juridique.
 
@@ -43,7 +45,7 @@ Il n'existe pas de ratio universel participants/baignoire, mais plusieurs élém
 
 - Nombre de participants exposés simultanément aux conditions les plus chaudes (fraction du peloton en milieu de course)
 - Durée d'exposition : un trail de 6 heures par 30 °C génère plus de cas qu'une course de 45 minutes
-- Capacité de rotation d'un poste de refroidissement : un CCE nécessite 20 à 30 minutes d'immersion et de surveillance avant transfert — un seul poste traite donc 2 à 3 patients par heure au maximum
+- Capacité de rotation d'un poste de refroidissement : un CCE nécessite 20 à 30 minutes d'immersion et de surveillance avant transfert, un seul poste traite donc 2 à 3 patients par heure au maximum
 - Points chauds du parcours : zones sans ombre, zones sans vent, passages à faible allure (montées techniques)
 
 **Recommandation pratique :**
@@ -57,7 +59,7 @@ Au-delà de 1 000 participants ou WBGT > 31 °C, un troisième poste sur le parc
 Un poste de refroidissement opérationnel comprend :
 
 **Obligatoire**
-- Dispositif d'immersion en eau froide (baignoire, tub ou équivalent rigide) — c'est la pièce centrale
+- Dispositif d'immersion en eau froide (baignoire, tub ou équivalent rigide), c'est la pièce centrale
 - Thermomètre rectal (les thermomètres tympaniques ne sont pas fiables en contexte d'effort)
 - Eau froide en volume suffisant (150 à 200 litres par poste)
 - Glace ou accès à de l'eau à température contrôlée (objectif : 8-15 °C)
@@ -74,7 +76,7 @@ C'est souvent le point faible des dispositifs improvisés. Un poste de refroidis
 
 ## Positionner les postes sur le parcours
 
-L'arrivée est le point de départ évident — c'est là que les cas les plus sévères se déclarent, souvent dans les minutes suivant l'effort. Mais le CCE peut survenir en cours de course, notamment sur les portions les plus exposées.
+L'arrivée est le point de départ évident : c'est là que les cas les plus sévères se déclarent, souvent dans les minutes suivant l'effort. Mais le CCE peut survenir en cours de course, notamment sur les portions les plus exposées.
 
 Les critères de positionnement d'un poste intermédiaire :
 
@@ -83,11 +85,11 @@ Les critères de positionnement d'un poste intermédiaire :
 - Distance supérieure à 15 minutes du poste suivant
 - Accès véhicule possible pour évacuation
 
-Un poste intermédiaire sans accès véhicule est un poste qui retardera l'évacuation après refroidissement — ce qui est acceptable si le refroidissement est effectué correctement sur place avant le transport.
+Un poste intermédiaire sans accès véhicule est un poste qui retardera l'évacuation après refroidissement, ce qui est acceptable si le refroidissement est effectué correctement sur place avant le transport.
 
-## Kollder dans le dispositif événementiel
+## Kollder, le rafraîchisseur pensé pour le dispositif événementiel
 
-Les contraintes spécifiques des événements sportifs — transport en voiture ou véhicule léger, déploiement rapide par une équipe de secours souvent réduite, usage en plein air parfois loin de toute infrastructure — correspondent exactement au cahier des charges qui a guidé la conception de la baignoire Kollder.
+Les contraintes spécifiques des événements sportifs (transport en voiture ou véhicule léger, déploiement rapide par une équipe de secours souvent réduite, usage en plein air parfois loin de toute infrastructure) correspondent exactement au cahier des charges qui a guidé la conception de la baignoire Kollder.
 
 Pliée, elle tient dans un sac cylindrique de 85 × 10 × 10 cm. Déployée en moins de 2 minutes par une seule personne, elle offre un accès complet au patient pour le monitoring et les gestes médicaux. Sa structure en acier inoxydable résiste aux conditions terrain et aux cycles de décontamination.
 
@@ -117,4 +119,4 @@ Pour les directeurs médicaux d'événements qui souhaitent l'intégrer à leur 
 
 ---
 
-*Sources : Hosokawa Y, Racinais S et al., IOC Consensus Statement on Recommendations for Heat Illness Prevention and Management, BJSM 2021 — ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — Périard JD et al., Br J Sports Med 2021 — Korey Stringer Institute, Event Medical Planning Resources, University of Connecticut*
+*Sources : Hosokawa Y, Racinais S et al., IOC Consensus Statement on Recommendations for Heat Illness Prevention and Management, BJSM 2021 ; ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 ; Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 ; Périard JD et al., Br J Sports Med 2021 ; Korey Stringer Institute, Event Medical Planning Resources, University of Connecticut*
