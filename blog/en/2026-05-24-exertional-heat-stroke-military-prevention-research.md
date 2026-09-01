@@ -1,14 +1,14 @@
 ---
 title: "Exertional Heat Stroke in Military Settings: What International Research Tells Us About Prevention and Treatment"
 date: 2026-05-24
-description: "Heat illness ranked among the top five medical events in the US military in 2024. A 2025 international research review consolidates what works — and what still fails — in prevention and field treatment of exertional heat stroke."
+description: "Heat illness ranked among the top five medical events in the US military in 2024. A 2025 international research review consolidates what works, and what still fails, in prevention and field treatment of exertional heat stroke."
 category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true
 ---
 
-In 2024, heat illness was among the top five most frequently reported medical events among US active duty service members. After several years of declining rates, heat stroke cases increased again. A comprehensive international review published in 2025 in *Frontiers in Physiology*, co-authored by researchers from the US Army, French military, and other armed forces, consolidates what military medicine has learned — and where critical gaps remain.
+In 2024, heat illness was among the top five most frequently reported medical events among US active duty service members. After several years of declining rates, heat stroke cases increased again. A comprehensive international review published in 2025 in *Frontiers in Physiology*, co-authored by researchers from the US Army, French military, and other armed forces, consolidates what military medicine has learned, and where critical gaps remain.
 
 ## The scale of the problem in 2024
 
@@ -55,19 +55,19 @@ The protocol is **cool first, transport second.** Medical evacuation must not de
 The Epstein et al. (2025) international review consolidates the evidence base:
 
 - **Heat acclimatization**: 10-to-14-day progressive exposure before any hot-climate deployment or intensive summer training program
-- **WBGT monitoring**: Wet Bulb Globe Temperature thresholds used to modulate training intensity — standard in US military guidelines, should be adopted broadly
+- **WBGT monitoring**: Wet Bulb Globe Temperature thresholds used to modulate training intensity, standard in US military guidelines, should be adopted broadly
 - **Leadership-level recognition training**: unit leaders, not just medical staff, must know the protocol and be trained to recognize early signs
 
 ## The logistics gap: equipment at the point of need
 
-The international review is explicit: the principal remaining barrier to effective EHS treatment in military settings is not knowledge — it is equipment availability at the point of need. A cooling tub left in a medical depot cannot help a soldier who collapses on a training range.
+The international review is explicit: the principal remaining barrier to effective EHS treatment in military settings is not knowledge: it is equipment availability at the point of need. A cooling tub left in a medical depot cannot help a soldier who collapses on a training range.
 
 ## Sources
 
-- Epstein Y, Charkoudian N, DeGroot DW, Malgoyre A, O'Connor FG, et al., *Exertional heat illness: international military-oriented lessons learned and best practices*, Frontiers in Physiology, 2025 — [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920190/)
-- Maule AL, et al., *Heat Exhaustion and Heat Stroke Among Active Component Members of the U.S. Armed Forces, 2020-2024*, 2025 — [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12266733/)
-- Defense Health Agency, *Military Efforts Preventing Severe Heat Illness Cases*, army.mil, June 2025 — [army.mil](https://www.army.mil/article/286206/military_efforts_preventing_severe_heat_illness_cases)
-- CHAMP/USUHS, *Clinical Practice Guideline: Exertional Heat Illness*, June 2024 — [champ.usuhs.edu](https://champ.usuhs.edu/sites/default/files/media/documents/champ_whec_ehi_cpg_508_070224_acc.pdf)
+- Epstein Y, Charkoudian N, DeGroot DW, Malgoyre A, O'Connor FG, et al., *Exertional heat illness: international military-oriented lessons learned and best practices*, Frontiers in Physiology, 2025, [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920190/)
+- Maule AL, et al., *Heat Exhaustion and Heat Stroke Among Active Component Members of the U.S. Armed Forces, 2020-2024*, 2025, [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12266733/)
+- Defense Health Agency, *Military Efforts Preventing Severe Heat Illness Cases*, army.mil, June 2025, [army.mil](https://www.army.mil/article/286206/military_efforts_preventing_severe_heat_illness_cases)
+- CHAMP/USUHS, *Clinical Practice Guideline: Exertional Heat Illness*, June 2024, [champ.usuhs.edu](https://champ.usuhs.edu/sites/default/files/media/documents/champ_whec_ehi_cpg_508_070224_acc.pdf)
 
 ---
 
@@ -78,4 +78,8 @@ The international review is explicit: the principal remaining barrier to effecti
 ## Further Reading
 
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Tactical Medicine in Hot Environments: Managing Exertional Heat Stroke in the Field](https://kollder.com/blog/en/2026-05-21-tactical-medicine-hot-environments-heat-stroke/)
+- [Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
+- [Exertional Heat Stroke: The Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)
+- [Kollder solutions for defense and military](https://kollder.com/en/defense-military/)
 - [Request a Kollder quote](https://kollder.com/#contact)

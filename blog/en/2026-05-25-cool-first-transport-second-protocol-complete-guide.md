@@ -79,6 +79,7 @@ The 2021 IOC consensus (Hosokawa, Racinais et al., BJSM) states that team traini
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Emergency cooling tub: definition and protocol](/blog/en/2026-05-25-emergency-cooling-tub-definition-uses-protocol/)
 - [Cold water immersion vs other methods: a data-backed comparison](/blog/en/2026-05-25-cold-water-immersion-vs-other-methods-comparison/)
+- [Cool First, Transport Second: The History Behind Emergency Medicine's Field Cooling Doctrine](https://kollder.com/blog/en/2026-07-29-history-cool-first-transport-second-doctrine/)
 - [Kollder solutions for EMS and emergency departments](https://kollder.com/en/emergency-medical-services/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 

@@ -8,7 +8,7 @@ lang: en
 published: true
 ---
 
-**The 2025 wildfire season set records across the United States and Europe. Longer burn periods, higher ambient temperatures, and expanding fire zones are putting firefighters at unprecedented risk of exertional heat stroke. The 2026 season has started. Here is what fire service medical officers and safety teams need to know — and deploy — right now.**
+**The 2025 wildfire season set records across the United States and Europe. Longer burn periods, higher ambient temperatures, and expanding fire zones are putting firefighters at unprecedented risk of exertional heat stroke. The 2026 season has started. Here is what fire service medical officers and safety teams need to know, and deploy, right now.**
 
 ---
 
@@ -35,10 +35,10 @@ The clinical rules are the same as in any other context, with one important addi
 Warning signs in order of severity:
 
 - Sudden unusual fatigue, severe headache, muscle cramping
-- Confusion, disorientation, unusual behavior — this is the key diagnostic flag
+- Confusion, disorientation, unusual behavior: this is the key diagnostic flag
 - Stumbling, loss of coordination (ataxia)
-- Stopping sweating despite continued exertion — late sign, indicates severe heat accumulation
-- Loss of consciousness, seizures — immediate life threat
+- Stopping sweating despite continued exertion: late sign, indicates severe heat accumulation
+- Loss of consciousness, seizures: immediate life threat
 
 **Any firefighter showing neurological signs during or after a heavy work period is a presumptive EHS case.** Begin cooling immediately. Do not wait for confirmation.
 
@@ -54,7 +54,7 @@ Every minute of uncontrolled core hyperthermia increases the risk of multi-organ
 Move the firefighter to the coolest available location. Remove PPE, helmet, and as much clothing as the situation allows.
 
 **Step 2: Measure core temperature**
-Rectal temperature is the reference standard. Begin cooling even if temperature measurement is not immediately available — do not wait.
+Rectal temperature is the reference standard. Begin cooling even if temperature measurement is not immediately available, do not wait.
 
 **Step 3: Immerse in cold water**
 Full-body cold water immersion is the gold standard. Use the coldest water available. Add ice if available.
@@ -63,7 +63,7 @@ Full-body cold water immersion is the gold standard. Use the coldest water avail
 Rectal temperature every 5 minutes. Continue immersion until core temperature reaches 102 degrees Fahrenheit. Do not stop early.
 
 **Step 5: Activate EMS and transport**
-Call simultaneously with immersion. Transport to a hospital even after apparent recovery — complications including rhabdomyolysis and kidney injury can develop hours later.
+Call simultaneously with immersion. Transport to a hospital even after apparent recovery: complications including rhabdomyolysis and kidney injury can develop hours later.
 
 ---
 
@@ -115,4 +115,8 @@ Full equipment criteria and specifications for fire departments are available on
 ## Further Reading
 
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Greece's 2026 Wildfire Season: The Firefighter Heat Stroke Crisis](https://kollder.com/blog/en/2026-08-06-greece-wildfires-2026-firefighter-heat-stroke-crisis/)
+- [Spain's 2026 Wildfire Season: The Firefighter Heat Stroke Crisis Behind the Headlines](https://kollder.com/blog/en/2026-07-27-spain-wildfires-2026-firefighter-heat-stroke-crisis/)
+- [France's 2026 Gironde Wildfires and the Hidden Heat Stroke Risk After Five Nights on the Fire Line](https://kollder.com/blog/en/2026-07-27-france-gironde-wildfires-2026-firefighter-heat-stroke-risk/)
+- [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder quote](https://kollder.com/#contact)

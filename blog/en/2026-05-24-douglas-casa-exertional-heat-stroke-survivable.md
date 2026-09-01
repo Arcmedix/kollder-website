@@ -74,4 +74,5 @@ Find how this protocol applies in prehospital and hospital settings on our dedic
 ## Further Reading
 
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Cool First, Transport Second: The History Behind Emergency Medicine's Field Cooling Doctrine](https://kollder.com/blog/en/2026-07-29-history-cool-first-transport-second-doctrine/)
 - [Request a Kollder quote](https://kollder.com/#contact)

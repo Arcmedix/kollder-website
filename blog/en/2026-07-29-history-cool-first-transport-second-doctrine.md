@@ -42,7 +42,7 @@ A protocol is only as good as the equipment available to execute it. The entire 
 
 That gap between accepted protocol and field-deployable equipment is what the Kollder emergency cooling tub was built to close: full-body immersion, deployable in under 2 minutes by one person, anywhere the protocol needs to be executed. Teams building out their own Cool First capability can find specifications at [kollder.com/#contact](https://kollder.com/#contact).
 
-## Further reading
+## Further Reading
 
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
