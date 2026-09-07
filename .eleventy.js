@@ -28,25 +28,34 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
-  // "Vie d'église" is a standalone vertical: its articles are excluded from the
-  // main /blog/ feed and only surfaced on their own /blog/fr/vie-d-eglise/ page.
+  // "Vie d'église" / "Church Life" is a standalone vertical: its articles are
+  // excluded from the main /blog/ feed and only surfaced on their own
+  // /blog/fr/vie-d-eglise/ and /blog/en/church-life/ pages.
   const VIE_EGLISE = "Vie d'église";
+  const CHURCH_LIFE = "Church Life";
+  const CHURCH_CATEGORIES = [VIE_EGLISE, CHURCH_LIFE];
   eleventyConfig.addCollection("blog_fr_public", function(collectionApi) {
     return collectionApi.getFilteredByGlob("blog/fr/*.md")
       .filter(item => item.data.published !== false)
-      .filter(item => item.data.category !== VIE_EGLISE)
+      .filter(item => CHURCH_CATEGORIES.indexOf(item.data.category) === -1)
       .sort((a, b) => b.date - a.date);
   });
   eleventyConfig.addCollection("blog_en_public", function(collectionApi) {
     return collectionApi.getFilteredByGlob("blog/en/*.md")
       .filter(item => item.data.published !== false)
-      .filter(item => item.data.category !== VIE_EGLISE)
+      .filter(item => CHURCH_CATEGORIES.indexOf(item.data.category) === -1)
       .sort((a, b) => b.date - a.date);
   });
   eleventyConfig.addCollection("blog_vie_eglise", function(collectionApi) {
     return collectionApi.getFilteredByGlob("blog/fr/*.md")
       .filter(item => item.data.published !== false)
       .filter(item => item.data.category === VIE_EGLISE)
+      .sort((a, b) => b.date - a.date);
+  });
+  eleventyConfig.addCollection("blog_church_life", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/en/*.md")
+      .filter(item => item.data.published !== false)
+      .filter(item => item.data.category === CHURCH_LIFE)
       .sort((a, b) => b.date - a.date);
   });
 

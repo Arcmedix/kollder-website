@@ -1,9 +1,9 @@
 ---
 layout: null
-permalink: /blog/fr/vie-d-eglise/
+permalink: /blog/en/church-life/
 ---
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SF9XF8JQZK"></script>
 <script>
@@ -26,15 +26,15 @@ permalink: /blog/fr/vie-d-eglise/
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Vie d'église — Baptême par immersion et baptistère portable — Kollder</title>
-<meta name="description" content="Ressources pour les églises qui pratiquent le baptême du croyant par immersion : organiser une cérémonie sans piscine, dimensionner un bassin, choisir et entretenir un baptistère portable.">
-<link rel="canonical" href="https://kollder.com/blog/fr/vie-d-eglise/">
-<meta property="og:title" content="Vie d'église — Baptême par immersion et baptistère portable — Kollder">
-<meta property="og:description" content="Ressources pour les églises qui pratiquent le baptême du croyant par immersion : organiser une cérémonie sans piscine, dimensionner un bassin, choisir et entretenir un baptistère portable.">
+<title>Church Life — Immersion Baptism and Portable Baptistry — Kollder</title>
+<meta name="description" content="Resources for churches that practice believer's baptism by full immersion: holding a service without a pool, sizing a baptism pool, choosing and maintaining a portable baptistry.">
+<link rel="canonical" href="https://kollder.com/blog/en/church-life/">
+<meta property="og:title" content="Church Life — Immersion Baptism and Portable Baptistry — Kollder">
+<meta property="og:description" content="Resources for churches that practice believer's baptism by full immersion: holding a service without a pool, sizing a baptism pool, choosing and maintaining a portable baptistry.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://kollder.com/blog/fr/vie-d-eglise/">
-<link rel="alternate" hreflang="fr" href="https://kollder.com/blog/fr/vie-d-eglise/">
+<meta property="og:url" content="https://kollder.com/blog/en/church-life/">
 <link rel="alternate" hreflang="en" href="https://kollder.com/blog/en/church-life/">
+<link rel="alternate" hreflang="fr" href="https://kollder.com/blog/fr/vie-d-eglise/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -98,15 +98,15 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
 <body>
 
 <nav>
-  <div class="nav-brand"><a href="/"><img src="/logo-kollder.png" alt="Kollder"></a></div>
+  <div class="nav-brand"><a href="/en/"><img src="/logo-kollder.png" alt="Kollder"></a></div>
   <div class="nav-right">
-    <a href="/fr/baptistere-immersion/" class="nav-back">
+    <a href="/en/portable-baptistry/" class="nav-back">
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
-      Baptistère portable
+      Portable baptistry
     </a>
     <div class="lang-toggle">
-      <a class="lang-btn active" href="/blog/fr/vie-d-eglise/">FR</a>
-      <a class="lang-btn" href="/blog/en/church-life/">EN</a>
+      <a class="lang-btn" href="/blog/fr/vie-d-eglise/">FR</a>
+      <a class="lang-btn active" href="/blog/en/church-life/">EN</a>
     </div>
   </div>
 </nav>
@@ -114,14 +114,14 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
 <section class="hero">
   <div class="hero-inner">
     <p class="hero-breadcrumb">
-      <a href="/fr/baptistere-immersion/">Baptistère portable</a><span>›</span><span>Vie d'église</span>
+      <a href="/en/portable-baptistry/">Portable baptistry</a><span>›</span><span>Church Life</span>
     </p>
-    <h1>Vie d'église</h1>
-    <p class="hero-sub">Ressources pour les églises évangéliques, baptistes et pentecôtistes qui pratiquent le baptême du croyant par immersion : organiser une cérémonie sans piscine, dimensionner un bassin, choisir et entretenir un baptistère portable.</p>
-    {% set articleCount = collections.blog_vie_eglise.length %}
+    <h1>Church Life</h1>
+    <p class="hero-sub">Resources for Baptist, evangelical, and Pentecostal churches that practice believer's baptism by full immersion: holding a service without a pool, sizing a baptism pool, choosing and maintaining a portable baptistry.</p>
+    {% set articleCount = collections.blog_church_life.length %}
     <p class="hero-count">{{ articleCount }} article{% if articleCount > 1 %}s{% endif %}</p>
-    <a href="/fr/baptistere-immersion/#devis" class="hero-cta">
-      Demander un devis
+    <a href="/en/portable-baptistry/#devis" class="hero-cta">
+      Get a quote
       <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
   </div>
@@ -129,23 +129,23 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
 
 <div class="blog-section">
   <div class="articles-grid">
-    {% if collections.blog_vie_eglise.length %}
-      {% for post in collections.blog_vie_eglise %}
+    {% if collections.blog_church_life.length %}
+      {% for post in collections.blog_church_life %}
         <a href="{{ post.url }}" class="article-card">
           <div class="article-body-inner">
             <p class="article-cat">{{ post.data.category }}</p>
             <h2 class="article-title">{{ post.data.title }}</h2>
             <p class="article-desc">{{ post.data.description }}</p>
-            <p class="article-date">{{ post.date | dateFormat }}</p>
+            <p class="article-date">{{ post.date | dateFormatEN }}</p>
             <span class="article-read">
-              Lire l'article
+              Read article
               <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
             </span>
           </div>
         </a>
       {% endfor %}
     {% else %}
-      <div class="empty-state"><strong>Articles à venir.</strong><span>Revenez prochainement pour cette rubrique.</span></div>
+      <div class="empty-state"><strong>Articles coming soon.</strong><span>Check back soon for this section.</span></div>
     {% endif %}
   </div>
 </div>
