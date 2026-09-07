@@ -28,6 +28,28 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  // "Vie d'église" is a standalone vertical: its articles are excluded from the
+  // main /blog/ feed and only surfaced on their own /blog/fr/vie-d-eglise/ page.
+  const VIE_EGLISE = "Vie d'église";
+  eleventyConfig.addCollection("blog_fr_public", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/fr/*.md")
+      .filter(item => item.data.published !== false)
+      .filter(item => item.data.category !== VIE_EGLISE)
+      .sort((a, b) => b.date - a.date);
+  });
+  eleventyConfig.addCollection("blog_en_public", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/en/*.md")
+      .filter(item => item.data.published !== false)
+      .filter(item => item.data.category !== VIE_EGLISE)
+      .sort((a, b) => b.date - a.date);
+  });
+  eleventyConfig.addCollection("blog_vie_eglise", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/fr/*.md")
+      .filter(item => item.data.published !== false)
+      .filter(item => item.data.category === VIE_EGLISE)
+      .sort((a, b) => b.date - a.date);
+  });
+
   // Categories — inlined to avoid any _data file resolution issues
   const CATEGORIES = [
     {

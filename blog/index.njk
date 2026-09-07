@@ -388,7 +388,7 @@ footer {
   <div class="articles-grid" id="articlesGrid">
 
     <div id="fr-articles" style="display:contents;">
-      {% set frPosts = collections.blog_fr %}
+      {% set frPosts = collections.blog_fr_public %}
       {% if frPosts.length %}
         {% for post in frPosts %}
         <a href="{{ post.url }}" class="article-card">
@@ -410,7 +410,7 @@ footer {
     </div>
 
     <div id="en-articles" style="display:none;">
-      {% set enPosts = collections.blog_en %}
+      {% set enPosts = collections.blog_en_public %}
       {% if enPosts.length %}
         {% for post in enPosts %}
         <a href="{{ post.url }}" class="article-card">
