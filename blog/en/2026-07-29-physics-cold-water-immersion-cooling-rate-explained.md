@@ -38,7 +38,7 @@ Brearley and Walker's 2015 review of fireground cooling modalities, drawing on A
 
 ## Why full-body immersion outperforms forearm-only immersion
 
-Forearm and hand immersion, recognized explicitly in standards such as NFPA 1584, works on the same conductive principle but across a much smaller surface area, roughly 12% of total body surface for both forearms and hands combined, versus close to 90% for whole-body immersion excluding the head. It remains a legitimate active cooling method, particularly for lower-severity heat stress where full immersion equipment is not available, but it cools more slowly than whole-body immersion for a genuinely hyperthermic patient, simply because less skin is in contact with cold water at any given time.
+Forearm and hand immersion, recognized explicitly in standards such as NFPA 1580 (formerly NFPA 1584), works on the same conductive principle but across a much smaller surface area, roughly 12% of total body surface for both forearms and hands combined, versus close to 90% for whole-body immersion excluding the head. It remains a legitimate active cooling method, particularly for lower-severity heat stress where full immersion equipment is not available, but it cools more slowly than whole-body immersion for a genuinely hyperthermic patient, simply because less skin is in contact with cold water at any given time.
 
 ## What this means operationally
 
@@ -51,9 +51,9 @@ Teams evaluating a dedicated immersion solution can find specifications at [koll
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cooling Solutions for Exertional Heat Stroke: Which Method Works in the Field?](https://kollder.com/blog/en/2026-06-04-cooling-solutions-exertional-heat-stroke-field-comparison/)
 - [Exertional Heat Stroke: The Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)
-- [NFPA 1584 and International Rehab Standards](https://kollder.com/blog/en/2026-07-29-nfpa-1584-international-rehab-standards-comparison/)
+- [NFPA 1580 and International Rehab Standards](https://kollder.com/blog/en/2026-07-29-nfpa-1584-international-rehab-standards-comparison/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 
 ---
 
-*Sources: Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Water immersion for post incident cooling of firefighters, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1584, 2022 edition.*
+*Sources: Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Water immersion for post incident cooling of firefighters, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, 2025 edition (consolidating NFPA 1584, 2022 edition).*

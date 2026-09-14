@@ -24,7 +24,7 @@ Equipment that is technically portable but doesn't fit in a standard apparatus c
 
 ## 3. Whole-body immersion, not partial cooling
 
-Forearm and hand immersion is a legitimate, standards-recognized active cooling method, named explicitly in NFPA 1584. But the physics are unambiguous: whole-body immersion covers roughly 90% of skin surface area versus roughly 12% for forearms and hands combined, and cools proportionally faster as a result. For a genuinely hyperthermic patient, that difference is clinically significant, not marginal.
+Forearm and hand immersion is a legitimate, standards-recognized active cooling method, named explicitly in NFPA 1580 (the rehabilitation requirement formerly published as NFPA 1584). But the physics are unambiguous: whole-body immersion covers roughly 90% of skin surface area versus roughly 12% for forearms and hands combined, and cools proportionally faster as a result. For a genuinely hyperthermic patient, that difference is clinically significant, not marginal.
 
 **Ask**: Does the equipment enable full-body immersion, or only partial-body cooling?
 
@@ -58,4 +58,4 @@ Teams running their own evaluation against this framework can request specificat
 
 ---
 
-*Sources: NFPA 1584, 2022 edition. Casa DJ et al., Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023.*
+*Sources: NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, 2025 edition (consolidating NFPA 1584, 2022 edition). Casa DJ et al., Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023.*

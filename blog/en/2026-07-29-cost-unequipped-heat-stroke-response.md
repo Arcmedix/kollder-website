@@ -16,7 +16,7 @@ A dedicated emergency cooling tub is a modest line item against most departmenta
 
 ## Regulatory exposure
 
-Heat illness prevention is moving from recommended practice to enforceable obligation across multiple jurisdictions. OSHA's proposed heat injury and illness prevention standard would require documented, equipment-backed response plans from US employers. France's Décret n°2025-482 already makes certain heat-illness prevention measures mandatory for emergency responders. NFPA 1584 sets a named, auditable cooling requirement for US fire departments.
+Heat illness prevention is moving from recommended practice to enforceable obligation across multiple jurisdictions. OSHA's proposed heat injury and illness prevention standard would require documented, equipment-backed response plans from US employers. France's Décret n°2025-482 already makes certain heat-illness prevention measures mandatory for emergency responders. NFPA 1580 (the rehabilitation requirement formerly published as NFPA 1584) sets a named, auditable cooling requirement for US fire departments.
 
 An organization without a documented, equipped response is not just under-prepared clinically. It is building a compliance gap that becomes visible, and costly, the moment an incident triggers a review.
 
@@ -44,11 +44,11 @@ Departments, EHS teams, and event medical directors evaluating what a properly e
 
 - [OSHA Heat Standard 2025: What Every EHS Manager Needs to Know Before Summer](https://kollder.com/blog/en/2026-05-31-osha-heat-standard-ehs-employer-obligations/)
 - [Heat Illness Prevention Plan: A Practical Template for EHS Managers](https://kollder.com/blog/en/2026-05-31-heat-illness-prevention-plan-ehs-template/)
-- [NFPA 1584 and International Rehab Standards](https://kollder.com/blog/en/2026-07-29-nfpa-1584-international-rehab-standards-comparison/)
+- [NFPA 1580 and International Rehab Standards](https://kollder.com/blog/en/2026-07-29-nfpa-1584-international-rehab-standards-comparison/)
 - [Medical Service Validation of Cooling Equipment for Fire Departments](https://kollder.com/blog/en/2026-07-09-medical-service-validation-cooling-equipment-fire-departments/)
 - [Kollder solutions for civil protection associations](https://kollder.com/en/civil-protection/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 
 ---
 
-*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1584, 2022 edition. Korey Stringer Institute, University of Connecticut. Décret n°2025-482.*
+*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, 2025 edition (consolidating NFPA 1584, 2022 edition). Korey Stringer Institute, University of Connecticut. Décret n°2025-482.*

@@ -34,7 +34,7 @@ Casa's personal clinical record reinforced the case: as of his most recent publi
 
 What had been the practice of specialists like Casa gradually became formal medical consensus. The American College of Sports Medicine's Expert Consensus Statement on Exertional Heat Illness, most recently updated in 2023, and the International Olympic Committee's Adverse Weather Impact Expert Working Group statement (Hosokawa, Racinais et al., *BJSM*, 2021), both now state explicitly what KSI's clinical data had already shown: cooling takes priority over transport, full stop, for any suspected exertional heat stroke case.
 
-The doctrine has since been written directly into operational standards for the professions most exposed to it. NFPA 1584, the US standard governing firefighter rehabilitation, names active cooling, including immersion methods, as a required step before a member returns to duty or is transported. Event medicine protocols for endurance sport, from marathons to Hyrox, now build medical post design around the same principle: cooling equipment has to be present at the point of collapse, not just at the ambulance.
+The doctrine has since been written directly into operational standards for the professions most exposed to it. NFPA 1580, the US standard governing firefighter rehabilitation (this rehab content was formerly published as the standalone NFPA 1584), names active cooling, including immersion methods, as a required step before a member returns to duty or is transported. Event medicine protocols for endurance sport, from marathons to Hyrox, now build medical post design around the same principle: cooling equipment has to be present at the point of collapse, not just at the ambulance.
 
 ## What the doctrine requires operationally
 
@@ -54,4 +54,4 @@ That gap between accepted protocol and field-deployable equipment is what the Ko
 
 ---
 
-*Sources: Korey Stringer Institute, University of Connecticut. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM, 2021. NFPA 1584, 2022 edition.*
+*Sources: Korey Stringer Institute, University of Connecticut. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM, 2021. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, 2025 edition (consolidating NFPA 1584, 2022 edition).*
