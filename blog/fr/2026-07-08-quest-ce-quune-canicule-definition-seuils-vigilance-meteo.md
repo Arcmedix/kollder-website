@@ -6,6 +6,37 @@ category: "Épidémiologie et santé publique"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Combien de jours consécutifs faut-il pour qu'un épisode soit qualifié de canicule ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Les seuils varient par département, mais la définition repose sur le maintien de températures élevées de jour et de nuit sur plusieurs jours consécutifs, et non sur un pic isolé."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Le risque de coup de chaleur d'effort existe-t-il en dessous du seuil de vigilance orange ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui. Un effort intense combiné à une chaleur ambiante modérée peut suffire à provoquer un coup de chaleur d'effort, indépendamment du niveau de vigilance météo officiel."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Qui doit se préparer avant le déclenchement de la vigilance canicule ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Les services d'urgence, les SDIS, les organisateurs d'événements sportifs et les services EHS des entreprises ont intérêt à anticiper l'équipement de refroidissement en amont, plutôt que d'attendre l'alerte officielle."
+        }
+      }
+    ]
+  }
 ---
 
 Le mot "canicule" est utilisé dans le langage courant dès que le thermomètre dépasse 30°C. En météorologie française, il répond pourtant à une définition précise, avec des seuils déclencheurs et un système de vigilance à quatre niveaux. Comprendre cette définition n'est pas qu'un exercice académique : elle conditionne le déclenchement de dispositifs réglementaires qui concernent directement les services d'urgence, les employeurs et les organisateurs d'événements.

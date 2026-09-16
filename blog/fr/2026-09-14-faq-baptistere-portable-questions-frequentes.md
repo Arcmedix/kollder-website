@@ -6,6 +6,53 @@ category: "Vie d'église"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Combien de temps faut-il pour remplir le baptistère ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Comptez 500 à 700 litres pour le bassin installé (205 x 80 x 60 cm), soit environ 15 à 30 minutes au tuyau d'arrosage selon le débit, ou l'équivalent en bidons si aucun point d'eau n'est disponible à proximité."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Faut-il chauffer l'eau, et comment ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Contrairement à une baignoire de refroidissement médicale, une eau autour de 30 degrés Celsius rend l'immersion confortable pour le candidat. Trois méthodes fonctionnent : mélanger eau chaude et eau froide au remplissage, utiliser un réchauffeur d'appoint retiré avant l'entrée dans l'eau, ou remplir la veille avec l'eau chaude du bâtiment et couvrir le bassin."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Combien de personnes le bassin peut-il accueillir ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Le bassin accueille jusqu'à deux adultes en même temps : le candidat allongé sur toute la longueur, et l'officiant à ses côtés dans l'eau."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Le baptistère a-t-il des marches ou une rampe pour entrer et sortir ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Le baptistère lui-même n'intègre pas de marche ni de rampe fixe. Prévoyez un marchepied stable et un revêtement antidérapant à proximité, avec toujours une main tendue pour accompagner l'entrée et la sortie."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Peut-on l'utiliser en intérieur et en extérieur ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui, sans transformation ni accessoire supplémentaire. Le même baptistère fonctionne dans une salle de culte, un chapiteau ou un jardin."
+        }
+      }
+    ]
+  }
 ---
 
 Avant de s'équiper ou de préparer une première cérémonie, les mêmes questions pratiques reviennent d'une église à l'autre. Voici des réponses courtes, avec un lien vers le guide complet pour chaque sujet.

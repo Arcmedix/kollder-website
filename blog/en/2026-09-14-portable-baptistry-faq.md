@@ -6,6 +6,53 @@ category: "Church Life"
 layout: layouts/article.njk
 lang: en
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How long does it take to fill the baptistry?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Plan for 130 to 185 gallons for the pool set up (205 x 80 x 60 cm / 81 x 31 x 24 in), which takes roughly 15 to 30 minutes on a garden hose depending on flow rate, or the equivalent in water containers where no hose access is nearby."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does the water need to be heated, and how?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Unlike a medical cooling tub, water around 86 degrees Fahrenheit (30 degrees Celsius) keeps the immersion comfortable for the candidate. Three methods work: mixing hot and cold water while filling, using a supplemental heater removed before anyone enters the water, or filling the night before with hot water and covering the pool."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many people can the pool hold?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The pool holds up to two adults at once: the candidate lying full length, and the officiant beside them in the water."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does the baptistry have steps or a handrail for getting in and out?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The baptistry itself does not include a built in step or handrail. Plan for a stable step stool and a non slip surface nearby, with a helper's hand always available to assist entry and exit."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can it be used indoors and outdoors?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, with no modification or extra accessory. The same baptistry works in a sanctuary, a tent, or a garden."
+        }
+      }
+    ]
+  }
 ---
 
 Before equipping a church or preparing a first service, the same practical questions come up again and again. Here are short answers, each with a link to the full guide on that topic.

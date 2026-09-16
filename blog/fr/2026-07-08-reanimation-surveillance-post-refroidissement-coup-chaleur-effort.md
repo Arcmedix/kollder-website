@@ -6,6 +6,37 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Combien de temps après un coup de chaleur d'effort les complications peuvent-elles apparaître ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Certaines complications, comme l'atteinte hépatique, peuvent apparaître de façon différée jusqu'à 72 heures après l'épisode initial, ce qui justifie une surveillance biologique prolongée."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quel est le principal facteur pronostique en réanimation après un CCE ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Le délai entre l'effondrement et le retour de la température centrale sous 40°C, qui détermine largement l'ampleur des complications multiviscérales observées ensuite."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "La rhabdomyolyse est-elle systématique après un CCE ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Elle est fréquente compte tenu de la combinaison effort intense et hyperthermie, ce qui justifie un dosage systématique des CPK à l'admission et un suivi répété."
+        }
+      }
+    ]
+  }
 ---
 
 La sortie d'immersion n'est pas la fin de la prise en charge d'un coup de chaleur d'effort (CCE), c'est le début d'une phase de surveillance où les complications peuvent apparaître avec un décalage de plusieurs heures. La rapidité du refroidissement initial détermine largement l'ampleur de ce qui suit en réanimation, ce qui explique pourquoi le délai préhospitalier reste l'indicateur pronostique le plus surveillé.

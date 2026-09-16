@@ -6,6 +6,37 @@ category: "Épidémiologie et santé publique"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Les sportifs entraînés sont-ils réellement à risque de coup de chaleur ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui, via le coup de chaleur d'effort, qui touche spécifiquement les sujets jeunes et entraînés lors d'un effort intense, contrairement au coup de chaleur classique."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Le port d'un équipement de protection augmente-t-il le risque de coup de chaleur d'effort ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui. En limitant l'évacuation thermique naturelle, un équipement de protection individuelle, comme celui porté par les sapeurs-pompiers, aggrave le risque à effort égal."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Le public d'un événement sportif est-il concerné par le même risque que les participants ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui, dans une moindre mesure liée à l'exposition prolongée à la chaleur ambiante plutôt qu'à l'effort, ce qui justifie la présence de dispositifs de secours dédiés lors des grands rassemblements."
+        }
+      }
+    ]
+  }
 ---
 
 Le risque thermique ne se répartit pas uniformément dans la population. Certains facteurs augmentent nettement la vulnérabilité individuelle, qu'il s'agisse de fragilité physiologique ou d'exposition professionnelle et sportive. Comprendre cette cartographie du risque permet à chaque service d'anticiper la population qu'il est le plus susceptible de rencontrer.

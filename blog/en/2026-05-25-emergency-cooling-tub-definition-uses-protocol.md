@@ -6,9 +6,48 @@ category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why a tub and not something else?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Alternative methods like wet towels, misting fans, and ice packs cool at only about 0.03°C per minute, while a dedicated cooling tub achieves cold water immersion at 0.35°C per minute, more than 10 times faster, which directly improves outcomes in the critical first 30 minutes of exertional heat stroke."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is an emergency cooling tub?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An emergency cooling tub is engineered for immediate deployment in under 2 minutes by one person, full portability so it fits folded into any emergency vehicle, and full-body immersion of the patient to the shoulders, three constraints that standard bathtubs cannot meet."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who uses an emergency cooling tub?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The primary users are fire and rescue services during wildland fire operations, military medicine for exertional heat stroke during training, event medical teams at marathons and endurance races, and EHS teams in industries with sustained thermal stress such as construction and foundries."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What water to use in an emergency cooling tub?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "International guidelines recommend water between 1.5°C and 15°C, ideally with added ice, maintained until the patient's rectal temperature returns below 38.6°C under continuous monitoring."
+        }
+      }
+    ]
+  }
 ---
 
-An emergency cooling tub is a portable solution designed to allow full-body cold water immersion of a patient suffering from severe hyperthermia, immediately at the scene — before any medical transport.
+An emergency cooling tub is a portable solution designed to allow full-body cold water immersion of a patient suffering from severe hyperthermia, immediately at the scene, before any medical transport.
 
 It is the gold standard equipment recommended by the American College of Sports Medicine (ACSM), the International Olympic Committee (IOC), and leading prehospital medicine organisations worldwide for the treatment of exertional heat stroke (EHS).
 
@@ -16,7 +55,7 @@ It is the gold standard equipment recommended by the American College of Sports 
 
 Exertional heat stroke is a life-threatening emergency. When core body temperature exceeds 40°C with neurological signs, every minute without effective cooling worsens organ damage and increases the risk of death or permanent disability.
 
-The problem with alternative methods — wet towels, misting fans, ice packs — is their insufficient cooling rate: approximately **0.03°C per minute**. Cold water immersion achieves **0.35°C per minute**, more than 10 times faster.
+The problem with alternative methods (wet towels, misting fans, ice packs) is their insufficient cooling rate: approximately **0.03°C per minute**. Cold water immersion achieves **0.35°C per minute**, more than 10 times faster.
 
 Dr Douglas Casa, CEO of the Korey Stringer Institute (University of Connecticut), has documented a **100% survival rate across 401 documented cases** of severe exertional heat stroke treated with immediate immersion, when core temperature was returned below 40°C within the first 30 minutes.
 
@@ -24,38 +63,38 @@ Dr Douglas Casa, CEO of the Korey Stringer Institute (University of Connecticut)
 
 An emergency cooling tub is engineered around three operational constraints that standard bathtubs cannot meet:
 
-**Immediate deployment** — The tub must be operational in under 2 minutes, by one person, with no tools. Rigid tubs require dedicated transport and infrastructure.
+**Immediate deployment**: the tub must be operational in under 2 minutes, by one person, with no tools. Rigid tubs require dedicated transport and infrastructure.
 
-**Full portability** — It must fit folded into a light vehicle, a trail motorcycle, a forward medical post, or a fire truck, without excess bulk.
+**Full portability**: it must fit folded into a light vehicle, a trail motorcycle, a forward medical post, or a fire truck, without excess bulk.
 
-**Full-body immersion** — The patient must be immersed to the shoulders — scalp included per some protocols — with only the airway kept above water.
+**Full-body immersion**: the patient must be immersed to the shoulders (scalp included per some protocols), with only the airway kept above water.
 
 ## Who uses an emergency cooling tub?
 
 The primary users are:
 
-**Fire and rescue services** — Firefighters are exposed to exertional heat stroke during summer wildland fire operations, particularly in thermal protection gear. Multiple fire departments now include prehospital immersion protocols in their standard operating procedures.
+**Fire and rescue services**: firefighters are exposed to exertional heat stroke during summer wildland fire operations, particularly in thermal protection gear. Multiple fire departments now include prehospital immersion protocols in their standard operating procedures.
 
-**Military medicine** — The French Military Health Service has tracked exertional heat stroke cases since 1989. Intensive training in hot environments makes EHS a recurring occupational hazard. The US Army reported 31.7 heat stroke cases per 100,000 person-years in 2023.
+**Military medicine**: the French Military Health Service has tracked exertional heat stroke cases since 1989. Intensive training in hot environments makes EHS a recurring occupational hazard. The US Army reported 31.7 heat stroke cases per 100,000 person-years in 2023.
 
-**Event medical teams** — Marathons, trail races, triathlons, Hyrox: summer endurance events massively expose runners to hyperthermia. The IOC consensus (Hosokawa, Racinais et al., BJSM 2021) requires event organisers to ensure cooling tubs are available at every competition.
+**Event medical teams**: marathons, trail races, triathlons, Hyrox: summer endurance events massively expose runners to hyperthermia. The IOC consensus (Hosokawa, Racinais et al., BJSM 2021) requires event organisers to ensure cooling tubs are available at every competition.
 
-**EHS teams in industry** — Workers exposed to sustained thermal stress (construction, oil and gas, foundries) face regulatory requirements around heat stroke prevention and prehospital response capability.
+**EHS teams in industry**: workers exposed to sustained thermal stress (construction, oil and gas, foundries) face regulatory requirements around heat stroke prevention and prehospital response capability.
 
 ## What water to use in an emergency cooling tub?
 
-International guidelines recommend water between **1.5°C and 15°C**, ideally with added ice. Cold tap water (approximately 15–18°C in summer) is sufficient if ice is available to maintain temperature.
+International guidelines recommend water between **1.5°C and 15°C**, ideally with added ice. Cold tap water (approximately 15-18°C in summer) is sufficient if ice is available to maintain temperature.
 
 Recommended immersion duration is **until rectal temperature returns below 38.6°C**, under continuous monitoring.
 
 ## The field protocol
 
-1. **Recognition** — Neurological signs + temperature ≥ 40°C during or after exertion = suspected EHS
-2. **Immediate deployment** — Unpack the tub, deploy, fill with cold water
-3. **Immersion** — Place the patient in the tub, maintain the airway
-4. **Monitoring** — Rectal temperature every 5 minutes
-5. **Stop cooling** — At 38.6°C rectal temperature
-6. **Transport** — Call EMS and transfer to emergency department
+1. **Recognition**: neurological signs plus temperature 40°C or above during or after exertion, suspected EHS
+2. **Immediate deployment**: unpack the tub, deploy, fill with cold water
+3. **Immersion**: place the patient in the tub, maintain the airway
+4. **Monitoring**: rectal temperature every 5 minutes
+5. **Stop cooling**: at 38.6°C rectal temperature
+6. **Transport**: call EMS and transfer to emergency department
 
 The fundamental rule: **Cool first, transport second.** Never transport before cooling.
 

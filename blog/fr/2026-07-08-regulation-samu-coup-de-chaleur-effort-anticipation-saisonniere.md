@@ -6,6 +6,37 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Un CCE peut-il être confondu avec un coup de chaleur classique au décroché ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui, fréquemment. Le critère discriminant principal reste le contexte d'effort associé à une altération de la conscience, plutôt que la seule notion de chaleur ambiante."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Faut-il toujours envoyer un SMUR pour un CCE suspecté ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Le SMUR est nécessaire pour la supervision médicale et la gestion des complications, mais le refroidissement par immersion peut et doit être initié avant son arrivée par les premiers intervenants formés."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Comment anticiper les pics d'appels liés au CCE ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "En croisant le calendrier des événements sportifs d'endurance, les vigilances météorologiques canicule, et le positionnement préalable de moyens de refroidissement sur les zones et créneaux identifiés comme à risque."
+        }
+      }
+    ]
+  }
 ---
 
 Un appel pour "malaise sur épreuve sportive" ou "personne inconsciente en extérieur" ne dit rien, en soi, du degré d'urgence. Or pour le coup de chaleur d'effort (CCE), chaque minute de régulation retardée est une minute de moins dans la fenêtre thérapeutique de 30 minutes. La qualité de la priorisation au centre 15 conditionne directement le pronostic, avant même l'arrivée d'une équipe sur place.
