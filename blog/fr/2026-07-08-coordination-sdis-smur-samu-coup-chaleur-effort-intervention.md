@@ -6,6 +6,37 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Le SMUR doit-il attendre d'être sur place pour que le refroidissement commence ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Non. Le refroidissement par immersion doit être initié par les premiers intervenants dès que possible, sans attendre l'arrivée d'une équipe médicale."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Que doit faire le SMUR en arrivant si l'immersion est déjà en cours ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Prendre le relais de la surveillance et poser les abords veineux pendant l'immersion, sans jamais l'interrompre pour respecter un ordre de soin habituel."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Pourquoi un matériel commun entre SDIS et SMUR facilite-t-il la coordination ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Parce qu'il évite toute réinstallation ou changement de méthode au moment de la passation de relais, ce qui préserve les minutes critiques de la fenêtre thérapeutique."
+        }
+      }
+    ]
+  }
 ---
 
 Une intervention pour coup de chaleur d'effort (CCE) mobilise fréquemment plusieurs acteurs en parallèle : sapeurs-pompiers, équipe SMUR, régulation SAMU. Le risque n'est pas le manque de compétence individuelle de chacun, mais la perte de temps aux points de jonction entre ces acteurs, précisément là où la fenêtre thérapeutique de 30 minutes se joue.

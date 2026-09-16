@@ -6,6 +6,37 @@ category: "Épidémiologie et santé publique"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Le réchauffement climatique augmente-t-il surtout l'intensité ou la fréquence des canicules ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Les deux évoluent, mais la fréquence et la durée des épisodes constituent le changement le plus marqué pour la planification opérationnelle des services d'urgence."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "La saison à risque de coup de chaleur s'étend-elle vraiment au-delà de juillet-août ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui. Les premiers épisodes significatifs apparaissent désormais plus tôt dans l'année et les derniers plus tard en septembre, élargissant la période à couvrir."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Cette tendance concerne-t-elle uniquement les grandes métropoles ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Non. L'ensemble du territoire est concerné, avec des seuils de vigilance définis département par département par Météo-France."
+        }
+      }
+    ]
+  }
 ---
 
 Les épisodes de canicule ne sont plus des événements exceptionnels espacés de plusieurs années : ils sont devenus une composante attendue de chaque été français. Cette évolution n'est pas une impression subjective, elle correspond à une tendance de fond documentée et largement anticipée par les organismes météorologiques et climatiques.

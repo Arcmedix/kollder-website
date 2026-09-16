@@ -6,6 +6,37 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Peut-on vraiment embarquer un dispositif d'immersion en eau froide dans une ambulance SMUR standard ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui, à condition que le dispositif soit conçu pour un transport compact et un déploiement par un seul opérateur. Les bacs pliants légers avec sac de transport dédié répondent à cette contrainte, contrairement aux structures volumineuses."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Le refroidissement embarqué remplace-t-il le refroidissement initié sur les lieux ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Non, il vient en complément lorsqu'aucun moyen n'est disponible sur place ou lorsque le contexte impose de refroidir pendant le trajet plutôt que d'attendre."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Combien de temps faut-il pour déployer un équipement de refroidissement embarqué sur intervention ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Un équipement bien conçu se déploie en moins de 2 minutes par un seul opérateur, sans outillage additionnel."
+        }
+      }
+    ]
+  }
 ---
 
 Une ambulance SMUR est un espace contraint : chaque équipement embarqué se justifie par un rapport bénéfice clinique / encombrement favorable. Pour le coup de chaleur d'effort (CCE), le dilemme est direct : le traitement de référence, l'immersion en eau froide, est habituellement associé à une infrastructure fixe et volumineuse, à l'opposé des contraintes d'un véhicule d'intervention.

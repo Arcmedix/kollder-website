@@ -6,6 +6,37 @@ category: "Épidémiologie et santé publique"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Le coup de chaleur d'effort peut-il survenir sans forte chaleur extérieure ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui. L'intensité de l'effort produit une chaleur interne suffisante pour provoquer un CCE même par température ambiante modérée, en particulier avec une hygrométrie élevée."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Un jeune sportif entraîné est-il à l'abri du coup de chaleur d'effort ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Non, c'est au contraire le profil type de victime du CCE, contrairement au coup de chaleur classique qui touche davantage les personnes âgées ou fragiles."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "La prise en charge est-elle la même pour les deux formes de coup de chaleur ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Non. Le CCE impose un refroidissement actif immédiat par immersion, avec une fenêtre thérapeutique de 30 minutes, plus stricte que celle généralement associée au coup de chaleur classique."
+        }
+      }
+    ]
+  }
 ---
 
 "Coup de chaleur" recouvre en réalité deux pathologies distinctes, avec des victimes, des mécanismes et des délais d'installation différents. Confondre les deux retarde la reconnaissance clinique et peut coûter des minutes critiques, en particulier pour la forme la plus brutale : le coup de chaleur d'effort.

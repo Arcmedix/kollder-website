@@ -6,6 +6,37 @@ category: "Épidémiologie et santé publique"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "La mortalité liée à la canicule a-t-elle baissé depuis 2003 ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Elle reste élevée lors des épisodes récents malgré la création du plan canicule, ce qui montre les limites de la seule prévention informative face à ce risque."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Qu'est-ce qui a le plus changé dans la doctrine de prise en charge depuis 2003 ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "L'adoption progressive du protocole Cool First, Transport Second pour le coup de chaleur d'effort, en rupture avec une doctrine plus ancienne privilégiant le transport avant le refroidissement."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Le cadre réglementaire pour les employeurs a-t-il évolué récemment ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui, le Décret 2025-482 a renforcé les obligations des employeurs en matière de protection contre la chaleur, un cadre plus strict que celui en vigueur lors des précédentes décennies."
+        }
+      }
+    ]
+  }
 ---
 
 Trois étés séparent des décennies d'évolution institutionnelle : 2003, point de rupture qui a créé le plan canicule national ; 2022, marqué par des épisodes multiples et une saison des feux de forêt exceptionnelle ; 2025, où le bilan sanitaire reste comparable aux étés les plus sévères malgré deux décennies de dispositif de prévention. Cette trajectoire dit quelque chose d'important sur ce qui fonctionne, et sur ce qui ne suffit toujours pas.

@@ -6,6 +6,37 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Pourquoi le coup de chaleur d'effort reste-t-il difficile à reconnaître pour des soignants expérimentés ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Parce qu'il touche des sujets jeunes et entraînés, sans le tableau classique de peau sèche attendu à tort, et reste rare dans la pratique quotidienne malgré une littérature clinique bien établie."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quel est l'élément le plus important à intégrer dans une formation CCE ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "La manipulation pratique et chronométrée de l'équipement de refroidissement, plus que la seule transmission théorique du protocole."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "À quelle fréquence renouveler une formation CCE pour une équipe SMUR ou un service d'urgence ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Un rythme annuel avec exercice de déploiement chronométré est généralement recommandé pour maintenir le réflexe, en particulier avant la saison estivale."
+        }
+      }
+    ]
+  }
 ---
 
 Le coup de chaleur d'effort (CCE) est une pathologie rare dans la pratique quotidienne d'un service d'urgence ou d'une équipe SMUR, ce qui en fait paradoxalement l'une des plus mal reconnues. Un soignant peut exercer plusieurs années sans y être confronté directement, puis se retrouver face à un cas où chaque minute de retard diagnostique compte.

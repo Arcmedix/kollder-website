@@ -6,6 +6,37 @@ category: "Épidémiologie et santé publique"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "La mortalité liée à la chaleur a-t-elle baissé depuis la canicule de 2003 ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Elle reste élevée malgré la mise en place du plan canicule national. Les données de Santé Publique France montrent une mortalité comparable aux étés sévères lors de récents épisodes, malgré deux décennies de dispositif de prévention."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quelle tranche d'âge est la plus représentée dans les passages aux urgences liés à la chaleur ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Si les personnes âgées restent surreprésentées dans la mortalité globale, une part significative des passages aux urgences concerne les 15-44 ans, notamment via le coup de chaleur d'effort."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Pourquoi la prévention seule ne suffit-elle pas à faire baisser la mortalité ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Parce que le facteur le plus corrélé au pronostic favorable est la rapidité de la prise en charge une fois l'épisode déclenché, plus que la prévention informative en amont."
+        }
+      }
+    ]
+  }
 ---
 
 Un seul été suffit rarement à mesurer une tendance. C'est en mettant les bilans sanitaires bout à bout, année après année, que la trajectoire de la mortalité liée à la chaleur en France devient lisible, et qu'elle cesse d'apparaître comme une succession d'événements isolés.

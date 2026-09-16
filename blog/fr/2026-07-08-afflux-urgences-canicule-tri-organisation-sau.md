@@ -6,6 +6,37 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+faqSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Comment distinguer un CCE d'une simple déshydratation à l'accueil des urgences ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Le contexte d'effort ou d'exposition intense associé à une altération de la conscience oriente vers le CCE. Un patient conscient et cohérent relève rarement d'un CCE avéré."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Un patient suspect de CCE doit-il attendre en salle d'attente ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Non. La fenêtre thérapeutique de 30 minutes impose un accès immédiat à un moyen de refroidissement actif dès la suspicion établie, indépendamment de la charge du service."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Comment éviter la saturation du poste de refroidissement en cas d'affluence ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "En disposant de moyens de refroidissement mobiles et déployables rapidement à plusieurs points du circuit, plutôt que de dépendre d'une installation fixe unique."
+        }
+      }
+    ]
+  }
 ---
 
 Une vague de chaleur ne se traduit pas seulement par une hausse du nombre de passages aux urgences, elle change la nature du flux. Déshydratations, décompensations de pathologies chroniques, malaises, et coups de chaleur d'effort (CCE) arrivent en parallèle, avec des degrés d'urgence très différents mais des présentations initiales parfois proches. Le tri devient l'étape critique.
