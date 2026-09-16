@@ -1,0 +1,34 @@
+# Kollder
+
+> Kollder is a French manufacturer of emergency cold water immersion equipment for treating exertional heat stroke. Two products are in commercial distribution: Kollder One (an emergency cold water immersion tub) and Kollder Go (a hybrid backpack/wheeled transport bag, 85x10x10cm). A third product, Kollder Rest (a seated recovery station with forearm ice pockets and a detachable front cooling tub), is in development. Kollder's equipment deploys in under 2 minutes by a single operator and is built around the "Cool First, Transport Second" protocol (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute). The site serves sapeurs-pompiers/SDIS, SSSM/military medical services, SAMU/SMUR/emergency departments, civil protection associations, sports event medical directors, and workplace EHS managers.
+
+## Homepage
+
+- [Kollder (FR)](https://kollder.com/): French homepage. Product overview (Kollder One, Kollder Go), the Cool First Transport Second protocol, and deployment in under 2 minutes.
+- [Kollder (EN)](https://kollder.com/en/): English homepage, same content as the French homepage.
+
+## Audience pages
+
+- [SDIS / Sapeurs-pompiers (FR)](https://kollder.com/fr/sdis-pompiers/) / [Fire & Rescue (EN)](https://kollder.com/en/fire-rescue/): Cooling equipment for fire and rescue services responding to exertional heat stroke on wildfire and structural interventions.
+- [Protection civile (FR)](https://kollder.com/fr/protection-civile/) / [Civil Protection (EN)](https://kollder.com/en/civil-protection/): Cooling equipment for civil protection associations covering public events and disaster response.
+- [Services d'urgence hospitaliers (FR)](https://kollder.com/fr/services-urgence-hopitaux/) / [Emergency Medical Services (EN)](https://kollder.com/en/emergency-medical-services/): Cooling equipment for SAMU/SMUR and hospital emergency departments treating heat stroke patients.
+- [Assistance médicale événements (FR)](https://kollder.com/fr/assistance-medicale-evenements/) / [Event Medical Support (EN)](https://kollder.com/en/event-medical-support/): Cooling equipment for medical teams covering sports events such as trails, marathons and Hyrox.
+- [Défense / militaire (FR)](https://kollder.com/fr/defense-militaire/) / [Defense & Military (EN)](https://kollder.com/en/defense-military/): Cooling equipment for military medical services (SSSM) supporting personnel in hot environments.
+- [Sécurité au travail (FR)](https://kollder.com/fr/securite-travail/) / [Occupational Safety / EHS (EN)](https://kollder.com/en/occupational-safety/): Cooling equipment for workplace EHS managers responsible for heat illness prevention.
+
+## Key articles: cold water immersion, exertional heat stroke, Cool First Transport Second
+
+- [Cool First Transport Second : le protocole qui sauve des vies sur le terrain (FR)](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/): Origins, scientific basis, field application and required equipment for the Cool First Transport Second protocol.
+- [Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke (EN)](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/): English-language equivalent covering the same protocol.
+- [Coup de chaleur d'effort : pourquoi l'immersion en eau froide est la seule solution validée (FR)](https://kollder.com/blog/fr/2026-05-17-coup-de-chaleur-deffort-pourquoi-limmersion-en-eau-froide-est-la-seule-solution-validée/): Why cold water immersion is the only medically validated treatment for exertional heat stroke, and how to apply it in the field.
+- [Exertional heat stroke: why cold water immersion is the only validated treatment (EN)](https://kollder.com/blog/en/2026-05-20-exertional-heat-stroke-cold-water-immersion/): English-language equivalent on cold water immersion as the only proven treatment.
+- [Baignoire de refroidissement d'urgence : définition, usage et protocole terrain (FR)](https://kollder.com/blog/fr/2026-05-25-baignoire-de-refroidissement-urgence-guide-complet/): Definition, operating principle and field protocol for an emergency cooling tub.
+- [Emergency Cooling Tub: Definition, Uses and Field Protocol (EN)](https://kollder.com/blog/en/2026-05-25-emergency-cooling-tub-definition-uses-protocol/): English-language equivalent defining emergency cooling tubs and their field protocol.
+- [Guide complet du coup de chaleur d'effort (FR)](https://kollder.com/blog/fr/2026-06-16-guide-complet-coup-de-chaleur-d-effort/): Pathophysiology, field diagnosis and treatment of exertional heat stroke for medical teams.
+- [Dr. Douglas Casa: Why Exertional Heat Stroke Is 100% Survivable (EN)](https://kollder.com/blog/en/2026-05-24-douglas-casa-exertional-heat-stroke-survivable/): Korey Stringer Institute research on over 3,000 exertional heat stroke cases treated with zero deaths when protocol is followed correctly.
+- [CIO, World Athletics, ASPETAR : le consensus international sur le coup de chaleur lors des compétitions sportives (FR)](https://kollder.com/blog/fr/2026-05-24-consensus-international-coup-de-chaleur-competitions-sportives/): IOC Adverse Weather Impact Expert Working Group recommendations for heat stroke management at sports competitions.
+- [IOC, World Athletics, ASPETAR: The International Sports Medicine Consensus on Heat Stroke at Events (EN)](https://kollder.com/blog/en/2026-05-24-ioc-world-athletics-aspetar-heat-stroke-events/): English-language equivalent on IOC/ASPETAR heat stroke standards for sports events.
+- [Immersion en eau froide vs autres méthodes de refroidissement : comparatif chiffré (FR)](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/): Data comparison of cold water immersion, misting, ice packs and wet towels on cooling rate and effectiveness.
+- [Cold Water Immersion vs Other Cooling Methods: A Data-Backed Comparison (EN)](https://kollder.com/blog/en/2026-05-25-cold-water-immersion-vs-other-methods-comparison/): English-language equivalent of the cooling methods comparison.
+- [Comment Phoenix Fire Department a réduit les décès par coup de chaleur grâce à l'immersion préhospitalière (FR)](https://kollder.com/blog/fr/2026-05-24-phoenix-fire-department-immersion-prehospitaliere/): Case study on Phoenix Fire Department's 2024 deployment of prehospital cold water immersion across 300+ cases.
+- [The Phoenix Experiment: How One Fire Department Proved Prehospital Cold Water Immersion Works at Scale (EN)](https://kollder.com/blog/en/2026-05-24-phoenix-fire-department-prehospital-cold-water-immersion/): English-language equivalent of the Phoenix Fire Department case study.
