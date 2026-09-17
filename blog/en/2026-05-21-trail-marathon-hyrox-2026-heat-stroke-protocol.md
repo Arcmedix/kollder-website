@@ -6,6 +6,39 @@ category: "Sports Events"
 layout: layouts/article.njk
 lang: en
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "The protocol: cool first, transport second",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Rapid extraction",
+        "text": "Remove the athlete from the course or finish chute. Position in shade if available. Remove race kit, shoes, and as much clothing as possible to maximize skin surface exposure."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Temperature measurement",
+        "text": "Rectal temperature is the only reliable measurement method. Ear, forehead, and oral thermometers significantly underestimate core temperature in EHS and should not be used to guide clinical decisions."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Cold water immersion",
+        "text": "Immerse the athlete's body in the coldest water available. Target water temperature between 35 and 60 degrees Fahrenheit. Add ice aggressively. Cold water immersion is the only method fast enough to reliably achieve target temperature within the treatment window."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Monitor and maintain",
+        "text": "Check rectal temperature every 5 minutes. Maintain immersion until core temperature reaches 102 degrees Fahrenheit. Do not stop earlier — premature removal of cooling is associated with rebound hyperthermia."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "EMS and transport",
+        "text": "Activate EMS simultaneously with the initiation of cooling. Transport to a hospital following all cases, even those with rapid clinical recovery. Rhabdomyolysis, acute kidney injury, and coagulopathy can develop hours after apparent recovery."
+      }
+    ]
+  }
 ---
 
 **From May through October, millions of athletes compete in marathons, trail races, triathlons, and obstacle competitions across the United States. For the medical teams covering these events, exertional heat stroke is not a theoretical risk. It is the primary life-threatening emergency they will face, and the one they are most likely to be under-equipped to treat.**

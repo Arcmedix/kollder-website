@@ -6,6 +6,49 @@ category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "The field treatment sequence",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Extract to a protected position",
+        "text": "Move the casualty out of direct sun and away from radiant heat sources."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Remove kit",
+        "text": "Helmet, body armor, and uniform — remove everything that can be removed. Maximize exposed skin surface."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Measure rectal temperature",
+        "text": "Do not delay cooling if a thermometer is unavailable, but measure as soon as possible to guide treatment endpoints."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Immerse in cold water",
+        "text": "Full-body cold water immersion is the gold standard. Use the coldest water available — from vehicle water supplies, local sources, or ice stocks."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Monitor",
+        "text": "Rectal temperature every 5 minutes. Continue cooling until core temperature reaches 102 degrees Fahrenheit. Do not stop earlier."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Initiate MEDEVAC",
+        "text": "Call in simultaneously with cooling, not after. If MEDEVAC is delayed, continue cooling at the point of injury."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Transmit a thorough handoff",
+        "text": "Include time of symptom onset, cooling start time, temperature trend, and any other treatments administered."
+      }
+    ]
+  }
 ---
 
 **Exertional heat stroke is one of the most preventable causes of death in military training and operational environments. The treatment protocol is well established, the science is unambiguous, and yet units continue to lose personnel to a condition that is survivable with the right equipment and the right decision-making. This article is for the medical personnel responsible for making those decisions.**

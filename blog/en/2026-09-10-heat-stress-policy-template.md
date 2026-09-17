@@ -6,6 +6,34 @@ category: "EHS & Industry"
 layout: layouts/article.njk
 lang: en
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Emergency response (Section 8 of the heat stress policy)",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Call emergency services immediately",
+        "text": "State a suspected heat stroke."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Begin whole-body cooling on site, before transport",
+        "text": "The evidence-based standard is Cool First, Transport Second: cold water immersion is the fastest method and should be started within minutes. Where full immersion is not available, use continuous cold water dousing with fanning, ice packs to the neck, armpits, and groin, and ice sheets."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Continue cooling until core temperature reaches 38.9°C (102°F)",
+        "text": "or emergency services take over. Do not stop cooling for transport if cooling is still underway and EMS agrees."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Hand over",
+        "text": "the time symptoms began, the cooling started, and the method used."
+      }
+    ]
+  }
 ---
 
 Most organisations do not need another explainer on why heat is dangerous. They need the actual document: a written heat stress policy their leadership can approve, their supervisors can follow, and an inspector can review. This guide gives you that document. It walks through the nine sections every heat stress policy must contain, provides copy-and-adapt language for each one, and shows you where the template usually falls short: the emergency response clause.

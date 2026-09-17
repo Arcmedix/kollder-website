@@ -45,6 +45,44 @@ faqSchema: |
       }
     ]
   }
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "The field protocol",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Recognition",
+        "text": "neurological signs plus temperature 40°C or above during or after exertion, suspected EHS"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Immediate deployment",
+        "text": "unpack the tub, deploy, fill with cold water"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Immersion",
+        "text": "place the patient in the tub, maintain the airway"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Monitoring",
+        "text": "rectal temperature every 5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Stop cooling",
+        "text": "at 38.6°C rectal temperature"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Transport",
+        "text": "call EMS and transfer to emergency department"
+      }
+    ]
+  }
 ---
 
 An emergency cooling tub is a portable solution designed to allow full-body cold water immersion of a patient suffering from severe hyperthermia, immediately at the scene, before any medical transport.

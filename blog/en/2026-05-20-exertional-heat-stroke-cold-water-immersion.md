@@ -6,6 +6,44 @@ category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Field protocol summary",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Identify",
+        "text": "collapse during or after exertion: presumptive EHS"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Measure",
+        "text": "rectal temperature (insert 15 cm, hold 15 seconds)"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Immerse immediately",
+        "text": "full body, water as cold as available"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Monitor",
+        "text": "rectal temperature every 5 minutes, maintain until below 102 F"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Activate EMS",
+        "text": "simultaneously with immersion, not after"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Transport",
+        "text": "to a hospital even if rapid recovery occurs"
+      }
+    ]
+  }
 ---
 
 **Every summer, athletes, soldiers, firefighters, and outdoor workers die from exertional heat stroke. Not because the treatment is unknown. Because the right equipment is not there when it is needed. This article covers what every field medical team needs to know — and have — before the season starts.**

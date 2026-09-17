@@ -6,6 +6,39 @@ category: "EHS & Industry"
 layout: layouts/article.njk
 lang: en
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "The 5-step emergency protocol for suspected heat stroke",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Call EMS immediately",
+        "text": "Communicate the location precisely: on remote or large industrial sites, GPS coordinates, not just an address."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Move the worker to shade",
+        "text": "Do not transport to hospital before cooling has been initiated."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Begin cooling immediately",
+        "text": "Cold water immersion is the gold standard, with a documented cooling rate of 0.35°C per minute, ten times faster than ice packs or wet towels. If immersion is available, use it."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Continue cooling",
+        "text": "Continue cooling until core temperature reaches 39°C or EMS arrives and takes over. Do not remove from cooling to transport."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Monitor airway and consciousness",
+        "text": "Position lateral if unconscious."
+      }
+    ]
+  }
 ---
 
 Most workplace heat illness programmes fail at the same point: they stop at prevention and have no credible emergency response. They cover water access, shade, and rest breaks. They do not answer the question that matters when a worker goes down: what do we do in the next 10 minutes? This guide builds a heat illness prevention plan that covers both layers, prevention and emergency response, in a format you can adapt to your site, industry, and workforce.

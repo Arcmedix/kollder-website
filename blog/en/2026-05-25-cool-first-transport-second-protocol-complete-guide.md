@@ -6,6 +6,34 @@ category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Practical protocol application",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Recognition (0-2 minutes)",
+        "text": "Any collapse during or immediately following intense physical exertion with core temperature ≥ 40°C (tympanic or rectal) and neurological signs (confusion, agitation, loss of consciousness, seizures): suspected exertional heat stroke, Cool First protocol activated immediately."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Cooling (2-20 minutes)",
+        "text": "Deploy the immersion tub, fill with cold water and ice, immerse the patient fully (shoulders and scalp), keep airway above water. Continuous monitoring of rectal temperature every 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Call EMS (in parallel)",
+        "text": "The call to emergency services is made in parallel with cooling, not before it. The dispatch message states: \"Exertional heat stroke currently being treated by cold water immersion, requesting transport to emergency department once temperature returns below 38.6°C.\""
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Stop cooling and transport",
+        "text": "Remove the patient from the tub at 38.6°C rectal temperature. Do not wait for 37°C, risk of hypothermia by thermal inertia. Transfer to emergency department for blood work (CPK, renal function, coagulation) and monitoring for secondary complications."
+      }
+    ]
+  }
 ---
 
 "Cool First, Transport Second" is the cardinal rule of prehospital medicine for exertional heat stroke. It means one simple, vital thing: **cool the patient immediately on scene, before transporting them to hospital**.
