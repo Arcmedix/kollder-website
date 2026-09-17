@@ -6,6 +6,44 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Le protocole de l'antenne medicale specialisee (AMS) du Service de Sante des Armees",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Extraction vers la zone de traitement",
+        "text": "mettre le blesse hors d'atteinte du contact et de l'environnement chaud"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Retrait de l'equipement",
+        "text": "EIC, gilet, casque, enlever tout ce qui couvre la peau"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Mesure de la temperature rectale",
+        "text": "Mesure de la temperature rectale."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Immersion immediate",
+        "text": "eau aussi froide que disponible, corps entier"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Surveillance",
+        "text": "temperature toutes les 5 minutes, arret a 38,5 degres"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Evacuation sanitaire (MEDEVAC)",
+        "text": "initiee en parallele du refroidissement, pas a la place"
+      }
+    ]
+  }
 ---
 
 En medecine tactique, l'hyperthermie d'effort est une menace aussi serieuse que les blessures balistiques dans les theatres d'operation en ambiance chaude. Pourtant, elle reste sous-equipee sur le terrain. Voici ce que les medecins et infirmiers de l'avant doivent savoir pour gerer le coup de chaleur d'effort en conditions operationnelles.

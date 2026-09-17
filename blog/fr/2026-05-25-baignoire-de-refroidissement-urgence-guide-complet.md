@@ -45,6 +45,44 @@ faqSchema: |
       }
     ]
   }
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Le protocole d'utilisation",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Reconnaissance",
+        "text": "troubles neurologiques + température ≥ 40°C lors ou au décours d'un effort = suspicion EHS"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Déploiement immédiat",
+        "text": "sortir la baignoire, déployer, remplir d'eau froide"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Immersion",
+        "text": "placer la victime dans la baignoire, maintenir les voies aériennes"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Surveillance",
+        "text": "mesure de la température rectale toutes les 5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Arrêt du refroidissement",
+        "text": "à 38,6°C de température rectale"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Transport",
+        "text": "appel SAMU/15 et transport vers un service d'urgence"
+      }
+    ]
+  }
 ---
 
 Une baignoire de refroidissement d'urgence est un dispositif portable permettant l'immersion corps entier d'un patient en hyperthermie sévère dans de l'eau froide, immédiatement sur le lieu de l'incident, avant tout transport médicalisé.

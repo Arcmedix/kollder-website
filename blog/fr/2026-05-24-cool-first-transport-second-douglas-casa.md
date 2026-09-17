@@ -6,6 +6,29 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Le principe cool first, transport second",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Initier le refroidissement immédiatement",
+        "text": "avant l'arrivée du SMUR, avant l'évacuation"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Appeler le 15 en parallèle",
+        "text": "pas à la place du refroidissement"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Transporter vers l'hôpital",
+        "text": "une fois le refroidissement en cours"
+      }
+    ]
+  }
 ---
 
 "Le coup de chaleur d'effort est 100% survivable si la température du patient passe sous 40°C dans les 30 minutes suivant la présentation." Cette déclaration du Dr Douglas Casa, professeur de kinésiologie à l'Université du Connecticut et directeur du [Korey Stringer Institute](https://ksi.uconn.edu), s'appuie sur plus de 3 000 cas documentés. Elle repose sur un principe simple que trop d'équipes de terrain n'appliquent pas encore : refroidir d'abord, transporter ensuite.

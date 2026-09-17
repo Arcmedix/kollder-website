@@ -6,6 +6,34 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Application pratique du protocole",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Reconnaissance (0-2 minutes)",
+        "text": "Tout effondrement lors ou au décours immédiat d'un effort physique intense avec température centrale ≥ 40°C (tympanique ou rectale) et troubles neurologiques (confusion, agitation, perte de conscience, convulsions) : suspicion de coup de chaleur d'effort, protocole Cool First activé immédiatement."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Refroidissement (2-20 minutes)",
+        "text": "Déploiement de la baignoire d'immersion, remplissage eau froide et glace, immersion corps entier (épaules et cuir chevelu), maintien des voies aériennes hors de l'eau. Surveillance continue de la température rectale toutes les 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Appel des secours (en parallèle)",
+        "text": "L'appel au SAMU/15 se fait en parallèle du refroidissement, pas avant. Le message de régulation précise : \"Coup de chaleur d'effort en cours de refroidissement par immersion, demande de transport vers urgences après retour température sous 38,6°C.\""
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Arrêt du refroidissement et transport",
+        "text": "Sortir la victime de la baignoire à 38,6°C de température rectale. Ne pas attendre 37°C, risque d'hypothermie par inertie thermique. Transport vers les urgences pour bilan biologique (CPK, fonction rénale, coagulation) et surveillance des complications secondaires."
+      }
+    ]
+  }
 ---
 
 "Cool First, Transport Second" est la règle d'or de la médecine préhospitalière pour le coup de chaleur d'effort. Elle signifie une chose simple et vitale : **refroidir la victime immédiatement sur place, avant de l'acheminer vers un hôpital**.
