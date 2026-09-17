@@ -10,6 +10,8 @@ published: true
 
 Every field cooling method claims to bring a patient's temperature down. Only one has the physics to do it fast enough to matter for exertional heat stroke. Understanding why comes down to three properties of water that no fan, towel, or misting system can replicate.
 
+**Short answer:** whole-body cold water immersion cools a hyperthermic patient at roughly 0.35°C per minute, compared with just 0.03 to 0.05°C per minute for misting with fanning, the standard air-based method. That makes immersion seven to twelve times faster than air cooling, a gap wide enough to decide whether core temperature returns to safe levels inside the ACSM's 30-minute treatment window or not (Casa DJ et al., Exercise and Sport Sciences Reviews, 2007).
+
 ## Heat capacity: water holds far more energy than air
 
 Water's specific heat capacity, the energy required to raise its temperature by one degree, is roughly 4,000 times greater than air's by volume. In practical terms, a given volume of cold water can absorb vastly more heat from a body before it warms up itself, compared to the same volume of air moved across the skin by a fan.

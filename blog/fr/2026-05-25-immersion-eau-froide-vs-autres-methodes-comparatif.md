@@ -10,9 +10,11 @@ published: true
 
 Face à un coup de chaleur d'effort, toutes les méthodes de refroidissement ne se valent pas. Les études scientifiques sont unanimes : l'immersion en eau froide est la seule technique capable de respecter la fenêtre thérapeutique des 30 minutes. Voici les chiffres.
 
+**En bref :** l'immersion en eau froide refroidit un patient hyperthermique à environ 0,35°C par minute, contre seulement 0,10°C par minute pour l'aspersion + ventilation (la meilleure alternative sans immersion), et 0,01 à 0,02°C par minute pour la ventilation ou la brumisation seules. L'immersion est donc environ 3,5 fois plus rapide que l'aspersion-ventilation, et jusqu'à 35 fois plus rapide qu'un refroidissement par air seul (ACSM Expert Consensus Statement 2023, Casa DJ et al., Korey Stringer Institute).
+
 ## Le critère décisif : la vitesse de refroidissement
 
-La fenêtre thérapeutique du coup de chaleur d'effort est de **30 minutes** entre la présentation clinique et le retour de la température centrale sous 40°C. Pour une victime à 42°C, il faut refroidir de 2°C en 30 minutes — soit une vitesse minimale de **0,07°C par minute**.
+La fenêtre thérapeutique du coup de chaleur d'effort est de **30 minutes** entre la présentation clinique et le retour de la température centrale sous 40°C. Pour une victime à 42°C, il faut refroidir de 2°C en 30 minutes, soit une vitesse minimale de **0,07°C par minute**.
 
 | Méthode | Vitesse de refroidissement | Respecte la fenêtre des 30 min ? |
 |---|---|---|
@@ -31,7 +33,7 @@ La fenêtre thérapeutique du coup de chaleur d'effort est de **30 minutes** ent
 
 L'immersion corps entier dans de l'eau entre 1,5°C et 15°C est la technique de référence, validée par l'ensemble des sociétés savantes. Le Korey Stringer Institute a documenté **0 décès** sur 401 cas traités par cette méthode lorsque le refroidissement était initié dans les 30 minutes.
 
-Son efficacité s'explique par la conductivité thermique de l'eau — 25 fois supérieure à celle de l'air — et par la surface de contact maximale avec le corps entier du patient.
+Son efficacité s'explique par la conductivité thermique de l'eau (25 fois supérieure à celle de l'air) et par la surface de contact maximale avec le corps entier du patient.
 
 **Avantages :**
 - Vitesse de refroidissement validée scientifiquement
@@ -49,7 +51,7 @@ La combinaison aspersion d'eau froide et ventilation (ventilateur ou vent nature
 
 Elle est recommandée **en l'absence de baignoire**, notamment par la SFAR et l'ACSM comme alternative de second recours. Sa vitesse de refroidissement est insuffisante pour les hyperthermies sévères (> 41°C) et son efficacité est très variable selon l'humidité ambiante.
 
-Par temps chaud et humide — les conditions les plus fréquentes lors des coups de chaleur d'effort — l'évaporation est réduite et l'efficacité chute significativement.
+Par temps chaud et humide, les conditions les plus fréquentes lors des coups de chaleur d'effort, l'évaporation est réduite et l'efficacité chute significativement.
 
 ## Les poches de glace sur les axes vasculaires
 
@@ -81,9 +83,9 @@ La brumisation sans ventilation est la méthode la moins efficace. En conditions
 
 ## Conclusion : l'équipement fait la différence
 
-La connaissance du protocole ne suffit pas — l'équipement doit être disponible avant l'incident. Une équipe qui connaît la règle Cool First Transport Second mais n'a pas de baignoire sur place sera contrainte d'utiliser une méthode insuffisante.
+La connaissance du protocole ne suffit pas : l'équipement doit être disponible avant l'incident. Une équipe qui connaît la règle Cool First Transport Second mais n'a pas de baignoire sur place sera contrainte d'utiliser une méthode insuffisante.
 
-C'est pourquoi la disponibilité d'une baignoire de refroidissement déployable — comme Kollder — est la condition logistique sine qua non de l'application correcte du protocole.
+C'est pourquoi la disponibilité d'une baignoire de refroidissement déployable, comme Kollder, est la condition logistique sine qua non de l'application correcte du protocole.
 
 Retrouvez [le matériel recommandé pour les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/) sur notre page dédiée.
 
@@ -96,4 +98,4 @@ Retrouvez [le matériel recommandé pour les services d'urgence](https://kollder
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Hosokawa Y, Racinais S et al. BJSM 2021, Casa DJ — Korey Stringer Institute, EM-Consulte 2024, SFAR.*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Hosokawa Y, Racinais S et al. BJSM 2021, Casa DJ, Korey Stringer Institute, EM-Consulte 2024, SFAR.*
