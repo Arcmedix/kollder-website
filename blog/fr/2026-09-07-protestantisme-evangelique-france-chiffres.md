@@ -26,13 +26,14 @@ Le réseau départemental du CNEF couvre l'ensemble du territoire français, ave
 
 ## Ce que cela signifie pour l'équipement des Églises
 
-Cette diversité de situations a une conséquence concrète sur l'équipement : une Église qui ne possède pas de bâtiment en propre, ou qui n'y dispose pas d'un baptistère fixe, doit trouver une solution adaptée pour continuer à pratiquer le baptême par immersion, une pratique centrale dans la majorité de ces courants. C'est précisément le rôle que joue un équipement portable, pensé pour s'adapter à n'importe quel lieu de culte plutôt que l'inverse.
+Cette diversité de situations a une conséquence concrète sur l'équipement : une Église qui ne possède pas de bâtiment en propre, ou qui n'y dispose pas d'un baptistère fixe, doit trouver une solution adaptée pour continuer à pratiquer le baptême par immersion, une pratique centrale dans la majorité de ces courants. C'est précisément le rôle que joue [un équipement portable](https://kollder.com/fr/baptistere-immersion/), pensé pour s'adapter à n'importe quel lieu de culte plutôt que l'inverse.
 
 ## Pour aller plus loin
 
 - [Comment organiser un baptême par immersion sans piscine ni cours d'eau](https://kollder.com/blog/fr/2026-09-07-organiser-bapteme-immersion-sans-piscine/)
 - [Comment trouver une église évangélique ou baptiste près de chez soi](https://kollder.com/blog/fr/2026-09-07-comment-trouver-eglise-evangelique-pres-de-chez-soi/)
 - [Baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/)
+- [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
 
 ---
 

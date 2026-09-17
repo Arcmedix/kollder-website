@@ -24,13 +24,14 @@ Au-delà de sa dimension théologique, le baptême par immersion joue un rôle c
 
 ## Un mouvement en développement en France
 
-Le protestantisme évangélique, dont l'immersion est une pratique caractéristique, représente aujourd'hui une part croissante et significative du paysage religieux français, avec plus de 2 500 lieux de culte recensés par le [CNEF](https://www.lecnef.org/page/445845-ce-qu-ils-croient). Ce développement se traduit par de nombreuses implantations d'Églises dans des lieux qui n'étaient pas conçus à l'origine pour la pratique du culte, salles louées, anciens locaux commerciaux, ce qui explique en partie pourquoi l'équipement mobile de baptême devient un sujet concret pour un nombre croissant de communautés.
+Le protestantisme évangélique, dont l'immersion est une pratique caractéristique, représente aujourd'hui une part croissante et significative du paysage religieux français, avec plus de 2 500 lieux de culte recensés par le [CNEF](https://www.lecnef.org/page/445845-ce-qu-ils-croient). Ce développement se traduit par de nombreuses implantations d'Églises dans des lieux qui n'étaient pas conçus à l'origine pour la pratique du culte, salles louées, anciens locaux commerciaux, ce qui explique en partie pourquoi [l'équipement mobile de baptême](https://kollder.com/fr/baptistere-immersion/) devient un sujet concret pour un nombre croissant de communautés.
 
 ## Pour aller plus loin
 
 - [Le protestantisme évangélique en France : panorama et chiffres clés](https://kollder.com/blog/fr/2026-09-07-protestantisme-evangelique-france-chiffres/)
 - [Baptistère portable pour église baptiste : un équipement indispensable](https://kollder.com/blog/fr/2026-09-07-baptistere-portable-eglise-baptiste/)
 - [Baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/)
+- [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
 
 ---
 

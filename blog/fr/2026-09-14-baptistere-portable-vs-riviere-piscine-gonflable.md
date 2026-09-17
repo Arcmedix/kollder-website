@@ -20,7 +20,7 @@ Une piscine gonflable classique, achetée pour un usage familial et détournée 
 
 ## Le baptistère portable
 
-Un baptistère portable rigide comme Kollder reprend le principe d'une cuve dédiée, sans les contraintes d'un édifice fixe. Il s'installe en moins de 2 minutes par une seule personne, indépendamment de la météo, du niveau d'une rivière ou de la disponibilité d'un point d'eau extérieur. La structure en acier inoxydable alimentaire se nettoie et se désinfecte simplement entre deux cérémonies, et la cuve appartient à la communauté : disponible à la date choisie, sans dépendre d'un lieu extérieur.
+[Un baptistère portable rigide comme Kollder](https://kollder.com/fr/baptistere-immersion/) reprend le principe d'une cuve dédiée, sans les contraintes d'un édifice fixe. Il s'installe en moins de 2 minutes par une seule personne, indépendamment de la météo, du niveau d'une rivière ou de la disponibilité d'un point d'eau extérieur. La structure en acier inoxydable alimentaire se nettoie et se désinfecte simplement entre deux cérémonies, et la cuve appartient à la communauté : disponible à la date choisie, sans dépendre d'un lieu extérieur.
 
 ## Ce que change le choix de l'équipement
 
@@ -43,3 +43,4 @@ Pour une église qui a un accès sûr, autorisé et régulier à une rivière ou
 - [Baptême par immersion en extérieur : camp ou convention](https://kollder.com/blog/fr/2026-09-07-bapteme-immersion-exterieur-camp-convention/)
 - [Baptistère gonflable ou baptistère rigide pliable : quelle différence](https://kollder.com/blog/fr/2026-09-07-baptistere-gonflable-vs-rigide-pliable-comparatif/)
 - [Baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/)
+- [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)

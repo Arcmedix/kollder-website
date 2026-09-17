@@ -26,13 +26,14 @@ The CNEF's regional network covers the entire French territory, with churches pr
 
 ## What that means for church equipment
 
-This variety of situations has a direct practical consequence: a church that doesn't own its building, or that has no fixed baptistry in it, needs a workable solution to keep practicing immersion baptism, a central practice across most of these traditions. That's exactly the role a portable baptistry plays, built to adapt to any worship space rather than the other way around.
+This variety of situations has a direct practical consequence: a church that doesn't own its building, or that has no fixed baptistry in it, needs a workable solution to keep practicing immersion baptism, a central practice across most of these traditions. That's exactly the role a [portable baptistry](https://kollder.com/en/portable-baptistry/) plays, built to adapt to any worship space rather than the other way around.
 
 ## Further reading
 
 - [How to Hold an Immersion Baptism Without a Pool or River](https://kollder.com/blog/en/2026-09-07-immersion-baptism-without-a-pool/)
 - [How to Find an Evangelical or Baptist Church in France](https://kollder.com/blog/en/2026-09-07-find-evangelical-church-in-france/)
 - [Portable Baptistry for Immersion Baptism](https://kollder.com/en/portable-baptistry/)
+- [Request a quote for a portable baptistry](https://kollder.com/en/portable-baptistry/#devis)
 
 ---
 

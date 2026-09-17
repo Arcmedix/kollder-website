@@ -24,13 +24,14 @@ The two directories overlap in part, since some church unions belong to both the
 
 ## Once you've found a church
 
-Many congregations listed in these directories meet in rented spaces, multipurpose halls, or former retail buildings, with no permanent baptism setup. For a church that practices immersion baptism without a fixed baptistry, portable equipment makes it possible to hold the ceremony in that same space, without depending on a municipal pool or an outside water source.
+Many congregations listed in these directories meet in rented spaces, multipurpose halls, or former retail buildings, with no permanent baptism setup. For a church that practices immersion baptism without a fixed baptistry, [portable equipment](https://kollder.com/en/portable-baptistry/) makes it possible to hold the ceremony in that same space, without depending on a municipal pool or an outside water source.
 
 ## Further reading
 
 - [Evangelical Protestantism in France: An Overview and Key Numbers](https://kollder.com/blog/en/2026-09-07-evangelical-protestantism-france-overview/)
 - [How to Hold an Immersion Baptism Without a Pool or River](https://kollder.com/blog/en/2026-09-07-immersion-baptism-without-a-pool/)
 - [Portable Baptistry for Immersion Baptism](https://kollder.com/en/portable-baptistry/)
+- [Request a quote for a portable baptistry](https://kollder.com/en/portable-baptistry/#devis)
 
 ---
 

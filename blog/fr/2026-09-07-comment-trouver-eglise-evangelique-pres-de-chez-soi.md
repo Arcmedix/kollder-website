@@ -24,13 +24,14 @@ Les deux annuaires se recoupent en partie, certaines unions d'Églises étant me
 
 ## Une fois l'église trouvée
 
-Beaucoup de communautés listées dans ces annuaires se réunissent dans des lieux loués, des salles polyvalentes ou d'anciens locaux commerciaux, sans installation permanente de baptême. Pour une église qui pratique le baptême par immersion sans disposer d'un baptistère fixe, un équipement portable permet d'organiser la cérémonie dans ces mêmes lieux, sans dépendre d'une piscine municipale ou d'un point d'eau extérieur.
+Beaucoup de communautés listées dans ces annuaires se réunissent dans des lieux loués, des salles polyvalentes ou d'anciens locaux commerciaux, sans installation permanente de baptême. Pour une église qui pratique le baptême par immersion sans disposer d'un baptistère fixe, [un équipement portable](https://kollder.com/fr/baptistere-immersion/) permet d'organiser la cérémonie dans ces mêmes lieux, sans dépendre d'une piscine municipale ou d'un point d'eau extérieur.
 
 ## Pour aller plus loin
 
 - [Le protestantisme évangélique en France : panorama et chiffres clés](https://kollder.com/blog/fr/2026-09-07-protestantisme-evangelique-france-chiffres/)
 - [Comment organiser un baptême par immersion sans piscine ni cours d'eau](https://kollder.com/blog/fr/2026-09-07-organiser-bapteme-immersion-sans-piscine/)
 - [Baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/)
+- [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
 
 ---
 
