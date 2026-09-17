@@ -6,6 +6,54 @@ category: "Sapeurs-pompiers"
 layout: layouts/article.njk
 lang: fr
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Séquence d'intervention",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Mettre à l'écart de la zone d'intervention",
+        "text": "Mettre à l'écart de la zone d'intervention."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Retirer la tenue de protection thermique immédiatement",
+        "text": "Retirer la tenue de protection thermique immédiatement."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Déployer la baignoire et remplir d'eau froide et glace",
+        "text": "Déployer la baignoire et remplir d'eau froide et glace."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Immerger corps entier, maintenir les voies aériennes",
+        "text": "Immerger corps entier, maintenir les voies aériennes."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Appel SAMU en parallèle",
+        "text": "Appel SAMU en parallèle."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Mesure température rectale toutes les 5 minutes",
+        "text": "Mesure température rectale toutes les 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Sortie de baignoire à 38,6°C rectale",
+        "text": "Sortie de baignoire à 38,6°C rectale."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Transport vers urgences pour bilan biologique",
+        "text": "Transport vers urgences pour bilan biologique."
+      }
+    ]
+  }
 ---
 
 L'été 2025 a été le 3e plus chaud en France depuis 1900. Le dôme de chaleur de mai 2026 pulvérise déjà les records pour cette période de l'année. Pour les SDIS, la question n'est plus de savoir si le coup de chaleur d'effort chez les sapeurs-pompiers va se produire — mais d'être équipés pour le traiter quand il se produira.

@@ -6,6 +6,39 @@ category: "EHS et industrie"
 layout: layouts/article.njk
 lang: fr
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Les 5 gestes immédiats",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Appeler le 15",
+        "text": "immédiatement en précisant : suspicion de coup de chaleur d'effort, localisation GPS exacte du chantier, température ambiante estimée, durée d'exposition à la chaleur, signes présentés."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Mettre à l'ombre",
+        "text": "et allonger la personne (jambes légèrement surélevées si conscience conservée)."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Initier le refroidissement actif immédiatement",
+        "text": "Ne pas attendre les secours. Chaque minute sans refroidissement augmente les dommages organiques."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Continuer le refroidissement jusqu'à l'arrivée des secours",
+        "text": "et ne pas transporter le patient avant d'avoir initié un refroidissement efficace (principe Cool First, Transport Second)."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Ne pas laisser seul",
+        "text": "Surveiller la conscience et la respiration. Position latérale de sécurité si inconscience."
+      }
+    ]
+  }
 ---
 
 Le 27 mai 2026, un couvreur de 19 ans mourait d'hyperthermie sur un chantier de toiture dans la Drôme par 31 °C à l'ombre. Le 30 juin 2025, un homme de 35 ans décédait sur un chantier en Île-de-France dans les mêmes circonstances. En 2025, neuf accidents du travail mortels liés à la chaleur ont été notifiés à Santé publique France — dont six dans la construction et l'agriculture. En 2024, sept. En 2022, sept. En 2020, douze. Ce n'est pas une anomalie statistique. C'est une tendance structurelle, alimentée par le changement climatique et un sous-équipement chronique des chantiers et des sites industriels en matière de gestion de l'urgence thermique. Ce guide est à destination des responsables EHS, directeurs de travaux, médecins du travail et préventeurs qui veulent aller au-delà des affiches de sensibilisation.

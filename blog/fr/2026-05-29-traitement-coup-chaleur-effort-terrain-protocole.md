@@ -6,6 +6,44 @@ category: "Médecine d'urgence"
 layout: layouts/article.njk
 lang: fr
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Protocole de traitement du coup de chaleur d'effort sur le terrain",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Arrêt de l'effort et mise en sécurité (0-1 minute)",
+        "text": "Stopper immédiatement l'effort. Allonger la victime sur le dos dans un endroit accessible. Retirer les équipements qui gênent la thermorégulation : casque, gilet, tenue de protection thermique. Évaluer rapidement : conscience, ventilation, pouls. Si arrêt cardiaque, RCP immédiate, appel des secours, défibrillateur."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Déclenchement du refroidissement (1-3 minutes)",
+        "text": "Déployer la baignoire de refroidissement. Remplir d'eau froide. Ajouter de la glace si disponible, la température idéale est entre 1,5°C et 15°C. Immerger la victime corps entier, épaules et cuir chevelu inclus. Maintenir les voies aériennes hors de l'eau."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Appel des secours en parallèle (dès la minute 2)",
+        "text": "L'appel au 15 ou au 18 se fait en parallèle du refroidissement, jamais avant. Préciser dans le message de régulation : \"Coup de chaleur d'effort présumé, refroidissement par immersion en cours sur place. Température rectale en cours de mesure.\""
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Surveillance continue (pendant toute l'immersion)",
+        "text": "Mesurer la température rectale toutes les 5 minutes. Surveiller : conscience, ventilation, pouls. Prévenir les vomissements et gérer les voies aériennes si convulsions. Ne pas arrêter le refroidissement prématurément."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Arrêt du refroidissement (à 38,6°C rectale)",
+        "text": "Sortir la victime de la baignoire à 38,6°C de température rectale, pas à 37°C. Sortir trop tôt à 40°C risque de rebond hyperthermique ; sortir trop tard à 37°C risque l'hypothermie iatrogène."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Transport vers les urgences",
+        "text": "Transport immédiat vers un service d'urgences pour bilan biologique complet : CPK (rhabdomyolyse), créatinine (insuffisance rénale), bilan hépatique, coagulation (CIVD), ionogramme."
+      }
+    ]
+  }
 ---
 
 Un effondrement lors d'un effort intense par temps chaud est une urgence vitale. La décision que prennent les premiers intervenants dans les deux premières minutes détermine le pronostic du patient. Ce guide présente le protocole médical de référence tel que validé par l'ACSM, la SFAR et le Comité International Olympique.

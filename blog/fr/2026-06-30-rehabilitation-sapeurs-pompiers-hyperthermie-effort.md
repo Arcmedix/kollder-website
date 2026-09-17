@@ -6,6 +6,29 @@ category: "Sapeurs-pompiers"
 layout: layouts/article.njk
 lang: fr
 published: true
+howToSchema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Le protocole de réhabilitation thermique",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Sortie de zone et déséquipement (0-5 minutes)",
+        "text": "Retrait de la tenue de protection dès que la sécurité le permet. Mise à l'ombre ou dans un environnement frais. Mesure de la température rectale si disponible. Évaluation neurologique rapide."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Refroidissement actif (5-35 minutes)",
+        "text": "Si température centrale ≥ 40°C ou signes neurologiques : CCE confirmé, immersion immédiate en eau froide, objectif 38,5°C rectaux en moins de 30 minutes. Si température centrale entre 38,5 et 40°C sans signes neurologiques : refroidissement actif par méthodes combinées (packs de glace, brumisation avec ventilation forcée, boissons fraîches si conscience le permet, réévaluation toutes les 5 minutes). Si température centrale inférieure à 38,5°C : repos, réhydratation, mise au frais."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Surveillance et autorisation de retour à l'activité",
+        "text": "Surveillance a minima 30 à 60 minutes avant tout retour opérationnel. Critères de retour : température centrale stable en dessous de 38,5°C, état neurologique normal et stable, absence de signes de défaillance hémodynamique, réhydratation débutée et bien tolérée."
+      }
+    ]
+  }
 ---
 
 Le sapeur-pompier en tenue de protection est, du point de vue thermique, l'un des profils les plus exposés au coup de chaleur d'effort. La combinaison étanche empêche l'évaporation sudorale. L'effort physique est intense et souvent prolongé. L'environnement est par définition chaud. Ces trois facteurs réunis créent des conditions dans lesquelles la température centrale peut atteindre des niveaux critiques en moins de 20 minutes d'effort intense — bien plus vite qu'un athlète en tenue légère.
