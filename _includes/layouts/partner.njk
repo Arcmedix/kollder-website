@@ -246,21 +246,15 @@ nav {
   gap: 24px; margin-top: 8px;
 }
 .partner-segment {
-  border: 1px solid var(--border); background: var(--white); overflow: hidden;
+  display: block; border: 1px solid var(--border); background: var(--white); overflow: hidden;
+  text-decoration: none; color: inherit; transition: border-color .2s, transform .2s;
 }
+.partner-segment:hover { border-color: var(--sand); transform: translateY(-2px); }
 .partner-section--alt .partner-segment { background: var(--cream); }
-.partner-segment__img { width: 100%; aspect-ratio: 16/9; overflow: hidden; background: var(--beige); }
-.partner-segment__img img { width: 100%; height: 100%; object-fit: cover; display: block; filter: grayscale(20%); transition: filter .3s; }
-.partner-segment:hover .partner-segment__img img { filter: grayscale(0%); }
-.partner-segment__img--placeholder {
-  display: flex; align-items: center; justify-content: center;
-  background: var(--ink);
+.partner-segment__icon {
+  padding: 28px 24px 0; color: var(--sand);
 }
-.partner-segment__img--placeholder span {
-  font-size: 11px; font-weight: 500; letter-spacing: 0.12em;
-  text-transform: uppercase; color: rgba(250,249,247,0.35);
-}
-.partner-segment__body { padding: 24px; }
+.partner-segment__body { padding: 16px 24px 24px; }
 .partner-segment h3 {
   font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 500;
   color: var(--black); margin-bottom: 8px;
