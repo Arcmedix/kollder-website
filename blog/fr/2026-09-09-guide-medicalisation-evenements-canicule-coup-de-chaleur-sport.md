@@ -85,7 +85,7 @@ Le matériel ne vaut que par la rapidité de reconnaissance et de mise en immers
 
 ## Le cas Hyrox : un format qui concentre le risque
 
-Hyrox cumule les facteurs aggravants : effort proche du maximal pendant 60 à 90 minutes, environnement indoor souvent chaud et peu ventilé, forte densité de participants, public nombreux, motivation qui pousse à ignorer les signaux d'alerte. Le poste médical dispose d'un espace réduit, ce qui impose un dispositif de refroidissement compact et déployable par une seule personne.
+Hyrox cumule les facteurs aggravants : effort proche du maximal pendant 60 à 90 minutes, environnement indoor souvent chaud et peu ventilé, forte densité de participants, public nombreux, motivation qui pousse à ignorer les signaux d'alerte. Le poste médical dispose d'un espace réduit, ce qui impose un dispositif de refroidissement compact et stable, facile à monter par l'équipe présente.
 
 Recommandations spécifiques pour un prestataire missionné sur ce type d'événement :
 
@@ -108,7 +108,7 @@ Recommandations spécifiques pour un prestataire missionné sur ce type d'évén
 
 ## Une baignoire pensée pour les prestataires multi-événements
 
-La baignoire Kollder se transporte pliée dans son sac Kollder Go (85×10×10cm, hybride sac à dos et trolley) et se déploie seule, sans outillage, en moins de 2 minutes par un seul opérateur. Cette portabilité permet à un prestataire de couvrir plusieurs postes ou plusieurs événements le même week-end sans mobiliser de logistique lourde ni de personnel dédié à la mise en place. Un devis peut être demandé sur [kollder.com/#contact](https://kollder.com/#contact).
+La baignoire Kollder se transporte pliée dans son sac Kollder Go (85×10×10cm, hybride sac à dos et trolley) et repose sur une structure stable, sans outillage, opérationnelle en moins de 5 minutes. Cette portabilité permet à un prestataire de couvrir plusieurs postes ou plusieurs événements le même week-end sans mobiliser de logistique lourde ni de personnel dédié à la mise en place. Un devis peut être demandé sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

@@ -171,7 +171,7 @@ Transport is not the first action, it comes once cooling is firmly underway or t
 
 ## What this means for field equipment
 
-Every one of these decisions assumes an immersion capability is available immediately, on the scene itself, not in a vehicle some distance away. The Kollder emergency cooling tub deploys in under 2 minutes by a single operator, with no tools required, and its fully open design preserves complete medical access (thermometry, IV line, airway management) throughout immersion, including if reassessment or CPR becomes necessary. Request a quote at [kollder.com/#contact](https://kollder.com/#contact).
+Every one of these decisions assumes an immersion capability is available immediately, on the scene itself, not in a vehicle some distance away. The Kollder emergency cooling tub combines a stable, six-point steel frame with no tools required, and its fully open design preserves complete medical access (thermometry, IV line, airway management) throughout immersion, including if reassessment or CPR becomes necessary. Request a quote at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

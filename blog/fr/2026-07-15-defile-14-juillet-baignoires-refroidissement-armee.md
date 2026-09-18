@@ -28,7 +28,7 @@ Que ce protocole soit appliqué sur les Champs-Élysées, devant des millions de
 
 Le même risque se pose chaque été pour les SDIS lors de leurs propres interventions par forte chaleur, pour les organisateurs de trails et de marathons, et pour les directeurs médicaux de grands rassemblements publics. Deux "grands bacs en plastique" remplis à la main, comme ceux déployés le 14 juillet, suffisent pour un dispositif ponctuel et fortement dimensionné en personnel. Ils posent en revanche une vraie question opérationnelle pour une équipe qui doit déployer seule, rapidement, et sur un terrain moins favorable qu'une avenue parisienne fermée à la circulation.
 
-C'est précisément l'écart que Kollder One™ vient combler : un déploiement solo en moins de 2 minutes, un accès patient à 360°, et un châssis en acier inoxydable conçu pour un usage répété sur le terrain plutôt que pour un événement unique. Les équipes SDIS et SSSM qui souhaitent équiper leurs véhicules ou leurs postes de secours peuvent consulter notre dispositif dédié sur [kollder.com/fr/sdis-pompiers/](https://kollder.com/fr/sdis-pompiers/), ou demander un devis directement via [kollder.com/#contact](https://kollder.com/#contact).
+C'est précisément l'écart que Kollder One™ vient combler : une structure stable à 6 points d'appui, un accès patient à 360°, et un châssis en acier inoxydable conçu pour un usage répété sur le terrain plutôt que pour un événement unique. Les équipes SDIS et SSSM qui souhaitent équiper leurs véhicules ou leurs postes de secours peuvent consulter notre dispositif dédié sur [kollder.com/fr/sdis-pompiers/](https://kollder.com/fr/sdis-pompiers/), ou demander un devis directement via [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

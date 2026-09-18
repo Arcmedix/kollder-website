@@ -24,7 +24,7 @@ The 102°F/39°C discontinuation threshold aligns with the broader literature: *
 
 ## Where Kollder fits
 
-Executing a precise 10-15 minute immersion window depends on equipment that reaches and holds effective water temperature fast, and that lets crews monitor the patient continuously to confirm when the discontinuation threshold is reached. **Kollder One™** deploys in under 2 minutes by a single operator and provides full 360° access to the patient throughout immersion, including airway and temperature monitoring, so crews executing a protocol like El Dorado County's can track progress against the numeric endpoint without lifting the patient out of the water to check. Specifications and quotes at [kollder.com/#contact](https://kollder.com/#contact).
+Executing a precise 10-15 minute immersion window depends on equipment that reaches and holds effective water temperature fast, and that lets crews monitor the patient continuously to confirm when the discontinuation threshold is reached. **Kollder One™** stays stable and level on any surface and provides full 360° access to the patient throughout immersion, including airway and temperature monitoring, so crews executing a protocol like El Dorado County's can track progress against the numeric endpoint without lifting the patient out of the water to check. Specifications and quotes at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin / Further Reading
 

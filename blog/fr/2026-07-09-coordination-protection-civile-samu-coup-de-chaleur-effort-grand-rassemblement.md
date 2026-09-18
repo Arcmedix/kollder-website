@@ -24,7 +24,7 @@ Un appel précoce au SAMU, dès la suspicion de coup de chaleur d'effort et non 
 
 ## L'équipement qui rend ce relais possible
 
-Pour que le poste Protection Civile puisse débuter le refroidissement sans délai, il doit disposer d'un moyen d'immersion immédiatement opérationnel. La baignoire Kollder se déploie par une seule personne en moins de 2 minutes, avec un accès à 360° autour du patient permettant à l'équipe SAMU, une fois sur place, de prendre le relais sans interrompre l'immersion en cours. Contact pour un devis : [kollder.com/#contact](https://kollder.com/#contact).
+Pour que le poste Protection Civile puisse débuter le refroidissement sans délai, il doit disposer d'un moyen d'immersion immédiatement opérationnel. La baignoire Kollder repose sur une structure stable à 6 points d'appui, avec un accès à 360° autour du patient permettant à l'équipe SAMU, une fois sur place, de prendre le relais sans interrompre l'immersion en cours. Contact pour un devis : [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

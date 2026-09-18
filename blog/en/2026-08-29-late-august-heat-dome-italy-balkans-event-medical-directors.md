@@ -17,7 +17,7 @@ Available late-August forecasts show a heat dome extending across Italy and the 
 This is exactly the point in the season when Italy's racing calendar traditionally shifts toward autumn and winter, with October through April generally considered the most favorable months for distance events. That shift rests on an implicit assumption, that thermal risk fades along with summer. The late-August 2026 heat dome is a reminder that assumption no longer holds.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -35,7 +35,7 @@ For a medical director planning a late-summer or early-autumn event, the questio
 
 ## A medical post that stays ready even as the season changes
 
-That is the role Kollder One plays for organizers who refuse to treat thermal risk as a summer-only concern. A stainless steel emergency cooling tub, set up by a single responder in under 2 minutes, directly at the race site, including an advanced medical post deep in the mountains. Packed for transport with Kollder Go, it weighs 11.1 kg and fits easily into the medical setup of an event of any size. Organizers and medical directors planning their late-season events can [request a Kollder quote](https://kollder.com/#contact) to equip their medical post.
+That is the role Kollder One plays for organizers who refuse to treat thermal risk as a summer-only concern. A stable stainless steel emergency cooling tub, directly at the race site, including an advanced medical post deep in the mountains. Packed for transport with Kollder Go, it weighs 11.1 kg and fits easily into the medical setup of an event of any size. Organizers and medical directors planning their late-season events can [request a Kollder quote](https://kollder.com/#contact) to equip their medical post.
 
 ## Further Reading
 

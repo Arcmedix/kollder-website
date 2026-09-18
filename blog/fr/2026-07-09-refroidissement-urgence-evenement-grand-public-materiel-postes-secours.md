@@ -24,7 +24,7 @@ Sur un événement grand public, le matériel de refroidissement doit répondre 
 
 ## Le choix Kollder pour ces contraintes
 
-La baignoire Kollder One se déploie seule, sans outil, en moins de 2 minutes, avec un châssis inox résistant à un usage répété sur événements successifs. Le sac Kollder Go (85×10×10cm, hybride sac à dos et trolley) permet de la transporter facilement d'un point de secours à l'autre. L'accès à 360° autour du patient facilite la surveillance continue pendant l'immersion. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
+La baignoire Kollder One se déploie sans outil, avec un châssis inox stable à 6 points d'appui, résistant à un usage répété sur événements successifs, et une capacité pour 2 personnes en immersion simultanée. Le sac Kollder Go (85×10×10cm, hybride sac à dos et trolley) permet de la transporter facilement d'un point de secours à l'autre. L'accès à 360° autour du patient facilite la surveillance continue pendant l'immersion. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

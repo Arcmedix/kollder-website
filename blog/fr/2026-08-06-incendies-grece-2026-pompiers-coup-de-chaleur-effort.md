@@ -17,7 +17,7 @@ Selon le programme européen Copernicus de l'Agence spatiale européenne, un inc
 Le bilan du début de saison était déjà lourd. Le 30 juillet, des incendies ont forcé l'évacuation de milliers de personnes en Crète, détruisant des terres agricoles, des oliveraies et des habitations, et coûtant la vie à trois pompiers. Des feux ont également été signalés à Paros. Début juillet, des incendies avaient endommagé des biens à Thessalonique, et les autorités grecques recensaient des dizaines de foyers actifs à travers le pays en une seule journée, le 5 juillet.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -35,7 +35,7 @@ La question opérationnelle pour les secteurs de réhabilitation du service d'in
 
 ## Un matériel qui suit l'équipe, pas l'infrastructure
 
-C'est exactement l'écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, déployable par un seul intervenant en moins de 2 minutes sur n'importe quel terrain, pesant 11,1 kg une fois pliée pour le transport avec Kollder Go. Elle permet à un secteur de réhabilitation avancé de faire tourner le protocole complet d'immersion en eau froide à plusieurs kilomètres du poste fixe le plus proche, sur une piste forestière ou une zone de rassemblement improvisée, tout au long d'opérations de plusieurs jours comme celles que traverse actuellement la Grèce. Les services d'incendie et unités de protection civile qui préparent la fin de la saison 2026, ou anticipent déjà la suivante, peuvent [demander un devis Kollder](https://kollder.com/#contact).
+C'est exactement l'écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, stable sur n'importe quel terrain, pesant 11,1 kg une fois pliée pour le transport avec Kollder Go. Elle permet à un secteur de réhabilitation avancé de faire tourner le protocole complet d'immersion en eau froide à plusieurs kilomètres du poste fixe le plus proche, sur une piste forestière ou une zone de rassemblement improvisée, tout au long d'opérations de plusieurs jours comme celles que traverse actuellement la Grèce. Les services d'incendie et unités de protection civile qui préparent la fin de la saison 2026, ou anticipent déjà la suivante, peuvent [demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

@@ -17,7 +17,7 @@ Croatia's Chief Fire Commander, Slavko Tucaković, confirmed that fire crews res
 The pattern repeated through the rest of July. A large wildfire broke out on Vis near Komiža, mobilizing 70 firefighters and 15 vehicles from the island's two brigades overnight. On Korčula, a fire between Smokvica and Blato triggered a full-island mobilization plus mainland reinforcements from Orebić, Kuna, Trpanj, Putnikovići, Metković, Dubrovnik and Konavle, backed by two Canadair CL-415 aircraft. On Brač, a fire near Pučišća required 17 firefighters and seven engines from four volunteer brigades, part of a 24-hour period nationwide that logged 118 interventions and 530 firefighters.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -35,7 +35,7 @@ The constraint is not the protocol, it is delivering it on an island brigade's r
 
 ## A tub that fits in the same vehicles already crossing by ferry
 
-Kollder One was designed for exactly this kind of deployment gap. A stainless steel emergency cooling tub, set up by one responder in under 2 minutes, weighing 11.1 kg packed with Kollder Go, it travels in the same fire engines and light vehicles already being ferried to Vis, Korčula or Brač, without requiring a fixed medical post nearby. Croatian fire brigades and civil protection units equipping island stations ahead of the rest of the 2026 fire season can [request a Kollder quote](https://kollder.com/#contact).
+Kollder One was designed for exactly this kind of deployment gap. A stainless steel emergency cooling tub, stable on uneven ground, weighing 11.1 kg packed with Kollder Go, it travels in the same fire engines and light vehicles already being ferried to Vis, Korčula or Brač, without requiring a fixed medical post nearby. Croatian fire brigades and civil protection units equipping island stations ahead of the rest of the 2026 fire season can [request a Kollder quote](https://kollder.com/#contact).
 
 ## Further Reading
 

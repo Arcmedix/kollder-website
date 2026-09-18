@@ -24,7 +24,7 @@ Carrying that capability on a transport unit is harder than it sounds. Rigid tub
 
 ## Where Kollder fits
 
-**Kollder One™** was built specifically for this gap: a stainless steel immersion tub that one person deploys in under 2 minutes, packs down to 85×10×10 cm at 11.1 kg, and gives full 360° access to the patient for airway and vitals monitoring throughout cooling, something closed-bag systems cannot offer. For a transport crew working against the clock, that combination of speed and unrestricted patient access is what turns a protocol on paper into a capability that actually rides on every call.
+**Kollder One™** was built specifically for this gap: a stainless steel immersion tub with a 6-point steel frame that stays stable on uneven ground, folds down to 85×10×10 cm at 11.1 kg, deploys in under 5 minutes, and gives full 360° access to the patient for airway and vitals monitoring throughout cooling, something closed-bag systems cannot offer. For a transport crew working against the clock, that combination of speed and unrestricted patient access is what turns a protocol on paper into a capability that actually rides on every call.
 
 Departments evaluating equipment for this exact scenario can review the specification and request a quote at [kollder.com/#contact](https://kollder.com/#contact).
 

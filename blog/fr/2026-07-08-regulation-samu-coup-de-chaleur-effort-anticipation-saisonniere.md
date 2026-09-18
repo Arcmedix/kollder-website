@@ -71,7 +71,7 @@ Hors dispositif équipé, l'envoi conjoint SDIS et SMUR devient la règle pour n
 
 La régulation la plus efficace face au CCE n'est pas celle qui répond bien à l'appel individuel, c'est celle qui a anticipé la présence de moyens de refroidissement sur les points à risque avant que l'appel n'arrive. Cela suppose une coordination en amont avec les organisateurs d'épreuves sportives, les SDIS locaux et les services EHS des entreprises exposées, pour s'assurer qu'un équipement de refroidissement type immersion est positionné et non improvisé au moment critique.
 
-C'est précisément sur ce point que **la baignoire de refroidissement d'urgence Kollder** change la donne pour les équipes SAMU-SMUR : déployable par un seul opérateur en moins de 2 minutes, elle permet d'équiper un poste médical avancé ou un véhicule SMUR sans dépendre d'une infrastructure fixe. Le Kollder Go™, son sac de transport hybride sac à dos et trolley (85×10×10cm), facilite son intégration en dotation embarquée. Plus de détails et devis sur [kollder.com/#contact](https://kollder.com/#contact).
+C'est précisément sur ce point que **la baignoire de refroidissement d'urgence Kollder** change la donne pour les équipes SAMU-SMUR : structure stable à 6 points d'appui et entièrement pliable, elle permet d'équiper un poste médical avancé ou un véhicule SMUR sans dépendre d'une infrastructure fixe. Le Kollder Go™, son sac de transport hybride sac à dos et trolley (85×10×10cm), facilite son intégration en dotation embarquée. Plus de détails et devis sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 

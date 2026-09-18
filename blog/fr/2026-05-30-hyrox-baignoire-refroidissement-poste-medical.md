@@ -52,7 +52,7 @@ La vitesse de déploiement de la baignoire est critique. Chaque minute perdue en
 
 **Triage actif** — identifier les participants qui ralentissent, trébuchent, semblent confus, arrêtent la transpiration. Ce sont les signes précoces du CCE avant l'effondrement.
 
-**Baignoire en position déployée ou pré-montée** — ne pas attendre l'urgence pour déployer. En configuration standby, la baignoire peut être remplie et opérationnelle en moins de 2 minutes.
+**Baignoire en position déployée ou pré-montée** — ne pas attendre l'urgence pour déployer. En configuration standby, la baignoire reste stable et peut être remplie et opérationnelle en moins de 5 minutes.
 
 **Communication radio** — les secouristes sur le parcours doivent pouvoir contacter immédiatement le poste médical avancé sans perdre de temps.
 
@@ -64,7 +64,7 @@ Un organisateur qui n'a pas de baignoire d'immersion conforme au protocole de r�
 
 ## Kollder dans le dispositif médical des événements Hyrox
 
-Kollder est dimensionnée pour les besoins spécifiques des événements de fitness indoor : déploiement rapide dans un espace confiné, manipulation par une seule personne, structure compacte entre les utilisations, accès patient total pour les gestes médicaux avancés.
+Kollder est dimensionnée pour les besoins spécifiques des événements de fitness indoor : déploiement rapide dans un espace confiné, structure stable et compacte entre les utilisations, capacité pour 2 personnes en immersion simultanée, accès patient total pour les gestes médicaux avancés.
 
 Plusieurs événements sportifs sont déjà en contact avec notre équipe pour intégrer Kollder à leur dispositif médical avant la saison estivale 2026. Pour les organisateurs d'Hyrox et d'événements de fitness qui souhaitent agir maintenant : [kollder.com/#contact](https://kollder.com/#contact).
 

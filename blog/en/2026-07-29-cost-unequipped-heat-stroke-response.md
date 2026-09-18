@@ -36,7 +36,7 @@ For event organizers, an unequipped medical post facing a mass-casualty heat sce
 
 ## What adequate preparation actually costs
 
-Set against these categories, the cost of being equipped is small and predictable: a cooling tub deployable in under 2 minutes by one person, budgeted once, used for years. The organizations that treat this as a standing operational requirement rather than a discretionary purchase are the ones that never have to calculate the alternative cost, because they never generate the incident that would trigger it.
+Set against these categories, the cost of being equipped is small and predictable: a stable, fully foldable cooling tub with room for 2 people in simultaneous immersion, budgeted once, used for years. The organizations that treat this as a standing operational requirement rather than a discretionary purchase are the ones that never have to calculate the alternative cost, because they never generate the incident that would trigger it.
 
 Departments, EHS teams, and event medical directors evaluating what a properly equipped response actually requires can get specifications and a quote at [kollder.com/#contact](https://kollder.com/#contact).
 

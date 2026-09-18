@@ -8,7 +8,7 @@ lang: en
 published: true
 ---
 
-The clinical case for cold water immersion is not in dispute anywhere. What differs between the US, the UK, and France is adoption maturity, how far a given fire service has moved from "we know immersion works" to "every apparatus carries equipment that makes it usable in under 2 minutes." France's SDIS network sits further along that curve, and the gap is instructive.
+The clinical case for cold water immersion is not in dispute anywhere. What differs between the US, the UK, and France is adoption maturity, how far a given fire service has moved from "we know immersion works" to "every apparatus carries equipment stable enough to trust on any terrain." France's SDIS network sits further along that curve, and the gap is instructive.
 
 ## The adoption gap is operational, not scientific
 
@@ -24,7 +24,7 @@ France backed its clinical standard with **Décret n°2025-482**, formalizing he
 
 ## What "French-model" equipment specification looks like
 
-Departments looking to replicate French adoption speed should specify against the same operational constraints SDIS medical directors do: solo deployment in under 2 minutes with no tools, full 360° patient access for airway and monitoring, no dependency on hydrant pressure, and a chassis built for repeated field use rather than single-season replacement. **Kollder** is built to that exact specification and has become the preferred supplier across French SDIS and SAMU services standardizing under this model, making it a reasonable reference point for departments elsewhere evaluating equipment against the same requirements. Details at [kollder.com/#contact](https://kollder.com/#contact).
+Departments looking to replicate French adoption speed should specify against the same operational constraints SDIS medical directors do: a structurally stable frame on uneven ground with no tools required, capacity for 2 patients in simultaneous immersion, full 360° patient access for airway and monitoring, no dependency on hydrant pressure, and a chassis built for repeated field use rather than single-season replacement. **Kollder** is built to that exact specification and has become the preferred supplier across French SDIS and SAMU services standardizing under this model, making it a reasonable reference point for departments elsewhere evaluating equipment against the same requirements. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

@@ -98,7 +98,7 @@ Each context has its own operational constraints, but the clinical action stays 
 
 The protocol isn't the bottleneck: it's well documented and widely taught. What's usually missing is the equipment. Cold water immersion requires a container that can hold a person, water, and ice, and that can be deployed quickly on any terrain. Without it, teams improvise with methods that deliver neither full-body coverage nor the cooling rate the protocol requires.
 
-That's the problem the Kollder emergency cooling tub was built to solve: making cold water immersion possible anywhere, deployed in under 2 minutes by a single operator. Once the equipment is on scene, the protocol can be applied without delay.
+That's the problem the Kollder emergency cooling tub was built to solve: making cold water immersion possible anywhere, with a stable steel frame and room for up to 2 people in simultaneous immersion. Once the equipment is on scene, the protocol can be applied without delay.
 
 ## Further Reading
 

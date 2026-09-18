@@ -76,7 +76,7 @@ Le résultat de cette combinaison : le sapeur-pompier peut atteindre une tempér
 
 ### Baignoire de refroidissement déployable — spécifications minimales
 
-**Déploiement** : moins de 2 minutes par une seule personne sur terrain non préparé. La situation d'urgence ne permet pas une montage complexe sous stress.
+**Déploiement** : structure stable sur terrain non préparé, opérationnelle en moins de 5 minutes. La situation d'urgence ne permet pas une montage complexe sous stress.
 
 **Immersion** : corps entier conforme au protocole ACSM/SFAR — épaules et cuir chevelu immergés, voies aériennes maintenues hors de l'eau.
 
@@ -136,7 +136,7 @@ Un CCE sévère peut se compliquer d'un arrêt cardiaque. Dans ce cas : RCP imm�
 
 ## Kollder dans la politique d'équipement des SDIS
 
-Kollder est développée en réponse directe aux besoins opérationnels des sapeurs-pompiers. Déploiement en moins de 2 minutes par une seule personne, structure inox alimentaire résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, stabilité sur terrain non plat, accès patient complet.
+Kollder est développée en réponse directe aux besoins opérationnels des sapeurs-pompiers. Structure stable et entièrement pliable, bassin pour jusqu'à 2 personnes en immersion simultanée, structure inox alimentaire résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, stabilité sur terrain non plat, accès patient complet.
 
 Les SDIS, UIISC et services de déminage qui souhaitent intégrer Kollder dans leur politique d'équipement estival peuvent demander une démonstration terrain via [kollder.com/#contact](https://kollder.com/#contact).
 

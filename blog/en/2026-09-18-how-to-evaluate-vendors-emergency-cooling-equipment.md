@@ -106,7 +106,7 @@ Equipment that is cheaper to buy but has scarce or costly spare parts can end up
 
 ## Kollder One™ and Kollder Go™, an offer that holds up under verification
 
-We routinely offer a field demonstration before any decision. Kollder One™ deploys in under 2 minutes by a single operator, with a food-grade stainless steel structure and full patient access throughout immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes field deployment practical.
+We routinely offer a field demonstration before any decision. Kollder One™ combines a stable, six-point steel frame with a food-grade stainless steel structure, full patient access throughout immersion, and room for up to 2 people in simultaneous immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes field deployment practical.
 
 To arrange a demonstration or get a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

@@ -129,13 +129,13 @@ L'espace de stockage dans un VLTT, une VPL ou un CCF est compté. Un dispositif 
 **Contrainte 2 : la robustesse**
 Le matériel SDIS est soumis à des cycles d'usage, de transport et de décontamination intenses. Un équipement en textile enduit ou en plastique présentera une dégradation accélérée dans ces conditions. La résistance aux désinfectants courants est une exigence non négociable.
 
-**Contrainte 3 : le déploiement solo**
-En situation réelle, le premier intervenant sur un agent en hyperthermie peut être seul ou avec un seul coéquipier, lui-même sollicité par la gestion opérationnelle. L'équipement doit être déployable par une seule personne.
+**Contrainte 3 : la stabilité en autonomie**
+En situation réelle, le premier intervenant sur un agent en hyperthermie peut être seul ou avec un seul coéquipier, lui-même sollicité par la gestion opérationnelle. L'équipement doit rester stable sur le terrain, même déployé par une équipe réduite.
 
 **Contrainte 4 : la polyvalence**
 Un équipement embarqué en permanence doit justifier sa présence sur tous les types d'intervention, pas seulement les feux de forêt en canicule. Sa compacité et sa facilité de déploiement déterminent s'il sera systématiquement emporté ou laissé en caserne.
 
-La baignoire de refroidissement d'urgence Kollder répond directement à ces quatre contraintes : 85 × 10 × 10 cm repliée, construction en acier inoxydable compatible avec les protocoles de décontamination, déploiement en moins de 2 minutes par une seule personne, accès complet au patient pendant l'immersion.
+La baignoire de refroidissement d'urgence Kollder répond directement à ces quatre contraintes : 85 × 10 × 10 cm repliée, construction en acier inoxydable compatible avec les protocoles de décontamination, structure stable à 6 points d'appui, accès complet au patient pendant l'immersion.
 
 Pour les SDIS et SSSM qui souhaitent évaluer la solution dans leur contexte : [kollder.com/#contact](https://kollder.com/#contact).
 

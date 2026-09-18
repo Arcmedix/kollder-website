@@ -17,7 +17,7 @@ Le feu s'est déclenché le 14 août dans la fagne des Deux-Séries, au cœur de
 Environ 600 habitants, notamment autour du village de Sourbrodt, ont dû évacuer leur domicile. Une semaine après le déclenchement du feu, une partie d'entre eux ne pouvait toujours pas rentrer chez elle. Les autorités wallonnes ont annoncé le 18 août que le feu était contenu dans les zones accessibles aux secours, mais qu'il continuait de progresser en profondeur dans les zones de tourbe inaccessibles à pied.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -37,7 +37,7 @@ Sur un théâtre d'opérations comme celui des Hautes Fagnes, où les secteurs d
 
 ## Un équipement qui doit suivre les équipes jusque dans la fagne
 
-C'est exactement l'écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, déployable par un seul intervenant en moins de 2 minutes sur n'importe quel terrain, y compris une piste de fagne ou un point de rassemblement improvisé loin de toute infrastructure. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et peut suivre une équipe engagée pendant plusieurs jours consécutifs sans logistique lourde. Les services d'incendie belges, wallons comme d'autres régions confrontées à des feux de tourbière ou de forêt de plus en plus fréquents, peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leurs postes de réhabilitation avancés.
+C'est exactement l'écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, stable sur n'importe quel terrain, y compris une piste de fagne ou un point de rassemblement improvisé loin de toute infrastructure. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et peut suivre une équipe engagée pendant plusieurs jours consécutifs sans logistique lourde. Les services d'incendie belges, wallons comme d'autres régions confrontées à des feux de tourbière ou de forêt de plus en plus fréquents, peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leurs postes de réhabilitation avancés.
 
 ## Pour aller plus loin
 

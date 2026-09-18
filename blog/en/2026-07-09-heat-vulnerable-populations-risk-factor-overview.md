@@ -24,7 +24,7 @@ Construction, agriculture, warehousing, and logistics workers face a third risk 
 
 ## Matching the response to the population
 
-A cooling response designed for elderly heat-wave victims (shaded rest areas, hydration, passive cooling) is not the same response an exertional heat stroke case needs. For the exertional profile, immediate immersion cooling is the standard of care. Equipment like the Kollder emergency cooling tub, deployable by one person in under 2 minutes, is built specifically for this fast-onset, high-exertion scenario. Contact [kollder.com/#contact](https://kollder.com/#contact) for details.
+A cooling response designed for elderly heat-wave victims (shaded rest areas, hydration, passive cooling) is not the same response an exertional heat stroke case needs. For the exertional profile, immediate immersion cooling is the standard of care. Equipment like the Kollder emergency cooling tub, built on a stable 6-point steel frame with room for 2 people in simultaneous immersion, is built specifically for this fast-onset, high-exertion scenario. Contact [kollder.com/#contact](https://kollder.com/#contact) for details.
 
 ## Further Reading
 

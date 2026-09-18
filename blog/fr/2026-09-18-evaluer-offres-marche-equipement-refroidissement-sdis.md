@@ -44,7 +44,7 @@ faqSchema: |
         "name": "Comment vérifier les performances annoncées par un candidat dans son mémoire technique ?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "En exigeant une démonstration chronométrée réelle, par un seul opérateur, sur un terrain non préparé similaire aux conditions d'intervention, et en contactant directement les références clients citées plutôt qu'en se fiant à la liste fournie."
+          "text": "En exigeant une démonstration réelle, avec vérification de la stabilité de la structure, sur un terrain non préparé similaire aux conditions d'intervention, et en contactant directement les références clients citées plutôt qu'en se fiant à la liste fournie."
         }
       },
       {
@@ -77,7 +77,7 @@ La règle est simple : la grille de notation communiquée dans le règlement de 
 
 Un mémoire technique déclare des performances ; l'analyse doit les vérifier. Trois leviers concrets :
 
-- **Démonstration chronométrée** : exigez un déploiement réel, par un seul opérateur, sur un terrain non préparé similaire à vos conditions d'intervention. Un écart entre le temps annoncé et le temps mesuré est un signal d'alerte majeur.
+- **Démonstration terrain** : exigez un déploiement réel, avec vérification de la stabilité de la structure, sur un terrain non préparé similaire à vos conditions d'intervention. Un écart entre les performances annoncées et les performances mesurées est un signal d'alerte majeur.
 - **Vérification des références clients** : contactez directement les SDIS ou services cités en référence pour confirmer l'usage réel et la satisfaction terrain, au-delà de la liste fournie par le candidat.
 - **Contrôle de cohérence documentaire** : comparez les dimensions, poids et matériaux annoncés dans le mémoire technique avec la documentation produit publique du fabricant. Une incohérence doit être questionnée avant notation.
 
@@ -100,7 +100,7 @@ Le rapport d'analyse des offres (RAO) doit démontrer, critère par critère, co
 
 ## Kollder One™, une offre qui résiste à la vérification terrain
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, un temps que nous démontrons systématiquement lors des essais terrain avant décision. Structure inox alimentaire, immersion corps entier, accès patient total pendant le refroidissement.
+Kollder One™ repose sur une structure inox alimentaire stable à 6 points d'appui, qui reste de niveau sur terrain non préparé, avec une capacité pour 2 personnes en immersion simultanée, un différentiel que nous démontrons systématiquement lors des essais terrain avant décision. Immersion corps entier, accès patient total pendant le refroidissement.
 
 Pour organiser une démonstration terrain ou obtenir un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

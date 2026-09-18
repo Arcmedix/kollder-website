@@ -28,7 +28,7 @@ Le protocole **Cool First, Transport Second**, validé par l'ACSM, l'IOC/BJSM et
 
 ## Un point de refroidissement près des zones à forte hygrométrie
 
-Pour un site de blanchisserie industrielle, positionner un dispositif de refroidissement d'urgence à proximité immédiate des zones de calandrage et de séchage permet de réagir dans la fenêtre critique des 30 minutes établie par le Korey Stringer Institute. Kollder One™, déployable par une seule personne en moins de 2 minutes, offre un accès patient à 360° adapté aux espaces de production contraints. [Demander un devis Kollder](https://kollder.com/#contact).
+Pour un site de blanchisserie industrielle, positionner un dispositif de refroidissement d'urgence à proximité immédiate des zones de calandrage et de séchage permet de réagir dans la fenêtre critique des 30 minutes établie par le Korey Stringer Institute. Kollder One™, avec sa structure stable à 6 points d'appui, offre un accès patient à 360° adapté aux espaces de production contraints. [Demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

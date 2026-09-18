@@ -24,7 +24,7 @@ An internal plan should specify the trigger for escalating from routine rehab to
 
 ## Staging equipment where it will actually get used
 
-A heat action plan is only as effective as the equipment behind it. The Kollder emergency cooling tub folds into the compact Kollder Go bag for easy staging on apparatus or at a rehab sector, and deploys solo in under 2 minutes when needed. Reach out at [kollder.com/#contact](https://kollder.com/#contact) for department-wide options.
+A heat action plan is only as effective as the equipment behind it. The Kollder emergency cooling tub folds fully into the compact Kollder Go bag for easy staging on apparatus or at a rehab sector, and stays stable and ready when needed. Reach out at [kollder.com/#contact](https://kollder.com/#contact) for department-wide options.
 
 ## Further Reading
 

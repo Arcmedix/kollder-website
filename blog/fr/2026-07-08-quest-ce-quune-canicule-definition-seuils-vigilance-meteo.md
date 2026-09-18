@@ -59,7 +59,7 @@ Le système de vigilance donne un cadre utile pour anticiper une crise sanitaire
 
 C'est pourquoi les services les mieux préparés, qu'il s'agisse des SDIS, des équipes SAMU et SMUR, des dispositifs de la protection civile lors de grands rassemblements ou des responsables médicaux d'événements sportifs, ne calquent pas leur doctrine de préparation sur le seul niveau de vigilance météo. Ils intègrent le risque de coup de chaleur d'effort dans leur protocole indépendamment du seuil administratif, avec un équipement de refroidissement disponible en amont plutôt qu'en réaction à une alerte.
 
-C'est dans cette logique que s'inscrit **la baignoire de refroidissement d'urgence Kollder**, pensée pour être déployée par un seul opérateur en moins de 2 minutes, sans attendre l'activation d'un plan canicule pour être prête à l'usage. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
+C'est dans cette logique que s'inscrit **la baignoire de refroidissement d'urgence Kollder**, pensée pour rester stable sur tout type de terrain, sans attendre l'activation d'un plan canicule pour être prête à l'usage. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 

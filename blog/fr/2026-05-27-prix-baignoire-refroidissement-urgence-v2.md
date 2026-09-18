@@ -44,7 +44,7 @@ La Corben est une baignoire française développée en collaboration avec la Bri
 - **Instabilité structurelle** — le cadre aluminium tubulaire (Ø34 mm) avec bâche PVC fixée par 10 pattes Velcro présente des problèmes d'instabilité en terrain non plat. Sur un terrain en pente ou irrégulier — conditions fréquentes en feux de forêt ou sur circuit de course — la structure peut se déformer sous le poids du patient et de l'eau.
 - **Fuites aux jonctions Velcro** — les 10 pattes Velcro qui fixent la bâche au cadre sont le point faible du système. Après plusieurs utilisations, les fixations s'usent et des fuites apparaissent au niveau des jonctions. Les retours d'utilisateurs terrain signalent ce problème comme récurrent.
 - **Fragilité à l'usage répété** — le cadre aluminium tubulaire n'est pas conçu pour résister à des conditions d'utilisation très fréquentes en milieu hostile. Plusieurs SDIS rapportent des déformations ou ruptures de tubes après quelques saisons d'utilisation intensive.
-- **Déploiement lent** — la structure nécessite plusieurs minutes et idéalement deux personnes pour être montée correctement sous stress opérationnel. La fixation des 10 pattes Velcro dans l'ordre correct prend du temps.
+- **Stabilité sous charge** — les 10 pattes Velcro doivent être fixées avec soin pour éviter tout jeu dans la structure une fois le patient et l'eau en place ; un assemblage imparfait sous stress opérationnel peut compromettre la stabilité en cours d'intervention.
 - **Encombrement replié** — 190 x 48 cm replié, ce qui représente un volume significatif dans un véhicule de secours déjà chargé.
 
 La Corben a été le choix par défaut pendant des années parce qu'il n'existait pas d'alternative française sérieuse. Elle reste une solution fonctionnelle pour les postes médicaux fixes, mais ses limites opérationnelles sont bien connues des équipes qui l'utilisent régulièrement.
@@ -54,10 +54,10 @@ La Corben a été le choix par défaut pendant des années parce qu'il n'existai
 Kollder est développée précisément pour répondre aux limitations documentées des solutions existantes. Sa structure inox alimentaire et son liner haute résistance ont été conçus pour un usage intensif en conditions difficiles.
 
 **Ce qu'elle apporte par rapport à la Corben :**
-- Déploiement en moins de 2 minutes par une seule personne — sans montage, sans Velcro
+- Bassin pour jusqu'à 2 personnes en immersion simultanée
 - Structure inox alimentaire : résistance à la corrosion et aux chocs supérieure à l'aluminium tubulaire
 - Liner intégré sans jonctions Velcro — pas de point de fuite mécanique
-- Stabilité sur terrain non plat grâce à la conception du châssis
+- Stabilité sur terrain non plat grâce à la conception du châssis, sans montage ni Velcro
 - Compacité repliée optimisée pour l'intégration véhicule
 
 Kollder est encore en phase de développement avancé. Les équipes qui souhaitent l'évaluer ou la tester terrain sont invitées à prendre contact directement.

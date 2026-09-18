@@ -17,7 +17,7 @@ According to the provisional assessment from Spain's Ministry for Ecological Tra
 The La Mierla fire, in Guadalajara province, forced the evacuation of entire towns, including all 100 residents of Zarzuela de Jadraque, sheltered at a Red Cross center. The town's mayor summed up the toll, noting his firefighters had to run from one end of the village to the other to put out flare-ups, in heat that gave them no relief. In Tarragona, the Paüls fire mobilized more than 460 personnel, including Spain's Military Emergency Unit (UME), to stabilize a blaze that eventually burned over 3,300 hectares with a 44-kilometer perimeter, under winds gusting to 90 km/h. In La Segarra, Lleida, a fire believed to have started from agricultural machinery burned more than 5,500 hectares in under 48 hours, killing two people.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -35,7 +35,7 @@ This protocol does not stop at a border. Whether the operation is unfolding in G
 
 ## Equipment built for firegrounds with no infrastructure
 
-That is the exact constraint Kollder One was designed to remove. A stainless steel emergency cooling tub, deployable by a single responder in under 2 minutes, on any terrain, including a forestry track or an improvised rally point several kilometers from the command post. Weighing 11.1 kg packed, it lets a forward medical post stay operational through multi-day operations like the ones seen across Spain this summer. Fire departments and medical services facing increasingly early and intense wildfire seasons can [request a Kollder quote](https://kollder.com/#contact) to equip their forward medical posts ahead of the next heatwave.
+That is the exact constraint Kollder One was designed to remove. A stainless steel emergency cooling tub, stable on any terrain, including a forestry track or an improvised rally point several kilometers from the command post. Weighing 11.1 kg packed, it lets a forward medical post stay operational through multi-day operations like the ones seen across Spain this summer. Fire departments and medical services facing increasingly early and intense wildfire seasons can [request a Kollder quote](https://kollder.com/#contact) to equip their forward medical posts ahead of the next heatwave.
 
 ## Further Reading
 

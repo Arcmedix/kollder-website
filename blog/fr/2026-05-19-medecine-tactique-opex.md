@@ -97,7 +97,7 @@ Les contraintes operationnelles sont reelles :
 - L'infirmier de combat peut etre seul pour traiter plusieurs victimes simultanement
 - Le deploiement doit etre quasi-instantane
 
-C'est precisement pour repondre a ces contraintes que la baignoire de refroidissement Kollder a ete developpee -- transportable dans un plateau logistique ou un vehicule tactique, utilisable par une seule personne, sur n'importe quel type de terrain.
+C'est precisement pour repondre a ces contraintes que la baignoire de refroidissement Kollder a ete developpee -- transportable dans un plateau logistique ou un vehicule tactique, avec une structure stable sur n'importe quel type de terrain.
 
 ## Prevention sur les exercices et entrainements intensifs
 

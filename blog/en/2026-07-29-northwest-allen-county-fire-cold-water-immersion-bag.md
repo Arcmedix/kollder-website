@@ -24,7 +24,7 @@ The **ACSM 2023 Expert Consensus Statement** is explicit that the "cool first, t
 
 ## Where Kollder fits
 
-**Kollder One™** is priced and built for exactly this operating environment: €539 HT for a stainless steel tub that one firefighter deploys in under 2 minutes, with no ice-vendor dependency and no assembly beyond what's already packed on the rig. At 11.1 kg packed, it fits departments running lean apparatus loadouts, and its full 360° patient access supports the same IV, vitals, and hospital-notification workflow Northwest Allen County crews already train on, just without the supply-chain risk of a last-minute ice order. Departments comparing options can review specifications at [kollder.com/#contact](https://kollder.com/#contact).
+**Kollder One™** is priced and built for exactly this operating environment: €539 HT for a stainless steel tub with a 6-point frame that stays stable on the rig's terrain, with no ice-vendor dependency and no assembly beyond what's already packed on the rig. At 11.1 kg packed, it fits departments running lean apparatus loadouts, and its full 360° patient access supports the same IV, vitals, and hospital-notification workflow Northwest Allen County crews already train on, just without the supply-chain risk of a last-minute ice order. Departments comparing options can review specifications at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin / Further Reading
 

@@ -52,7 +52,7 @@ The deployment speed of the tub is critical. Every minute lost between collapse 
 
 **Active triage** — identify participants who are slowing, stumbling, appearing confused, or stopping sweating. These are the early signs of EHS before collapse.
 
-**Tub in standby position** — do not wait for an emergency to deploy. In standby configuration, the tub can be filled and operational in under 2 minutes.
+**Tub in standby position** — do not wait for an emergency to deploy. In standby configuration, the tub stays stable and filled, with room for two people to enter simultaneous immersion the moment it's needed.
 
 **Radio communication** — first responders on the course must be able to contact the advanced medical post immediately without losing time.
 
@@ -64,7 +64,7 @@ An organiser without an immersion tub compliant with the reference protocol cann
 
 ## Kollder in the Hyrox event medical setup
 
-Kollder is designed for the specific requirements of indoor fitness events: rapid deployment in a confined space, single-person operation, compact profile between uses, full patient access for advanced medical procedures.
+Kollder is designed for the specific requirements of indoor fitness events: a stable footprint in a confined space, room for up to 2 people in simultaneous immersion, compact profile between uses, full patient access for advanced medical procedures.
 
 For Hyrox and fitness event organisers who want to act before the 2026 summer season: [kollder.com/#contact](https://kollder.com/#contact).
 

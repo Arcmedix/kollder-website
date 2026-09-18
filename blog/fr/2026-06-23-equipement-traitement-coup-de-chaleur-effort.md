@@ -54,7 +54,7 @@ La question du matériau est aussi plus importante qu'elle n'y paraît. Un équi
 
 La baignoire de refroidissement d'urgence Kollder a été conçue en réponse directe à ces contraintes opérationnelles.
 
-- **Déploiement en moins de 2 minutes par une seule personne**, sur n'importe quelle surface plane
+- **Structure stable à 6 points d'appui**, sur n'importe quel type de sol, même irrégulier
 - **Accès complet au patient** : la structure ouverte permet le monitoring continu et tous les gestes médicaux sans retirer le patient de l'eau
 - **Dimensions déployées** : 205 × 80 × 60 cm — adapté à l'immersion d'un adulte jusqu'aux épaules
 - **Format replié** : 85 × 10 × 10 cm — transportable dans un coffre de véhicule léger, un sac de dotation ou un sac à dos de secours

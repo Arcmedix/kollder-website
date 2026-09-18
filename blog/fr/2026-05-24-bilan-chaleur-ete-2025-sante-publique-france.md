@@ -48,7 +48,7 @@ Ce chiffre devrait figurer dans tout plan canicule d'entreprise, tout protocole 
 
 L'augmentation des interventions liées à la chaleur est structurelle. Les sapeurs-pompiers et les médecins du SSSM seront confrontés à davantage de cas de CCE potentiel lors des interventions estivales — pas seulement sur les feux de forêt, mais sur les chantiers, les événements sportifs, les manifestations en plein air.
 
-La question logistique est centrale : un équipement de refroidissement par immersion est-il disponible et déployable en moins de 2 minutes sur chaque véhicule ou poste avancé exposé au risque ?
+La question logistique est centrale : un équipement de refroidissement par immersion est-il disponible et stable en conditions réelles sur chaque véhicule ou poste avancé exposé au risque ?
 
 **Pour les médecins et infirmiers d'événements sportifs**
 
@@ -62,7 +62,7 @@ Depuis le 1er juillet 2025, le [décret n°2025-482](https://kollder.com/blog/fr
 
 Quand le coup de chaleur survient, chaque minute sans refroidissement aggrave le pronostic. Le protocole "cool first, transport second" — refroidir d'abord, transporter ensuite — est la règle clinique de référence internationale pour le CCE. Il ne peut s'appliquer que si l'équipement est présent sur le terrain, pas dans un dépôt.
 
-Santé Publique France conclut son rapport en notant que la société doit se préparer à des étés encore plus chauds. Pour les professionnels de terrain, cela se traduit par une question simple : avez-vous, sur chaque site exposé, la capacité de refroidir un patient par immersion en moins de 2 minutes ?
+Santé Publique France conclut son rapport en notant que la société doit se préparer à des étés encore plus chauds. Pour les professionnels de terrain, cela se traduit par une question simple : avez-vous, sur chaque site exposé, un équipement de refroidissement par immersion stable et prêt à l'emploi ?
 
 Retrouvez [l'équipement de refroidissement pour les dispositifs de secours et de protection civile](https://kollder.com/fr/protection-civile/) sur notre page dédiée.
 

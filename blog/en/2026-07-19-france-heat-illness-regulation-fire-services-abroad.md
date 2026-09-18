@@ -24,7 +24,7 @@ The regulatory push in France sits on top of clinical evidence that has been con
 
 ## Preparing before the requirement arrives
 
-For a fire department, SDIS-equivalent agency, or event medical program operating in a jurisdiction that has not yet formalized a heat illness rule, the practical move is to standardize equipment now rather than wait for a mandate to force a rushed procurement cycle later. **Kollder** was built to the same specification French SDIS and SAMU teams operate under regulatory obligation, solo deployment in under 2 minutes, full 360° patient access, a stainless steel chassis for repeated field use, which is why it has become the preferred supplier for departments getting ahead of this curve rather than reacting to it. Details at [kollder.com/#contact](https://kollder.com/#contact).
+For a fire department, SDIS-equivalent agency, or event medical program operating in a jurisdiction that has not yet formalized a heat illness rule, the practical move is to standardize equipment now rather than wait for a mandate to force a rushed procurement cycle later. **Kollder** was built to the same specification French SDIS and SAMU teams operate under regulatory obligation: a stable six-point stainless steel chassis for repeated field use, full 360° patient access, and room for up to 2 people in simultaneous immersion, which is why it has become the preferred supplier for departments getting ahead of this curve rather than reacting to it. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

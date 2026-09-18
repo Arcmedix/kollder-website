@@ -30,7 +30,7 @@ A large share of India's workforce, agricultural laborers, construction workers,
 
 The clinical evidence on this point is consistent across countries with very different climates and health systems. The Korey Stringer Institute's dataset of over 401 exertional heat stroke cases shows a 100% survival rate when core temperature is brought below 40°C within 30 minutes of collapse, using cold water immersion. Cold water immersion cools the body at roughly 0.35°C per minute, about ten times faster than wet towels or ice packs, which is what makes the treatment window achievable in a field setting rather than only in a hospital.
 
-Getting that window right depends on having cooling equipment where the exposure is happening, not fifteen minutes away by ambulance. This is the gap that the Kollder emergency cooling tub is built to close: a stainless steel immersion tub that a single responder deploys in under 2 minutes, on any terrain, giving field medical teams, site safety officers, and event organizers the ability to start the Cool First, Transport Second protocol at the point of collapse rather than after transport. More at [kollder.com/#contact](https://kollder.com/#contact).
+Getting that window right depends on having cooling equipment where the exposure is happening, not fifteen minutes away by ambulance. This is the gap that the Kollder emergency cooling tub is built to close: a stainless steel immersion tub on a stable, six-point frame that stays level on any terrain, giving field medical teams, site safety officers, and event organizers the ability to start the Cool First, Transport Second protocol at the point of collapse rather than after transport. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further reading
 

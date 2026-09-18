@@ -24,7 +24,7 @@ Departments with strong heat-surge protocols train triage staff to treat any pos
 
 ## Cooling capacity has to match the surge
 
-Triage protocols only work if the department can act on what they flag. An emergency department expecting a heat-wave surge needs immersion cooling capacity that scales with volume, not a single tub shared across the whole unit. The Kollder emergency cooling tub's compact storage and sub-2-minute solo deployment make it practical to stage multiple units for exactly this scenario. More at [kollder.com/#contact](https://kollder.com/#contact).
+Triage protocols only work if the department can act on what they flag. An emergency department expecting a heat-wave surge needs immersion cooling capacity that scales with volume, not a single tub shared across the whole unit. The Kollder emergency cooling tub's compact storage and stable, six-point frame make it practical to stage multiple units for exactly this scenario. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

@@ -61,7 +61,7 @@ La doctrine Cool First Transport Second impose que les véhicules SMUR soient é
 
 Cela suppose :
 
-**Une baignoire de refroidissement déployable**, intégrée dans le véhicule en configuration de départ. L'équipement doit être déployable en moins de 2 minutes par une seule personne, indépendamment du terrain.
+**Une baignoire de refroidissement déployable**, intégrée dans le véhicule en configuration de départ. L'équipement doit rester stable sur tout type de terrain, indépendamment du relief.
 
 **Une réserve d'eau froide ou de glace**, disponible en permanence lors de la saison estivale. Certains SMUR s'approvisionnent auprès des pompiers sur les interventions partagées.
 
@@ -73,7 +73,7 @@ Dans la pratique, de nombreuses équipes SMUR françaises transportent encore le
 
 Le résultat est documenté : les victimes arrivent aux urgences avec une température centrale encore élevée, après un délai qui dépasse souvent la fenêtre des 30 minutes. La prise en charge hospitalière est alors plus lourde et le pronostic plus sombre.
 
-Kollder est conçue pour répondre à ce déficit d'équipement préhospitalier. Sa baignoire se déploie en moins de 2 minutes par une seule personne et s'intègre dans tout véhicule SMUR. L'accès patient complet pendant l'immersion permet de maintenir l'ensemble des gestes de réanimation. Pour les équipes SMUR qui souhaitent l'évaluer : [kollder.com/#contact](https://kollder.com/#contact).
+Kollder est conçue pour répondre à ce déficit d'équipement préhospitalier. Sa baignoire, à la structure stable et pliable, s'intègre dans tout véhicule SMUR. L'accès patient complet pendant l'immersion permet de maintenir l'ensemble des gestes de réanimation. Pour les équipes SMUR qui souhaitent l'évaluer : [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

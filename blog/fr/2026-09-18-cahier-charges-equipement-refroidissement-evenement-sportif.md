@@ -25,7 +25,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Definir les criteres techniques",
-        "text": "Exiger un deploiement en moins de 2 minutes par un seul operateur, une immersion corps entier avec acces patient continu et une portabilite adaptee au terrain."
+        "text": "Exiger une structure stable sur terrain naturel, une immersion corps entier avec acces patient continu et une portabilite adaptee au terrain."
       },
       {
         "@type": "HowToStep",
@@ -69,7 +69,7 @@ faqSchema: |
 
 Un décès par coup de chaleur d'effort sur un trail, un marathon ou une course Hyrox met directement en cause la responsabilité du directeur médical de l'épreuve. Contrairement à un SDIS ou une administration, un organisateur d'événement sportif n'est généralement pas soumis au Code de la commande publique : il peut contractualiser directement avec un fournisseur. Cela ne dispense pas de rigueur dans la définition du besoin et la comparaison des offres.
 
-**En bref :** un cahier des charges pour l'équipement de refroidissement d'un événement sportif doit dimensionner le nombre de postes selon les participants et le format de course, exiger un déploiement en moins de 2 minutes par un seul opérateur, et être finalisé 8 à 12 semaines avant l'épreuve pour permettre une démonstration terrain (ACSM 2023, CIO/BJSM 2021, SFAR).
+**En bref :** un cahier des charges pour l'équipement de refroidissement d'un événement sportif doit dimensionner le nombre de postes selon les participants et le format de course, exiger une structure stable sur terrain naturel et une capacité pour 2 personnes en immersion simultanée, et être finalisé 8 à 12 semaines avant l'épreuve pour permettre une démonstration terrain (ACSM 2023, CIO/BJSM 2021, SFAR).
 
 ## Pourquoi un cahier des charges dédié, même sans procédure publique
 
@@ -96,7 +96,7 @@ Un délai de 8 à 12 semaines avant l'épreuve est une base raisonnable pour un 
 
 ## Étape 3 : Définir les critères techniques du cahier des charges
 
-- **Déploiement en moins de 2 minutes par un seul opérateur** : sur un poste de secours souvent tenu par une équipe réduite, la rapidité de mise en œuvre conditionne la capacité à traiter plusieurs cas rapprochés
+- **Structure stable sur terrain naturel et capacité pour 2 personnes** : sur un poste de secours souvent tenu par une équipe réduite, la stabilité et la possibilité de traiter deux cas en simultané conditionnent la capacité à traiter plusieurs cas rapprochés
 - **Immersion corps entier avec accès patient continu** : surveillance des voies aériennes, prise de température rectale, geste de réanimation possible sans sortir le patient du dispositif
 - **Portabilité et poids replié** : critère déterminant pour les épreuves nécessitant plusieurs postes ou un déploiement en terrain naturel (sentier, plage, zone non carrossable)
 - **Nombre d'unités nécessaires simultanément**, en fonction du nombre de coureurs susceptibles d'être pris en charge en parallèle sur les formats à forte affluence
@@ -122,7 +122,7 @@ Pour un usage ponctuel (un événement par an), la location peut être plus pert
 
 ## Kollder One™ et Kollder Go™, conçus pour les postes médicaux d'événements
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec un accès patient total pendant l'immersion. Kollder Go™, le sac de transport hybride (85 x 10 x 10 cm), facilite le déploiement de plusieurs postes sur une même épreuve, y compris sur les formats en terrain naturel.
+Kollder One™ repose sur une structure stable sur terrain naturel, avec un accès patient total et une capacité pour 2 personnes en immersion simultanée. Kollder Go™, le sac de transport hybride (85 x 10 x 10 cm), facilite le déploiement de plusieurs postes sur une même épreuve, y compris sur les formats en terrain naturel.
 
 Pour une démonstration ou un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

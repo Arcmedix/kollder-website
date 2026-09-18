@@ -85,7 +85,7 @@ In both countries, adults 75 and older account for the majority of deaths from c
 
 ## What these numbers mean for field teams
 
-These national statistics translate, at the individual level, into a single operational requirement: cool any suspected heat stroke case immediately, before transport. The **"Cool First, Transport Second"** protocol (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute) remains the international standard of care for exertional heat stroke. It only works if immersion cooling equipment is actually on site, deployable in under 2 minutes by a single operator, rather than stored in a distant depot. Details at [kollder.com/#contact](https://kollder.com/#contact).
+These national statistics translate, at the individual level, into a single operational requirement: cool any suspected heat stroke case immediately, before transport. The **"Cool First, Transport Second"** protocol (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute) remains the international standard of care for exertional heat stroke. It only works if immersion cooling equipment is actually on site, stable and ready on any terrain, rather than stored in a distant depot. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

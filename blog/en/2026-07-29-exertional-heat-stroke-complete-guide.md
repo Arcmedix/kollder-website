@@ -97,7 +97,7 @@ For a full breakdown of how CWI compares to every other field cooling method, se
 
 Cold water immersion works. It is also demanding to execute without dedicated equipment. An inflatable pool, buckets of ice water, an improvised tarp: these solutions exist, but they take time to set up, tie up several people, and are rarely ready within the first 5 minutes on an event ground or at an incident scene.
 
-This is precisely the operational constraint the Kollder emergency cooling tub was designed to remove. Deployable in under 2 minutes by one person, it allows immersion to begin without waiting for backup, while keeping the patient fully accessible for monitoring and medical procedures throughout cooling. Its stainless steel structure holds up to repeated use in real operational conditions.
+This is precisely the operational constraint the Kollder emergency cooling tub was designed to remove. Stable on any terrain and built for up to 2 people in simultaneous immersion, it allows immersion to begin without waiting for backup, while keeping the patient fully accessible for monitoring and medical procedures throughout cooling. Its stainless steel structure holds up to repeated use in real operational conditions.
 
 Medical and rescue teams evaluating a dedicated solution for their own operations can get in touch at [kollder.com/#contact](https://kollder.com/#contact).
 

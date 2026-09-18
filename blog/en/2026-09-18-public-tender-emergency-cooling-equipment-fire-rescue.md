@@ -25,7 +25,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Write a specification built on performance criteria",
-        "text": "Specify measurable criteria: deployment in under 2 minutes by a single operator, whole-body immersion, continuous patient access, and durability, rather than a brand."
+        "text": "Specify measurable criteria: structural stability on uneven ground, whole-body immersion for up to 2 people, continuous patient access, and durability, rather than a brand."
       },
       {
         "@type": "HowToStep",
@@ -49,7 +49,7 @@ faqSchema: |
         "name": "What deployment time should a tender require for emergency cooling equipment?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The equipment should be deployable in under 2 minutes by a single operator, on unprepared ground, consistent with the 'Cool First, Transport Second' protocol from the ACSM, IOC, and Korey Stringer Institute. This should be verified through a timed field demonstration before award."
+          "text": "The equipment should remain stable and level on unprepared, uneven ground and accommodate 2 patients in simultaneous immersion, consistent with the 'Cool First, Transport Second' protocol from the ACSM, IOC, and Korey Stringer Institute. This should be verified through a timed field demonstration before award."
         }
       },
       {
@@ -65,7 +65,7 @@ faqSchema: |
         "name": "What should a technical specification for emergency cooling equipment include?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Measurable criteria: deployment time under 2 minutes by a single operator, whole-body immersion with continuous patient access, material durability, vehicle integration, and spare parts and after-sales support timelines."
+          "text": "Measurable criteria: structural stability on uneven ground, whole-body immersion for up to 2 people with continuous patient access, material durability, vehicle integration, and spare parts and after-sales support timelines."
         }
       }
     ]
@@ -74,7 +74,7 @@ faqSchema: |
 
 Exertional heat stroke can kill in under an hour if the therapeutic window is missed. For a fire and rescue service, equipping stations with a cold water immersion solution is not a routine supplies purchase: it is a decision that shapes operational capability and exposes the service to liability if it gets the specification wrong. This guide walks through how to scope, write, and evaluate a public tender for this type of equipment.
 
-**Short answer:** a public tender for emergency cooling equipment should require deployment in under 2 minutes by a single operator and whole-body immersion with continuous patient access, verified through a timed field demonstration before award. Using a pre-approved supplier catalog is generally optional, not mandatory (ACSM 2023, IOC/BJSM 2021).
+**Short answer:** a public tender for emergency cooling equipment should require a structurally stable unit on unprepared ground and whole-body immersion for up to 2 people with continuous patient access, verified through a timed field demonstration before award. Using a pre-approved supplier catalog is generally optional, not mandatory (ACSM 2023, IOC/BJSM 2021).
 
 ## Why this procurement deserves a dedicated approach
 
@@ -106,7 +106,7 @@ Thresholds are revised periodically. Check the current figure on your jurisdicti
 
 A specification that is too generic lets non-compliant equipment through. One that describes a specific product too closely risks a legal challenge for restricting competition. The better approach is to specify measurable performance criteria:
 
-- **Deployment time**: deployable in **under 2 minutes** by a single operator, on unprepared ground. Require a timed field demonstration during bid evaluation, not just a stated figure.
+- **Structural stability and capacity**: a frame supported by at least 6 ground contact points that stays level on unprepared, uneven ground, with room for 2 patients in simultaneous immersion, deployable in under 5 minutes. Require a timed field demonstration during bid evaluation, not just a stated figure.
 - **Whole-body immersion**: the unit must allow full immersion, shoulders and scalp included, consistent with the ACSM/IOC reference protocol.
 - **Patient access during immersion**: an open structure allowing continuous airway monitoring, rectal temperature checks, IV access, and CPR if needed.
 - **Material durability**: resistance to field conditions (impact, UV exposure, disinfectant products, repeated use), specified with detail on structure and liner rather than a generic "durable" claim.
@@ -121,7 +121,7 @@ For safety equipment, price should never be the sole deciding factor. A common w
 - 30 to 40% price, assessed on total cost of ownership rather than purchase price alone
 - 10 to 20% references and after-sales support
 
-Always require a field demonstration before award. A real, timed deployment by a single operator reveals gaps between a spec sheet and actual field performance.
+Always require a field demonstration before award. A real, timed test on unprepared, uneven ground reveals gaps between a spec sheet and actual field performance.
 
 ## Common mistakes to avoid
 
@@ -132,7 +132,7 @@ Always require a field demonstration before award. A real, timed deployment by a
 
 ## Kollder One™, built to meet these criteria
 
-Kollder One™ is an emergency cold water immersion tub designed for fire and rescue use: deployable in under 2 minutes by a single operator, food-grade stainless steel structure, full-body immersion with complete patient access throughout cooling.
+Kollder One™ is an emergency cold water immersion tub designed for fire and rescue use: a 6-point steel frame stable on uneven ground, food-grade stainless steel structure, full-body immersion for up to 2 people with complete patient access throughout cooling.
 
 For a field demonstration or a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

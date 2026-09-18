@@ -30,7 +30,7 @@ For exertional and classic heat stroke alike, the treatment window is short and 
 
 ## Equipment that does not wait for the grid
 
-A deployable, grid-independent immersion tub is one of the few interventions that functions identically whether the power is on or off. Kollder deploys in under 2 minutes by a single responder, on any terrain, giving field medical teams, disaster response organizations, and municipal emergency services a way to run the Cool First, Transport Second protocol even when the infrastructure around them has failed. More at [kollder.com/#contact](https://kollder.com/#contact).
+A deployable, grid-independent immersion tub is one of the few interventions that functions identically whether the power is on or off. Kollder stays stable on any terrain, giving field medical teams, disaster response organizations, and municipal emergency services a way to run the Cool First, Transport Second protocol even when the infrastructure around them has failed. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further reading
 

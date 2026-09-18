@@ -171,7 +171,7 @@ Le transport n'est pas la première action, il vient une fois le refroidissement
 
 ## Ce que cela implique pour l'équipement de terrain
 
-Chacune de ces décisions suppose qu'un moyen d'immersion soit disponible immédiatement, sur les lieux mêmes de l'intervention, pas dans un véhicule à distance. La baignoire Kollder se déploie en moins de 2 minutes par un seul opérateur, sans outillage, et son ouverture complète permet de conserver un accès médical total (thermométrie, pose de voie, gestion des voies aériennes) pendant toute la durée de l'immersion, y compris si une réévaluation ou une RCP devient nécessaire. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
+Chacune de ces décisions suppose qu'un moyen d'immersion soit disponible immédiatement, sur les lieux mêmes de l'intervention, pas dans un véhicule à distance. La baignoire Kollder repose sur une structure stable sans outillage, et son ouverture complète permet de conserver un accès médical total (thermométrie, pose de voie, gestion des voies aériennes) pendant toute la durée de l'immersion, y compris si une réévaluation ou une RCP devient nécessaire. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

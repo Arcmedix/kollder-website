@@ -24,7 +24,7 @@ faqSchema: |
         "name": "What is an emergency cooling tub?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "An emergency cooling tub is engineered for immediate deployment in under 2 minutes by one person, full portability so it fits folded into any emergency vehicle, and full-body immersion of the patient to the shoulders, three constraints that standard bathtubs cannot meet."
+          "text": "An emergency cooling tub is engineered for structural stability on uneven ground, full portability so it fits folded into any emergency vehicle, and full-body immersion of the patient to the shoulders, three constraints that standard bathtubs cannot meet."
         }
       },
       {
@@ -101,7 +101,7 @@ Dr Douglas Casa, CEO of the Korey Stringer Institute (University of Connecticut)
 
 An emergency cooling tub is engineered around three operational constraints that standard bathtubs cannot meet:
 
-**Immediate deployment**: the tub must be operational in under 2 minutes, by one person, with no tools. Rigid tubs require dedicated transport and infrastructure.
+**Structural stability**: the tub must stay stable and level on unprepared, uneven ground, with no tools required, and be operational in under 5 minutes. Rigid tubs require dedicated transport and infrastructure.
 
 **Full portability**: it must fit folded into a light vehicle, a trail motorcycle, a forward medical post, or a fire truck, without excess bulk.
 
@@ -136,9 +136,9 @@ Recommended immersion duration is **until rectal temperature returns below 38.6Â
 
 The fundamental rule: **Cool first, transport second.** Never transport before cooling.
 
-## Kollder: the emergency cooling tub that deploys in under 2 minutes
+## Kollder: the emergency cooling tub built for stability and capacity
 
-Kollder is built to meet these operational requirements. Its food-grade stainless steel frame and high-resistance waterproof liner enable deployment by one person in under 2 minutes, on any terrain.
+Kollder is built to meet these operational requirements. Its food-grade stainless steel frame and high-resistance waterproof liner keep it stable on any terrain, with room for up to 2 people in simultaneous immersion.
 
 Folded, it fits in any emergency vehicle. Deployed, it enables full-body immersion fully compliant with international protocols.
 

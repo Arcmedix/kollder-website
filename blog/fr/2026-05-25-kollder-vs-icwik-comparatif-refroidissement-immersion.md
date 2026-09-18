@@ -14,7 +14,7 @@ L'I-CWIK (Ice-Cold Water Immersion Kit) de Nereus Medical est l'un des systèmes
 
 **I-CWIK** est un sac en PVC souple avec fermetures étanches YKK AQUASEAL®, conçu par le Dr Ross Hemingway OBE pour Nereus Medical (Royaume-Uni). Léger et portable, il est utilisé par des équipes médicales militaires, des services de secours et des organisations d'événements sportifs dans plusieurs pays anglophones.
 
-**Kollder** est une baignoire de refroidissement d'urgence à structure inox alimentaire et liner haute résistance, conçue pour le déploiement préhospitalier rapide par une seule personne, avec accès complet au patient pendant l'immersion.
+**Kollder** est une baignoire de refroidissement d'urgence à structure inox alimentaire et liner haute résistance, conçue pour une stabilité structurelle sur tout type de terrain et une immersion simultanée jusqu'à 2 personnes, avec accès complet au patient pendant l'immersion.
 
 ## Comparatif technique
 

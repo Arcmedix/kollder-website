@@ -65,7 +65,7 @@ Trois leviers permettent d'anticiper plutôt que de subir :
 
 ## Un équipement mobile plutôt qu'un poste unique saturable
 
-C'est là que l'organisation matérielle rejoint l'organisation du tri. Disposer d'un poste de refroidissement fixe unique crée un goulot d'étranglement en cas d'affluence simultanée. **La baignoire de refroidissement d'urgence Kollder**, déployable par une seule personne en moins de 2 minutes sur n'importe quel point du circuit (accueil, box, zone de tri extérieure), permet de dupliquer la capacité de refroidissement sans dépendre d'une installation fixe unique. Structure inox, accès patient complet, désinfection facilitée. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
+C'est là que l'organisation matérielle rejoint l'organisation du tri. Disposer d'un poste de refroidissement fixe unique crée un goulot d'étranglement en cas d'affluence simultanée. **La baignoire de refroidissement d'urgence Kollder**, à la structure stable et entièrement pliable, capable d'accueillir jusqu'à 2 patients en immersion simultanée, déployable en moins de 5 minutes sur n'importe quel point du circuit (accueil, box, zone de tri extérieure), permet de dupliquer la capacité de refroidissement sans dépendre d'une installation fixe unique. Structure inox, accès patient complet, désinfection facilitée. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 

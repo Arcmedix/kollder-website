@@ -28,7 +28,7 @@ Le protocole **Cool First, Transport Second**, recommandé par l'ACSM, l'IOC/BJS
 
 ## Équiper les véhicules techniques et les bases de vie
 
-Les collectivités peuvent équiper leurs véhicules d'intervention ou leurs bases de vie de chantier d'un dispositif de refroidissement d'urgence transportable, plutôt que de dépendre uniquement du délai d'intervention des secours extérieurs. Kollder One™, déployable par une seule personne en moins de 2 minutes sur tout type de sol, associé à Kollder Go™ pour le transport, s'intègre facilement à un véhicule technique municipal ou une base de chantier mobile. [Demander un devis Kollder](https://kollder.com/#contact).
+Les collectivités peuvent équiper leurs véhicules d'intervention ou leurs bases de vie de chantier d'un dispositif de refroidissement d'urgence transportable, plutôt que de dépendre uniquement du délai d'intervention des secours extérieurs. Kollder One™, à la structure stable sur tout type de sol et entièrement pliable, associé à Kollder Go™ pour le transport, s'intègre facilement à un véhicule technique municipal ou une base de chantier mobile. [Demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

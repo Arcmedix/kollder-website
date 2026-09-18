@@ -20,7 +20,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Define non-negotiable operational requirements",
-        "text": "Specify deployment in under 2 minutes by a single operator, reinforced environmental resistance, and logistics autonomy."
+        "text": "Specify structural stability on unprepared ground, reinforced environmental resistance, and logistics autonomy."
       },
       {
         "@type": "HowToStep",
@@ -69,7 +69,7 @@ faqSchema: |
 
 In deployed operations and during intensive training in hot environments, exertional heat stroke remains a preventable cause of death for military personnel. Equipping a medical unit with a cold water immersion solution follows a distinct procurement logic, defense and security procurement, with operational constraints specific to this sector.
 
-**Short answer:** a defense procurement specification for cooling equipment should add operational requirements beyond civilian criteria: deployment under 2 minutes by a single operator, reinforced environmental resistance (sand, dust, impact), and logistics autonomy without fixed infrastructure (ACSM 2023, IOC/BJSM 2021, Korey Stringer Institute).
+**Short answer:** a defense procurement specification for cooling equipment should add operational requirements beyond civilian criteria: structural stability on unprepared ground, reinforced environmental resistance (sand, dust, impact), and logistics autonomy without fixed infrastructure (ACSM 2023, IOC/BJSM 2021, Korey Stringer Institute).
 
 ## What sets defense and security procurement apart
 
@@ -92,7 +92,7 @@ This scoping directly shapes the portability, environmental durability, and logi
 
 Beyond the clinical criteria common to any purchase of this equipment type (whole-body immersion, continuous patient access, compliance with the **"Cool First, Transport Second"** protocol), a defense-context specification should also specify:
 
-- **Deployment in under 2 minutes by a single operator**, including by non-specialist personnel under operational stress
+- **Structural stability across all support points, on unprepared ground**, including under operational stress, with capacity for two people in simultaneous immersion
 - **Reinforced environmental resistance**: sand, dust, transport impact, extreme temperature swings, prolonged UV exposure
 - **Folded volume and weight compatible with tactical air transport** or integration into individual/collective load-out, depending on use
 - **Logistics autonomy**: functioning without electrical power or fixed infrastructure
@@ -106,18 +106,18 @@ As with any public purchase, using a pre-approved supplier catalog listing a lim
 
 ## Step 4: Require a demonstration under representative conditions
 
-A spec sheet is not enough to validate equipment intended for operational use. Require a timed deployment demonstration by a single operator, ideally under conditions close to actual field use (unprepared ground, representative transport load). It is the only reliable way to confirm equipment will hold within the exertional heat stroke therapeutic window once fielded.
+A spec sheet is not enough to validate equipment intended for operational use. Require a timed stability and deployment demonstration, ideally under conditions close to actual field use (unprepared ground, representative transport load). It is the only reliable way to confirm equipment will hold within the exertional heat stroke therapeutic window once fielded.
 
 ## Common mistakes to avoid
 
 - Selecting equipment validated only for civilian use, without verifying its resistance to transport and operational environmental stress
-- Underweighting single-operator rapid deployment, when field personnel are often limited
+- Underweighting structural stability on uneven ground, when field conditions are rarely ideal
 - Failing to require data on spare parts availability under tight timelines
 - Limiting the search to already-listed suppliers without checking for newer solutions on the market
 
 ## Kollder One™ and Kollder Go™, built for operational use
 
-Kollder One™ deploys in under 2 minutes by a single operator, with a structure designed for demanding field conditions. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), was designed for transport and rapid deployment in operational contexts, including for deployed units.
+Kollder One™ combines a stable, six-point steel frame with a structure designed for demanding field conditions, plus room for up to 2 people in simultaneous immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), was designed for transport and rapid deployment in operational contexts, including for deployed units.
 
 For a demonstration or a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

@@ -44,7 +44,7 @@ faqSchema: |
         "name": "How do you verify a bidder's stated performance claims?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "By requiring a real timed demonstration, by a single operator, on unprepared ground similar to your operational conditions, and by contacting cited references directly rather than relying on the list supplied by the bidder."
+          "text": "By requiring a real timed demonstration on unprepared ground similar to your operational conditions, checking that the structure stays stable across all support points, and by contacting cited references directly rather than relying on the list supplied by the bidder."
         }
       },
       {
@@ -77,7 +77,7 @@ The rule is simple: the scoring matrix published in the tender documents must be
 
 A technical submission states performance figures; evaluation should verify them. Three practical checks:
 
-- **Timed demonstration**: require a real deployment, by a single operator, on unprepared ground similar to your operational conditions. A gap between the stated and measured time is a major warning sign.
+- **Timed demonstration**: require a real deployment on unprepared ground similar to your operational conditions, and confirm the structure stays stable and level across all support points. A gap between the stated and measured time is a major warning sign.
 - **Reference verification**: contact the agencies or services cited as references directly to confirm real-world use and satisfaction, beyond the list supplied by the bidder.
 - **Documentation consistency check**: compare the dimensions, weight, and materials stated in the technical submission against the manufacturer's public product documentation. Any inconsistency should be questioned before scoring.
 
@@ -100,7 +100,7 @@ The bid evaluation report should show, criterion by criterion, how each bid was 
 
 ## Kollder One™, a bid that holds up under field verification
 
-Kollder One™ deploys in under 2 minutes by a single operator, a figure we consistently demonstrate in field trials before any decision. Food-grade stainless steel structure, whole-body immersion, full patient access throughout cooling.
+Kollder One™ combines a stable, six-point steel frame with room for up to 2 people in simultaneous immersion, a structure we consistently demonstrate in field trials before any decision. Food-grade stainless steel structure, whole-body immersion, full patient access throughout cooling.
 
 To arrange a field demonstration or get a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

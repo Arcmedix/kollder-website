@@ -84,7 +84,7 @@ Sortir la victime à **38,6°C de température rectale**. Transport vers les urg
 
 La connaissance du protocole ne suffit pas si la baignoire n'est pas là. Voici ce que chaque équipe de premiers secours doit avoir disponible lors de cet épisode :
 
-**Une baignoire de refroidissement déployable** — conforme au protocole d'immersion complète, déployable en moins de 2 minutes par une seule personne. C'est l'équipement non négociable.
+**Une baignoire de refroidissement déployable** — conforme au protocole d'immersion complète, à la structure stable et opérationnelle en moins de 5 minutes. C'est l'équipement non négociable.
 
 **De l'eau froide et de la glace** — en quantité suffisante pour remplir la baignoire et maintenir une température entre 1,5°C et 15°C. Anticipez les besoins dès le début du service.
 
@@ -94,7 +94,7 @@ La connaissance du protocole ne suffit pas si la baignoire n'est pas là. Voici 
 
 Les équipes de premiers secours ne peuvent pas se permettre une baignoire qui prend 5 minutes à monter à deux personnes. Elles ont besoin d'un équipement qui se déploie seul, immédiatement, sur n'importe quel terrain.
 
-Kollder a été conçue avec ces contraintes opérationnelles comme point de départ. Déploiement en moins de 2 minutes par une seule personne, structure inox résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, accès patient total pendant le refroidissement.
+Kollder a été conçue avec ces contraintes opérationnelles comme point de départ. Structure stable et entièrement pliable, opérationnelle en moins de 5 minutes, structure inox résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, accès patient total pendant le refroidissement.
 
 Dans le contexte du dôme de chaleur de mai 2026 — et des épisodes qui vont se multiplier — disposer de cet équipement n'est plus une option.
 

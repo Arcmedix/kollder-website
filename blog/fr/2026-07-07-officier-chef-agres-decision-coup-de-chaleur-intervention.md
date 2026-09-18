@@ -30,7 +30,7 @@ Une partie de l'hésitation observée sur le terrain vient d'une confusion entre
 
 ## Ce que cela implique pour l'équipement disponible sur place
 
-Cette clarification n'a de valeur pratique que si le matériel de refroidissement est réellement accessible au moment où l'officier prend sa décision, sans dépendre de l'arrivée d'un renfort. Un dispositif déployable seul, en moins de 2 minutes, permet à l'équipe déjà présente d'engager l'immersion sans attendre de personnel supplémentaire. C'est la contrainte de conception centrale du Kollder One™ et de son sac de transport Kollder Go™, pensés pour être déployés par l'intervenant déjà sur zone. Plus de détails sur [kollder.com/#contact](https://kollder.com/#contact).
+Cette clarification n'a de valeur pratique que si le matériel de refroidissement est réellement accessible au moment où l'officier prend sa décision, sans dépendre de l'arrivée d'un renfort. Un dispositif stable sur tout terrain permet à l'équipe déjà présente d'engager l'immersion sans attendre de personnel supplémentaire. C'est la contrainte de conception centrale du Kollder One™ et de son sac de transport Kollder Go™, pensés pour être déployés par l'intervenant déjà sur zone. Plus de détails sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

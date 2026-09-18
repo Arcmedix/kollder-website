@@ -58,7 +58,7 @@ Le goulot d'étranglement dans la prise en charge du CCE n'est pas le diagnostic
 
 En canicule intense et durable comme celle de juin 2026, la probabilité d'un CCE lors d'un événement sportif, d'une opération pompiers, ou d'une activité industrielle en extérieur n'est pas un scénario théorique. C'est un risque opérationnel documenté, que le Décret 2025-482 reconnaît explicitement dans les obligations de l'employeur pour les travailleurs exposés à la chaleur.
 
-La baignoire de refroidissement d'urgence **Kollder** est conçue pour répondre à cette contrainte. Déployable en moins de 2 minutes par un seul opérateur sur tout type de terrain, elle permet d'initier l'immersion en eau froide dans les délais requis par le protocole ACSM, sans dépendre d'une infrastructure fixe. Pour les directeurs médicaux d'événements, les équipes SDIS et les responsables EHS en entreprise, c'est ce délai de déploiement qui détermine si la fenêtre thérapeutique est respectée ou non. Contactez l'équipe Kollder via [kollder.com/#contact](https://kollder.com/#contact) pour évaluer vos besoins selon votre contexte opérationnel.
+La baignoire de refroidissement d'urgence **Kollder** est conçue pour répondre à cette contrainte. Grâce à sa structure stable sur tout type de terrain, elle permet d'initier l'immersion en eau froide dans les délais requis par le protocole ACSM, sans dépendre d'une infrastructure fixe. Pour les directeurs médicaux d'événements, les équipes SDIS et les responsables EHS en entreprise, c'est ce délai de déploiement qui détermine si la fenêtre thérapeutique est respectée ou non. Contactez l'équipe Kollder via [kollder.com/#contact](https://kollder.com/#contact) pour évaluer vos besoins selon votre contexte opérationnel.
 
 ## Pour aller plus loin
 

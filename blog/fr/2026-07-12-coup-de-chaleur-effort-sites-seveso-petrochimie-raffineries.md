@@ -28,7 +28,7 @@ Le protocole **Cool First, Transport Second**, validé par l'ACSM, l'IOC/BJSM et
 
 ## Un point de refroidissement dédié en zone de décontamination
 
-Pour les équipes de sécurité interne des sites Seveso et pétrochimiques, disposer d'un dispositif de refroidissement d'urgence positionné en zone de décontamination ou de repli permet d'agir dès la sortie de zone à risque, sans attendre les secours extérieurs. Kollder One™, déployable par une seule personne en moins de 2 minutes, s'intègre à ce type de dispositif opérationnel avec un accès patient à 360° pour l'équipe médicale interne. [Demander un devis Kollder](https://kollder.com/#contact).
+Pour les équipes de sécurité interne des sites Seveso et pétrochimiques, disposer d'un dispositif de refroidissement d'urgence positionné en zone de décontamination ou de repli permet d'agir dès la sortie de zone à risque, sans attendre les secours extérieurs. Kollder One™, avec sa structure stable à 6 points d'appui, s'intègre à ce type de dispositif opérationnel avec un accès patient à 360° pour l'équipe médicale interne. [Demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

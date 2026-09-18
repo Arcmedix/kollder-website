@@ -17,7 +17,7 @@ Over the weekend of 26 to 28 June, as the Deutscher Wetterdienst measured temper
 Emergency physician (Notarzt) dispatches followed an even steeper trajectory: from an average of 19 callouts per day under normal conditions to 27 per day during the hottest June days, a 42 percent increase. Emergency departments, for their part, reported a marked rise in heat-related circulatory complications and dehydration cases. One detail matters for operational planning: call volume stayed well above baseline for several days after the heat wave officially ended, meaning the strain did not stop the moment the heat warning was lifted.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -33,7 +33,7 @@ In a surge scenario like the one Germany saw in late June, the ability to treat 
 
 ## Cooling capability that can deploy on the spot
 
-That is the role Kollder One plays for emergency services already equipping their advanced posts and SMUR-equivalent vehicles. A stainless steel emergency cooling tub, set up by a single responder in under 2 minutes, usable directly at the point of care rather than after transport to a fixed facility. Packed for transport with Kollder Go, it weighs 11.1 kg and requires no heavy logistics to deploy. German emergency medical services anticipating a repeat of this kind of seasonal peak can [request a Kollder quote](https://kollder.com/#contact) to equip their crews.
+That is the role Kollder One plays for emergency services already equipping their advanced posts and SMUR-equivalent vehicles. A stable stainless steel emergency cooling tub, usable directly at the point of care rather than after transport to a fixed facility. Packed for transport with Kollder Go, it weighs 11.1 kg and requires no heavy logistics to deploy. German emergency medical services anticipating a repeat of this kind of seasonal peak can [request a Kollder quote](https://kollder.com/#contact) to equip their crews.
 
 ## Further Reading
 

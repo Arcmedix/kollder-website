@@ -69,7 +69,7 @@ Le CCE concerne directement plusieurs populations professionnelles et sportives 
 
 ## Un équipement pensé spécifiquement pour le CCE
 
-Cette distinction a une conséquence pratique directe : l'équipement de refroidissement utilisé pour un CCE doit permettre une immersion rapide et complète, déployable en intervention active, contrairement à des solutions plus statiques adaptées au coup de chaleur classique en milieu hospitalier ou domestique. **La baignoire de refroidissement d'urgence Kollder** a été conçue pour ce contexte précis : déploiement par un seul opérateur en moins de 2 minutes, sur le terrain, quel que soit le lieu d'intervention. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
+Cette distinction a une conséquence pratique directe : l'équipement de refroidissement utilisé pour un CCE doit permettre une immersion rapide et complète, déployable en intervention active, contrairement à des solutions plus statiques adaptées au coup de chaleur classique en milieu hospitalier ou domestique. **La baignoire de refroidissement d'urgence Kollder** a été conçue pour ce contexte précis : structure stable sur le terrain, quel que soit le lieu d'intervention. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 

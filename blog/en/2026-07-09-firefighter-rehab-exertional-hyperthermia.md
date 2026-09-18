@@ -24,7 +24,7 @@ When a firefighter in rehab shows signs consistent with exertional heat stroke r
 
 ## Building immersion capability into rehab
 
-Adding an immersion-capable cooling tub to the rehab sector, alongside the usual rest and rehydration stations, closes this gap without adding significant logistics burden. The Kollder emergency cooling tub deploys solo in under 2 minutes and packs into the Kollder Go bag for easy staging at a rehab sector. More at [kollder.com/#contact](https://kollder.com/#contact).
+Adding an immersion-capable cooling tub to the rehab sector, alongside the usual rest and rehydration stations, closes this gap without adding significant logistics burden. The Kollder emergency cooling tub stays stable on any surface and folds fully into the Kollder Go bag for easy staging at a rehab sector. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

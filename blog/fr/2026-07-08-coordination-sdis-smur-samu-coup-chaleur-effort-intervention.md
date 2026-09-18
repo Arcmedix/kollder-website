@@ -61,7 +61,7 @@ Les retours d'expérience convergent sur un point de friction récurrent : l'arr
 
 ## Un langage et un matériel communs facilitent la jonction
 
-La coordination se fluidifie quand les différents acteurs partagent un référentiel matériel commun plutôt que des équipements hétérogènes d'un service à l'autre. Lorsque SDIS et SMUR disposent du même type de dispositif de refroidissement, la passation de relais ne nécessite aucune réinstallation ni changement de méthode. **La baignoire de refroidissement d'urgence Kollder**, utilisée aussi bien en dotation SDIS qu'en équipement embarqué SMUR, s'inscrit dans cette logique d'interopérabilité terrain, avec un déploiement identique en moins de 2 minutes quel que soit l'acteur qui l'active. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
+La coordination se fluidifie quand les différents acteurs partagent un référentiel matériel commun plutôt que des équipements hétérogènes d'un service à l'autre. Lorsque SDIS et SMUR disposent du même type de dispositif de refroidissement, la passation de relais ne nécessite aucune réinstallation ni changement de méthode. **La baignoire de refroidissement d'urgence Kollder**, utilisée aussi bien en dotation SDIS qu'en équipement embarqué SMUR, s'inscrit dans cette logique d'interopérabilité terrain, avec une structure stable et un déploiement identique quel que soit l'acteur qui l'active. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 

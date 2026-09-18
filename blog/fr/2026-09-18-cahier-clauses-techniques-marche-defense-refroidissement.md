@@ -25,7 +25,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Exigences operationnelles",
-        "text": "Specifier le deploiement en moins de 2 minutes par un seul operateur et la resistance aux conditions environnementales degradees."
+        "text": "Specifier la stabilite structurelle sur tout type de terrain et la resistance aux conditions environnementales degradees."
       },
       {
         "@type": "HowToStep",
@@ -66,7 +66,7 @@ faqSchema: |
 
 Le cahier des clauses techniques d'un marché de défense et de sécurité doit traduire à la fois l'exigence clinique du protocole de refroidissement d'urgence et les contraintes opérationnelles propres au contexte militaire. Ce guide détaille, clause par clause, comment rédiger ce document.
 
-**En bref :** les clauses techniques d'un marché de défense pour un équipement de refroidissement doivent ajouter aux exigences cliniques standard des critères opérationnels : déploiement en moins de 2 minutes par un opérateur non spécialiste, résistance environnementale renforcée, et compatibilité avec le transport aérien tactique.
+**En bref :** les clauses techniques d'un marché de défense pour un équipement de refroidissement doivent ajouter aux exigences cliniques standard des critères opérationnels : stabilité structurelle sur tout type de terrain, résistance environnementale renforcée, et compatibilité avec le transport aérien tactique.
 
 Pour la méthode complète de préparation du marché (cadrage, procédure MPDS, évaluation), consultez notre [guide sur les marchés de défense et de sécurité pour un équipement de refroidissement](https://kollder.com/blog/fr/2026-09-18-marche-defense-securite-equipement-refroidissement-sssm/). Ce document-ci se concentre sur la rédaction des clauses techniques elles-mêmes.
 
@@ -90,7 +90,7 @@ Pour la méthode complète de préparation du marché (cadrage, procédure MPDS,
 
 Cette section distingue un cahier des charges militaire d'un cahier des charges civil :
 
-> "L'équipement doit être déployable en moins de 2 minutes par un seul opérateur, y compris par du personnel non spécialisé sous contrainte opérationnelle. La structure doit résister à des conditions environnementales dégradées (sable, poussière, chocs de transport, amplitude thermique élevée, exposition UV prolongée)."
+> "L'équipement doit reposer sur une structure stable à 6 points d'appui, garantissant un niveau constant même sur terrain irrégulier, avec une mise en œuvre possible en moins de 5 minutes. La structure doit résister à des conditions environnementales dégradées (sable, poussière, chocs de transport, amplitude thermique élevée, exposition UV prolongée)."
 
 > "Le poids et le volume repliés doivent être compatibles avec les contraintes de transport aérien tactique et/ou d'intégration au paquetage collectif de l'unité concernée. Le candidat précisera ces caractéristiques avec exactitude."
 
@@ -109,11 +109,11 @@ Cette section distingue un cahier des charges militaire d'un cahier des charges 
 - Reprendre telles quelles des clauses rédigées pour un usage civil, sans intégrer les contraintes opérationnelles
 - Omettre les exigences de résistance environnementale, pourtant déterminantes en dehors d'un usage garnison
 - Ne pas préciser les délais d'approvisionnement des pièces en configuration déployée
-- Sous-évaluer l'exigence de mise en œuvre par un seul opérateur sous contrainte
+- Sous-évaluer l'exigence de stabilité structurelle sur terrain irrégulier sous contrainte
 
 ## Kollder One™ et Kollder Go™, conçus pour ces exigences
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec une structure conçue pour les conditions de terrain difficiles. Kollder Go™, le sac de transport hybride sac à dos/à roulettes (85 x 10 x 10 cm), répond aux contraintes de transport et de déploiement en contexte opérationnel.
+Kollder One™ repose sur une structure stable à 6 points d'appui, conçue pour les conditions de terrain difficiles, avec une mise en œuvre en moins de 5 minutes. Kollder Go™, le sac de transport hybride sac à dos/à roulettes (85 x 10 x 10 cm), répond aux contraintes de transport et de déploiement en contexte opérationnel.
 
 Pour une démonstration ou un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

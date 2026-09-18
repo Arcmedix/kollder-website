@@ -24,7 +24,7 @@ Both conditions require rapid cooling to a core temperature below 39°C, but the
 
 ## Why this distinction matters for equipment choice
 
-A cooling solution built for exertional heat stroke needs to prioritize speed of deployment and cooling rate above all else, since the patient is often a young athlete or worker in the critical first 30 minutes. The Kollder emergency cooling tub is built for that specific scenario: one-person deployment in under 2 minutes, full patient access for monitoring during immersion. More at [kollder.com/#contact](https://kollder.com/#contact).
+A cooling solution built for exertional heat stroke needs to prioritize speed of deployment and cooling rate above all else, since the patient is often a young athlete or worker in the critical first 30 minutes. The Kollder emergency cooling tub is built for that specific scenario: a stable, six-point steel frame, full patient access for monitoring during immersion. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

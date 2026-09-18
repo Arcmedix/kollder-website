@@ -23,7 +23,7 @@ A wildfire operation in France or southern Europe is well documented for combini
 For crews engaged on vegetation fires under these conditions, the exertional heat stroke risk factors stack directly on top of each other: extreme ambient heat before deployment even begins, additional thermal load from gear and exertion, and rotations that, as documented this season on major fires in Greece, Croatia, and Belgium's Hautes Fagnes, can run far longer than initially planned.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -35,7 +35,7 @@ In a country where wildfire has historically ranked below flooding or storms as 
 
 ## Equipment that has to keep up with the Feuerwehr in the field
 
-That is the gap Kollder One was built to close. A stainless steel emergency cooling tub, set up by a single responder in under 2 minutes on any terrain, including open heathland or a forest edge far from fixed water infrastructure. Packed for transport with Kollder Go, it weighs 11.1 kg and lets an advanced rehab sector stay operational throughout a prolonged deployment. German fire services facing a sustained rise in vegetation fires can [request a Kollder quote](https://kollder.com/#contact) to equip their advanced rehab positions.
+That is the gap Kollder One was built to close. A stainless steel emergency cooling tub, stable on any terrain, including open heathland or a forest edge far from fixed water infrastructure. Packed for transport with Kollder Go, it weighs 11.1 kg and lets an advanced rehab sector stay operational throughout a prolonged deployment. German fire services facing a sustained rise in vegetation fires can [request a Kollder quote](https://kollder.com/#contact) to equip their advanced rehab positions.
 
 ## Further Reading
 

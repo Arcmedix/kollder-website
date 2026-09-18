@@ -28,7 +28,7 @@ Un opérateur présentant confusion, propos incohérents ou température corpore
 
 ## Équiper un poste de secours d'entrepôt
 
-La baignoire Kollder se déploie par une seule personne, sans outillage, en moins de 2 minutes, et se range facilement près d'un poste de secours ou d'une zone de pause. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
+La baignoire Kollder repose sur une structure stable, sans outillage, opérationnelle en moins de 5 minutes, et se range facilement près d'un poste de secours ou d'une zone de pause. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

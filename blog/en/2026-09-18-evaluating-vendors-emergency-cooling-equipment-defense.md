@@ -94,7 +94,7 @@ Contact the units or services cited as references directly, beyond the list supp
 
 ## Kollder One™ and Kollder Go™, tested under real conditions
 
-Kollder One™ deploys in under 2 minutes by a single operator, with a structure designed and tested for demanding field conditions. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), was built for deployment in operational contexts.
+Kollder One™ combines a stable, six-point steel frame with a structure designed and tested for demanding field conditions, plus room for up to 2 people in simultaneous immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), was built for deployment in operational contexts.
 
 To arrange a demonstration or get a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

@@ -78,7 +78,7 @@ The operational constraints are real:
 - One medical officer may be managing multiple casualties simultaneously
 - Terrain is often uneven, sloped, or debris-covered
 
-This is exactly the problem the Kollder emergency cooling tub was designed to solve. It deploys in under 2 minutes by a single person, on any surface, and fits in any apparatus or support vehicle. It eliminates the gap between knowing the protocol and being able to execute it.
+This is exactly the problem the Kollder emergency cooling tub was designed to solve. Its 6-point steel frame stays stable on any surface, folds fully into a transport bag, and fits in any apparatus or support vehicle. It eliminates the gap between knowing the protocol and being able to execute it.
 
 ---
 
@@ -108,7 +108,7 @@ Check your medical kit. Brief your crews. Position your cooling equipment. The p
 
 ---
 
-*Kollder is the emergency cooling tub built for fire service operations. Deploys in under 2 minutes, fits any apparatus, works on any terrain.*
+*Kollder is the emergency cooling tub built for fire service operations. Stable on any terrain, fits any apparatus, room for up to 2 people in simultaneous immersion.*
 
 Full equipment criteria and specifications for fire departments are available on our dedicated [fire and rescue services page](https://kollder.com/en/fire-rescue/).
 

@@ -17,7 +17,7 @@ Les données du BFP montrent une nette hausse des incendies chaque été : une m
 C'est exactement la même fenêtre où l'indice de chaleur de la PAGASA grimpe dans sa zone la plus dangereuse. Sur plusieurs journées cette année, Metro Manila et des dizaines de provinces ont enregistré des indices de chaleur entre 42°C et 46°C, la catégorie « Danger » de la PAGASA, où l'agence elle-même précise dans ses bulletins que les crampes de chaleur et l'épuisement par la chaleur sont probables, et le coup de chaleur possible en cas d'exposition prolongée. Des zones comme Dagupan City, Aparri, Casiguran, San Jose dans le Mindoro occidental, Cuyo à Palawan et Dumangas à Iloilo ont chacune enregistré des niveaux de danger cette saison, certaines plusieurs jours d'affilée.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -33,7 +33,7 @@ L'**ACSM Expert Consensus Statement 2023** et les recommandations de l'**IOC (Ho
 
 ## Un matériel de refroidissement calibré pour le budget d'une caserne, pas seulement pour une saison feux de forêt
 
-L'argument de Kollder One pour les casernes du BFP diffère de celui qui s'applique aux services feux de forêt : il ne s'agit pas de déploiements de plusieurs jours sur un terrain isolé, mais de disposer d'une capacité d'immersion en eau froide sur place, dans chacune des 648 casernes du pays, déployable par un seul intervenant en moins de 2 minutes, sans nécessiter de structure médicale fixe à proximité. Les services d'incendie et équipes EHS qui évaluent leur préparation à la chaleur avant le prochain pic de mars-mai peuvent [demander un devis Kollder](https://kollder.com/#contact).
+L'argument de Kollder One pour les casernes du BFP diffère de celui qui s'applique aux services feux de forêt : il ne s'agit pas de déploiements de plusieurs jours sur un terrain isolé, mais de disposer d'une capacité d'immersion en eau froide stable et pliable sur place, dans chacune des 648 casernes du pays, sans nécessiter de structure médicale fixe à proximité. Les services d'incendie et équipes EHS qui évaluent leur préparation à la chaleur avant le prochain pic de mars-mai peuvent [demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

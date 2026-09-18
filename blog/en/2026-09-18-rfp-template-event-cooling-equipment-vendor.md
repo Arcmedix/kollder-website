@@ -49,7 +49,7 @@ faqSchema: |
         "name": "What technical questions should always be included in an event cooling equipment RFP?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Timed deployment speed by a single operator, patient access during immersion, folded dimensions and weight, structural materials, and whether a demonstration is possible before the event."
+          "text": "Structural stability on uneven ground, patient access during immersion, folded dimensions and weight, structural materials, and whether a demonstration is possible before the event."
         }
       },
       {
@@ -88,7 +88,7 @@ For the sizing and timeline method, see our [guide on writing an RFP for sports 
 
 ## 3. Technical questions to ask every time
 
-- What is the timed deployment speed by a single operator, on unprepared ground?
+- How stable is the structure on unprepared ground, and how many people can it hold in simultaneous immersion?
 - Does the equipment allow full patient access during immersion?
 - What are the folded dimensions and weight?
 - What structure and liner materials are used, and how do they hold up to field conditions?
@@ -119,7 +119,7 @@ To compare responses objectively, structure a table with these columns: demonstr
 
 ## Kollder One™ and Kollder Go™ answer these questions
 
-Kollder One™ deploys in under 2 minutes by a single operator, with full patient access throughout immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes it practical to deploy multiple stations across a single event.
+Kollder One™ combines a stable, six-point steel frame with full patient access throughout immersion and room for up to 2 people in simultaneous immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes it practical to deploy multiple stations across a single event.
 
 For a demonstration or a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

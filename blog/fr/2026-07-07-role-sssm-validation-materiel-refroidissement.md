@@ -28,7 +28,7 @@ Au-delà du critère clinique, un SSSM évalue aussi la compatibilité du matér
 
 ## Formaliser la validation dans le cadre du SDIS
 
-Une fois ces critères établis, la validation du SSSM peut s'appuyer sur une grille de comparaison objective plutôt que sur une décision au cas par cas. C'est cette approche que Kollder propose aux directions médicales de SDIS : une fiche technique détaillant le taux de refroidissement, le délai de déploiement (moins de 2 minutes, seul), l'accès patient pendant l'immersion et les conditions de transport du Kollder One™ et de son sac Kollder Go™. Les spécifications complètes sont disponibles sur simple demande via [kollder.com/#contact](https://kollder.com/#contact).
+Une fois ces critères établis, la validation du SSSM peut s'appuyer sur une grille de comparaison objective plutôt que sur une décision au cas par cas. C'est cette approche que Kollder propose aux directions médicales de SDIS : une fiche technique détaillant le taux de refroidissement, la stabilité structurelle (6 points d'appui, terrain irrégulier), l'accès patient pendant l'immersion et les conditions de transport du Kollder One™ et de son sac Kollder Go™. Les spécifications complètes sont disponibles sur simple demande via [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

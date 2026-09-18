@@ -28,7 +28,7 @@ Le délai d'intervention des secours en zone rurale est structurellement plus lo
 
 ## Un équipement adapté à l'exploitation
 
-La baignoire Kollder se déploie par une seule personne, sans outillage, en moins de 2 minutes, et se transporte pliée dans le sac Kollder Go entre les différentes parcelles. Un investissement limité au regard du risque encouru par les équipes en pleine saison. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
+La baignoire Kollder repose sur une structure stable, sans outillage, opérationnelle en moins de 5 minutes, et se transporte pliée dans le sac Kollder Go entre les différentes parcelles. Un investissement limité au regard du risque encouru par les équipes en pleine saison. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

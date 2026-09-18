@@ -28,7 +28,7 @@ Le protocole **Cool First, Transport Second**, recommandé par l'ACSM (2023) et 
 
 ## Positionner un dispositif de refroidissement au plus près des postes à risque
 
-Sur un site de fonderie ou de sidérurgie, la distance entre le poste de travail et l'infirmerie est souvent le facteur limitant. Kollder One™, déployable par une seule personne en moins de 2 minutes sur tout type de sol, permet de positionner un point de refroidissement directement en atelier ou à proximité immédiate des zones à forte contrainte thermique, avec un accès patient à 360° pour l'équipe de secours interne. [Demander un devis Kollder](https://kollder.com/#contact).
+Sur un site de fonderie ou de sidérurgie, la distance entre le poste de travail et l'infirmerie est souvent le facteur limitant. Kollder One™, à la structure stable sur tout type de sol et entièrement pliable, permet de positionner un point de refroidissement directement en atelier ou à proximité immédiate des zones à forte contrainte thermique, avec un accès patient à 360° pour l'équipe de secours interne. [Demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

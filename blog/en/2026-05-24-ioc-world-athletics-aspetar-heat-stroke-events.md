@@ -70,7 +70,7 @@ The practical implication is not to change the protocol — cold water immersion
 
 ---
 
-**Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
+**Kollder is the emergency cooling tub that stays stable anywhere, with room for up to 2 people in simultaneous immersion.**
 
 [Request a quote](https://kollder.com/#contact)
 

@@ -45,7 +45,7 @@ A few patterns in a medical services proposal are worth pausing on before signin
 
 ## What providers use to meet this bar
 
-The Kollder emergency cooling tub deploys in under 2 minutes by a single operator, folds into a compact 85x10x10cm bag, and gives full patient access during immersion, the setup event medical providers use to satisfy exactly this checklist. Organizers building their medical plan can share specifications with their provider at [kollder.com/#contact](https://kollder.com/#contact).
+The Kollder emergency cooling tub stays stable on any terrain, folds into a compact 85x10x10cm bag, and gives full patient access during immersion for up to 2 people at once, the setup event medical providers use to satisfy exactly this checklist. Organizers building their medical plan can share specifications with their provider at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

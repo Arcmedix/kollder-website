@@ -52,7 +52,7 @@ faqSchema: |
         "name": "Quels critères techniques inclure dans un cahier des charges pour ce type d'équipement ?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Un temps de déploiement de moins de 2 minutes par un seul opérateur, une immersion corps entier avec accès patient continu, la robustesse des matériaux, la portabilité, et la disponibilité des pièces de rechange et du service après-vente."
+          "text": "Une structure stable sur terrain non préparé, une immersion corps entier avec accès patient continu, la robustesse des matériaux, la portabilité, et la disponibilité des pièces de rechange et du service après-vente."
         }
       },
       {
@@ -69,7 +69,7 @@ faqSchema: |
 
 Que vous soyez responsable EHS en entreprise, SDIS, service médical d'événement ou service de santé des armées, préparer un appel d'offres pour un équipement de refroidissement d'urgence suit la même logique de fond : traduire une exigence clinique documentée en critères techniques vérifiables, puis comparer les offres sur cette base plutôt que sur le seul prix. Ce guide détaille la méthode, étape par étape.
 
-**En bref :** un appel d'offres pour un équipement de refroidissement d'urgence doit spécifier un déploiement en moins de 2 minutes par un seul opérateur et une immersion corps entier avec accès patient continu, puis évaluer les offres sur une grille pondérée (technique, prix en coût total de possession, références), jamais sur le seul prix d'achat (ACSM 2023, CIO/BJSM 2021, Décret n°2025-482).
+**En bref :** un appel d'offres pour un équipement de refroidissement d'urgence doit spécifier une structure stable sur terrain non préparé et une immersion corps entier avec accès patient continu, puis évaluer les offres sur une grille pondérée (technique, prix en coût total de possession, références), jamais sur le seul prix d'achat (ACSM 2023, CIO/BJSM 2021, Décret n°2025-482).
 
 ## Pourquoi cet achat exige une méthode rigoureuse
 
@@ -96,7 +96,7 @@ Avant d'écrire la moindre ligne du cahier des charges, clarifiez :
 
 Un cahier des charges efficace décrit des critères mesurables, pas une marque ni un modèle précis :
 
-- **Temps de déploiement** : déployable en **moins de 2 minutes** par un seul opérateur, sur terrain non préparé, vérifié par une démonstration chronométrée
+- **Stabilité de la structure** : reste de niveau sur terrain non préparé, vérifiée par une démonstration chronométrée
 - **Immersion corps entier** : épaules et cuir chevelu compris, conforme au protocole de référence
 - **Accès patient continu pendant l'immersion** : structure ouverte permettant surveillance, prise de température, gestes de réanimation
 - **Robustesse des matériaux** : structure et liner adaptés à un usage répété en conditions difficiles
@@ -122,7 +122,7 @@ Exigez systématiquement une démonstration terrain avant décision finale : c'e
 
 ## Kollder One™ et Kollder Go™, conçus pour répondre à ces critères
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec une structure inox alimentaire et un accès patient total pendant l'immersion. Kollder Go™, le sac de transport hybride sac à dos/à roulettes (85 x 10 x 10 cm), facilite le déploiement sur le terrain, quel que soit le contexte d'usage.
+Kollder One™ repose sur une structure inox alimentaire stable à 6 points d'appui, avec un accès patient total et une capacité pour 2 personnes en immersion simultanée. Kollder Go™, le sac de transport hybride sac à dos/à roulettes (85 x 10 x 10 cm), facilite le déploiement sur le terrain, quel que soit le contexte d'usage.
 
 Pour une démonstration ou un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

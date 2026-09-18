@@ -30,7 +30,7 @@ Un SSSM qui intègre explicitement cette priorisation dans sa formation continue
 
 ## Intégrer l'immersion en eau froide dans le socle de formation
 
-Combler cet écart ne nécessite pas de refondre un cursus entier : il s'agit d'intégrer trois éléments dans la formation continue existante, à savoir la reconnaissance rapide du coup de chaleur d'effort, la priorisation de l'immersion sur le transport, et la connaissance du matériel de refroidissement disponible en dotation. Sur ce dernier point, un SSSM qui évalue son matériel doit pouvoir vérifier qu'il permet un déploiement en moins de 2 minutes par un seul agent et un accès complet au patient pendant l'immersion, deux critères qui conditionnent l'application réelle du protocole sur le terrain. Kollder One™ a été conçu autour de ces deux contraintes ; les spécifications sont disponibles sur [kollder.com/#contact](https://kollder.com/#contact).
+Combler cet écart ne nécessite pas de refondre un cursus entier : il s'agit d'intégrer trois éléments dans la formation continue existante, à savoir la reconnaissance rapide du coup de chaleur d'effort, la priorisation de l'immersion sur le transport, et la connaissance du matériel de refroidissement disponible en dotation. Sur ce dernier point, un SSSM qui évalue son matériel doit pouvoir vérifier qu'il repose sur une structure stable sur tout type de terrain et permette un accès complet au patient pendant l'immersion, deux critères qui conditionnent l'application réelle du protocole sur le terrain. Kollder One™ a été conçu autour de ces deux contraintes ; les spécifications sont disponibles sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

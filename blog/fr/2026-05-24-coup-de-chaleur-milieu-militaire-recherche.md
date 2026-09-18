@@ -56,7 +56,7 @@ La règle est celle adoptée par tous les systèmes de soins d'urgence militaire
 
 La revue internationale de 2025 le souligne clairement : le problème du CCE en milieu militaire n'est plus un problème de connaissance. C'est un problème de logistique et d'équipement. Les protocoles existent. Ce qui manque, c'est la capacité de refroidissement disponible au moment et à l'endroit où le CCE survient.
 
-Les contraintes opérationnelles sont réelles : poids et volume compatibles avec le conditionnement véhicule, temps de déploiement inférieur au temps d'aggravation, utilisation possible par un seul opérateur sans infrastructure fixe.
+Les contraintes opérationnelles sont réelles : poids et volume compatibles avec le conditionnement véhicule, temps de déploiement inférieur au temps d'aggravation, stabilité de la structure sans infrastructure fixe.
 
 ## Prévention : ce que la recherche recommande
 

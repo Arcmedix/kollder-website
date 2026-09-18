@@ -34,20 +34,20 @@ La bascule la plus concrète concerne la façon dont le matériel de refroidisse
 
 Une saison longue impose trois exigences au matériel.
 
-- **Déploiement rapide et répété.** L'équipement doit pouvoir être monté et démonté de nombreuses fois dans l'année, souvent par du personnel tournant ou bénévole, sans reformation à chaque fois. La cible : un déploiement par un seul opérateur en moins de 2 minutes.
+- **Structure stable et pliage simple.** L'équipement doit pouvoir être monté et démonté de nombreuses fois dans l'année, souvent par du personnel tournant ou bénévole, sans reformation à chaque fois. La cible : une structure qui reste stable sur tout terrain et se replie sans outillage.
 - **Robustesse.** Un usage répété sur plusieurs mois, sur des terrains variés, ne pardonne pas les solutions fragiles conçues pour un déploiement isolé.
 - **Accès patient à 360°.** En cas de coup de chaleur d'effort sévère, la fenêtre des 30 minutes ne laisse aucune marge pour un équipement qui gêne les gestes de réanimation.
 
 Concrètement, cela veut dire garder la capacité de refroidissement dans le véhicule ou au poste de secours pendant toute la saison élargie, et non la considérer comme un consommable estival.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour un usage terrain répété, en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour un usage terrain répété, en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
 ## Kollder One™ et Kollder Go™ : conçus pour une saison qui dure
 
-**Kollder One™** a été conçu pour cette réalité de saison longue plutôt que pour un usage exceptionnel : déploiement par un seul opérateur en moins de 2 minutes, châssis en acier inoxydable dimensionné pour un usage répété, accès patient à 360° pour les gestes de réanimation si nécessaire. Le sac de transport **Kollder Go™** (85 x 10 x 10 cm, porté en sac à dos ou tracté) permet de redéployer le dispositif d'un site à l'autre, épisode après épisode.
+**Kollder One™** a été conçu pour cette réalité de saison longue plutôt que pour un usage exceptionnel : châssis en acier inoxydable stable et dimensionné pour un usage répété, bassin pour jusqu'à 2 personnes en immersion simultanée, accès patient à 360° pour les gestes de réanimation si nécessaire. Le sac de transport **Kollder Go™** (85 x 10 x 10 cm, porté en sac à dos ou tracté) permet de redéployer le dispositif d'un site à l'autre, épisode après épisode.
 
 Selon les organisations, cela répond à un besoin précis :
 

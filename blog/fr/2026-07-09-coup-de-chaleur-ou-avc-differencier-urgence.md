@@ -28,7 +28,7 @@ Face à un doute, le principe reste le même : ne pas attendre une confirmation 
 
 ## L'équipement pour agir sans attendre
 
-Sur un terrain d'effort (course, chantier, intervention), disposer d'un moyen d'immersion immédiatement disponible permet de ne jamais perdre de temps sur ce doute diagnostique. La baignoire Kollder se déploie par une seule personne, sans outillage, en moins de 2 minutes. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
+Sur un terrain d'effort (course, chantier, intervention), disposer d'un moyen d'immersion immédiatement disponible permet de ne jamais perdre de temps sur ce doute diagnostique. La baignoire Kollder se déploie sans outillage et reste stable grâce à sa structure à 6 points d'appui. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

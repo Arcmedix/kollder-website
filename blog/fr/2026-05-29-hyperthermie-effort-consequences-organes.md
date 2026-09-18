@@ -58,7 +58,7 @@ Une équipe qui comprend qu'à 40°C les lésions cérébrales progressent à ch
 
 Le protocole *Cool first, transport second* n'est pas une recommandation parmi d'autres. C'est la condition nécessaire pour éviter les séquelles documentées ci-dessus. Et l'appliquer nécessite un équipement d'immersion disponible sur place.
 
-Kollder est conçue pour ça : déployable en moins de 2 minutes, sur n'importe quel terrain, par une seule personne.
+Kollder est conçue pour ça : structure stable sur n'importe quel terrain, entièrement pliable.
 
 ## Pour aller plus loin
 

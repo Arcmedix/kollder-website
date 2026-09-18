@@ -91,7 +91,7 @@ Un poste intermédiaire sans accès véhicule est un poste qui retardera l'évac
 
 Les contraintes spécifiques des événements sportifs (transport en voiture ou véhicule léger, déploiement rapide par une équipe de secours souvent réduite, usage en plein air parfois loin de toute infrastructure) correspondent exactement au cahier des charges qui a guidé la conception de la baignoire Kollder.
 
-Pliée, elle tient dans un sac cylindrique de 85 × 10 × 10 cm. Déployée en moins de 2 minutes par une seule personne, elle offre un accès complet au patient pour le monitoring et les gestes médicaux. Sa structure en acier inoxydable résiste aux conditions terrain et aux cycles de décontamination.
+Pliée, elle tient dans un sac cylindrique de 85 × 10 × 10 cm. Sa structure en acier inoxydable, stable à 6 points d'appui même sur sol irrégulier, offre un accès complet au patient pour le monitoring et les gestes médicaux, avec une capacité pour 2 personnes en immersion simultanée. Elle résiste aux conditions terrain et aux cycles de décontamination.
 
 Pour les directeurs médicaux d'événements qui souhaitent l'intégrer à leur plan de secours : [kollder.com/#contact](https://kollder.com/#contact).
 

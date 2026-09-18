@@ -17,7 +17,7 @@ Le week-end du 26 au 28 juin, alors que le Deutscher Wetterdienst mesurait jusqu
 Les interventions du médecin urgentiste (Notarzt) ont suivi la même trajectoire, avec une hausse encore plus marquée : de 19 sorties par jour en moyenne habituellement, à 27 sorties par jour pendant les journées de forte chaleur de juin, soit une augmentation de 42%. Les services d'accueil des urgences (Notaufnahmen) ont, de leur côté, signalé une hausse sensible des complications circulatoires et des cas de déshydratation liés à la chaleur. Point notable pour la planification opérationnelle : la charge est restée nettement supérieure à la normale pendant plusieurs jours après la fin météorologique de l'épisode de chaleur, l'afflux ne s'arrêtant pas net avec la fin de la vigilance.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -33,7 +33,7 @@ Dans un contexte d'afflux comme celui observé fin juin en Allemagne, la capacit
 
 ## Un dispositif de refroidissement immédiatement mobilisable
 
-C'est le rôle que joue Kollder One dans les services d'urgence qui équipent déjà leurs postes avancés et leurs véhicules SMUR. Une baignoire de refroidissement d'urgence en structure inox, déployable par un seul intervenant en moins de 2 minutes, utilisable directement sur le point d'intervention plutôt qu'après un transport vers une structure fixe. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et peut être embarquée sans logistique lourde. Les services d'urgence allemands qui anticipent une répétition de ce type de pic saisonnier peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leurs équipages.
+C'est le rôle que joue Kollder One dans les services d'urgence qui équipent déjà leurs postes avancés et leurs véhicules SMUR. Une baignoire de refroidissement d'urgence en structure inox stable, utilisable directement sur le point d'intervention plutôt qu'après un transport vers une structure fixe. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et peut être embarquée sans logistique lourde. Les services d'urgence allemands qui anticipent une répétition de ce type de pic saisonnier peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leurs équipages.
 
 ## Pour aller plus loin
 

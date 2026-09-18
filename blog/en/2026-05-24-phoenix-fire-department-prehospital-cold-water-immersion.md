@@ -62,7 +62,7 @@ The Phoenix program worked because the equipment was in every unit. The same log
 
 ---
 
-**Kollder is the emergency cooling tub that deploys in under 2 minutes, anywhere.**
+**Kollder is the emergency cooling tub built to stay stable anywhere, with room for 2 people in simultaneous immersion.**
 
 [Request a quote](https://kollder.com/#contact)
 

@@ -20,11 +20,11 @@ The department's urban CWI protocol, launched in 2024, has already been validate
 
 ## Why portability decides outcomes in terrain rescue
 
-The **IOC/BJSM 2021 consensus** on exertional heat illness makes clear that time-to-immersion, not just eventual immersion, drives outcomes. A cooling solution that requires a vehicle, a water main, or two rescuers to set up loses exactly the minutes that matter most when a rescue starts with a hike in. Rescue teams operating in these conditions need equipment that a single responder can carry and deploy without any of those dependencies.
+The **IOC/BJSM 2021 consensus** on exertional heat illness makes clear that time-to-immersion, not just eventual immersion, drives outcomes. A cooling solution that requires a vehicle, a water main, or two rescuers to set up loses exactly the minutes that matter most when a rescue starts with a hike in. Rescue teams operating in these conditions need equipment that stays stable on uneven, unprepared ground without any of those dependencies.
 
 ## Where Kollder fits
 
-**Kollder One™** packs to 85×10×10 cm and 11.1 kg, light enough to carry on a wilderness rescue pack-in, and deploys in under 2 minutes by one person on any surface, without a water source beyond what the crew brings in. Its stainless steel frame and open design also give rescuers full access to monitor airway and vitals throughout cooling, which matters as much on a mountainside as it does in an ambulance bay. For technical rescue and wildland-adjacent teams evaluating portable immersion equipment, specifications and quotes are available at [kollder.com/#contact](https://kollder.com/#contact).
+**Kollder One™** packs to 85×10×10 cm and 11.1 kg, light enough to carry on a wilderness rescue pack-in, and its six-point steel frame stays stable on any surface, without a water source beyond what the crew brings in. Its stainless steel frame and open design also give rescuers full access to monitor airway and vitals throughout cooling, which matters as much on a mountainside as it does in an ambulance bay. For technical rescue and wildland-adjacent teams evaluating portable immersion equipment, specifications and quotes are available at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin / Further Reading
 

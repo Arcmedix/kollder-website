@@ -24,7 +24,7 @@ Le protocole Cool First, Transport Second, validé par l'ACSM, l'IOC et la SFAR,
 
 ## Un équipement pensé pour le rythme d'un festival ou d'une course
 
-Entre deux vagues de participants ou pendant un pic d'affluence, le poste de secours n'a pas le temps d'improviser une solution de refroidissement. La baignoire Kollder se déploie seule, en moins de 2 minutes, et se replie tout aussi rapidement pour suivre le rythme de l'événement. Son sac de transport Kollder Go, hybride sac à dos et trolley, facilite le déplacement d'un point à l'autre du site. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
+Entre deux vagues de participants ou pendant un pic d'affluence, le poste de secours n'a pas le temps d'improviser une solution de refroidissement. La baignoire Kollder, stable grâce à sa structure à 6 points d'appui, se replie tout aussi rapidement pour suivre le rythme de l'événement. Son sac de transport Kollder Go, hybride sac à dos et trolley, facilite le déplacement d'un point à l'autre du site. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

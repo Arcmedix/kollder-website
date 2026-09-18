@@ -20,7 +20,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Definir les exigences operationnelles",
-        "text": "Specifier le deploiement en moins de 2 minutes par un seul operateur, la resistance environnementale renforcee et l'autonomie logistique."
+        "text": "Specifier la stabilite de la structure sur terrain non prepare, la resistance environnementale renforcee et l'autonomie logistique."
       },
       {
         "@type": "HowToStep",
@@ -69,7 +69,7 @@ faqSchema: |
 
 En opération extérieure comme lors des entraînements intensifs en ambiance chaude, le coup de chaleur d'effort reste une cause de décès évitable en milieu militaire. Équiper un SSSM ou une unité en dispositif de refroidissement par immersion suit une logique d'achat public particulière, celle des marchés publics de défense et de sécurité (MPDS), avec des contraintes opérationnelles propres à ce secteur.
 
-**En bref :** un marché de défense et de sécurité pour un équipement de refroidissement doit ajouter aux critères cliniques habituels des exigences opérationnelles spécifiques : déploiement en moins de 2 minutes par un seul opérateur, résistance environnementale renforcée (sable, poussière, chocs), et autonomie logistique sans alimentation électrique (ACSM 2023, CIO/BJSM 2021, Korey Stringer Institute).
+**En bref :** un marché de défense et de sécurité pour un équipement de refroidissement doit ajouter aux critères cliniques habituels des exigences opérationnelles spécifiques : structure stable à 6 points d'appui sur tout terrain, résistance environnementale renforcée (sable, poussière, chocs), et autonomie logistique sans alimentation électrique (ACSM 2023, CIO/BJSM 2021, Korey Stringer Institute).
 
 ## Ce qui distingue un marché de défense et de sécurité
 
@@ -92,7 +92,7 @@ Ce cadrage conditionne les critères de portabilité, de résistance environneme
 
 Au-delà des critères cliniques communs à tout achat de ce type d'équipement (immersion corps entier, accès patient continu, conformité au protocole **"Cool First, Transport Second"**), un cahier des charges en contexte de défense doit préciser :
 
-- **Déploiement en moins de 2 minutes par un seul opérateur**, y compris par un personnel non spécialisé sous stress opérationnel
+- **Structure stable sur tout terrain, y compris non préparé**, avec un déploiement possible par un personnel non spécialisé sous stress opérationnel
 - **Résistance environnementale renforcée** : sable, poussière, chocs de transport, variations thermiques extrêmes, exposition UV prolongée
 - **Volume et poids repliés compatibles avec le transport aérien tactique** ou l'intégration à un paquetage individuel/collectif selon l'usage
 - **Autonomie logistique** : fonctionnement sans alimentation électrique ni infrastructure fixe
@@ -106,18 +106,18 @@ Comme pour tout achat public, le recours à une centrale d'achat référençant 
 
 ## Étape 4 : Exiger une démonstration en conditions représentatives
 
-Une fiche technique ne suffit pas à valider un équipement destiné à un usage opérationnel. Demandez une démonstration chronométrée du déploiement par un seul opérateur, si possible dans des conditions proches de l'emploi réel (terrain non préparé, charge de transport représentative). C'est le seul moyen fiable de vérifier qu'un équipement tiendra la fenêtre thérapeutique du coup de chaleur d'effort une fois sur le terrain.
+Une fiche technique ne suffit pas à valider un équipement destiné à un usage opérationnel. Demandez une démonstration du déploiement en conditions proches de l'emploi réel (terrain non préparé, charge de transport représentative), avec vérification de la stabilité de la structure. C'est le seul moyen fiable de vérifier qu'un équipement tiendra la fenêtre thérapeutique du coup de chaleur d'effort une fois sur le terrain.
 
 ## Erreurs fréquentes à éviter
 
 - Retenir un équipement validé uniquement pour un usage civil, sans vérifier sa tenue aux contraintes de transport et d'environnement opérationnel
-- Sous-évaluer le critère de déploiement rapide par un seul opérateur, alors que le personnel disponible sur le terrain est souvent réduit
+- Sous-évaluer le critère de stabilité structurelle sur terrain non préparé, alors que le personnel disponible sur le terrain est souvent réduit
 - Ne pas exiger de données sur la disponibilité des pièces de rechange en délai contraint
 - Se limiter aux fournisseurs déjà référencés sans vérifier l'existence de solutions plus récentes sur le marché
 
 ## Kollder One™ et Kollder Go™, pensés pour l'emploi opérationnel
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec une structure conçue pour résister aux conditions de terrain difficiles. Kollder Go™, le sac de transport hybride sac à dos/à roulettes (85 x 10 x 10 cm), a été pensé pour le transport et le déploiement rapide en contexte opérationnel, y compris pour des unités projetées.
+Kollder One™ repose sur une structure à 6 points d'appui conçue pour rester stable et résister aux conditions de terrain difficiles, avec une capacité pour 2 personnes en immersion simultanée. Kollder Go™, le sac de transport hybride sac à dos/à roulettes (85 x 10 x 10 cm), a été pensé pour le transport et le déploiement rapide en contexte opérationnel, y compris pour des unités projetées.
 
 Pour une démonstration ou un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

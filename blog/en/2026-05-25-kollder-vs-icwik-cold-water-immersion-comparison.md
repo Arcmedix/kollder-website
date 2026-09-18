@@ -14,7 +14,7 @@ The I-CWIK (Ice-Cold Water Immersion Kit) by Nereus Medical is one of the most w
 
 **I-CWIK** is a flexible PVC bag with YKK AQUASEAL® waterproof zips, designed by Dr Ross Hemingway OBE for Nereus Medical (UK). Lightweight and portable, it is used by military medical teams, rescue services and sporting event organisations in several countries.
 
-**Kollder** is an emergency cooling tub with a food-grade stainless steel frame and high-resistance liner, engineered for rapid prehospital deployment by one person, with full patient access during immersion.
+**Kollder** is an emergency cooling tub with a food-grade stainless steel frame and high-resistance liner, engineered with a 6-point support structure for stability on uneven ground and capacity for 2 people in simultaneous immersion, with full patient access during immersion.
 
 ## Technical comparison
 
@@ -24,7 +24,7 @@ The I-CWIK (Ice-Cold Water Immersion Kit) by Nereus Medical is one of the most w
 | Immersion | Body immersed, bag closed around patient | Full body, open structure |
 | Patient access during immersion | Via reinforced side panels | Full, continuous |
 | Portability | Very lightweight | Compact |
-| Deployment | Fast, no frame to assemble | < 2 min, one operator |
+| Deployment | Fast, no frame to assemble | Stable frame, foldable, room for 2 |
 | Closure | Waterproof YKK AQUASEAL® zips | Rigid structure, no closure |
 
 ## What the I-CWIK does well

@@ -17,7 +17,7 @@ On the night of 26 to 27 August, wildfires tore through several provinces in nor
 Precautionary evacuations were carried out in the municipalities of Ouled Yahia Khadrouche and Chekfa, in Jijel, where both airborne and ground-based firefighting resources were deployed simultaneously, including a Mi-26 firefighting helicopter and two AT-802 aircraft. Fires were brought under control in the provinces of Skikda, El Tarf, Bouira, Tizi Ouzou, and Tebessa.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -39,7 +39,7 @@ For a force that has been engaged without pause for nearly two months, the abili
 
 ## Equipment built to keep up over the long haul
 
-That is the gap Kollder One was built to close. A stainless steel emergency cooling tub, set up by a single responder in under 2 minutes, on any terrain, including scrubland or rural areas that are hard to reach. Packed for transport with Kollder Go, it weighs 11.1 kg and lets an advanced rehab sector stay operational throughout an extended deployment. Civil Protection services facing increasingly long and intense fire seasons can [request a Kollder quote](https://kollder.com/#contact) to equip their advanced rehab positions.
+That is the gap Kollder One was built to close. A stainless steel emergency cooling tub, stable on any terrain, including scrubland or rural areas that are hard to reach. Packed for transport with Kollder Go, it weighs 11.1 kg and lets an advanced rehab sector stay operational throughout an extended deployment. Civil Protection services facing increasingly long and intense fire seasons can [request a Kollder quote](https://kollder.com/#contact) to equip their advanced rehab positions.
 
 ## Further Reading
 

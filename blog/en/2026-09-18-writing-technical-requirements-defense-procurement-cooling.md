@@ -25,7 +25,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Operational requirements",
-        "text": "Specify deployment under 2 minutes by a single operator and resistance to degraded environmental conditions."
+        "text": "Specify structural stability across all support points and resistance to degraded environmental conditions."
       },
       {
         "@type": "HowToStep",
@@ -66,7 +66,7 @@ faqSchema: |
 
 The technical requirements section of a defense and security procurement has to capture both the clinical requirement behind the cooling protocol and the operational constraints specific to a military context. This guide walks through, clause by clause, how to write that section.
 
-**Short answer:** technical requirements for a defense cooling equipment procurement should add operational criteria beyond standard clinical requirements: deployment under 2 minutes by a non-specialist operator, reinforced environmental resistance, and compatibility with tactical air transport.
+**Short answer:** technical requirements for a defense cooling equipment procurement should add operational criteria beyond standard clinical requirements: structural stability on unprepared ground, reinforced environmental resistance, and compatibility with tactical air transport.
 
 For the full method of preparing the procurement (scoping, defense procedure, evaluation), see our [guide on defense and security procurement for emergency cooling equipment](https://kollder.com/blog/en/2026-09-18-defense-security-procurement-emergency-cooling-equipment/). This document focuses specifically on writing the technical requirements themselves.
 
@@ -90,7 +90,7 @@ For the full method of preparing the procurement (scoping, defense procedure, ev
 
 This is the section that sets a defense specification apart from a civilian one:
 
-> "The equipment must be deployable in under 2 minutes by a single operator, including non-specialist personnel under operational stress. The structure must withstand degraded environmental conditions (sand, dust, transport impact, wide temperature swings, prolonged UV exposure)."
+> "The equipment must remain stable and level on unprepared ground across all support points, including under operational stress, with capacity for two people in simultaneous immersion. The structure must withstand degraded environmental conditions (sand, dust, transport impact, wide temperature swings, prolonged UV exposure)."
 
 > "Folded weight and volume must be compatible with tactical air transport constraints and/or integration into the unit's collective load-out. The bidder shall specify these characteristics precisely."
 
@@ -109,11 +109,11 @@ This is the section that sets a defense specification apart from a civilian one:
 - Reusing clauses written for civilian use without accounting for operational constraints
 - Omitting environmental durability requirements, which matter well beyond a garrison setting
 - Failing to specify spare parts lead times for deployed configurations
-- Underweighting the single-operator deployment requirement under stress conditions
+- Underweighting the structural stability requirement under stress conditions
 
 ## Kollder One™ and Kollder Go™, built for these requirements
 
-Kollder One™ deploys in under 2 minutes by a single operator, with a structure designed for demanding field conditions. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), meets the transport and deployment constraints of operational contexts.
+Kollder One™ combines a stable, six-point steel frame with a structure designed for demanding field conditions, plus room for up to 2 people in simultaneous immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), meets the transport and deployment constraints of operational contexts.
 
 For a demonstration or a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

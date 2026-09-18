@@ -28,7 +28,7 @@ Volunteer and part-time departments face constant personnel turnover, and equipm
 
 ## Solving the barriers, not just the cooling rate
 
-The Kollder emergency cooling tub was built against these specific constraints: solo deployment in under 2 minutes with no tools, a compact folded footprint in the Kollder Go bag, and a stainless steel chassis built for repeated field use. Details at [kollder.com/#contact](https://kollder.com/#contact).
+The Kollder emergency cooling tub was built against these specific constraints: a 6-point steel frame that stays stable on uneven ground with no tools, a compact folded footprint in the Kollder Go bag, and a stainless steel chassis built for repeated field use. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

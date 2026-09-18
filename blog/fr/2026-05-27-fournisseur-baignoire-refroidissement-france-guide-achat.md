@@ -40,11 +40,11 @@ Pendant l'immersion, l'équipe médicale doit pouvoir :
 
 Un équipement à structure ouverte est indispensable. Un sac fermé autour du patient empêche ces gestes et expose à un risque de noyade documenté par les fabricants eux-mêmes.
 
-### 3. Le temps de déploiement
+### 3. La stabilité de la structure
 
-La fenêtre thérapeutique du coup de chaleur d'effort est de **30 minutes**. Le déploiement de la baignoire doit donc être possible en **moins de 2 minutes** sur le terrain.
+La fenêtre thérapeutique du coup de chaleur d'effort est de **30 minutes**. La baignoire doit donc rester stable sur le terrain dès son installation, avec un déploiement possible en moins de 5 minutes.
 
-Demandez systématiquement au fournisseur une démonstration chronométrée du déploiement, dans les conditions réelles d'utilisation — par une seule personne, sur un terrain non préparé.
+Demandez systématiquement au fournisseur une démonstration du déploiement, dans les conditions réelles d'utilisation, avec vérification de la stabilité de la structure sur un terrain non préparé.
 
 ### 4. La portabilité et l'intégration véhicule
 
@@ -67,7 +67,7 @@ Une baignoire de refroidissement est un équipement de sécurité. En cas de dé
 Avant de signer un bon de commande, voici les questions à poser systématiquement :
 
 **Sur le produit :**
-- Quelle est la vitesse de déploiement chronométrée par une seule personne ?
+- La structure reste-t-elle stable sur un terrain non préparé, quel que soit le nombre d'opérateurs présents ?
 - Le système permet-il une immersion corps entier conforme au protocole ACSM/SFAR/CIO ?
 - Quel est l'accès patient possible pendant l'immersion ?
 - Quelles sont les dimensions repliées et le poids ?
@@ -83,11 +83,11 @@ Avant de signer un bon de commande, voici les questions à poser systématiqueme
 
 Le marché français de la baignoire de refroidissement d'urgence est encore émergent. Trois solutions se distinguent :
 
-**Corben** — Solution française distribuée via les canaux habituels des équipementiers pompiers. Structure aluminium, immersion complète, accès patient ouvert. Point de vigilance : déploiement nécessitant plusieurs minutes et deux personnes, encombrement important replié.
+**Corben** — Solution française distribuée via les canaux habituels des équipementiers pompiers. Structure aluminium, immersion complète, accès patient ouvert. Point de vigilance : fixation par pattes Velcro, encombrement important replié.
 
 **I-CWIK (Nereus Medical)** — Solution britannique, très portable sous forme de sac. Point de vigilance majeur : système fermé limitant l'accès patient pendant l'immersion, documentation fabricant elle-même mentionnant le risque de noyade si le patient n'est pas surveillé en permanence.
 
-**Kollder** — Solution française en phase de développement avancé, conçue spécifiquement pour lever les limitations des systèmes existants. Structure inox alimentaire, déploiement en moins de 2 minutes par une seule personne, immersion corps entier complète, accès patient total pendant le refroidissement. Pensée pour les équipes mobiles : SDIS, SSSM militaires, équipes médicales événementielles, responsables EHS terrain.
+**Kollder** — Solution française en phase de développement avancé, conçue spécifiquement pour lever les limitations des systèmes existants. Structure inox alimentaire stable sur terrain irrégulier, bassin pour jusqu'à 2 personnes en immersion simultanée, immersion corps entier complète, accès patient total pendant le refroidissement. Pensée pour les équipes mobiles : SDIS, SSSM militaires, équipes médicales événementielles, responsables EHS terrain.
 
 ## Pourquoi le choix du fournisseur engage votre responsabilité
 

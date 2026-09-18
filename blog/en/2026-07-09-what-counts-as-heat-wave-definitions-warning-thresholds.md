@@ -24,7 +24,7 @@ Crossing an Excessive Heat Warning threshold is frequently the trigger written i
 
 ## Planning around the threshold, not the forecast alone
 
-Because these thresholds are published in advance, they give organizers, employers, and fire departments a lead time most other emergencies do not offer. Equipment readiness should be part of that lead time: having an immersion-capable cooling tub staged and tested before the warning is issued, not sourced after. The Kollder emergency cooling tub deploys solo in under 2 minutes when the moment arrives. More at [kollder.com/#contact](https://kollder.com/#contact).
+Because these thresholds are published in advance, they give organizers, employers, and fire departments a lead time most other emergencies do not offer. Equipment readiness should be part of that lead time: having an immersion-capable cooling tub staged and tested before the warning is issued, not sourced after. The Kollder emergency cooling tub stays stable and ready, with room for up to 2 people in simultaneous immersion, when the moment arrives. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

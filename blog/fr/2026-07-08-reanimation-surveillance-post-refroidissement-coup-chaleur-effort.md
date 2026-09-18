@@ -61,7 +61,7 @@ Un protocole de surveillance biologique rigoureux en réanimation post-CCE inclu
 
 ## Le lien entre amont et aval
 
-Ce tableau de complications rappelle pourquoi la qualité de la prise en charge préhospitalière n'est pas une simple étape administrative avant l'hospitalisation, mais le facteur déterminant de la charge en réanimation qui suit. Un refroidissement rapide et complet sur le terrain, via **la baignoire de refroidissement d'urgence Kollder** déployable en moins de 2 minutes par un seul opérateur, réduit directement l'ampleur des complications multiviscérales que la réanimation devra ensuite gérer. C'est un argument que les équipes de réanimation elles-mêmes peuvent porter en interne pour justifier l'équipement des filières amont. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
+Ce tableau de complications rappelle pourquoi la qualité de la prise en charge préhospitalière n'est pas une simple étape administrative avant l'hospitalisation, mais le facteur déterminant de la charge en réanimation qui suit. Un refroidissement rapide et complet sur le terrain, via **la baignoire de refroidissement d'urgence Kollder** à structure stable, réduit directement l'ampleur des complications multiviscérales que la réanimation devra ensuite gérer. C'est un argument que les équipes de réanimation elles-mêmes peuvent porter en interne pour justifier l'équipement des filières amont. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 

@@ -24,7 +24,7 @@ Un encadrement de section JSP gagne à intégrer trois réflexes distincts de ce
 
 ## Disposer d'un matériel adapté aux lieux d'entraînement
 
-Contrairement à une intervention opérationnelle, un exercice JSP se déroule souvent hors caserne : terrain de sport, site d'entraînement extérieur, stade. Le matériel de refroidissement doit donc pouvoir être transporté facilement jusqu'au lieu d'exercice, sans dépendre d'un véhicule spécialisé. Le sac Kollder Go™, conçu comme sac à dos et trolley hybride, répond à cette contrainte de mobilité ; le Kollder One™ associé se déploie en moins de 2 minutes par une seule personne présente sur place. Détails sur [kollder.com/#contact](https://kollder.com/#contact).
+Contrairement à une intervention opérationnelle, un exercice JSP se déroule souvent hors caserne : terrain de sport, site d'entraînement extérieur, stade. Le matériel de refroidissement doit donc pouvoir être transporté facilement jusqu'au lieu d'exercice, sans dépendre d'un véhicule spécialisé. Le sac Kollder Go™, conçu comme sac à dos et trolley hybride, répond à cette contrainte de mobilité ; le Kollder One™ associé reste stable sur tout type de terrain grâce à ses 6 points d'appui, quelle que soit l'équipe présente sur place. Détails sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

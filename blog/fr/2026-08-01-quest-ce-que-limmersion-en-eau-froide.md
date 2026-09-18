@@ -51,7 +51,7 @@ Chacun de ces contextes a ses propres contraintes opérationnelles, mais le gest
 
 Le protocole n'est pas le point de blocage : il est connu, documenté, et enseigné. Ce qui manque, le plus souvent, c'est l'équipement. Une immersion en eau froide nécessite un contenant capable de recevoir une personne, de l'eau et de la glace, déployable rapidement sur n'importe quel terrain. Sans cet équipement, les équipes improvisent avec des moyens qui ne permettent ni la couverture corporelle totale, ni la vitesse de refroidissement requise.
 
-C'est le problème que la baignoire de refroidissement d'urgence Kollder a été conçue pour résoudre : rendre l'immersion en eau froide possible partout, en moins de 2 minutes, par une seule personne. Une fois l'équipement disponible, le protocole peut être appliqué sans délai.
+C'est le problème que la baignoire de refroidissement d'urgence Kollder a été conçue pour résoudre : rendre l'immersion en eau froide possible partout, avec une structure stable sur tout terrain et une capacité pour 2 personnes en immersion simultanée. Une fois l'équipement disponible, le protocole peut être appliqué sans délai.
 
 ## Pour aller plus loin
 

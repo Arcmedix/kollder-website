@@ -24,7 +24,7 @@ Le consensus international ACSM 2023 est clair : refroidir avant de transporter.
 
 ## Équiper un poste de secours pour cette réalité
 
-Un poste de secours Protection Civile n'a ni l'espace ni le temps d'un service hospitalier. L'équipement de refroidissement doit pouvoir être déployé par une seule personne, sans montage complexe, en attendant le renfort SAMU si nécessaire. La baignoire Kollder répond à cette contrainte opérationnelle : déploiement en moins de 2 minutes, châssis inox, accès à 360° autour du patient pour surveiller les paramètres vitaux pendant l'immersion. Un devis peut être demandé via [kollder.com/#contact](https://kollder.com/#contact).
+Un poste de secours Protection Civile n'a ni l'espace ni le temps d'un service hospitalier. L'équipement de refroidissement doit rester stable sans montage complexe, en attendant le renfort SAMU si nécessaire. La baignoire Kollder répond à cette contrainte opérationnelle : châssis inox à 6 points d'appui, bassin pour jusqu'à 2 personnes en immersion simultanée, accès à 360° autour du patient pour surveiller les paramètres vitaux pendant l'immersion. Un devis peut être demandé via [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

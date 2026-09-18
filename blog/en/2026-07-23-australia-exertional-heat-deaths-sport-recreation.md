@@ -30,7 +30,7 @@ For hiking trails, remote event courses, and outdoor recreation settings, the pr
 
 ## Bringing the treatment window to the trailhead
 
-This is precisely the deployment scenario Kollder was designed around: a stainless steel immersion tub, packed at 85×10×10 cm and 11.1 kg, that a single responder, trail marshal, event medic, or ranger, can carry in and deploy in under 2 minutes without infrastructure. It turns the Cool First, Transport Second protocol into something achievable at a remote trailhead, not only at a fixed aid station. More at [kollder.com/#contact](https://kollder.com/#contact).
+This is precisely the deployment scenario Kollder was designed around: a stainless steel immersion tub, packed at 85×10×10 cm and 11.1 kg, that a trail marshal, event medic, or ranger can carry in and set up on stable, level footing without infrastructure. It turns the Cool First, Transport Second protocol into something achievable at a remote trailhead, not only at a fixed aid station. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further reading
 

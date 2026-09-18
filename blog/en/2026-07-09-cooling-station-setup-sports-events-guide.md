@@ -28,7 +28,7 @@ Forecast temperature and humidity, not just historical averages, should determin
 
 ## A cooling tub built for race-day logistics
 
-The Kollder emergency cooling tub folds into the Kollder Go bag (85×10×10cm, hybrid backpack and rolling trolley) for easy transport between course cooling stations, and deploys solo in under 2 minutes when a case arrives. Details at [kollder.com/#contact](https://kollder.com/#contact).
+The Kollder emergency cooling tub folds into the Kollder Go bag (85×10×10cm, hybrid backpack and rolling trolley) for easy transport between course cooling stations, and its 6-point steel frame stays stable and ready the moment a case arrives. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

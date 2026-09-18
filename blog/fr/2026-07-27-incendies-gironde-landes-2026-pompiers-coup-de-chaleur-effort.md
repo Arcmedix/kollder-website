@@ -17,7 +17,7 @@ Le Premier ministre l'a reconnu lui-meme lors de la cellule interministerielle d
 Sur le front de la Gironde et des Landes, la situation a atteint un niveau qui a justifie l'activation du mecanisme europeen de protection civile. Deux Canadair croates, deux Air Tractor portugais et deux helicopteres lourds tcheques et slovaques sont venus renforcer les moyens nationaux. Cinq sapeurs-pompiers ont ete blesses dans le secteur, des habitations ont ete detruites, et des moyens militaires ont ete deployes pour contenir la progression du feu vers l'agglomeration bordelaise.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se deploie en moins de 2 minutes.</strong> Concue pour une utilisation terrain en conditions extremes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -41,7 +41,7 @@ Sur un theatre d'operations comme celui de la Gironde, ou les vehicules de secou
 
 ## Le materiel doit suivre le rythme du theatre d'operations
 
-C'est precisement sur ce point que le materiel de refroidissement d'urgence devient un enjeu operationnel et pas seulement medical. Une baignoire d'immersion doit pouvoir etre deployee par un seul intervenant, en moins de 2 minutes, sur n'importe quel terrain, y compris sur une piste forestiere ou un point de rassemblement improvise loin de toute infrastructure. C'est la logique qui sous-tend Kollder One, une baignoire de refroidissement d'urgence en structure inox, pesant 11,1 kg une fois pliee, deployable par une seule personne sur tout type de sol. Sur des interventions qui s'etirent sur plusieurs nuits, ou chaque poste medical avance doit pouvoir rester operationnel sans logistique lourde, cette rapidite de mise en oeuvre conditionne directement la capacite du SSSM a traiter un cas des les premieres minutes. Les SDIS confrontes a des saisons feux de foret de plus en plus precoces et intenses peuvent [demander un devis Kollder](https://kollder.com/#contact) pour equiper leurs postes medicaux avances.
+C'est precisement sur ce point que le materiel de refroidissement d'urgence devient un enjeu operationnel et pas seulement medical. Une baignoire d'immersion doit rester stable sur n'importe quel terrain, y compris sur une piste forestiere ou un point de rassemblement improvise loin de toute infrastructure. C'est la logique qui sous-tend Kollder One, une baignoire de refroidissement d'urgence en structure inox a 6 points d'appui, pesant 11,1 kg une fois pliee, qui garde son aplomb sur tout type de sol. Sur des interventions qui s'etirent sur plusieurs nuits, ou chaque poste medical avance doit pouvoir rester operationnel sans logistique lourde, cette rapidite de mise en oeuvre conditionne directement la capacite du SSSM a traiter un cas des les premieres minutes. Les SDIS confrontes a des saisons feux de foret de plus en plus precoces et intenses peuvent [demander un devis Kollder](https://kollder.com/#contact) pour equiper leurs postes medicaux avances.
 
 ## Pour aller plus loin
 

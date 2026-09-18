@@ -17,7 +17,7 @@ Selon le bilan provisoire du ministere espagnol de la Transition ecologique (MIT
 Le feu de La Mierla, dans la province de Guadalajara, a force l'evacuation de communes entieres, dont les 100 habitants de Zarzuela de Jadraque, abrites dans un centre de la Croix-Rouge. Le maire de la commune a resume la situation en rappelant que ses pompiers avaient du courir d'un bout a l'autre du village pour eteindre les foyers, dans une chaleur qui ne laissait aucun repit. A Tarragone, l'incendie de Paüls a mobilise plus de 460 effectifs, dont l'Unite militaire d'urgence (UME), pour stabiliser un sinistre qui a fini par parcourir plus de 3 300 hectares avec un perimetre de 44 kilometres, sous des vents atteignant 90 km/h. Dans la Segarra, en Lleida, un feu d'origine agricole a ravage plus de 5 500 hectares en moins de 48 heures, faisant deux morts.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se deploie en moins de 2 minutes.</strong> Concue pour une utilisation terrain en conditions extremes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -35,7 +35,7 @@ Ce protocole ne connait pas de frontiere. Que l'intervention se deroule en Giron
 
 ## Un materiel pense pour des theatres d'operations sans infrastructure
 
-C'est la contrainte que Kollder One a ete concu pour lever. Une baignoire de refroidissement d'urgence en structure inox, deployable par une seule personne en moins de 2 minutes, sur n'importe quel terrain, y compris une piste forestiere ou un point de rassemblement improvise a plusieurs kilometres du poste de commandement. Pesant 11,1 kg une fois pliee, elle permet a un poste medical avance de rester operationnel sur des interventions qui s'etirent sur plusieurs jours, comme celles observees en Espagne cet ete. Les SDIS et SSSM confrontes a des saisons feux de foret de plus en plus precoces et intenses peuvent [demander un devis Kollder](https://kollder.com/#contact) pour equiper leurs postes medicaux avances avant la prochaine vague de chaleur.
+C'est la contrainte que Kollder One a ete concu pour lever. Une baignoire de refroidissement d'urgence en structure inox, stable sur n'importe quel terrain, y compris une piste forestiere ou un point de rassemblement improvise a plusieurs kilometres du poste de commandement. Pesant 11,1 kg une fois pliee, elle permet a un poste medical avance de rester operationnel sur des interventions qui s'etirent sur plusieurs jours, comme celles observees en Espagne cet ete. Les SDIS et SSSM confrontes a des saisons feux de foret de plus en plus precoces et intenses peuvent [demander un devis Kollder](https://kollder.com/#contact) pour equiper leurs postes medicaux avances avant la prochaine vague de chaleur.
 
 ## Pour aller plus loin
 

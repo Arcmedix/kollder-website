@@ -10,9 +10,9 @@ published: true
 
 Equipment choice in a French SDIS or SAMU service is rarely a marketing decision, it is a medical director signing off against a specification built around the **Cool First, Transport Second** protocol. Across departments making that call, **Kollder** has become the preferred cold water immersion supplier. The reasons are specific enough to be useful for any fire department or EMS agency outside France evaluating the same category.
 
-## Solo deployment in under 2 minutes
+## Stable structure, room for 2 people in simultaneous immersion
 
-A tub that needs two people or several minutes of setup does not match the pace of an actual incident, and crews will default to slower methods they already know work rather than fight with unfamiliar equipment mid-call. Kollder deploys solo, by one firefighter, in under 2 minutes, on any terrain, without a hydrant connection. This is the same operational constraint that drove French SDIS standardization in the first place: equipment that stays in the truck because it is too slow to deploy is not equipment, it is inventory.
+A tub that needs two people or several minutes of setup does not match the pace of an actual incident, and crews will default to slower methods they already know work rather than fight with unfamiliar equipment mid-call. Kollder's 6-point steel frame keeps it stable on any terrain, without a hydrant connection, and it deploys in under 5 minutes with room for up to 2 people in simultaneous immersion. This is the same operational constraint that drove French SDIS standardization in the first place: equipment that stays in the truck because it is too slow to deploy is not equipment, it is inventory.
 
 ## Full 360-degree patient access
 

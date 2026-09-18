@@ -93,7 +93,7 @@ L'Institut Korey Stringer (UConn, Dr Douglas Casa) a documenté un taux de survi
 
 L'immersion en eau froide est efficace. Elle est aussi contraignante à mettre en œuvre sans équipement dédié. Une piscine gonflable, des seaux d'eau glacée, une bâche improvisée : ces solutions existent, mais elles prennent du temps, mobilisent plusieurs personnes et sont rarement disponibles dans les 5 premières minutes sur un terrain d'événement ou d'intervention.
 
-C'est précisément cette contrainte opérationnelle que la baignoire de refroidissement d'urgence Kollder a été conçue pour éliminer. Déployable en moins de 2 minutes par une seule personne, elle permet d'initier l'immersion sans attendre les renforts, tout en maintenant un accès complet au patient pour le monitoring et les gestes médicaux. Sa structure en acier inoxydable garantit la durabilité en conditions d'intervention réelles.
+C'est précisément cette contrainte opérationnelle que la baignoire de refroidissement d'urgence Kollder a été conçue pour éliminer. Grâce à sa structure stable à 6 points d'appui, elle permet d'initier l'immersion sans attendre les renforts, tout en maintenant un accès complet au patient pour le monitoring et les gestes médicaux. Sa structure en acier inoxydable garantit la durabilité en conditions d'intervention réelles.
 
 Pour les équipes médicales qui souhaitent évaluer la solution dans leur contexte : [kollder.com/#contact](https://kollder.com/#contact).
 

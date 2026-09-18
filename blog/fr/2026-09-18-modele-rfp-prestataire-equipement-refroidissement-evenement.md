@@ -49,7 +49,7 @@ faqSchema: |
         "name": "Quelles questions techniques poser systématiquement dans un RFP pour un équipement de refroidissement événementiel ?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Le temps de déploiement chronométré par un seul opérateur, l'accès patient pendant l'immersion, les dimensions et le poids repliés, les matériaux de structure, et la possibilité d'une démonstration avant l'événement."
+          "text": "La stabilité de la structure sur terrain non préparé, l'accès patient pendant l'immersion, les dimensions et le poids repliés, les matériaux de structure, et la possibilité d'une démonstration avant l'événement."
         }
       },
       {
@@ -88,7 +88,7 @@ Pour la méthode de dimensionnement et de calendrier, consultez notre [guide sur
 
 ## 3. Questions techniques à poser systématiquement
 
-- Quel est le temps de déploiement chronométré par un seul opérateur, sur terrain non préparé ?
+- La structure reste-t-elle stable sur un terrain non préparé ?
 - L'équipement permet-il un accès complet au patient pendant l'immersion ?
 - Quelles sont les dimensions et le poids repliés de l'équipement ?
 - Quels sont les matériaux de structure et de liner, et leur résistance aux conditions de terrain ?
@@ -119,7 +119,7 @@ Pour comparer objectivement plusieurs réponses, structurez un tableau avec ces 
 
 ## Kollder One™ et Kollder Go™ répondent à ces questions
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec un accès patient total pendant l'immersion. Kollder Go™, le sac de transport hybride (85 x 10 x 10 cm), facilite le déploiement de plusieurs postes sur un même événement.
+Kollder One™ repose sur une structure stable sur terrain non préparé, avec un accès patient total et une capacité pour 2 personnes en immersion simultanée. Kollder Go™, le sac de transport hybride (85 x 10 x 10 cm), facilite le déploiement de plusieurs postes sur un même événement.
 
 Pour une démonstration ou un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

@@ -24,7 +24,7 @@ CDC figures show heat-related mortality skews toward men and adults 65 and older
 
 ## Turning the trend into an operational response
 
-Rising mortality figures are a population-level signal, but the response has to happen at the individual incident level: recognizing exertional heat stroke fast and cooling immediately. The Kollder emergency cooling tub supports that response with solo deployment in under 2 minutes, built for the scenario where minutes determine the outcome. Details at [kollder.com/#contact](https://kollder.com/#contact).
+Rising mortality figures are a population-level signal, but the response has to happen at the individual incident level: recognizing exertional heat stroke fast and cooling immediately. The Kollder emergency cooling tub supports that response with a stable structure ready for up to 2 people in simultaneous immersion, built for the scenario where minutes determine the outcome. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

@@ -101,7 +101,7 @@ Le Dr Douglas Casa, CEO du Korey Stringer Institute (Université du Connecticut)
 
 Une baignoire de refroidissement d'urgence est conçue pour trois contraintes spécifiques que les baignoires classiques ne peuvent pas satisfaire :
 
-**Déploiement immédiat** : la baignoire doit être opérationnelle en moins de 2 minutes, par une seule personne, sans outillage. Les rigides nécessitent un transport spécifique et une infrastructure.
+**Déploiement rapide et stable** : la baignoire doit rester stable sur tout terrain, sans outillage, et être opérationnelle en moins de 5 minutes. Les rigides nécessitent un transport spécifique et une infrastructure.
 
 **Portabilité totale** : elle doit s'intégrer dans un véhicule léger, un VTT de piste, un poste médical avancé ou un camion de pompiers, repliée sans encombrement.
 
@@ -136,9 +136,9 @@ La durée d'immersion recommandée est **jusqu'à ce que la température rectale
 
 La règle fondamentale : **Cool first, transport second**. Ne jamais transporter avant d'avoir refroidi.
 
-## Kollder : la baignoire de refroidissement d'urgence déployable en moins de 2 minutes
+## Kollder : la baignoire de refroidissement d'urgence stable et pour 2 personnes
 
-Kollder est conçue pour répondre à ces exigences opérationnelles. Sa structure en inox alimentaire et son liner haute résistance permettent un déploiement par une seule personne en moins de 2 minutes, sur n'importe quel terrain.
+Kollder est conçue pour répondre à ces exigences opérationnelles. Sa structure en inox alimentaire à 6 points d'appui et son liner haute résistance lui permettent de rester stable sur n'importe quel terrain, avec une capacité pour 2 personnes en immersion simultanée.
 
 Repliée, elle s'intègre dans tout véhicule de secours. Déployée, elle permet une immersion corps entier conforme aux protocoles internationaux.
 

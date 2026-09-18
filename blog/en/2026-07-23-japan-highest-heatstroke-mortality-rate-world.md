@@ -30,7 +30,7 @@ Japan's experience is increasingly cited internationally, including by public he
 
 Alert systems and mortality targets address prevention and public awareness, but they do not by themselves change the outcome once someone has already collapsed from heat illness. That outcome is decided in the first 30 minutes, and it is decided by how fast core body temperature comes down, not by which hospital the patient eventually reaches. Cold water immersion cools the body at roughly 0.35°C per minute, close to ten times faster than wet towels or ice packs, which is the difference between a recoverable case and organ damage.
 
-This is where equipment readiness becomes as important as the policy target. A stainless steel immersion tub that a single responder, whether fire and rescue, event medical staff, or an in-house occupational health team, can deploy in under 2 minutes turns the Cool First, Transport Second protocol from a guideline into something that is actually achievable at the point of collapse. Kollder was built for exactly that gap. More at [kollder.com/#contact](https://kollder.com/#contact).
+This is where equipment readiness becomes as important as the policy target. A stainless steel immersion tub that stays stable on any terrain, whether deployed by fire and rescue, event medical staff, or an in-house occupational health team, turns the Cool First, Transport Second protocol from a guideline into something that is actually achievable at the point of collapse. Kollder was built for exactly that gap. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further reading
 

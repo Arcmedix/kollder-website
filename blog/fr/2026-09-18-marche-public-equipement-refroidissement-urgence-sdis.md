@@ -25,7 +25,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Rediger un CCTP fonde sur des criteres d'usage",
-        "text": "Specifier des criteres de performance mesurables (deploiement en moins de 2 minutes par un seul operateur, immersion corps entier, acces patient continu, robustesse) plutot qu'une marque."
+        "text": "Specifier des criteres de performance mesurables (stabilite structurelle sur terrain non prepare, immersion corps entier, acces patient continu, robustesse) plutot qu'une marque."
       },
       {
         "@type": "HowToStep",
@@ -57,7 +57,7 @@ faqSchema: |
         "name": "Quel temps de déploiement exiger dans le cahier des charges d'un équipement de refroidissement d'urgence ?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "L'équipement doit être déployable en moins de 2 minutes par un seul opérateur, sur terrain non préparé, conformément au protocole 'Cool First, Transport Second' de l'ACSM, du CIO et de la SFAR. Ce temps doit être vérifié par une démonstration chronométrée avant attribution du marché."
+          "text": "L'équipement doit reposer sur une structure stable à 6 points d'appui, garantissant un niveau constant sur terrain non préparé, avec une mise en œuvre en moins de 5 minutes, conformément au protocole 'Cool First, Transport Second' de l'ACSM, du CIO et de la SFAR. Cette exigence doit être vérifiée par une démonstration chronométrée avant attribution du marché."
         }
       },
       {
@@ -74,7 +74,7 @@ faqSchema: |
 
 Le coup de chaleur d'effort tue en moins d'une heure si la fenêtre thérapeutique n'est pas respectée. Pour un SDIS, équiper ses casernes d'un dispositif de refroidissement par immersion n'est donc pas un achat de fournitures comme un autre : c'est une décision qui engage la capacité opérationnelle du service et sa responsabilité en cas d'incident. Ce guide détaille comment cadrer, rédiger et évaluer un marché public pour ce type d'équipement.
 
-**En bref :** un marché public pour un équipement de refroidissement d'urgence doit exiger un déploiement en moins de 2 minutes par un seul opérateur et une immersion corps entier avec accès patient continu. Le recours à une centrale d'achat comme l'UGAP reste une faculté, pas une obligation : un SDIS peut acheter en direct par simple mise en concurrence sur devis (Code de la commande publique, ACSM 2023, CIO/BJSM 2021).
+**En bref :** un marché public pour un équipement de refroidissement d'urgence doit exiger une structure stable à 6 points d'appui sur terrain non préparé et une immersion corps entier avec accès patient continu. Le recours à une centrale d'achat comme l'UGAP reste une faculté, pas une obligation : un SDIS peut acheter en direct par simple mise en concurrence sur devis (Code de la commande publique, ACSM 2023, CIO/BJSM 2021).
 
 ## Pourquoi ce marché mérite un cadrage spécifique
 
@@ -106,7 +106,7 @@ Les seuils sont réévalués périodiquement par arrêté : vérifiez le montant
 
 Un CCTP trop générique laisse entrer des équipements non conformes au protocole médical de référence. Un CCTP qui décrit une référence produit précise expose à une contestation pour restriction de concurrence. La bonne pratique consiste à spécifier des critères de performance objectifs et mesurables :
 
-- **Temps de déploiement** : déployable en **moins de 2 minutes** par un seul opérateur, sur terrain non préparé. Exigez une démonstration chronométrée en conditions réelles lors de l'analyse des offres, pas seulement une donnée déclarative.
+- **Stabilité structurelle** : structure stable à 6 points d'appui, garantissant un niveau constant sur terrain non préparé, avec une mise en œuvre possible en **moins de 5 minutes**. Exigez une démonstration chronométrée en conditions réelles lors de l'analyse des offres, pas seulement une donnée déclarative.
 - **Immersion corps entier** : le dispositif doit permettre une immersion complète, épaules et cuir chevelu compris, conforme au protocole ACSM/SFAR/CIO.
 - **Accès patient pendant l'immersion** : structure ouverte permettant la surveillance continue des voies aériennes, la prise de température rectale, la pose d'une voie veineuse et un geste de réanimation si nécessaire.
 - **Robustesse des matériaux** : résistance aux conditions de terrain (chocs, UV, produits désinfectants, usage répété), avec un niveau de détail sur la structure et le liner plutôt qu'une simple mention "résistant".
@@ -142,7 +142,7 @@ Demandez systématiquement une démonstration terrain avant attribution : un chr
 
 ## Kollder One™, conçu pour répondre à ces critères
 
-Kollder One™ est une baignoire de refroidissement d'urgence conçue pour les services de secours français : déploiement en moins de 2 minutes par un seul opérateur, structure inox alimentaire, immersion corps entier avec accès patient total pendant le refroidissement. Kollder One™ n'est pas encore référencé sur catalogue de centrale d'achat : il est disponible en achat direct, sur simple demande de devis, ce qui permet de l'intégrer à votre mise en concurrence même en dehors d'UGAP.
+Kollder One™ est une baignoire de refroidissement d'urgence conçue pour les services de secours français : structure inox alimentaire stable à 6 points d'appui, mise en œuvre en moins de 5 minutes, immersion corps entier avec accès patient total pendant le refroidissement. Kollder One™ n'est pas encore référencé sur catalogue de centrale d'achat : il est disponible en achat direct, sur simple demande de devis, ce qui permet de l'intégrer à votre mise en concurrence même en dehors d'UGAP.
 
 Pour une démonstration terrain ou un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

@@ -23,7 +23,7 @@ Sur les quelque 14 000 décès liés à la chaleur recensés jusqu'à la semaine
 Sur cette semaine du 22 au 28 juin, le nombre de décès toutes causes confondues a dépassé de 32% la moyenne des quatre années précédentes pour la même période, avec environ 23 900 décès enregistrés en une semaine à l'échelle du pays.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 

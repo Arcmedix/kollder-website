@@ -28,7 +28,7 @@ L'appel ne doit jamais remplacer le geste : dès la suspicion de coup de chaleur
 
 ## Être prêt à refroidir avant l'appel
 
-Sur un terrain à risque (course, chantier, caserne, entrepôt), disposer d'un moyen d'immersion immédiatement disponible permet de ne jamais perdre les premières minutes critiques en attendant une réponse téléphonique. La baignoire Kollder se déploie par une seule personne, sans outillage, en moins de 2 minutes. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
+Sur un terrain à risque (course, chantier, caserne, entrepôt), disposer d'un moyen d'immersion immédiatement disponible permet de ne jamais perdre les premières minutes critiques en attendant une réponse téléphonique. La baignoire Kollder repose sur une structure stable, sans outillage, opérationnelle en moins de 5 minutes. Devis sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

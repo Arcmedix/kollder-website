@@ -24,7 +24,7 @@ For that "already staged" model to work well, whatever the on-site medical team 
 
 ## Where Kollder fits
 
-**Kollder One™** is built for exactly the pre-staged model Procedure 60 describes: a stainless steel tub, 205×80×60 cm deployed, that one operator sets up in under 2 minutes and that holds its shape and water without the leaking or collapse issues common to Velcro-seamed or tarp-based alternatives. For event medical directors staging cooling before fire-EMS arrival, and for the fire departments that need to trust what they're inheriting on scene, that reliability is the difference between a protocol that works on paper and one that works on the day of a mass-participation event. Details and quotes at [kollder.com/#contact](https://kollder.com/#contact).
+**Kollder One™** is built for exactly the pre-staged model Procedure 60 describes: a stainless steel tub, 205×80×60 cm deployed, built on a 6-point steel frame that holds its shape and stays level on uneven ground, without the leaking or collapse issues common to Velcro-seamed or tarp-based alternatives. For event medical directors staging cooling before fire-EMS arrival, and for the fire departments that need to trust what they're inheriting on scene, that reliability is the difference between a protocol that works on paper and one that works on the day of a mass-participation event. Details and quotes at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin / Further Reading
 

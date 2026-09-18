@@ -63,7 +63,7 @@ Une formation CCE pour équipes médicales et paramédicales gagne à s'articule
 
 Les retours d'expérience des services les mieux préparés convergent sur un point : la formation la plus efficace n'est pas celle qui explique le protocole, mais celle qui fait manipuler l'équipement sous contrainte de temps, dans des conditions proches du réel. Un exercice de simulation avec déploiement chronométré change durablement le réflexe de l'équipe lors d'un cas authentique.
 
-Pour que cet exercice soit réaliste, il faut que l'équipement utilisé en formation soit strictement identique à celui utilisé en intervention. **La baignoire de refroidissement d'urgence Kollder**, avec son déploiement en moins de 2 minutes par une seule personne, se prête directement à des exercices répétés sans usure prématurée du matériel, contrairement aux structures à velcro plus fragiles. Renseignements pour équiper une session de formation sur [kollder.com/#contact](https://kollder.com/#contact).
+Pour que cet exercice soit réaliste, il faut que l'équipement utilisé en formation soit strictement identique à celui utilisé en intervention. **La baignoire de refroidissement d'urgence Kollder**, avec sa structure stable et entièrement pliable, se prête directement à des exercices répétés sans usure prématurée du matériel, contrairement aux structures à velcro plus fragiles. Renseignements pour équiper une session de formation sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 

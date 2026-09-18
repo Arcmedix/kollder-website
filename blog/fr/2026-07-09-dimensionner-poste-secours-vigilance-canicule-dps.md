@@ -24,7 +24,7 @@ Le point de refroidissement doit être accessible en moins de 5 minutes depuis n
 
 ## Un équipement qui suit ce dimensionnement
 
-La baignoire Kollder se transporte pliée dans son sac Kollder Go (85×10×10cm, hybride sac à dos et trolley) et se déploie seule, sans outillage, en moins de 2 minutes. Cette portabilité permet de multiplier les points de refroidissement sur un DPS étendu sans multiplier le personnel dédié à leur mise en place. Un devis peut être demandé sur [kollder.com/#contact](https://kollder.com/#contact).
+La baignoire Kollder se transporte pliée dans son sac Kollder Go (85×10×10cm, hybride sac à dos et trolley) et se déploie sans outillage, avec une structure stable même sur sol irrégulier. Cette portabilité permet de multiplier les points de refroidissement sur un DPS étendu sans multiplier le personnel dédié à leur mise en place. Un devis peut être demandé sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

@@ -24,7 +24,7 @@ Any program that runs physical drills in turnout gear during warm months should 
 
 ## Building this into program safety planning
 
-The Kollder emergency cooling tub deploys solo, without tools, in under 2 minutes, making it practical for a cadet program to add real immersion capability to its safety plan without a large logistics investment. Details at [kollder.com/#contact](https://kollder.com/#contact).
+The Kollder emergency cooling tub is built on a stable, six-point steel frame with room for up to 2 people in simultaneous immersion, making it practical for a cadet program to add real immersion capability to its safety plan without a large logistics investment. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

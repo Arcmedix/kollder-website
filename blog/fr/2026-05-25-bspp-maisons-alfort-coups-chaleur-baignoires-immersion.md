@@ -48,7 +48,7 @@ L'intervention de la BSPP à Maisons-Alfort, et la communication officielle qui 
 
 ## Kollder : conçu pour ces situations
 
-Kollder est la baignoire de refroidissement d'urgence déployable en moins de 2 minutes, par une seule personne, sans infrastructure. Elle a été conçue précisément pour les situations comme celle de Maisons-Alfort : plusieurs victimes potentielles, équipe réduite, terrain sans infrastructure fixe.
+Kollder est la baignoire de refroidissement d'urgence à la structure stable et entièrement pliable, sans infrastructure nécessaire. Elle a été conçue précisément pour les situations comme celle de Maisons-Alfort : plusieurs victimes potentielles, équipe réduite, terrain sans infrastructure fixe.
 
 Sa structure inox et son liner haute résistance permettent un déploiement immédiat et une immersion corps entier conforme aux protocoles internationaux, avec accès complet au patient pour tous les gestes médicaux avancés pendant le refroidissement.
 

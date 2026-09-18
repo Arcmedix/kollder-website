@@ -25,7 +25,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Define the technical requirements",
-        "text": "Require deployment in under 2 minutes by a single operator, whole-body immersion with continuous patient access, and portability suited to the terrain."
+        "text": "Require a structurally stable unit on uneven terrain, whole-body immersion with continuous patient access for up to 2 people, and portability suited to the terrain."
       },
       {
         "@type": "HowToStep",
@@ -69,7 +69,7 @@ faqSchema: |
 
 An exertional heat stroke death on a trail run, marathon, or Hyrox event puts the event medical director's decisions under direct scrutiny. Unlike a fire service or a public agency, a sports event organizer is generally not bound by public procurement law and can contract directly with a supplier. That does not lessen the need for a disciplined process to define requirements and compare bids.
 
-**Short answer:** an RFP for sports event cooling equipment should size the number of stations to participant count and course format, require deployment under 2 minutes by a single operator, and close 8 to 12 weeks before the event to allow a field demonstration (ACSM 2023, IOC/BJSM 2021, Korey Stringer Institute).
+**Short answer:** an RFP for sports event cooling equipment should size the number of stations to participant count and course format, require a structurally stable unit capable of simultaneous immersion for 2 people, and close 8 to 12 weeks before the event to allow a field demonstration (ACSM 2023, IOC/BJSM 2021, Korey Stringer Institute).
 
 ## Why a dedicated RFP matters, even outside public procurement rules
 
@@ -96,7 +96,7 @@ Eight to twelve weeks before the event is a reasonable baseline for a mid-to-lar
 
 ## Step 3: Define the technical requirements
 
-- **Deployment in under 2 minutes by a single operator**: at a first-aid post often staffed by a small team, deployment speed determines the ability to treat multiple cases in quick succession
+- **Structural stability and 2-person capacity**: at a first-aid post often staffed by a small team, a frame that stays level on uneven ground and holds 2 patients in simultaneous immersion determines the ability to treat multiple cases in quick succession
 - **Whole-body immersion with continuous patient access**: airway monitoring, rectal temperature checks, and resuscitation without removing the patient from the unit
 - **Portability and folded weight**: a decisive factor for events requiring multiple stations or deployment on natural terrain (trail, beach, off-road)
 - **Number of units needed simultaneously**, based on how many runners could realistically require treatment at once on high-turnout formats
@@ -122,7 +122,7 @@ For a one-off event, renting may make more sense than buying. For an organizatio
 
 ## Kollder One™ and Kollder Go™, built for event medical posts
 
-Kollder One™ deploys in under 2 minutes by a single operator, with full patient access throughout immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes it practical to deploy multiple stations across a single event, including on natural-terrain formats.
+Kollder One™ is built on a 6-point steel frame that stays stable on any terrain, with room for 2 people in simultaneous immersion and full patient access throughout. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes it practical to deploy multiple stations across a single event, including on natural-terrain formats.
 
 For a demonstration or a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

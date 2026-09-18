@@ -66,7 +66,7 @@ faqSchema: |
 
 Rédiger un RFP (demande de proposition) pour un équipement de refroidissement d'urgence revient à documenter, noir sur blanc, la traduction d'une exigence clinique en critères vérifiables. Ce guide détaille la structure du document, des exemples de clauses, et une grille d'évaluation applicable quel que soit votre secteur d'activité.
 
-**En bref :** un RFP pour un équipement de refroidissement d'urgence doit formuler chaque exigence comme une performance mesurable (déploiement en moins de 2 minutes, immersion corps entier, accès patient), exiger une démonstration chronométrée, et publier la grille d'évaluation aux candidats dès l'envoi du document.
+**En bref :** un RFP pour un équipement de refroidissement d'urgence doit formuler chaque exigence comme une performance mesurable (stabilité structurelle sur terrain irrégulier, immersion corps entier, accès patient), exiger une démonstration chronométrée, et publier la grille d'évaluation aux candidats dès l'envoi du document.
 
 Pour la méthode globale de préparation de l'achat (cadrage, choix de procédure, évaluation), consultez notre [guide complet sur la préparation d'un appel d'offres pour un équipement de refroidissement](https://kollder.com/blog/fr/2026-09-18-appel-offres-equipement-refroidissement-urgence-guide-complet/). Ce document-ci se concentre sur la rédaction du RFP lui-même.
 
@@ -89,7 +89,7 @@ Pour la méthode globale de préparation de l'achat (cadrage, choix de procédur
 
 ## 3. Exigences techniques mesurables
 
-> "Déploiement complet réalisable en moins de 2 minutes par un seul opérateur, sur terrain non préparé, vérifié par une démonstration chronométrée. Structure et liner résistants à un usage répété en conditions difficiles (chocs, UV, produits désinfectants). Dimensions et poids repliés compatibles avec [préciser le contexte de stockage ou de transport]."
+> "Structure stable à 6 points d'appui garantissant un niveau constant sur terrain non préparé, vérifiée par une démonstration chronométrée, avec une mise en œuvre possible en moins de 5 minutes. Structure et liner résistants à un usage répété en conditions difficiles (chocs, UV, produits désinfectants). Dimensions et poids repliés compatibles avec [préciser le contexte de stockage ou de transport]."
 
 Formulez chaque exigence comme une performance mesurable, jamais comme une référence produit ou une marque.
 
@@ -118,7 +118,7 @@ Publier la grille de notation dans le RFP lui-même améliore la qualité des r�
 
 ## Kollder One™ et Kollder Go™ répondent à ces exigences
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec une structure inox alimentaire et un accès patient total pendant l'immersion. Kollder Go™, le sac de transport hybride sac à dos/à roulettes (85 x 10 x 10 cm), facilite le déploiement sur le terrain.
+Kollder One™ repose sur une structure inox alimentaire stable à 6 points d'appui, avec un accès patient total pendant l'immersion et une mise en œuvre en moins de 5 minutes. Kollder Go™, le sac de transport hybride sac à dos/à roulettes (85 x 10 x 10 cm), facilite le déploiement sur le terrain.
 
 Pour une démonstration ou un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

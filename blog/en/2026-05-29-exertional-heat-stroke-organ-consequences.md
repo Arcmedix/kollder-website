@@ -58,7 +58,7 @@ A team that knows brain damage is progressing at 40°C with every passing minute
 
 The *Cool first, transport second* protocol is not a recommendation among others. It is the necessary condition to prevent the sequelae documented above. And applying it requires immersion equipment available on site.
 
-Kollder is designed for that: deployable in under 2 minutes, on any terrain, by one person.
+Kollder is designed for that: a stable, six-point steel frame that stays level on any terrain, with room for up to 2 people in simultaneous immersion.
 
 ## Further Reading
 

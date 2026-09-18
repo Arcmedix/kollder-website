@@ -26,13 +26,13 @@ The bag format offers compactness and portability advantages. It is used in mili
 
 ## Kollder: open-frame stainless steel, French manufacturer
 
-Kollder is a French manufacturer. The Kollder cooling tub uses a different architecture from the two solutions above: open-frame food-grade stainless steel structure, deployable in under 2 minutes by a single operator, without tools.
+Kollder is a French manufacturer. The Kollder cooling tub uses a different architecture from the two solutions above: open-frame food-grade stainless steel structure, stable on uneven ground, without tools, with a tub that fits up to 2 people in simultaneous immersion.
 
 Deployed dimensions: 205 x 80 x 60 cm. Packed and transport format: 85 x 10 x 10 cm in the included carry bag. Patient access is complete throughout immersion, airways, monitoring, and direct medical intervention are accessible at all times.
 
 The choice of food-grade stainless steel is decisive on two levels: structural rigidity, which guarantees device stability even on uneven terrain and under the weight of an adult patient, and long-term durability against repeated use cycles and decontamination protocols. These are the precise criteria on which Kollder differentiates from the aluminium or flexible PVC solutions available on the market.
 
-The design addresses the two most critical operational constraints identified in field use: single-operator deployment speed, and continuous patient access during cooling. The reference protocol, **Cool First, Transport Second** (ACSM 2023, IOC/BJSM 2021), requires immediate immersion and continuous monitoring. An open structure is the only architecture that enables both without compromise.
+The design addresses the two most critical operational constraints identified in field use: structural stability on uneven ground, and continuous patient access during cooling. The reference protocol, **Cool First, Transport Second** (ACSM 2023, IOC/BJSM 2021), requires immediate immersion and continuous monitoring. An open structure is the only architecture that enables both without compromise.
 
 Fire and rescue units, military medical teams, and sporting event medical directors wishing to evaluate the solution: [kollder.com/#contact](https://kollder.com/#contact).
 
@@ -44,7 +44,7 @@ Four parameters drive procurement decisions in this segment:
 
 **Stability and robustness.** A stainless steel frame guarantees device stability on any terrain and withstands repeated mechanical stress. This is a non-negotiable criterion in emergency intervention.
 
-**Single-operator deployment.** In an EHS intervention, every second matters. A device requiring multiple operators for setup diverts human resources from medical care to logistics.
+**Structural stability.** In an EHS intervention, a device that flexes or loses its footing under the weight of the patient and water compromises the safety of the immersion. A rigid frame that stays stable on uneven ground, including under the weight of two people, removes that risk.
 
 **Packed size.** A response vehicle is a constrained space. An 85 x 10 x 10 cm packed format integrates without sacrificing cargo capacity.
 

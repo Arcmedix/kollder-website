@@ -74,7 +74,7 @@ Lors d'un épisode de chaleur intense, le nombre de malaises peut dépasser rapi
 
 Kollder est conçue pour les contraintes spécifiques des événements sportifs : logistique mobile, équipe médicale réduite, terrain variable, nécessité d'intervenir simultanément sur plusieurs victimes.
 
-Son déploiement en moins de 2 minutes par une seule personne permet à un infirmier ou médecin de terrain de préparer la baignoire pendant qu'un second soignant prend en charge la victime. Sa compacité repliée lui permet d'être transportée dans une camionnette médicale ou même le coffre d'une voiture d'encadrement.
+Sa structure stable, quel que soit le terrain, permet à un infirmier ou médecin de terrain de préparer la baignoire pendant qu'un second soignant prend en charge la victime. Sa compacité repliée lui permet d'être transportée dans une camionnette médicale ou même le coffre d'une voiture d'encadrement.
 
 Pour équiper votre prochain événement ou obtenir un devis multi-unités : [kollder.com/#contact](https://kollder.com/#contact).
 

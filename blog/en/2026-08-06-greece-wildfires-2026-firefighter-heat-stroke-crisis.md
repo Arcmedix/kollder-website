@@ -17,7 +17,7 @@ According to the European Space Agency's Copernicus program, a major wildfire th
 The toll from earlier in the season was already severe. On July 30, wildfires forced the evacuation of thousands of people in Crete, destroying farmland, olive groves and homes, and killing three firefighters. Wildfires were also reported on Paros. In early July, fires damaged property in Thessaloniki, and Greek authorities counted dozens of separate fires burning across the country on a single day, July 5.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -35,7 +35,7 @@ The operational question for Hellenic Fire Service rehab sectors, and for any fi
 
 ## Equipment that travels with the crew, not the infrastructure
 
-That gap is precisely what Kollder One was built to close. A stainless steel emergency cooling tub, deployable by a single responder in under 2 minutes on any terrain, weighing 11.1 kg packed for transport with Kollder Go. It allows a forward rehab sector to run the full cold water immersion protocol kilometers from the nearest fixed post, on a forestry track or an improvised staging area, through the kind of multi-day operation Greece is now facing several times a summer. Fire services and civil protection units preparing for the remainder of the 2026 season, or planning ahead of next year's, can [request a Kollder quote](https://kollder.com/#contact).
+That gap is precisely what Kollder One was built to close. A stainless steel emergency cooling tub, stable on any terrain, weighing 11.1 kg packed for transport with Kollder Go. It allows a forward rehab sector to run the full cold water immersion protocol kilometers from the nearest fixed post, on a forestry track or an improvised staging area, through the kind of multi-day operation Greece is now facing several times a summer. Fire services and civil protection units preparing for the remainder of the 2026 season, or planning ahead of next year's, can [request a Kollder quote](https://kollder.com/#contact).
 
 ## Further Reading
 

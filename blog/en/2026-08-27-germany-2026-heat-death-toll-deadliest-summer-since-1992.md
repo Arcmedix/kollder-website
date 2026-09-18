@@ -23,7 +23,7 @@ Of the roughly 14,000 heat deaths recorded through calendar week 32 (early Augus
 Over that same week, all-cause mortality ran 32 percent above the four-year average for the same period, with approximately 23,900 deaths recorded nationwide in a single week.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 

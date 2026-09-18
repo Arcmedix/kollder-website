@@ -28,7 +28,7 @@ Equipment validated for one department-wide rollout needs to survive repeated de
 
 ## What Kollder brings to a validation review
 
-The Kollder emergency cooling tub offers full torso and limb immersion, 360° patient access throughout cooling, one-person deployment in under 2 minutes, and a stainless steel frame built for repeated operational use, criteria that map directly onto a typical medical service validation checklist. Reach out at [kollder.com/#contact](https://kollder.com/#contact) for technical documentation.
+The Kollder emergency cooling tub offers full torso and limb immersion, 360° patient access throughout cooling, a stable six-point stainless steel frame with room for up to 2 people in simultaneous immersion, and a structure built for repeated operational use, criteria that map directly onto a typical medical service validation checklist. Reach out at [kollder.com/#contact](https://kollder.com/#contact) for technical documentation.
 
 ## Further Reading
 

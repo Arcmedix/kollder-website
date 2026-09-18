@@ -66,7 +66,7 @@ faqSchema: |
 
 Writing an RFP for emergency cooling equipment means putting in writing, clause by clause, how a clinical requirement translates into verifiable criteria. This guide walks through the document structure, sample clauses, and a scoring matrix applicable across sectors.
 
-**Short answer:** an RFP for emergency cooling equipment should word every requirement as a measurable performance level (deployment under 2 minutes, whole-body immersion, patient access), require a timed demonstration, and publish the scoring matrix to bidders upfront.
+**Short answer:** an RFP for emergency cooling equipment should word every requirement as a measurable performance level (structural stability on uneven ground, whole-body immersion, patient access), require a timed demonstration, and publish the scoring matrix to bidders upfront.
 
 For the overall purchasing method (scoping, procurement route, evaluation), see our [complete guide on preparing a tender for emergency cooling equipment](https://kollder.com/blog/en/2026-09-18-how-to-prepare-tender-emergency-cooling-equipment-guide/). This document focuses on writing the RFP itself.
 
@@ -89,7 +89,7 @@ For the overall purchasing method (scoping, procurement route, evaluation), see 
 
 ## 3. Measurable technical requirements
 
-> "Full deployment achievable in under 2 minutes by a single operator, on unprepared ground, verified through a timed demonstration. Structure and liner able to withstand repeated use under demanding conditions (impact, UV exposure, disinfectant products). Folded dimensions and weight compatible with [specify storage or transport context]."
+> "Structure that remains stable and level on unprepared ground across all support points, with capacity for two people in simultaneous immersion, verified through a timed demonstration, and operational in under 5 minutes. Structure and liner able to withstand repeated use under demanding conditions (impact, UV exposure, disinfectant products). Folded dimensions and weight compatible with [specify storage or transport context]."
 
 Word every requirement as a measurable performance level, never as a specific product or brand.
 
@@ -118,7 +118,7 @@ Publishing the scoring matrix inside the RFP itself improves the quality of resp
 
 ## Kollder One™ and Kollder Go™ meet these requirements
 
-Kollder One™ deploys in under 2 minutes by a single operator, with a food-grade stainless steel structure and full patient access throughout immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes field deployment practical.
+Kollder One™ combines a stable, six-point steel frame with a food-grade stainless steel structure, full patient access throughout immersion, and room for up to 2 people in simultaneous immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes field deployment practical.
 
 For a demonstration or a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

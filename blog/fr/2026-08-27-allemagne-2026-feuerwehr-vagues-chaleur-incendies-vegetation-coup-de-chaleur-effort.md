@@ -23,7 +23,7 @@ Une intervention de feu de végétation en France ou en Europe du Sud combine, d
 Pour les équipes engagées sur des feux de végétation dans ces conditions, les facteurs de risque de coup de chaleur d'effort s'additionnent directement : une chaleur ambiante déjà extrême avant même l'engagement, une charge thermique supplémentaire liée à la tenue et à l'effort, et des rotations qui, comme sur les grands feux méditerranéens documentés cet été en Grèce, en Croatie ou dans les Hautes Fagnes belges, peuvent s'étirer bien au-delà de la durée initialement prévue.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -35,7 +35,7 @@ Dans un pays où les feux de forêt et de prairie restent, historiquement, un ri
 
 ## Un équipement qui doit suivre les feuerwehr sur le terrain
 
-C'est l'écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, déployable par un seul intervenant en moins de 2 minutes sur n'importe quel terrain, y compris une lande ou une lisière forestière loin de tout point d'eau fixe. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et permet à un secteur de réhabilitation avancé de rester opérationnel tout au long d'une intervention prolongée. Les services d'incendie allemands confrontés à une intensification durable des feux de végétation peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leurs postes de réhabilitation avancés.
+C'est l'écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, stable sur n'importe quel terrain, y compris une lande ou une lisière forestière loin de tout point d'eau fixe. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et permet à un secteur de réhabilitation avancé de rester opérationnel tout au long d'une intervention prolongée. Les services d'incendie allemands confrontés à une intensification durable des feux de végétation peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leurs postes de réhabilitation avancés.
 
 ## Pour aller plus loin
 

@@ -65,7 +65,7 @@ Trois éléments ressortent de cette lecture pluriannuelle pour les acteurs de t
 
 **L'équipement de refroidissement rapide devient un facteur de pronostic documenté**, aux côtés de la prévention, plutôt qu'une option secondaire.
 
-C'est cette dernière donnée qui justifie la place croissante d'un équipement comme **la baignoire de refroidissement d'urgence Kollder** dans la dotation des services d'urgence, des SDIS et des dispositifs événementiels : déployable par un seul opérateur en moins de 2 minutes, elle répond directement au facteur le plus corrélé à la survie, la rapidité du refroidissement. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
+C'est cette dernière donnée qui justifie la place croissante d'un équipement comme **la baignoire de refroidissement d'urgence Kollder** dans la dotation des services d'urgence, des SDIS et des dispositifs événementiels : à la structure stable et entièrement pliable, opérationnelle en moins de 5 minutes, elle répond directement au facteur le plus corrélé à la survie, la rapidité du refroidissement. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 

@@ -91,7 +91,7 @@ Dès qu'un de ces signes apparaît, l'effort s'arrête immédiatement. Le diagno
 
 La prévention réduit le risque. Elle ne l'élimine pas. Quand un cas survient malgré les mesures préventives, tout se joue sur la disponibilité immédiate d'un équipement d'immersion.
 
-Kollder est conçue pour les équipes qui ne peuvent pas attendre. Déployable en moins de 2 minutes par une seule personne, sur n'importe quel terrain, elle permet d'appliquer le protocole Cool First Transport Second sans infrastructure préalable.
+Kollder est conçue pour les équipes qui ne peuvent pas attendre. Avec sa structure stable sur n'importe quel terrain et son bassin pour jusqu'à 2 personnes en immersion simultanée, elle permet d'appliquer le protocole Cool First Transport Second sans infrastructure préalable.
 
 Les SDIS, équipes médicales événementielles et responsables EHS qui souhaitent évaluer Kollder peuvent contacter notre équipe : [kollder.com/#contact](https://kollder.com/#contact)
 

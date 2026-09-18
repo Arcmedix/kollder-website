@@ -94,7 +94,7 @@ Contactez directement les unités ou services cités en référence, au-delà de
 
 ## Kollder One™ et Kollder Go™, testés en conditions réelles
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec une structure conçue et testée pour les conditions de terrain difficiles. Kollder Go™, le sac de transport hybride (85 x 10 x 10 cm), a été pensé pour le déploiement en contexte opérationnel.
+Kollder One™ repose sur une structure conçue et testée pour rester stable sur les terrains les plus difficiles, avec une capacité pour 2 personnes en immersion simultanée. Kollder Go™, le sac de transport hybride (85 x 10 x 10 cm), a été pensé pour le déploiement en contexte opérationnel.
 
 Pour organiser une démonstration ou obtenir un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

@@ -17,7 +17,7 @@ BFP data shows fire incidents rising sharply every summer: an average of nine fi
 The same window is when PAGASA's heat index readings climb into their most dangerous range. On multiple days this year, Metro Manila and dozens of provincial areas recorded heat index values between 42°C and 46°C, PAGASA's "Danger" category, where the agency's own advisory states that heat cramps and heat exhaustion are likely and heat stroke is probable with continued exposure. Areas including Dagupan City, Aparri, Casiguran, San Jose in Occidental Mindoro, Cuyo in Palawan and Dumangas in Iloilo have each logged danger-level readings this season, some for several consecutive days.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -33,7 +33,7 @@ The **ACSM Expert Consensus Statement 2023** and IOC guidance (Hosokawa Y, Racin
 
 ## Cooling equipment sized for a station budget, not just a wildfire season
 
-Kollder One's case for BFP stations is different from its case for wildland fire services: it is not about multi-day deployments on remote terrain, it is about having on-scene cold water immersion capability ready at any of the country's 648 fire stations, deployable by a single responder in under 2 minutes, without needing a fixed medical facility nearby. Fire services and EHS teams assessing heat readiness ahead of next year's March-to-May peak can [request a Kollder quote](https://kollder.com/#contact).
+Kollder One's case for BFP stations is different from its case for wildland fire services: it is not about multi-day deployments on remote terrain, it is about having a stable, foldable cold water immersion capability ready at any of the country's 648 fire stations, without needing a fixed medical facility nearby. Fire services and EHS teams assessing heat readiness ahead of next year's March-to-May peak can [request a Kollder quote](https://kollder.com/#contact).
 
 ## Further Reading
 

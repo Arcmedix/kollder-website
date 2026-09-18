@@ -108,7 +108,7 @@ La vitesse de refroidissement par immersion est **0,35°C/min** contre **0,03°C
 
 La principale raison pour laquelle le protocole Cool First Transport Second n'est pas appliqué sur le terrain n'est pas l'ignorance — c'est l'absence d'équipement. Les équipes savent qu'il faut immerger. Mais il n'y a pas de baignoire.
 
-Kollder résout ce problème. Sa baignoire de refroidissement se déploie en moins de 2 minutes par une seule personne, s'intègre dans tout véhicule de secours et permet une immersion corps entier avec accès patient complet. Pour les équipes qui souhaitent l'intégrer à leur dispositif : [kollder.com/#contact](https://kollder.com/#contact).
+Kollder résout ce problème. Sa baignoire de refroidissement, à structure stable et entièrement pliable, s'intègre dans tout véhicule de secours et permet une immersion corps entier avec accès patient complet. Pour les équipes qui souhaitent l'intégrer à leur dispositif : [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

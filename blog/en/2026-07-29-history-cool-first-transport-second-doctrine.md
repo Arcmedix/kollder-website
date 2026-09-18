@@ -40,7 +40,7 @@ The doctrine has since been written directly into operational standards for the 
 
 A protocol is only as good as the equipment available to execute it. The entire premise of Cool First, Transport Second depends on cooling capability existing at the scene, immediately, not after a transport decision has already been made. That operational requirement, not the underlying science, is usually the actual bottleneck: cold water immersion is well understood and well proven, but it is only useful if a team can deploy it in the first minutes after collapse.
 
-That gap between accepted protocol and field-deployable equipment is what the Kollder emergency cooling tub was built to close: full-body immersion, deployable in under 2 minutes by one person, anywhere the protocol needs to be executed. Teams building out their own Cool First capability can find specifications at [kollder.com/#contact](https://kollder.com/#contact).
+That gap between accepted protocol and field-deployable equipment is what the Kollder emergency cooling tub was built to close: full-body immersion for up to 2 people at once, on a structure stable enough for any terrain, anywhere the protocol needs to be executed. Teams building out their own Cool First capability can find specifications at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

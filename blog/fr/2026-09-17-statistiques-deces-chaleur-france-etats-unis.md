@@ -85,7 +85,7 @@ Dans les deux pays, les personnes de 75 ans et plus concentrent la majorité des
 
 ## Ce que ces chiffres impliquent pour les équipes de terrain
 
-Ces statistiques nationales se traduisent, au niveau individuel, par une exigence opérationnelle unique : refroidir immédiatement toute personne suspectée de coup de chaleur, avant même le transport. Le protocole **"Cool First, Transport Second"** (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute) reste la référence internationale pour le traitement du coup de chaleur d'effort. Il ne peut s'appliquer que si l'équipement de refroidissement par immersion est présent sur le terrain, déployable en moins de 2 minutes par un seul opérateur, et non stocké dans un dépôt éloigné. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
+Ces statistiques nationales se traduisent, au niveau individuel, par une exigence opérationnelle unique : refroidir immédiatement toute personne suspectée de coup de chaleur, avant même le transport. Le protocole **"Cool First, Transport Second"** (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute) reste la référence internationale pour le traitement du coup de chaleur d'effort. Il ne peut s'appliquer que si l'équipement de refroidissement par immersion est présent sur le terrain, stable sur tout type de sol, et non stocké dans un dépôt éloigné. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

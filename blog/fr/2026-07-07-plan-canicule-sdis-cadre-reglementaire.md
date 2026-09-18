@@ -28,7 +28,7 @@ Traiter explicitement ce risque suppose, au minimum, trois éléments dans le di
 
 ## Positionner l'équipement de refroidissement dans le dispositif SDIS
 
-C'est à ce niveau que l'équipement de refroidissement s'intègre au dispositif réglementaire, non comme un achat isolé, mais comme la pièce qui rend le protocole applicable en conditions réelles. Un dispositif déployable en moins de 2 minutes par un seul agent, transportable en caserne comme en intervention extérieure, permet de couvrir le risque sans dépendre d'une infrastructure fixe. Le Kollder One™ et le sac Kollder Go™ ont été conçus dans cette logique ; les modalités sont détaillées sur [kollder.com/#contact](https://kollder.com/#contact).
+C'est à ce niveau que l'équipement de refroidissement s'intègre au dispositif réglementaire, non comme un achat isolé, mais comme la pièce qui rend le protocole applicable en conditions réelles. Un dispositif à structure stable, transportable en caserne comme en intervention extérieure, permet de couvrir le risque sans dépendre d'une infrastructure fixe. Le Kollder One™ et le sac Kollder Go™ ont été conçus dans cette logique ; les modalités sont détaillées sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

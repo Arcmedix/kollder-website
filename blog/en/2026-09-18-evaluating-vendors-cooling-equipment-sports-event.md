@@ -97,7 +97,7 @@ A vendor who answers every question precisely, with documentation you can verify
 
 ## Kollder One™ and Kollder Go™, an evaluation that holds up
 
-We routinely offer a field demonstration before any decision. Kollder One™ deploys in under 2 minutes by a single operator, with full patient access throughout immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes deployment practical on any terrain.
+We routinely offer a field demonstration before any decision. Kollder One™ combines a stable, six-point steel frame with full patient access throughout immersion and room for up to 2 people in simultaneous immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes deployment practical on any terrain.
 
 To arrange a demonstration or get a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

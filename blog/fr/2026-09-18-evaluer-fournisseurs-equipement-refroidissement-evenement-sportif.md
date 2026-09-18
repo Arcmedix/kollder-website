@@ -97,7 +97,7 @@ Un fournisseur qui répond de façon précise, documentée et vérifiable à cha
 
 ## Kollder One™ et Kollder Go™, une évaluation qui résiste à la vérification
 
-Nous proposons systématiquement une démonstration terrain avant décision. Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec un accès patient total pendant l'immersion. Kollder Go™, le sac de transport hybride (85 x 10 x 10 cm), facilite le déploiement sur tout type de terrain.
+Nous proposons systématiquement une démonstration terrain avant décision. Kollder One™ repose sur une structure stable à 6 points d'appui, avec un accès patient total pendant l'immersion. Kollder Go™, le sac de transport hybride (85 x 10 x 10 cm), facilite le déploiement sur tout type de terrain.
 
 Pour organiser une démonstration ou obtenir un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

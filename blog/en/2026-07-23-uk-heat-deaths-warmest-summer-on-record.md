@@ -28,7 +28,7 @@ It does not eliminate the risk, and it does not address exertional heat stroke, 
 
 ## Bringing field-level cooling into a system built on alerts
 
-UK fire and rescue services already have a documented interest in how French SDIS units have operationalized rapid cold water immersion for their own personnel and the public. As heat alert systems mature, the next gap to close is equipment: getting an immersion-capable cooling tub to the point of collapse, not just an alert to the point of exposure. Kollder deploys in under 2 minutes by a single responder, giving fire and rescue, event medical teams, and occupational health services the ability to run the Cool First, Transport Second protocol directly in the field. More at [kollder.com/#contact](https://kollder.com/#contact).
+UK fire and rescue services already have a documented interest in how French SDIS units have operationalized rapid cold water immersion for their own personnel and the public. As heat alert systems mature, the next gap to close is equipment: getting an immersion-capable cooling tub to the point of collapse, not just an alert to the point of exposure. Kollder's stable, fully foldable structure holds up to 2 people in simultaneous immersion, giving fire and rescue, event medical teams, and occupational health services the ability to run the Cool First, Transport Second protocol directly in the field. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further reading
 

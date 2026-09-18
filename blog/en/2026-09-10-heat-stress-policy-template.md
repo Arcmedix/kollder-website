@@ -124,7 +124,7 @@ If a worker shows signs of heat stroke (confusion, collapse, seizure, or core te
 3. **Continue cooling until core temperature reaches 38.9 C (102 F)** or emergency services take over. Do not stop cooling for transport if cooling is still underway and EMS agrees.
 4. **Hand over** the time symptoms began, the cooling started, and the method used.
 
-Every [Company Name] site with Level 2 or higher exposure must hold cooling equipment capable of whole-body cold water immersion, deployable in under 2 minutes by a single operator, with its location and the designated responder named in the site emergency procedure.
+Every [Company Name] site with Level 2 or higher exposure must hold cooling equipment capable of whole-body cold water immersion, structurally stable on uneven ground with capacity for 2 people in simultaneous immersion, with its location and the designated responder named in the site emergency procedure.
 
 ### 9. Training, recordkeeping, and review
 

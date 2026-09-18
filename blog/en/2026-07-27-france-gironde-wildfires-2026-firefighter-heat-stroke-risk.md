@@ -17,7 +17,7 @@ France's Prime Minister acknowledged it directly during the interministerial cri
 On the Gironde and Landes front, the situation escalated enough to trigger the EU Civil Protection Mechanism. Two Croatian Canadair aircraft, two Portuguese Air Tractors, and two heavy Czech and Slovak helicopters were deployed to reinforce national resources. Five firefighters were injured in the sector, homes were destroyed, and military units were brought in to help stop the fire's advance toward the Bordeaux metropolitan area.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
@@ -41,7 +41,7 @@ On a fireground like Gironde's, where medical assets can sit several kilometers 
 
 ## Equipment has to match the pace of the fireground
 
-This is exactly where emergency cooling equipment becomes an operational question, not just a medical one. An immersion tub needs to be deployable by a single responder, in under 2 minutes, on any terrain, including a forestry track or an improvised rally point far from any infrastructure. That is the logic behind Kollder One, a stainless steel emergency cooling tub weighing 11.1 kg packed, deployable by one person on any ground surface. On operations stretching across multiple nights, where every forward medical post needs to stay functional without heavy logistics, that speed of deployment directly determines whether a fire department's in-house medical service can treat a case within the first critical minutes. Fire departments facing increasingly early and intense wildfire seasons can [request a Kollder quote](https://kollder.com/#contact) to equip their forward medical posts.
+This is exactly where emergency cooling equipment becomes an operational question, not just a medical one. An immersion tub needs to stay stable on any terrain, including a forestry track or an improvised rally point far from any infrastructure. That is the logic behind Kollder One, a stainless steel emergency cooling tub with a 6-point frame, weighing 11.1 kg packed, that holds its footing on any ground surface. On operations stretching across multiple nights, where every forward medical post needs to stay functional without heavy logistics, that speed of deployment directly determines whether a fire department's in-house medical service can treat a case within the first critical minutes. Fire departments facing increasingly early and intense wildfire seasons can [request a Kollder quote](https://kollder.com/#contact) to equip their forward medical posts.
 
 ## Further Reading
 

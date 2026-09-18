@@ -34,7 +34,7 @@ Tout événement sportif organisé par temps chaud est concerné dès lors qu'il
 
 Le protocole Cool First Transport Second impose une disponibilité immédiate de l'équipement. Concrètement, chaque poste médical avancé d'un événement sportif estival doit disposer de :
 
-**1. Une baignoire de refroidissement déployable** — conformes au protocole d'immersion complète, accessibles en moins de 2 minutes depuis n'importe quel point du parcours.
+**1. Une baignoire de refroidissement déployable** — conformes au protocole d'immersion complète, stables sur n'importe quel point du parcours, accessibles en moins de 5 minutes.
 
 **2. De l'eau froide et de la glace** — en quantité suffisante pour remplir la baignoire et maintenir une température entre 1,5°C et 15°C. Anticipez les besoins selon la température ambiante et la durée de l'événement.
 
@@ -57,7 +57,7 @@ Lors de l'intervention de la BSPP à Maisons-Alfort le 24 mai 2026, plusieurs vi
 
 Kollder a été conçue en pensant aux contraintes spécifiques des événements sportifs : logistique réduite, équipe médicale de taille variable, terrain imprévisible, nécessité d'intervenir vite sur plusieurs victimes potentielles simultanées.
 
-Son déploiement en moins de 2 minutes par une seule personne permet à un infirmier ou un médecin de terrain de monter la baignoire pendant qu'un second soignant prend en charge la victime — sans perdre une seconde.
+Sa structure stable et rapide à mettre en œuvre permet à un infirmier ou un médecin de terrain de monter la baignoire pendant qu'un second soignant prend en charge la victime — sans perdre une seconde.
 
 Sa structure compacte repliée s'intègre dans une camionnette médicale, un véhicule de coordination ou même un coffre de voiture. Pas d'infrastructure fixe nécessaire. Pas d'eau courante nécessaire à l'avance.
 

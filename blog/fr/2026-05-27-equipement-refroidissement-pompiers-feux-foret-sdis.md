@@ -41,7 +41,7 @@ Sur un feu de forêt en terrain accidenté, l'ambulance ou le VSAV peut être à
 Sur un feu de forêt, l'eau disponible est d'abord utilisée pour la lutte contre l'incendie. L'équipement de refroidissement doit fonctionner avec un volume d'eau limité et être rechargeable rapidement.
 
 **Contrainte 3 : L'équipe est réduite**
-En situation d'urgence sur feu, les effectifs disponibles pour la prise en charge médicale sont limités. La baignoire doit pouvoir être déployée par une seule personne.
+En situation d'urgence sur feu, les effectifs disponibles pour la prise en charge médicale sont limités. La baignoire doit reposer sur une structure stable, simple à mettre en œuvre avec un effectif réduit.
 
 **Contrainte 4 : Le terrain est imprévisible**
 Pente, rochers, végétation. La baignoire doit tenir stable sur un terrain non plat et résister aux conditions d'utilisation difficiles.
@@ -50,7 +50,7 @@ Pente, rochers, végétation. La baignoire doit tenir stable sur un terrain non 
 
 Un SDIS qui souhaite équiper ses équipes d'intervention en feux de forêt doit évaluer chaque solution sur les critères suivants :
 
-**Déploiement par une seule personne en moins de 2 minutes** — c'est la contrainte non négociable en contexte opérationnel.
+**Structure stable et pliable, opérationnelle en moins de 5 minutes** — c'est le critère non négociable en contexte opérationnel.
 
 **Portabilité en solo** — l'équipement doit pouvoir être porté par un seul sapeur-pompier depuis le véhicule jusqu'au point d'intervention, sur un terrain accidenté.
 
@@ -64,7 +64,7 @@ Un SDIS qui souhaite équiper ses équipes d'intervention en feux de forêt doit
 
 Kollder a été développée en intégrant dès la conception les contraintes opérationnelles des équipes de secours en milieu hostile. Sa structure inox alimentaire et son liner haute résistance sont conçus pour les conditions d'utilisation difficiles — pas pour une salle de sport climatisée.
 
-Son déploiement en moins de 2 minutes par une seule personne répond directement à la contrainte des équipes réduites sur feux de forêt. Sa compacité repliée lui permet d'être transportée dans tout véhicule léger ou pick-up d'intervention.
+Sa structure stable à 6 points d'appui répond directement à la contrainte du terrain accidenté des feux de forêt, avec une mise en œuvre en moins de 5 minutes malgré des équipes réduites. Sa compacité repliée lui permet d'être transportée dans tout véhicule léger ou pick-up d'intervention.
 
 Retrouvez [les critères de sélection pour équiper un SDIS](https://kollder.com/fr/sdis-pompiers/) sur notre page dédiée aux sapeurs-pompiers.
 

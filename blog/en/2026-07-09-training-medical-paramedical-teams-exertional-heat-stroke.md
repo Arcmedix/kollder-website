@@ -24,7 +24,7 @@ The Korey Stringer Institute's outcome data (100% survival across 401+ cases whe
 
 ## Equipment familiarity is part of training
 
-A cooling tub that takes new team members multiple sessions to learn defeats the purpose of fast deployment. The Kollder emergency cooling tub is designed for one-person deployment in under 2 minutes with no tools, which shortens the training curve for new or rotating team members. Details at [kollder.com/#contact](https://kollder.com/#contact).
+A cooling tub that takes new team members multiple sessions to learn defeats the purpose of fast deployment. The Kollder emergency cooling tub is designed with a stable, no-assembly-required frame and no tools needed, which shortens the training curve for new or rotating team members. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

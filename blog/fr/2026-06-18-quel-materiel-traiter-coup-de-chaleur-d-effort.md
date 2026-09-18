@@ -62,7 +62,7 @@ L'obstacle historique à cette méthode n'est pas clinique, il est logistique : 
 
 L'immersion en eau froide est efficace. Mais sans équipement dédié, la mettre en œuvre en moins de 5 minutes sur un terrain non préparé est un vrai problème. Une piscine gonflable prend plusieurs minutes à gonfler et à remplir. Une bâche improvisée mobilise deux ou trois personnes. Un point d'eau naturel n'est pas toujours disponible et jamais contrôlé.
 
-C'est pour répondre à cette contrainte que la baignoire de refroidissement d'urgence Kollder a été conçue. Elle se déploie en moins de 2 minutes par une seule personne, sur n'importe quelle surface plane, et offre un accès complet au patient pour les gestes médicaux et le monitoring. Sa construction en acier inoxydable garantit la tenue en conditions réelles d'intervention.
+C'est pour répondre à cette contrainte que la baignoire de refroidissement d'urgence Kollder a été conçue. Sa structure stable à 6 points d'appui tient sur n'importe quel type de surface, et elle offre un accès complet au patient pour les gestes médicaux et le monitoring. Sa construction en acier inoxydable garantit la tenue en conditions réelles d'intervention.
 
 En termes de critères combinés — vitesse de déploiement, efficacité de refroidissement, accessibilité patient, durabilité — c'est la réponse la plus directe aux exigences du protocole "Cool First, Transport Second" en dehors d'un hôpital.
 

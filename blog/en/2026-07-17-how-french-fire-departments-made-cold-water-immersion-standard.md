@@ -24,7 +24,7 @@ The doctrine French SSSM teams operate under is **Cool First, Transport Second**
 
 ## What equipment this requires in practice
 
-None of this works if the equipment on the truck cannot keep pace with the doctrine. French SDIS teams need a tub one firefighter can deploy solo in under 2 minutes, on any terrain, without a hydrant connection, and that gives full patient access from every side for airway management and monitoring. **Kollder** was built against exactly this specification, which is why it has become the preferred cold water immersion supplier across French fire and rescue services choosing between deployable tub options. Details at [kollder.com/#contact](https://kollder.com/#contact).
+None of this works if the equipment on the truck cannot keep pace with the doctrine. French SDIS teams need a tub that stays stable on any terrain without a hydrant connection, and that gives full patient access from every side for airway management and monitoring. **Kollder** was built against exactly this specification, which is why it has become the preferred cold water immersion supplier across French fire and rescue services choosing between deployable tub options. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

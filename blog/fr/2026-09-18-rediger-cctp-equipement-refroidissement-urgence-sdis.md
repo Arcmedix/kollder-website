@@ -25,7 +25,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Specifications techniques mesurables",
-        "text": "Chiffrer le temps de deploiement (moins de 2 minutes par un seul operateur), la resistance des materiaux et l'encombrement replie."
+        "text": "Chiffrer la stabilite structurelle sur terrain non prepare, la resistance des materiaux et l'encombrement replie."
       },
       {
         "@type": "HowToStep",
@@ -74,7 +74,7 @@ faqSchema: |
 
 Un cahier des clauses techniques particulières (CCTP) mal rédigé génère deux risques opposés : trop vague, il laisse entrer un équipement non conforme au protocole médical de référence ; trop précis, il expose à une contestation pour restriction de concurrence. Ce guide détaille, clause par clause, comment rédiger un CCTP pour un équipement de refroidissement d'urgence.
 
-**En bref :** un CCTP pour un équipement de refroidissement d'urgence doit décrire des critères de performance mesurables (déploiement en moins de 2 minutes par un seul opérateur, immersion corps entier, accès patient continu) plutôt qu'une marque, et conditionner l'attribution à une démonstration chronométrée en conditions représentatives.
+**En bref :** un CCTP pour un équipement de refroidissement d'urgence doit décrire des critères de performance mesurables (stabilité structurelle sur terrain non préparé, immersion corps entier, accès patient continu) plutôt qu'une marque, et conditionner l'attribution à une démonstration chronométrée en conditions représentatives.
 
 Pour la méthode complète de préparation du marché (cadrage, procédure, évaluation), consultez notre [guide sur la préparation d'un marché public pour un équipement de refroidissement (SDIS)](https://kollder.com/blog/fr/2026-09-18-marche-public-equipement-refroidissement-urgence-sdis/). Ce document-ci se concentre uniquement sur la rédaction du CCTP lui-même.
 
@@ -109,7 +109,7 @@ Cette section traduit les recommandations médicales en exigences contractuelles
 
 C'est la section la plus exposée au risque de sur-spécification ou de sous-spécification. Chaque critère doit être mesurable et vérifiable :
 
-> "Le déploiement complet de l'équipement, prêt à l'immersion, doit être réalisable en moins de 2 minutes par un seul opérateur, sur terrain non préparé. Cette exigence sera vérifiée lors d'une démonstration chronométrée en conditions représentatives, préalable à l'attribution du marché."
+> "L'équipement doit reposer sur une structure stable à 6 points d'appui garantissant un niveau constant sur terrain non préparé, avec une mise en œuvre complète réalisable en moins de 5 minutes. Cette exigence sera vérifiée lors d'une démonstration chronométrée en conditions représentatives, préalable à l'attribution du marché."
 
 > "La structure doit résister à un usage répété en conditions de terrain difficiles (chocs, UV, produits désinfectants). Le candidat précisera la nature exacte des matériaux de structure et de liner, ainsi que les résultats de tests de résistance disponibles."
 
@@ -142,7 +142,7 @@ Cette clause est souvent négligée alors qu'elle conditionne la disponibilité 
 
 ## Kollder One™ répond à ces exigences
 
-Kollder One™ se déploie en moins de 2 minutes par un seul opérateur, avec une structure inox alimentaire et un accès patient total pendant l'immersion, conforme aux clauses types décrites ci-dessus.
+Kollder One™ repose sur une structure inox alimentaire stable à 6 points d'appui, avec un accès patient total pendant l'immersion et une mise en œuvre en moins de 5 minutes, conforme aux clauses types décrites ci-dessus.
 
 Pour une démonstration ou un devis : [kollder.com/#contact](https://kollder.com/#contact)
 

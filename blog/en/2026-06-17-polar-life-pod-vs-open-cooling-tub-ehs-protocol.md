@@ -56,7 +56,7 @@ The Korey Stringer Institute (KSI, University of Connecticut, Dr. Douglas Casa) 
 
 ## An open tub built for field conditions
 
-Kollder is a French emergency cooling tub. Its stainless steel frame (food-grade 304 inox), high-resistance liner, and one-person deployment system (under 2 minutes) were developed in direct dialogue with French operational constraints: SDIS intervention units, SSSM military medical teams, trail and marathon race medical directors, and industrial EHS safety officers.
+Kollder is a French emergency cooling tub. Its stainless steel frame (food-grade 304 inox), high-resistance liner, and six-point stable structure with room for up to 2 people in simultaneous immersion were developed in direct dialogue with French operational constraints: SDIS intervention units, SSSM military medical teams, trail and marathon race medical directors, and industrial EHS safety officers.
 
 The design is fully open. The patient remains accessible from all sides throughout immersion: airway monitoring, pulse, rectal temperature, IV access if needed. In the event of sudden clinical deterioration, extraction takes seconds, not steps. Dimensions (205 × 80 × 60 cm deployed, 85 × 10 × 10 cm in transport bag, 11.1 kg) are sized to fit SDIS vehicles and event medical kits. Water capacity (200-300 L) consistently achieves ideal cooling rates across morphotypes.
 

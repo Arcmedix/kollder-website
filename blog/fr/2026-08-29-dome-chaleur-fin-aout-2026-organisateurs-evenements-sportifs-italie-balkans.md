@@ -17,7 +17,7 @@ Selon les prévisions météorologiques disponibles fin août, un dôme de chale
 C'est précisément le moment où le calendrier des courses italiennes commence traditionnellement à privilégier l'automne et l'hiver, les mois d'octobre à avril étant généralement considérés comme les plus favorables pour les épreuves de fond. Cette bascule de calendrier repose sur une hypothèse implicite : que le risque thermique s'atténue avec la fin de l'été. Le dôme de chaleur de fin août 2026 vient rappeler que cette hypothèse n'est plus fiable.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -35,7 +35,7 @@ Pour un directeur médical d'épreuve qui planifie une course de fin d'été ou 
 
 ## Un poste médical qui reste prêt même quand la saison change
 
-C'est le rôle que joue Kollder One pour les organisateurs qui refusent de considérer le risque thermique comme une parenthèse estivale. Une baignoire de refroidissement d'urgence en structure inox, déployable par un seul intervenant en moins de 2 minutes, directement sur le site de la course, y compris sur un poste médical avancé en pleine montagne. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et s'intègre facilement dans le dispositif de secours d'une épreuve sportive, quelle que soit sa taille. Les organisateurs et directeurs médicaux qui planifient leurs épreuves de fin de saison peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leur poste médical.
+C'est le rôle que joue Kollder One pour les organisateurs qui refusent de considérer le risque thermique comme une parenthèse estivale. Une baignoire de refroidissement d'urgence en structure inox stable, directement sur le site de la course, y compris sur un poste médical avancé en pleine montagne. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et s'intègre facilement dans le dispositif de secours d'une épreuve sportive, quelle que soit sa taille. Les organisateurs et directeurs médicaux qui planifient leurs épreuves de fin de saison peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leur poste médical.
 
 ## Pour aller plus loin
 

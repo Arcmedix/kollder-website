@@ -108,7 +108,7 @@ Specific recommendations for a provider assigned to this kind of event:
 
 ## A tub built for multi-event providers
 
-The Kollder tub folds into its Kollder Go bag (85×10×10cm, hybrid backpack and trolley) and deploys on its own, with no tools, in under 2 minutes by a single operator. That portability lets a provider cover several posts or several events on the same weekend without heavy logistics or dedicated setup staff. Request a quote at [kollder.com/#contact](https://kollder.com/#contact).
+The Kollder tub folds fully into its Kollder Go bag (85×10×10cm, hybrid backpack and trolley) and sets up on a stable, six-point frame, with no tools, ready for up to 2 people in simultaneous immersion. That portability lets a provider cover several posts or several events on the same weekend without heavy logistics or dedicated setup staff. Request a quote at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

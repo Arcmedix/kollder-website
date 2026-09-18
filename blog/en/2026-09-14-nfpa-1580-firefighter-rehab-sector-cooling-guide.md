@@ -43,7 +43,7 @@ Forearm immersion is the method NFPA 1580 names explicitly, and it is a legitima
 
 Structure fires keep rehab close to apparatus, but wildland deployments, mutual aid assignments, and training exercises often put rehab wherever the crew happens to be, with no fixed water source or dedicated support vehicle. A cooling solution that depends on a truck-mounted tank or a multi-person setup does not travel to those assignments. An immersion tub that one member can deploy solo, without tools, fits the reality of a rehab sector that has to stand up fast and pack away just as fast when the assignment ends.
 
-The Kollder emergency cooling tub deploys in under 2 minutes by one person and packs into the Kollder Go bag for staging at any rehab sector, fixed or mobile. More at [kollder.com/#contact](https://kollder.com/#contact).
+The Kollder emergency cooling tub stays stable on any surface, folds fully into the Kollder Go bag, and gives room for 2 people in simultaneous immersion, ready for staging at any rehab sector, fixed or mobile. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

@@ -34,20 +34,20 @@ The most concrete shift is in how cooling equipment is bought and managed. Kit t
 
 A long season places three demands on the equipment.
 
-- **Fast, repeated deployment.** It has to go up and come down many times a year, often handled by rotating or volunteer staff, without retraining each time. The target: solo deployment by one operator in under 2 minutes.
+- **Stable structure, simple folding.** It has to go up and come down many times a year, often handled by rotating or volunteer staff, without retraining each time. The target: a structure that stays stable on any terrain and folds without tools.
 - **Durability.** Repeated use over several months, across varied terrain, does not forgive fragile solutions built for a single deployment.
 - **360° patient access.** In a severe exertional heat stroke case, the 30-minute window leaves no room for equipment that gets in the way of resuscitation.
 
 In practice, that means keeping the cooling capability in the vehicle or at the medical post through the whole extended season, rather than treating it as a summer consumable.
 
 <div class="article-mid-cta">
-<p><strong>Kollder deploys in under 2 minutes.</strong> Built for repeated field use in extreme conditions.</p>
+<p><strong>Kollder: stable structure, fully foldable, room for up to 2 people in simultaneous immersion.</strong> Built for repeated field use in extreme conditions.</p>
 <a href="/#contact">Request a quote →</a>
 </div>
 
 ## Kollder One™ and Kollder Go™: built for a season that lasts
 
-**Kollder One™** was built for this long-season reality rather than occasional use: solo deployment in under 2 minutes, a stainless steel chassis sized for repeated use, and 360° patient access for resuscitation if needed. The **Kollder Go™** transport bag (85 x 10 x 10 cm, carried as a backpack or wheeled) lets teams redeploy the setup from one site to the next, episode after episode.
+**Kollder One™** was built for this long-season reality rather than occasional use: a stable stainless steel chassis sized for repeated use, room for up to 2 people in simultaneous immersion, and 360° patient access for resuscitation if needed. The **Kollder Go™** transport bag (85 x 10 x 10 cm, carried as a backpack or wheeled) lets teams redeploy the setup from one site to the next, episode after episode.
 
 By organisation, that answers a specific need:
 

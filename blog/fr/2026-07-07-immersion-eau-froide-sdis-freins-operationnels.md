@@ -12,7 +12,7 @@ L'immersion en eau froide est le traitement de référence du coup de chaleur d'
 
 ## "Le déploiement prend trop de temps"
 
-C'est l'objection la plus fréquente, et elle était fondée avec les équipements de première génération : bâches gonflables lentes à mettre en place, structures nécessitant plusieurs intervenants. Cette contrainte n'est plus incontournable. Un équipement conçu pour le déploiement solo, en moins de 2 minutes, réduit ce frein à une durée compatible avec la fenêtre de 30 minutes documentée par le **Korey Stringer Institute**.
+C'est l'objection la plus fréquente, et elle était fondée avec les équipements de première génération : bâches gonflables lentes à mettre en place, structures nécessitant plusieurs intervenants. Cette contrainte n'est plus incontournable. Un équipement à structure stable, prête en moins de 5 minutes, réduit ce frein à une durée compatible avec la fenêtre de 30 minutes documentée par le **Korey Stringer Institute**.
 
 ## "Il faut une source d'eau à proximité"
 
@@ -28,7 +28,7 @@ C'est un frein réel, mais il porte sur la formation, pas sur la méthode elle-m
 
 ## Ce que ces objections ont en commun
 
-Chacun de ces freins a été, historiquement, justifié par les limites du matériel disponible plutôt que par le protocole lui-même. C'est la raison pour laquelle Kollder a conçu le Kollder One™ et son sac Kollder Go™ autour de ces contraintes précises : déploiement solo en moins de 2 minutes, accès complet au patient, volume d'eau maîtrisé, transport hybride dos/trolley de 85×10×10 cm. Les spécifications complètes sont disponibles sur [kollder.com/#contact](https://kollder.com/#contact).
+Chacun de ces freins a été, historiquement, justifié par les limites du matériel disponible plutôt que par le protocole lui-même. C'est la raison pour laquelle Kollder a conçu le Kollder One™ et son sac Kollder Go™ autour de ces contraintes précises : structure stable à 6 points d'appui, accès complet au patient, volume d'eau maîtrisé, transport hybride dos/trolley de 85×10×10 cm. Les spécifications complètes sont disponibles sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

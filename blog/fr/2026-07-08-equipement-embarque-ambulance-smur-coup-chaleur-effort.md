@@ -16,7 +16,7 @@ faqSchema: |
         "name": "Peut-on vraiment embarquer un dispositif d'immersion en eau froide dans une ambulance SMUR standard ?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Oui, à condition que le dispositif soit conçu pour un transport compact et un déploiement par un seul opérateur. Les bacs pliants légers avec sac de transport dédié répondent à cette contrainte, contrairement aux structures volumineuses."
+          "text": "Oui, à condition que le dispositif soit conçu pour un transport compact et une structure stable. Les bacs pliants légers avec sac de transport dédié répondent à cette contrainte, contrairement aux structures volumineuses."
         }
       },
       {
@@ -32,7 +32,7 @@ faqSchema: |
         "name": "Combien de temps faut-il pour déployer un équipement de refroidissement embarqué sur intervention ?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Un équipement bien conçu se déploie en moins de 2 minutes par un seul opérateur, sans outillage additionnel."
+          "text": "Un équipement bien conçu repose sur une structure stable, sans outillage additionnel."
         }
       }
     ]
@@ -59,18 +59,18 @@ Dans ces deux cas, disposer d'un moyen de refroidissement embarqué, capable d'�
 
 ## Ce qu'implique un vrai équipement embarqué
 
-Un équipement de refroidissement pensé pour l'ambulance doit combiner un poids maîtrisé, un déploiement par un seul opérateur, une structure rigide qui tolère l'usage répété sur le terrain, et un accès complet au patient pendant toute la durée de l'immersion. C'est exactement le cahier des charges auquel répond **la baignoire de refroidissement d'urgence Kollder** : 11,1kg, châssis inox, déploiement en moins de 2 minutes par une seule personne, sangle d'accès complet aux voies aériennes. Le Kollder Go™, sac hybride sac à dos et trolley (85×10×10cm, 65€ HT), a été conçu spécifiquement pour ce type de contrainte d'embarquement. Détails et devis sur [kollder.com/#contact](https://kollder.com/#contact).
+Un équipement de refroidissement pensé pour l'ambulance doit combiner un poids maîtrisé, une structure rigide et stable qui tolère l'usage répété sur le terrain, et un accès complet au patient pendant toute la durée de l'immersion. C'est exactement le cahier des charges auquel répond **la baignoire de refroidissement d'urgence Kollder** : 11,1kg, châssis inox à 6 points d'appui, sangle d'accès complet aux voies aériennes. Le Kollder Go™, sac hybride sac à dos et trolley (85×10×10cm, 65€ HT), a été conçu spécifiquement pour ce type de contrainte d'embarquement. Détails et devis sur [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Questions fréquentes
 
 **Peut-on vraiment embarquer un dispositif d'immersion en eau froide dans une ambulance SMUR standard ?**
-Oui, à condition que le dispositif soit conçu pour un transport compact et un déploiement par un seul opérateur. Les bacs pliants légers avec sac de transport dédié répondent à cette contrainte, contrairement aux structures volumineuses.
+Oui, à condition que le dispositif soit conçu pour un transport compact et une structure stable. Les bacs pliants légers avec sac de transport dédié répondent à cette contrainte, contrairement aux structures volumineuses.
 
 **Le refroidissement embarqué remplace-t-il le refroidissement initié sur les lieux ?**
 Non, il vient en complément lorsqu'aucun moyen n'est disponible sur place ou lorsque le contexte impose de refroidir pendant le trajet plutôt que d'attendre.
 
 **Combien de temps faut-il pour déployer un équipement de refroidissement embarqué sur intervention ?**
-Un équipement bien conçu se déploie en moins de 2 minutes par un seul opérateur, sans outillage additionnel.
+Un équipement bien conçu repose sur une structure stable, sans outillage additionnel.
 
 ## Pour aller plus loin
 

@@ -26,13 +26,13 @@ Le format bag présente un avantage de compacité et de transport. Il est utilis
 
 ## Kollder : structure ouverte acier inoxydable, fabrication française
 
-Kollder est un fabricant français. La baignoire de refroidissement Kollder adopte une architecture différente des deux solutions précédentes : structure ouverte sur cadre acier inoxydable alimentaire, déployable en moins de 2 minutes par un seul opérateur, sans outil.
+Kollder est un fabricant français. La baignoire de refroidissement Kollder adopte une architecture différente des deux solutions précédentes : structure ouverte sur cadre acier inoxydable alimentaire, stable sur terrain irrégulier, sans outil, avec un bassin accueillant jusqu'à 2 personnes en immersion simultanée.
 
 Dimensions déployées : 205 x 80 x 60 cm. Format replié et transporté : 85 x 10 x 10 cm dans le sac de transport inclus. L'accès patient est total sur toute la durée de l'immersion, voies aériennes, monitoring, intervention médicale directe accessibles en permanence.
 
 Le choix de l'acier inoxydable alimentaire est déterminant sur deux plans : la rigidité structurelle, qui garantit la stabilité du dispositif même sur terrain irrégulier et sous le poids d'un patient adulte, et la durabilité à long terme face aux cycles d'utilisation répétés et aux protocoles de décontamination. C'est sur ces critères précis que Kollder se différencie des solutions aluminium ou PVC souple disponibles sur le marché.
 
-La conception répond directement aux deux contraintes opérationnelles les plus critiques identifiées sur le terrain : la rapidité de mise en oeuvre par une seule personne, et l'accès patient continu pendant le refroidissement. Le protocole de référence, **Cool First, Transport Second** (ACSM 2023, IOC/BJSM 2021, SFAR), exige une immersion immédiate et une surveillance continue. Une structure ouverte est la seule architecture qui permette les deux sans compromis.
+La conception répond directement aux deux contraintes opérationnelles les plus critiques identifiées sur le terrain : la stabilité de la structure sur sol irrégulier, et l'accès patient continu pendant le refroidissement. Le protocole de référence, **Cool First, Transport Second** (ACSM 2023, IOC/BJSM 2021, SFAR), exige une immersion immédiate et une surveillance continue. Une structure ouverte est la seule architecture qui permette les deux sans compromis.
 
 Pour les SDIS, les SSSM et les directeurs médicaux d'événements sportifs souhaitant évaluer la solution : [kollder.com/#contact](https://kollder.com/#contact).
 
@@ -44,7 +44,7 @@ Quatre paramètres structurent la décision d'équipement dans ce segment :
 
 **Stabilité et robustesse.** Un cadre acier inoxydable garantit la stabilité du dispositif sur tout type de terrain et résiste aux sollicitations mécaniques répétées. C'est un critère non négociable en intervention d'urgence.
 
-**Déploiement opérateur unique.** Sur une intervention CCE, chaque seconde compte. Un dispositif nécessitant plusieurs opérateurs pour le déploiement mobilise des ressources humaines sur une tâche logistique au détriment de la prise en charge médicale.
+**Stabilité de la structure.** Sur une intervention CCE, un dispositif qui se déforme ou perd son aplomb sous le poids du patient et de l'eau compromet la sécurité de l'immersion. Un cadre rigide qui reste stable sur sol irrégulier, y compris sous le poids de deux personnes, élimine ce risque.
 
 **Format replié.** Un véhicule SDIS est un espace contraint. Un format 85 x 10 x 10 cm s'intègre sans sacrifice de capacité de charge.
 

@@ -25,7 +25,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Measurable technical requirements",
-        "text": "Specify deployment time under 2 minutes by a single operator, material durability, and folded footprint."
+        "text": "Specify structural stability on uneven ground, capacity for 2 people in simultaneous immersion, material durability, and folded footprint."
       },
       {
         "@type": "HowToStep",
@@ -74,7 +74,7 @@ faqSchema: |
 
 A poorly written technical specification creates two opposite risks: too vague, it lets non-compliant equipment through; too precise, it risks a legal challenge for restricting competition. This guide walks through, clause by clause, how to write a technical specification for emergency cooling equipment.
 
-**Short answer:** a technical specification for emergency cooling equipment should describe measurable performance criteria (deployment under 2 minutes by a single operator, whole-body immersion, continuous patient access) rather than a brand, and condition award on a timed demonstration under representative conditions.
+**Short answer:** a technical specification for emergency cooling equipment should describe measurable performance criteria (structural stability on uneven ground, whole-body immersion for up to 2 people, continuous patient access) rather than a brand, and condition award on a timed demonstration under representative conditions.
 
 For the full method of preparing the tender (scoping, procedure, evaluation), see our [guide on preparing a public tender for emergency cooling equipment](https://kollder.com/blog/en/2026-09-18-public-tender-emergency-cooling-equipment-fire-rescue/). This document focuses specifically on writing the specification itself.
 
@@ -101,7 +101,7 @@ Avoid wording that cannot be objectively verified, such as "easy patient access"
 
 This is the section most exposed to over- or under-specification. Every criterion should be measurable and verifiable:
 
-> "Full deployment, ready for immersion, must be achievable in under 2 minutes by a single operator, on unprepared ground. This requirement will be verified through a timed demonstration under representative conditions prior to contract award."
+> "The structure must remain stable and level on unprepared, uneven ground, supported by a minimum of 6 ground contact points, and must accommodate 2 patients in simultaneous immersion. This requirement will be verified through a timed demonstration under representative conditions prior to contract award."
 
 > "The structure must withstand repeated use under demanding field conditions (impact, UV exposure, disinfectant products). The bidder shall specify the exact structural and liner materials used, along with any available durability test results."
 
@@ -132,7 +132,7 @@ This clause is often overlooked despite determining operational availability ove
 
 ## Kollder One™ meets these requirements
 
-Kollder One™ deploys in under 2 minutes by a single operator, with a food-grade stainless steel structure and full patient access throughout immersion, consistent with the standard clauses described above.
+Kollder One™ is built on a 6-point steel frame for stability on uneven ground, with room for 2 people in simultaneous immersion, a food-grade stainless steel structure, and full patient access throughout immersion, consistent with the standard clauses described above.
 
 For a demonstration or a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

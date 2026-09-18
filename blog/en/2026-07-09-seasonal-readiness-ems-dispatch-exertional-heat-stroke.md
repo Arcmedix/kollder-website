@@ -24,7 +24,7 @@ A call correctly flagged as likely exertional heat stroke can trigger dispatch o
 
 ## Equipment that makes the upgraded response actionable
 
-Faster dispatch recognition only pays off if responding units can act on it immediately. Standardizing on a cooling tub with reliable, fast solo deployment, like the Kollder emergency cooling tub's sub-2-minute setup, ensures the speed gained at dispatch is not lost again on scene. Contact [kollder.com/#contact](https://kollder.com/#contact) for more information.
+Faster dispatch recognition only pays off if responding units can act on it immediately. Standardizing on a cooling tub built for structural stability, like the Kollder emergency cooling tub's 6-point steel frame that stays level on any terrain, ensures the readiness gained at dispatch is not lost again on scene. Contact [kollder.com/#contact](https://kollder.com/#contact) for more information.
 
 ## Further Reading
 

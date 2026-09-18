@@ -28,7 +28,7 @@ Le protocole **Cool First, Transport Second**, recommandé par l'ACSM (2023) et 
 
 ## Un poste de secours équipé en tête de chantier
 
-Pour les grands travaux de génie civil, la solution la plus efficace consiste à positionner un dispositif de refroidissement d'urgence directement en tête de puits ou en zone de sortie du tunnel, plutôt que de dépendre uniquement des secours extérieurs. Kollder One™, déployable par une seule personne en moins de 2 minutes sur tout type de sol, et transportable via Kollder Go™, s'adapte aux contraintes logistiques des chantiers souterrains et de grands travaux. [Demander un devis Kollder](https://kollder.com/#contact).
+Pour les grands travaux de génie civil, la solution la plus efficace consiste à positionner un dispositif de refroidissement d'urgence directement en tête de puits ou en zone de sortie du tunnel, plutôt que de dépendre uniquement des secours extérieurs. Kollder One™, dotée d'une structure stable sur tout type de sol et entièrement pliable, opérationnelle en moins de 5 minutes et transportable via Kollder Go™, s'adapte aux contraintes logistiques des chantiers souterrains et de grands travaux. [Demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

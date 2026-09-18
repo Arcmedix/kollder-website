@@ -24,7 +24,7 @@ Public health heat plans are built almost entirely around the classic heat strok
 
 ## Closing the gap operationally
 
-Twenty years of institutional learning point to the same conclusion for exertional cases: rapid on-site cold water immersion, not passive cooling or waiting for the general heat-wave response to activate. Equipment like the Kollder emergency cooling tub, deployable by one person in under 2 minutes, is built for that specific gap in the public health response. Details at [kollder.com/#contact](https://kollder.com/#contact).
+Twenty years of institutional learning point to the same conclusion for exertional cases: rapid on-site cold water immersion, not passive cooling or waiting for the general heat-wave response to activate. Equipment like the Kollder emergency cooling tub, built on a stable 6-point steel frame with room for 2 people in simultaneous immersion, is built for that specific gap in the public health response. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

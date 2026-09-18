@@ -17,7 +17,7 @@ Dans la nuit du 26 au 27 août, des incendies ont ravagé plusieurs wilayas du n
 Des évacuations préventives ont été menées dans les communes d'Ouled Yahia Khadrouche et de Chekfa, en Jijel, où des moyens aériens et terrestres ont été engagés simultanément, dont un hélicoptère bombardier d'eau Mi-26 et deux avions AT-802. Les foyers ont pu être maîtrisés dans les wilayas de Skikda, El Tarf, Bouira, Tizi Ouzou et Tébessa.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -39,7 +39,7 @@ Pour un dispositif engagé sans relâche depuis près de deux mois, la capacité
 
 ## Un équipement pensé pour suivre les équipes sur la durée
 
-C'est l'écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, déployable par un seul intervenant en moins de 2 minutes, sur n'importe quel terrain, y compris un maquis ou une zone rurale difficile d'accès. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et permet à un secteur de réhabilitation avancé de rester opérationnel tout au long d'une saison d'engagement prolongée. Les services de Protection civile confrontés à des saisons d'incendies de plus en plus longues et intenses peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leurs postes de réhabilitation avancés.
+C'est l'écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, stable sur n'importe quel terrain, y compris un maquis ou une zone rurale difficile d'accès. Pliée pour le transport avec Kollder Go, elle pèse 11,1 kg et permet à un secteur de réhabilitation avancé de rester opérationnel tout au long d'une saison d'engagement prolongée. Les services de Protection civile confrontés à des saisons d'incendies de plus en plus longues et intenses peuvent [demander un devis Kollder](https://kollder.com/#contact) pour équiper leurs postes de réhabilitation avancés.
 
 ## Pour aller plus loin
 

@@ -22,7 +22,7 @@ Un plan Orsec chaleurs extrêmes suppose une hausse mécanique du volume d'inter
 
 L'enjeu n'est pas seulement de disposer d'un équipement de refroidissement quelque part dans le parc matériel. C'est de pouvoir le déployer rapidement, seul, sur des terrains très variés (intervention en agglomération, feu de forêt, poste médical avancé lors d'un rassemblement), et de façon répétée sur plusieurs jours consécutifs d'alerte rouge sans dégradation de la disponibilité opérationnelle. C'est là que se joue la différence entre un équipement conçu pour un usage exceptionnel et un équipement conçu pour un épisode caniculaire de plusieurs semaines.
 
-Kollder One™ a été conçu pour cette réalité opérationnelle : déploiement solo en moins de 2 minutes, accès patient à 360° pour les gestes de réanimation si nécessaire, châssis en acier inoxydable dimensionné pour un usage répété plutôt qu'un déploiement unique. Les SDIS et SSSM qui anticipent leur dotation pour la suite de la saison caniculaire peuvent consulter notre page dédiée sur [kollder.com/fr/sdis-pompiers/](https://kollder.com/fr/sdis-pompiers/) ou demander un devis via [kollder.com/#contact](https://kollder.com/#contact).
+Kollder One™ a été conçu pour cette réalité opérationnelle : structure stable à 6 points d'appui, accès patient à 360° pour les gestes de réanimation si nécessaire, châssis en acier inoxydable dimensionné pour un usage répété plutôt qu'un déploiement unique. Les SDIS et SSSM qui anticipent leur dotation pour la suite de la saison caniculaire peuvent consulter notre page dédiée sur [kollder.com/fr/sdis-pompiers/](https://kollder.com/fr/sdis-pompiers/) ou demander un devis via [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

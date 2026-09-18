@@ -44,7 +44,7 @@ Forearm and hand immersion, recognized explicitly in standards such as NFPA 1580
 
 ## What this means operationally
 
-The physics dictates the equipment requirement, not the other way around. A cooling solution for exertional heat stroke needs to maximize skin contact with cold water, sustain that contact for the duration needed to bring core temperature below 38.5°C, and keep the patient accessible for monitoring throughout. That is the specific engineering problem the Kollder emergency cooling tub is built to solve: full-body immersion, deployable in under 2 minutes by one person, with 360-degree patient access maintained throughout cooling.
+The physics dictates the equipment requirement, not the other way around. A cooling solution for exertional heat stroke needs to maximize skin contact with cold water, sustain that contact for the duration needed to bring core temperature below 38.5°C, and keep the patient accessible for monitoring throughout. That is the specific engineering problem the Kollder emergency cooling tub is built to solve: full-body immersion for up to 2 people at once, a stable structure on any terrain, with 360-degree patient access maintained throughout cooling.
 
 Teams evaluating a dedicated immersion solution can find specifications at [kollder.com/#contact](https://kollder.com/#contact).
 

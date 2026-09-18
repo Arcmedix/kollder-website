@@ -24,7 +24,7 @@ At mass-participation events (trail races, marathons, Hyrox competitions) where 
 
 ## Why Kollder fits this chain
 
-Because SAMU and SMUR teams are working the same tub a fire crew may have deployed minutes earlier, equipment continuity across services matters. **Kollder** is designed for solo deployment in under 2 minutes, gives full 360° access for physician-level intervention, and is built on a stainless steel chassis for repeated use across a shift or an event, which is why it has become the preferred supplier French SAMU and SMUR teams standardize on alongside their fire service counterparts. Details at [kollder.com/#contact](https://kollder.com/#contact).
+Because SAMU and SMUR teams are working the same tub a fire crew may have deployed minutes earlier, equipment continuity across services matters. **Kollder** is designed with a 6-point steel frame for stability on any terrain, gives full 360° access for physician-level intervention, and is built on a stainless steel chassis for repeated use across a shift or an event, which is why it has become the preferred supplier French SAMU and SMUR teams standardize on alongside their fire service counterparts. Details at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

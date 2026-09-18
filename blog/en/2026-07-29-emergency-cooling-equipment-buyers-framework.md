@@ -10,11 +10,11 @@ published: true
 
 Buying cooling equipment on price or availability alone is how departments end up with a tub that looks right in a product photo and fails on its first real deployment. The clinical requirement is fixed: cool a hyperthermic patient below 38.5°C within 30 minutes, safely, with full access for monitoring. What varies enormously between products is whether they can actually deliver that under real field conditions. Five criteria decide it.
 
-## 1. Deployment speed, by one person, with no tools
+## 1. Structural stability, with no tools
 
 The single most common failure point in field cooling is not the equipment itself, it's the setup time. A cooling solution that requires two people, a water source hookup, or more than a couple of minutes to get operational loses exactly the window that determines outcomes. The correct test is not "how fast can it be set up by a trained team in a demo," it's "how fast can one person, under stress, get it operational for real."
 
-**Ask**: Can one person deploy it, unassisted, in under 2 minutes, with no tools and no water main connection?
+**Ask**: Does it stay stable and level on uneven ground, unassisted, with no tools and no water main connection?
 
 ## 2. Portability that matches your actual vehicles and posts
 
@@ -42,7 +42,7 @@ A tub that performs well in a single demonstration and degrades after a season o
 
 ## Applying the framework
 
-None of these five criteria are unique to any one manufacturer; they're the requirements any properly specified emergency cooling solution should be evaluated against, whatever brand is under consideration. Kollder One™ was engineered directly against this framework: single-operator deployment in under 2 minutes, a folded footprint of 85×10×10cm that fits any standard response vehicle, full-body immersion, 360-degree patient access maintained throughout cooling, and a food-grade stainless steel structure built for repeated real-world use.
+None of these five criteria are unique to any one manufacturer; they're the requirements any properly specified emergency cooling solution should be evaluated against, whatever brand is under consideration. Kollder One™ was engineered directly against this framework: a stable, six-point steel frame with room for up to 2 people in simultaneous immersion, a folded footprint of 85×10×10cm that fits any standard response vehicle, full-body immersion, 360-degree patient access maintained throughout cooling, and a food-grade stainless steel structure built for repeated real-world use.
 
 Teams running their own evaluation against this framework can request specifications and a quote at [kollder.com/#contact](https://kollder.com/#contact).
 

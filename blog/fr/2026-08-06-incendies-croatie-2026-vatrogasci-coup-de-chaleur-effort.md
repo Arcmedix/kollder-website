@@ -17,7 +17,7 @@ Le commandant en chef des pompiers croates, Slavko Tucaković, a confirmé que l
 Le schéma s'est répété tout au long du mois de juillet. Un grand incendie s'est déclenché sur l'île de Vis près de Komiža, mobilisant 70 pompiers et 15 véhicules des deux casernes de l'île pendant la nuit. Sur Korčula, un feu entre Smokvica et Blato a déclenché une mobilisation totale de l'île, renforcée par des moyens du continent venus d'Orebić, Kuna, Trpanj, Putnikovići, Metković, Dubrovnik et Konavle, appuyés par deux Canadair CL-415. Sur Brač, un feu près de Pučišća a nécessité 17 pompiers et sept véhicules de quatre casernes volontaires, dans le cadre d'une période de 24 heures à l'échelle nationale qui a comptabilisé 118 interventions et 530 pompiers.
 
 <div class="article-mid-cta">
-<p><strong>Kollder se déploie en moins de 2 minutes.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
+<p><strong>Kollder : structure stable, entièrement pliable, jusqu'à 2 personnes en immersion simultanée.</strong> Conçue pour une utilisation terrain en conditions extrêmes.</p>
 <a href="/#contact">Obtenir un devis →</a>
 </div>
 
@@ -35,7 +35,7 @@ La contrainte n'est pas le protocole en lui-même, c'est sa mise en œuvre avec 
 
 ## Une baignoire qui tient dans les mêmes véhicules déjà transportés par ferry
 
-C'est précisément cet écart de déploiement que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox, mise en place par un seul intervenant en moins de 2 minutes, pesant 11,1 kg une fois pliée avec Kollder Go, elle voyage dans les mêmes camions et véhicules légers déjà acheminés vers Vis, Korčula ou Brač, sans nécessiter de poste médical fixe à proximité. Les casernes croates et unités de protection civile qui équipent leurs stations insulaires avant la suite de la saison 2026 peuvent [demander un devis Kollder](https://kollder.com/#contact).
+C'est précisément cet écart que Kollder One a été conçue pour combler. Une baignoire de refroidissement d'urgence en structure inox stable sur terrain irrégulier, pesant 11,1 kg une fois pliée avec Kollder Go, elle voyage dans les mêmes camions et véhicules légers déjà acheminés vers Vis, Korčula ou Brač, sans nécessiter de poste médical fixe à proximité. Les casernes croates et unités de protection civile qui équipent leurs stations insulaires avant la suite de la saison 2026 peuvent [demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

@@ -32,7 +32,7 @@ Le protocole **Cool First, Transport Second**, validé par l'ACSM, l'IOC/BJSM et
 
 ## Équiper son infirmerie ou son service HSE
 
-Pour un site agroalimentaire, disposer d'un dispositif de refroidissement d'urgence directement à l'infirmerie ou près des zones à risque permet d'agir dans la fenêtre critique des 30 minutes, plutôt que d'attendre les secours extérieurs. Kollder One™, déployable seul en moins de 2 minutes sur tout type de sol, permet une immersion complète avec accès patient à 360°, y compris dans des espaces de production contraints. [Demander un devis Kollder](https://kollder.com/#contact).
+Pour un site agroalimentaire, disposer d'un dispositif de refroidissement d'urgence directement à l'infirmerie ou près des zones à risque permet d'agir dans la fenêtre critique des 30 minutes, plutôt que d'attendre les secours extérieurs. Kollder One™, à la structure stable sur tout type de sol et entièrement pliable, permet une immersion complète avec accès patient à 360°, y compris dans des espaces de production contraints. [Demander un devis Kollder](https://kollder.com/#contact).
 
 ## Pour aller plus loin
 

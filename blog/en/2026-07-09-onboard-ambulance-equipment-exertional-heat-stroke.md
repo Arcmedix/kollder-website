@@ -24,7 +24,7 @@ For ambulance use, a cooling tub must fit realistic vehicle storage constraints,
 
 ## A deployable option for prehospital crews
 
-The Kollder emergency cooling tub folds into the Kollder Go transport bag (85×10×10cm, hybrid backpack and rolling trolley), fits standard ambulance storage, and deploys solo in under 2 minutes at the scene. Its stainless steel frame and 360° patient access support continuous monitoring during immersion. Inquiries at [kollder.com/#contact](https://kollder.com/#contact).
+The Kollder emergency cooling tub folds into the Kollder Go transport bag (85×10×10cm, hybrid backpack and rolling trolley), fits standard ambulance storage, and stays stable on any surface at the scene. Its stainless steel frame and 360° patient access support continuous monitoring during immersion. Inquiries at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

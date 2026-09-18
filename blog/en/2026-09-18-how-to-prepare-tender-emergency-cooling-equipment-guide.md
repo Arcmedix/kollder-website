@@ -52,7 +52,7 @@ faqSchema: |
         "name": "What technical criteria should a specification for this equipment include?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Deployment in under 2 minutes by a single operator, whole-body immersion with continuous patient access, material durability, portability, and spare parts and after-sales support availability."
+          "text": "Structural stability on unprepared ground, whole-body immersion with continuous patient access, material durability, portability, and spare parts and after-sales support availability."
         }
       },
       {
@@ -69,7 +69,7 @@ faqSchema: |
 
 Whether you are an EHS manager, a fire and rescue service, an event medical provider, or a military medical service, preparing a tender for emergency cooling equipment follows the same underlying logic: translate a documented clinical requirement into verifiable technical criteria, then compare bids on that basis rather than on price alone. This guide walks through the method, step by step.
 
-**Short answer:** a tender for emergency cooling equipment should specify deployment under 2 minutes by a single operator and whole-body immersion with continuous patient access, then score bids on a weighted matrix (technical merit, price on a total cost of ownership basis, references), never on purchase price alone (ACSM 2023, IOC/BJSM 2021).
+**Short answer:** a tender for emergency cooling equipment should specify structural stability on unprepared ground and whole-body immersion with continuous patient access, then score bids on a weighted matrix (technical merit, price on a total cost of ownership basis, references), never on purchase price alone (ACSM 2023, IOC/BJSM 2021).
 
 ## Why this purchase needs a rigorous method
 
@@ -96,7 +96,7 @@ Before writing any part of the specification, clarify:
 
 An effective specification describes measurable criteria, not a specific brand or model:
 
-- **Deployment time**: deployable in **under 2 minutes** by a single operator, on unprepared ground, confirmed through a timed demonstration
+- **Structural stability**: stays level and stable on unprepared ground across all support points, confirmed through a timed demonstration, with deployment in **under 5 minutes**
 - **Whole-body immersion**: shoulders and scalp included, consistent with the reference protocol
 - **Continuous patient access during immersion**: an open structure allowing monitoring, temperature checks, and resuscitation
 - **Material durability**: structure and liner suited to repeated use in demanding conditions
@@ -122,7 +122,7 @@ Always require a field demonstration before the final decision. It is the only r
 
 ## Kollder One™ and Kollder Go™, built to meet these criteria
 
-Kollder One™ deploys in under 2 minutes by a single operator, with a food-grade stainless steel structure and full patient access throughout immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes field deployment practical across use contexts.
+Kollder One™ combines a stable, six-point steel frame with a food-grade stainless steel structure, full patient access throughout immersion, and room for up to 2 people in simultaneous immersion. Kollder Go™, the hybrid backpack/wheeled transport bag (85 x 10 x 10 cm), makes field deployment practical across use contexts.
 
 For a demonstration or a quote: [kollder.com/#contact](https://kollder.com/#contact)
 

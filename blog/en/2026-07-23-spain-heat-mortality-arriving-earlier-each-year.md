@@ -30,7 +30,7 @@ The clinical response does not change with the calendar. Exertional heat stroke 
 
 ## Field-ready cooling, regardless of the calendar
 
-Because the risk window no longer aligns neatly with peak summer, cooling equipment needs to be part of standard event and occupational medical kits from spring onward, not staged only for July and August. Kollder's stainless steel immersion tub deploys in under 2 minutes by a single responder, giving event medical directors and EHS teams the ability to run the Cool First, Transport Second protocol whenever heat illness occurs, not only when the calendar says it should. More at [kollder.com/#contact](https://kollder.com/#contact).
+Because the risk window no longer aligns neatly with peak summer, cooling equipment needs to be part of standard event and occupational medical kits from spring onward, not staged only for July and August. Kollder's stainless steel immersion tub stays stable on any terrain and holds up to 2 people in simultaneous immersion, giving event medical directors and EHS teams the ability to run the Cool First, Transport Second protocol whenever heat illness occurs, not only when the calendar says it should. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further reading
 
