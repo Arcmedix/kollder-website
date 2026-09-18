@@ -6,6 +6,8 @@ pagination:
 langs:
   - fr
   - en
+  - de
+  - es
 permalink: "/{{ lang }}/monitor/"
 layout: false
 ---
@@ -17,9 +19,15 @@ layout: false
 {% if lang == "fr" %}
 <title>Moniteur de risque — Coup de chaleur d'effort par département — Kollder</title>
 <meta name="description" content="Outil de surveillance du risque de coup de chaleur d'effort (EHS) par département. WBGT en temps réel, protocoles d'urgence et alertes personnalisées selon votre profil.">
-{% else %}
+{% elif lang == "en" %}
 <title>Exertional Heat Stroke Risk Monitor by Department — Kollder</title>
 <meta name="description" content="Real-time exertional heat stroke (EHS) risk monitoring by department. Live WBGT, emergency protocols and personalised alerts for your profile.">
+{% elif lang == "de" %}
+<title>Risikomonitor: Belastungsbedingter Hitzschlag nach Bundesland — Kollder</title>
+<meta name="description" content="Echtzeit-Überwachung des Risikos für belastungsbedingten Hitzschlag (EHS) nach Bundesland. WBGT in Echtzeit, Notfallprotokolle und individuelle Warnmeldungen.">
+{% else %}
+<title>Monitor de riesgo de golpe de calor por esfuerzo por comunidad autónoma — Kollder</title>
+<meta name="description" content="Monitorización en tiempo real del riesgo de golpe de calor por esfuerzo (EHS) por comunidad autónoma. WBGT en directo, protocolos de emergencia y alertas personalizadas.">
 {% endif %}
 <link rel="icon" href="/favicon.ico">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -330,38 +338,39 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
 
 <nav>
   <div class="nav-brand">
-    <a href="/{{ lang }}/"><img src="/logo-kollder.png" alt="Kollder"></a>
+    <a href="{{ nav[lang].homeUrl }}"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
   <div class="nav-right">
-    <a href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}" class="nav-back" style="font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;transition:color .2s;">
-      {% if lang == "fr" %}Distributeurs{% else %}Partners{% endif %}
+    <a href="{{ nav[lang].partnersUrl }}" class="nav-back">
+      {{ nav[lang].partners }}
     </a>
     <div class="nav-dropdown">
-      <a href="javascript:void(0)" class="nav-back" style="font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;transition:color .2s;display:inline-flex;align-items:center;">
-        {% if lang == "fr" %}Secteurs{% else %}Who We Serve{% endif %}<svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg>
+      <a href="javascript:void(0)" class="nav-back" style="display:inline-flex;align-items:center;">
+        {{ nav[lang].whoWeServe }}<svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg>
       </a>
       <div class="nav-dropdown-menu">
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/fire-rescue/{% else %}/fr/sdis-pompiers/{% endif %}">{% if lang == 'en' %}Fire & Rescue{% else %}SDIS / Pompiers{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}">{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}">{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}">{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/defense-military/{% else %}/fr/defense-militaire/{% endif %}">{% if lang == 'en' %}Defense & Military{% else %}Défense & Militaire{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/occupational-safety/{% else %}/fr/securite-travail/{% endif %}">{% if lang == 'en' %}Occupational Safety{% else %}Sécurité au travail{% endif %}</a>
+        {% for sector in nav[lang].sectors %}
+        <a class="nav-dropdown-item" href="{{ sector.url }}">{{ sector.label }}</a>
+        {% endfor %}
       </div>
     </div>
-    <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-back" style="font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;transition:color .2s;">
-      {% if lang == "fr" %}Ressources{% else %}Resources{% endif %}
+    {% if nav[lang].resources %}
+    <a href="{{ nav[lang].resourcesUrl }}" class="nav-back">
+      {{ nav[lang].resources }}
     </a>
-    <a href="/{{ lang }}/monitor/" class="nav-back" style="display:inline-flex;align-items:center;gap:5px;font-size:13px;font-weight:500;letter-spacing:.06em;color:var(--ink);text-decoration:none;">
+    {% endif %}
+    <a href="/{{ lang }}/monitor/" class="nav-back" style="display:inline-flex;align-items:center;gap:5px;color:var(--ink);">
       <span style="width:7px;height:7px;border-radius:50%;background:#e85c3a;display:inline-block;animation:pulse-dot 2s ease-in-out infinite;"></span>
-      {% if lang == "fr" %}Moniteur EHS{% else %}EHS Monitor{% endif %}
+      {{ nav[lang].monitor }}
     </a>
     <div class="lang-toggle">
       <a class="lang-btn {% if lang == 'fr' %}active{% endif %}" href="/fr/monitor/">FR</a>
       <a class="lang-btn {% if lang == 'en' %}active{% endif %}" href="/en/monitor/">EN</a>
+      <a class="lang-btn {% if lang == 'de' %}active{% endif %}" href="/de/monitor/">DE</a>
+      <a class="lang-btn {% if lang == 'es' %}active{% endif %}" href="/es/monitor/">ES</a>
     </div>
-    <a href="/{{ lang }}/#contact" style="display:inline-flex;align-items:center;gap:10px;background:var(--black);color:var(--white);text-decoration:none;font-size:12px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;padding:10px 20px;">
-      {% if lang == "fr" %}Obtenir un devis{% else %}Get a quote{% endif %}
+    <a href="{{ nav[lang].quoteUrl }}" style="display:inline-flex;align-items:center;gap:10px;background:var(--black);color:var(--white);text-decoration:none;font-size:12px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;padding:10px 20px;">
+      {{ nav[lang].quote }}
     </a>
   </div>
   <button class="ham-btn" id="hamBtn" aria-label="Menu">
@@ -371,58 +380,68 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
 
 <!-- Mobile overlay -->
 <div class="nav-overlay" id="navOverlay">
-  <button type="button" class="nav-overlay-close" aria-label="{% if lang == 'fr' %}Fermer le menu{% else %}Close menu{% endif %}" onclick="closeNavOverlay()">
+  <button type="button" class="nav-overlay-close" aria-label="{{ nav[lang].closeMenu }}" onclick="closeNavOverlay()">
     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M5 5l10 10M15 5L5 15"/></svg>
   </button>
   <div class="nav-overlay-links">
-    <a class="nav-overlay-link" href="/{{ lang }}/">
-      <span>{% if lang == "fr" %}Accueil{% else %}Home{% endif %}</span>
+    <a class="nav-overlay-link" href="{{ nav[lang].homeUrl }}">
+      <span>{{ nav[lang].home }}</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
-    <a class="nav-overlay-link" href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}">
-      <span>{% if lang == "fr" %}Distributeurs{% else %}Partners{% endif %}</span>
+    <a class="nav-overlay-link" href="{{ nav[lang].partnersUrl }}">
+      <span>{{ nav[lang].partners }}</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
     <button type="button" class="nav-overlay-toggle" aria-expanded="false" onclick="toggleNavOverlayGroup(this)">
-      <span>{% if lang == "fr" %}Secteurs{% else %}Who We Serve{% endif %}</span>
+      <span>{{ nav[lang].whoWeServe }}</span>
       <svg class="nav-overlay-toggle-arrow" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg>
     </button>
     <div class="nav-overlay-sublinks">
-    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/fire-rescue/{% else %}/fr/sdis-pompiers/{% endif %}"><span>{% if lang == 'en' %}Fire & Rescue{% else %}SDIS / Pompiers{% endif %}</span></a>
-    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}"><span>{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</span></a>
-    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}"><span>{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</span></a>
-    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}"><span>{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</span></a>
-    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/defense-military/{% else %}/fr/defense-militaire/{% endif %}"><span>{% if lang == 'en' %}Defense & Military{% else %}Défense & Militaire{% endif %}</span></a>
-    <a class="nav-overlay-sublink" href="{% if lang == 'en' %}/en/occupational-safety/{% else %}/fr/securite-travail/{% endif %}"><span>{% if lang == 'en' %}Occupational Safety{% else %}Sécurité au travail{% endif %}</span></a>
+    {% for sector in nav[lang].sectors %}
+    <a class="nav-overlay-sublink" href="{{ sector.url }}"><span>{{ sector.label }}</span></a>
+    {% endfor %}
     </div>
-    <a class="nav-overlay-link" href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}">
-      <span>{% if lang == "fr" %}Ressources{% else %}Resources{% endif %}</span>
+    {% if nav[lang].resources %}
+    <a class="nav-overlay-link" href="{{ nav[lang].resourcesUrl }}">
+      <span>{{ nav[lang].resources }}</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
+    {% endif %}
     <a class="nav-overlay-link" href="/{{ lang }}/monitor/">
-      <span>{% if lang == "fr" %}Moniteur EHS{% else %}EHS Monitor{% endif %} <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span>
+      <span>{{ nav[lang].monitor }} <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
   </div>
-  <a class="nav-overlay-cta" href="/{{ lang }}/#contact">
-    <span>{% if lang == "fr" %}Obtenir un devis{% else %}Get a quote{% endif %}</span>
+  <a class="nav-overlay-cta" href="{{ nav[lang].quoteUrl }}">
+    <span>{{ nav[lang].quote }}</span>
     <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
   </a>
   <div class="nav-overlay-lang">
     <a class="{% if lang == 'fr' %}active{% endif %}" href="/fr/monitor/">FR</a>
     <a class="{% if lang == 'en' %}active{% endif %}" href="/en/monitor/">EN</a>
+    <a class="{% if lang == 'de' %}active{% endif %}" href="/de/monitor/">DE</a>
+    <a class="{% if lang == 'es' %}active{% endif %}" href="/es/monitor/">ES</a>
   </div>
 </div>
 
 <div class="hero">
   <div class="hero-inner">
-    <p class="hero-label">Kollder — Outil médical d'aide à la décision</p>
     {% if lang == "fr" %}
+    <p class="hero-label">Kollder — Outil médical d'aide à la décision</p>
     <h1>Risque de <em>coup de chaleur d'effort</em><br>par département</h1>
     <p class="hero-sub">Le WBGT est l'indice de référence ACSM pour évaluer le risque d'hyperthermie d'effort. Au-delà de 28°C, chaque minute sans refroidissement actif compte.</p>
-    {% else %}
+    {% elif lang == "en" %}
+    <p class="hero-label">Kollder — Medical decision-support tool</p>
     <h1><em>Exertional heat stroke</em> risk<br>by department</h1>
     <p class="hero-sub">WBGT is the ACSM reference index for exertional heat stroke risk. Above 28°C, every minute without active cooling counts.</p>
+    {% elif lang == "de" %}
+    <p class="hero-label">Kollder: Medizinisches Entscheidungshilfe-Tool</p>
+    <h1>Risiko für <em>belastungsbedingten Hitzschlag</em><br>nach Bundesland</h1>
+    <p class="hero-sub">Der WBGT ist der ACSM-Referenzindex zur Bewertung des Risikos für belastungsbedingte Hyperthermie. Ab 28°C zählt jede Minute ohne aktive Kühlung.</p>
+    {% else %}
+    <p class="hero-label">Kollder: herramienta médica de apoyo a la decisión</p>
+    <h1>Riesgo de <em>golpe de calor por esfuerzo</em><br>por comunidad autónoma</h1>
+    <p class="hero-sub">El WBGT es el índice de referencia ACSM para evaluar el riesgo de hipertermia por esfuerzo. Por encima de 28°C, cada minuto sin enfriamiento activo cuenta.</p>
     {% endif %}
     <div class="hero-pill">
       <strong id="hero-wbgt">--°C WBGT</strong>
@@ -435,38 +454,38 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
 
   <div class="selector-row">
     <div>
-      <label for="km-select">{% if lang == "fr" %}Département{% else %}Department{% endif %}</label>
+      <label for="km-select">{% if lang == "fr" %}Département{% elif lang == "en" %}Department{% elif lang == "de" %}Bundesland{% else %}Comunidad autónoma{% endif %}</label>
       <select id="km-select"></select>
     </div>
     <button class="btn-refresh" id="km-refresh">
-      ↻ {% if lang == "fr" %}Actualiser{% else %}Refresh{% endif %}
+      ↻ {% if lang == "fr" %}Actualiser{% elif lang == "en" %}Refresh{% elif lang == "de" %}Aktualisieren{% else %}Actualizar{% endif %}
     </button>
   </div>
 
-  <div id="km-loading">{% if lang == "fr" %}Chargement des données météo...{% else %}Loading weather data...{% endif %}</div>
+  <div id="km-loading">{% if lang == "fr" %}Chargement des données météo...{% elif lang == "en" %}Loading weather data...{% elif lang == "de" %}Wetterdaten werden geladen...{% else %}Cargando datos meteorológicos...{% endif %}</div>
 
   <div id="km-main">
     <div class="stats-grid">
       <div class="stat-card">
-        <div class="stat-label">{% if lang == "fr" %}Température{% else %}Temperature{% endif %}</div>
+        <div class="stat-label">{% if lang == "fr" %}Température{% elif lang == "en" %}Temperature{% elif lang == "de" %}Temperatur{% else %}Temperatura{% endif %}</div>
         <div class="stat-value" id="v-temp">--<span class="stat-unit">°C</span></div>
-        <div class="stat-note">{% if lang == "fr" %}Air ambiant{% else %}Ambient air{% endif %}</div>
+        <div class="stat-note">{% if lang == "fr" %}Air ambiant{% elif lang == "en" %}Ambient air{% elif lang == "de" %}Umgebungsluft{% else %}Aire ambiente{% endif %}</div>
       </div>
       <div class="stat-card">
-        <div class="stat-label">{% if lang == "fr" %}Humidité{% else %}Humidity{% endif %}</div>
+        <div class="stat-label">{% if lang == "fr" %}Humidité{% elif lang == "en" %}Humidity{% elif lang == "de" %}Luftfeuchtigkeit{% else %}Humedad{% endif %}</div>
         <div class="stat-value" id="v-hum">--<span class="stat-unit">%</span></div>
-        <div class="stat-note">{% if lang == "fr" %}Relative{% else %}Relative{% endif %}</div>
+        <div class="stat-note">{% if lang == "fr" %}Relative{% elif lang == "en" %}Relative{% elif lang == "de" %}Relativ{% else %}Relativa{% endif %}</div>
       </div>
       <div class="stat-card stat-featured">
         <span class="stat-acsm">ACSM REF.</span>
         <div class="stat-label">WBGT</div>
         <div class="stat-value serif" id="v-wbgt">--<span class="stat-unit">°C</span></div>
-        <div class="stat-note">{% if lang == "fr" %}Indice thermique EHS{% else %}EHS heat index{% endif %}</div>
+        <div class="stat-note">{% if lang == "fr" %}Indice thermique EHS{% elif lang == "en" %}EHS heat index{% elif lang == "de" %}EHS-Wärmeindex{% else %}Índice térmico EHS{% endif %}</div>
       </div>
       <div class="stat-card">
-        <div class="stat-label">{% if lang == "fr" %}Vent{% else %}Wind{% endif %}</div>
+        <div class="stat-label">{% if lang == "fr" %}Vent{% elif lang == "en" %}Wind{% elif lang == "de" %}Wind{% else %}Viento{% endif %}</div>
         <div class="stat-value" id="v-wind">--<span class="stat-unit">km/h</span></div>
-        <div class="stat-note">{% if lang == "fr" %}Vitesse{% else %}Speed{% endif %}</div>
+        <div class="stat-note">{% if lang == "fr" %}Vitesse{% elif lang == "en" %}Speed{% elif lang == "de" %}Geschwindigkeit{% else %}Velocidad{% endif %}</div>
       </div>
     </div>
 
@@ -479,8 +498,8 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
     </div>
 
     <div class="tabs">
-      <button class="tab active" data-tab="forecast">{% if lang == "fr" %}Prévision 7 jours{% else %}7-day forecast{% endif %}</button>
-      <button class="tab" data-tab="recos">{% if lang == "fr" %}Protocoles d'urgence{% else %}Emergency protocols{% endif %}</button>
+      <button class="tab active" data-tab="forecast">{% if lang == "fr" %}Prévision 7 jours{% elif lang == "en" %}7-day forecast{% elif lang == "de" %}7-Tage-Vorhersage{% else %}Previsión 7 días{% endif %}</button>
+      <button class="tab" data-tab="recos">{% if lang == "fr" %}Protocoles d'urgence{% elif lang == "en" %}Emergency protocols{% elif lang == "de" %}Notfallprotokolle{% else %}Protocolos de emergencia{% endif %}</button>
     </div>
 
     <div id="tab-forecast" class="panel active">
@@ -506,11 +525,11 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
           <input type="hidden" name="lang" value="{{ lang }}">
           <div class="form-row">
             <div class="form-group">
-              <label for="form-email">{% if lang == "fr" %}Email professionnel{% else %}Professional email{% endif %}</label>
+              <label for="form-email">{% if lang == "fr" %}Email professionnel{% elif lang == "en" %}Professional email{% elif lang == "de" %}Berufliche E-Mail{% else %}Correo profesional{% endif %}</label>
               <input type="email" id="form-email" name="email" placeholder="prenom@organisation.fr" required>
             </div>
             <div class="form-group">
-              <label for="form-profile">{% if lang == "fr" %}Votre profil{% else %}Your profile{% endif %}</label>
+              <label for="form-profile">{% if lang == "fr" %}Votre profil{% elif lang == "en" %}Your profile{% elif lang == "de" %}Ihr Profil{% else %}Su perfil{% endif %}</label>
               <select id="form-profile" name="profile">
                 {% if lang == "fr" %}
                 <option value="organisateur">Organisateur d'événement sportif</option>
@@ -519,38 +538,52 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
                 <option value="medecin">Médecin urgentiste / SMUR</option>
                 <option value="militaire">Médecin militaire / SSSM</option>
                 <option value="autre">Autre</option>
-                {% else %}
+                {% elif lang == "en" %}
                 <option value="organisateur">Sports event organiser</option>
                 <option value="sdis">Fire & Rescue / EMS</option>
                 <option value="ehs">EHS / HSE manager</option>
                 <option value="medecin">Emergency physician</option>
                 <option value="militaire">Military medical officer</option>
                 <option value="autre">Other</option>
+                {% elif lang == "de" %}
+                <option value="organisateur">Veranstalter Sportevent</option>
+                <option value="sdis">Feuerwehr / Rettungsdienst</option>
+                <option value="ehs">EHS-/Arbeitssicherheitsverantwortlicher</option>
+                <option value="medecin">Notarzt / Notfallmediziner</option>
+                <option value="militaire">Sanitätsoffizier</option>
+                <option value="autre">Sonstiges</option>
+                {% else %}
+                <option value="organisateur">Organizador de eventos deportivos</option>
+                <option value="sdis">Bomberos / Servicios de rescate</option>
+                <option value="ehs">Responsable EHS / seguridad laboral</option>
+                <option value="medecin">Médico de urgencias</option>
+                <option value="militaire">Oficial médico militar</option>
+                <option value="autre">Otro</option>
                 {% endif %}
               </select>
             </div>
           </div>
           <div class="form-group">
-            <label>{% if lang == "fr" %}Seuil d'alerte{% else %}Alert threshold{% endif %}</label>
+            <label>{% if lang == "fr" %}Seuil d'alerte{% elif lang == "en" %}Alert threshold{% elif lang == "de" %}Warnschwelle{% else %}Umbral de alerta{% endif %}</label>
             <div class="threshold-pills">
-              <button type="button" class="pill pill-mod active" data-val="modere" onclick="setThreshold(this,'modere')">{% if lang == "fr" %}Dès risque Modéré (WBGT > 28°C){% else %}From Moderate risk (WBGT > 28°C){% endif %}</button>
-              <button type="button" class="pill pill-hi" data-val="eleve" onclick="setThreshold(this,'eleve')">{% if lang == "fr" %}Dès risque Élevé (WBGT > 31°C){% else %}From High risk (WBGT > 31°C){% endif %}</button>
-              <button type="button" class="pill pill-cr" data-val="critique" onclick="setThreshold(this,'critique')">{% if lang == "fr" %}Critique uniquement (WBGT > 35°C){% else %}Critical only (WBGT > 35°C){% endif %}</button>
+              <button type="button" class="pill pill-mod active" data-val="modere" onclick="setThreshold(this,'modere')">{% if lang == "fr" %}Dès risque Modéré (WBGT > 28°C){% elif lang == "en" %}From Moderate risk (WBGT > 28°C){% elif lang == "de" %}Ab mäßigem Risiko (WBGT > 28°C){% else %}Desde riesgo moderado (WBGT > 28°C){% endif %}</button>
+              <button type="button" class="pill pill-hi" data-val="eleve" onclick="setThreshold(this,'eleve')">{% if lang == "fr" %}Dès risque Élevé (WBGT > 31°C){% elif lang == "en" %}From High risk (WBGT > 31°C){% elif lang == "de" %}Ab hohem Risiko (WBGT > 31°C){% else %}Desde riesgo alto (WBGT > 31°C){% endif %}</button>
+              <button type="button" class="pill pill-cr" data-val="critique" onclick="setThreshold(this,'critique')">{% if lang == "fr" %}Critique uniquement (WBGT > 35°C){% elif lang == "en" %}Critical only (WBGT > 35°C){% elif lang == "de" %}Nur kritisch (WBGT > 35°C){% else %}Solo crítico (WBGT > 35°C){% endif %}</button>
             </div>
           </div>
           <div style="display:flex;gap:14px;align-items:center;flex-wrap:wrap">
-            <button type="submit" class="btn-subscribe">{% if lang == "fr" %}Activer les alertes EHS →{% else %}Activate EHS alerts →{% endif %}</button>
-            <div class="alert-disclaimer">{% if lang == "fr" %}Email unique. Pas de newsletter. Alertes EHS uniquement pour ce département.{% else %}Single email. No newsletter. EHS alerts only for this department.{% endif %}</div>
+            <button type="submit" class="btn-subscribe">{% if lang == "fr" %}Activer les alertes EHS →{% elif lang == "en" %}Activate EHS alerts →{% elif lang == "de" %}EHS-Warnmeldungen aktivieren →{% else %}Activar alertas EHS →{% endif %}</button>
+            <div class="alert-disclaimer">{% if lang == "fr" %}Email unique. Pas de newsletter. Alertes EHS uniquement pour ce département.{% elif lang == "en" %}Single email. No newsletter. EHS alerts only for this department.{% elif lang == "de" %}Nur eine E-Mail. Kein Newsletter. EHS-Warnmeldungen ausschließlich für dieses Bundesland.{% else %}Un solo correo. Sin boletín. Alertas EHS solo para esta comunidad autónoma.{% endif %}</div>
           </div>
         </form>
         <div class="alert-success" id="alert-success">
-          {% if lang == "fr" %}✓ Alertes EHS activées pour ce département.{% else %}✓ EHS alerts activated for this department.{% endif %}
+          {% if lang == "fr" %}✓ Alertes EHS activées pour ce département.{% elif lang == "en" %}✓ EHS alerts activated for this department.{% elif lang == "de" %}✓ EHS-Warnmeldungen für dieses Bundesland aktiviert.{% else %}✓ Alertas EHS activadas para esta comunidad autónoma.{% endif %}
         </div>
       </div>
     </div>
 
     <div class="km-footer">
-      <span>Open-Meteo · WBGT méthode Liljegren approx. · Seuils ACSM Expert Consensus 2023</span>
+      <span>{% if lang == "fr" %}Open-Meteo · WBGT méthode Liljegren approx. · Seuils ACSM Expert Consensus 2023{% elif lang == "en" %}Open-Meteo · WBGT Liljegren approximation method · ACSM Expert Consensus 2023 thresholds{% elif lang == "de" %}Open-Meteo · WBGT nach Liljegren-Näherungsmethode · ACSM Expert Consensus 2023 Schwellenwerte{% else %}Open-Meteo · WBGT método de aproximación de Liljegren · Umbrales ACSM Expert Consensus 2023{% endif %}</span>
       <span id="km-updated">—</span>
     </div>
   </div>
@@ -566,7 +599,9 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
 
 <script>
 var LANG="{{ lang }}";
-var DEPTS=[
+
+// French departments (used for fr and en pages)
+var DEPTS_FR=[
   {c:"01",n:"Ain",lat:46.2,lon:5.2},{c:"02",n:"Aisne",lat:49.5,lon:3.6},
   {c:"03",n:"Allier",lat:46.3,lon:3.4},{c:"04",n:"Alpes-de-Haute-Provence",lat:44.1,lon:6.2},
   {c:"05",n:"Hautes-Alpes",lat:44.7,lon:6.3},{c:"06",n:"Alpes-Maritimes",lat:43.9,lon:7.2},
@@ -615,6 +650,35 @@ var DEPTS=[
   {c:"92",n:"Hauts-de-Seine",lat:48.8,lon:2.2},{c:"93",n:"Seine-Saint-Denis",lat:48.9,lon:2.5},
   {c:"94",n:"Val-de-Marne",lat:48.8,lon:2.5},{c:"95",n:"Val-d'Oise",lat:49.1,lon:2.2}
 ];
+
+// German Bundesländer (16)
+var REGIONS_DE=[
+  {c:"BW",n:"Baden-Württemberg",lat:48.66,lon:9.35},{c:"BY",n:"Bayern",lat:49.02,lon:11.40},
+  {c:"BE",n:"Berlin",lat:52.52,lon:13.40},{c:"BB",n:"Brandenburg",lat:52.41,lon:12.53},
+  {c:"HB",n:"Bremen",lat:53.08,lon:8.80},{c:"HH",n:"Hamburg",lat:53.55,lon:10.00},
+  {c:"HE",n:"Hessen",lat:50.60,lon:9.00},{c:"MV",n:"Mecklenburg-Vorpommern",lat:53.61,lon:12.43},
+  {c:"NI",n:"Niedersachsen",lat:52.64,lon:9.85},{c:"NW",n:"Nordrhein-Westfalen",lat:51.48,lon:7.44},
+  {c:"RP",n:"Rheinland-Pfalz",lat:49.91,lon:7.45},{c:"SL",n:"Saarland",lat:49.38,lon:7.02},
+  {c:"SN",n:"Sachsen",lat:51.05,lon:13.20},{c:"ST",n:"Sachsen-Anhalt",lat:51.95,lon:11.69},
+  {c:"SH",n:"Schleswig-Holstein",lat:54.32,lon:9.70},{c:"TH",n:"Thüringen",lat:50.90,lon:11.03}
+];
+
+// Spanish comunidades autónomas (17)
+var REGIONS_ES=[
+  {c:"AND",n:"Andalucía",lat:37.5,lon:-4.5},{c:"ARA",n:"Aragón",lat:41.5,lon:-0.9},
+  {c:"AST",n:"Asturias",lat:43.3,lon:-5.9},{c:"IB",n:"Islas Baleares",lat:39.6,lon:2.9},
+  {c:"CAN",n:"Canarias",lat:28.3,lon:-16.6},{c:"CANT",n:"Cantabria",lat:43.2,lon:-4.0},
+  {c:"CLM",n:"Castilla-La Mancha",lat:39.5,lon:-3.0},{c:"CYL",n:"Castilla y León",lat:41.7,lon:-4.7},
+  {c:"CAT",n:"Cataluña",lat:41.8,lon:1.5},{c:"EXT",n:"Extremadura",lat:39.2,lon:-6.2},
+  {c:"GAL",n:"Galicia",lat:42.7,lon:-8.0},{c:"MAD",n:"Madrid",lat:40.4,lon:-3.7},
+  {c:"MUR",n:"Murcia",lat:38.0,lon:-1.5},{c:"NAV",n:"Navarra",lat:42.7,lon:-1.6},
+  {c:"PV",n:"País Vasco",lat:43.0,lon:-2.6},{c:"RIO",n:"La Rioja",lat:42.3,lon:-2.5},
+  {c:"VAL",n:"Comunidad Valenciana",lat:39.5,lon:-0.5}
+];
+
+var REGIONS = LANG==='de' ? REGIONS_DE : (LANG==='es' ? REGIONS_ES : DEPTS_FR);
+var DEFAULT_CODE = LANG==='de' ? "BE" : (LANG==='es' ? "MAD" : "13");
+
 var RISK_FR=[
   {level:"Risque faible",color:"#27500A",bg:"#EAF3DE",border:"#97C459",dot:"#639922",desc:"Conditions thermiques normales. La fenêtre de 30 minutes en cas d'EHS reste le protocole de référence ACSM.",protocol:null},
   {level:"Risque modéré",color:"#633806",bg:"#FAEEDA",border:"#EF9F27",dot:"#EF9F27",desc:"WBGT 28-31°C — seuil d'alerte ACSM. Risque d'EHS en cas d'effort prolongé ou d'équipement protecteur. Chaque minute de retard au refroidissement aggrave le pronostic.",protocol:"Cool First, Transport Second — matériel de refroidissement accessible"},
@@ -627,6 +691,19 @@ var RISK_EN=[
   {level:"High risk",color:"#712B13",bg:"#FAECE7",border:"#D85A30",dot:"#D85A30",desc:"WBGT 31-35°C — ACSM danger zone. EHS can occur within 20 minutes of intense exertion. Without cold water immersion, multi-organ failure risk is significant.",protocol:"Preventive deployment of cold water immersion tub is mandatory"},
   {level:"Critical risk",color:"#791F1F",bg:"#FCEBEB",border:"#E24B4A",dot:"#E24B4A",desc:"WBGT > 35°C — immediate EHS danger. Core temperature can reach 40°C within 15 minutes of exertion. Without cold water immersion, life is at risk.",protocol:"Immediate cold water immersion — core temp < 38.9°C within 30 min (KSI, 401 cases)"}
 ];
+var RISK_DE=[
+  {level:"Geringes Risiko",color:"#27500A",bg:"#EAF3DE",border:"#97C459",dot:"#639922",desc:"Normale thermische Bedingungen. Das 30-Minuten-Kühlfenster bei EHS bleibt das ACSM-Referenzprotokoll.",protocol:null},
+  {level:"Mäßiges Risiko",color:"#633806",bg:"#FAEEDA",border:"#EF9F27",dot:"#EF9F27",desc:"WBGT 28 bis 31°C: ACSM-Warnschwelle. EHS-Risiko bei anhaltender Belastung oder Schutzausrüstung. Jede Minute Verzögerung bei der Kühlung verschlechtert den Verlauf.",protocol:"Cool First, Transport Second: Kühlmaterial muss sofort verfügbar sein"},
+  {level:"Hohes Risiko",color:"#712B13",bg:"#FAECE7",border:"#D85A30",dot:"#D85A30",desc:"WBGT 31 bis 35°C: ACSM-Gefahrenzone. Ein EHS kann bei intensiver Belastung innerhalb von 20 Minuten auftreten. Ohne Kaltwasserimmersion besteht ein reales Risiko für Multiorganversagen.",protocol:"Präventiver Einsatz der Kühlwanne ist verpflichtend"},
+  {level:"Kritisches Risiko",color:"#791F1F",bg:"#FCEBEB",border:"#E24B4A",dot:"#E24B4A",desc:"WBGT über 35°C: unmittelbare EHS-Gefahr. Die Körperkerntemperatur kann bei Belastung innerhalb von 15 Minuten 40°C erreichen. Ohne Kaltwasserimmersion besteht Lebensgefahr.",protocol:"Sofortige Kaltwasserimmersion: Körperkerntemperatur unter 38,9°C in unter 30 Min (KSI, 401 Fälle)"}
+];
+var RISK_ES=[
+  {level:"Riesgo bajo",color:"#27500A",bg:"#EAF3DE",border:"#97C459",dot:"#639922",desc:"Condiciones térmicas normales. La ventana de 30 minutos en caso de EHS sigue siendo el protocolo de referencia ACSM.",protocol:null},
+  {level:"Riesgo moderado",color:"#633806",bg:"#FAEEDA",border:"#EF9F27",dot:"#EF9F27",desc:"WBGT 28 a 31°C: umbral de alerta ACSM. Riesgo de EHS en caso de esfuerzo prolongado o equipo de protección. Cada minuto de retraso en el enfriamiento empeora el pronóstico.",protocol:"Cool First, Transport Second: material de enfriamiento accesible de inmediato"},
+  {level:"Riesgo alto",color:"#712B13",bg:"#FAECE7",border:"#D85A30",dot:"#D85A30",desc:"WBGT 31 a 35°C: zona de peligro ACSM. Un EHS puede producirse en menos de 20 minutos de esfuerzo intenso. Sin inmersión en agua fría, el riesgo de fallo multiorgánico es real.",protocol:"El despliegue preventivo de la bañera de enfriamiento es obligatorio"},
+  {level:"Riesgo crítico",color:"#791F1F",bg:"#FCEBEB",border:"#E24B4A",dot:"#E24B4A",desc:"WBGT superior a 35°C: peligro de EHS inmediato. La temperatura central puede alcanzar 40°C en menos de 15 minutos de esfuerzo. Sin inmersión en agua fría, el pronóstico vital está comprometido.",protocol:"Inmersión en agua fría inmediata: T. central por debajo de 38,9°C en menos de 30 min (KSI, 401 casos)"}
+];
+
 var RECOS_FR=[
   [{icon:"✓",title:"Surveillance standard",body:"Appliquer les protocoles habituels. Pas de mesure préventive exceptionnelle requise.",kollder:false},{icon:"⚙",title:"Contrôle du matériel d'urgence",body:"Vérifier la disponibilité et l'état du matériel de refroidissement d'urgence.",kollder:false}],
   [{icon:"💧",title:"Hydratation renforcée",body:"Minimum 500 ml/heure pour tout effort soutenu. Postes de ravitaillement toutes les 20 min.",kollder:false},{icon:"👁",title:"Surveillance active",body:"Référent médical identifié sur site. Signes d'alerte : confusion, arrêt de transpiration, démarche ataxique.",kollder:false},{icon:"❄",title:"Baignoire de refroidissement en stand-by",body:"Positionner Kollder à moins de 60 secondes des zones d'effort, remplie d'eau froide. Structure stable, prête à accueillir 2 personnes en immersion simultanée.",kollder:true}],
@@ -639,8 +716,24 @@ var RECOS_EN=[
   [{icon:"🩺",title:"Enhanced medical coverage",body:"Nurse or physician permanently on site. Rectal thermometer — the only reliable core temperature indicator.",kollder:false},{icon:"❄",title:"Cold water immersion pre-deployed",body:"Kollder deployed and filled BEFORE activity begins. Water 2-15°C, ice in reserve. On EHS suspicion: immerse without waiting for confirmation.",kollder:true},{icon:"📞",title:"Pre-alert EMS",body:"Contact emergency services in advance. Communicate current WBGT and Cool First, Transport Second protocol.",kollder:false}],
   [{icon:"🚫",title:"Suspension of intense activities recommended",body:"Consider postponement or cancellation. Organiser legal obligation applies.",kollder:false},{icon:"❄",title:"Immediate EHS protocol — Cool First, Transport Second",body:"Full-body immersion in Kollder, water 2-10°C, head above water. Target: core temp < 38.9°C within 30 min. 100% survival in 401+ cases (KSI, UConn).",kollder:true},{icon:"🧠",title:"Continuous neurological monitoring",body:"Consciousness check every 2 min. Remove at T° < 38.9°C. Do not transport before effective cooling.",kollder:false}]
 ];
+var RECOS_DE=[
+  [{icon:"✓",title:"Standardüberwachung",body:"Übliche Protokolle anwenden. Keine außergewöhnlichen Präventivmaßnahmen erforderlich.",kollder:false},{icon:"⚙",title:"Kontrolle der Notfallausrüstung",body:"Verfügbarkeit und Zustand der Notfallkühlausrüstung prüfen.",kollder:false}],
+  [{icon:"💧",title:"Verstärkte Flüssigkeitszufuhr",body:"Mindestens 500 ml pro Stunde bei anhaltender Belastung. Versorgungsposten alle 20 Minuten.",kollder:false},{icon:"👁",title:"Aktive Überwachung",body:"Medizinischer Ansprechpartner vor Ort. Warnzeichen: Verwirrtheit, Ausbleiben von Schwitzen, unsicherer Gang.",kollder:false},{icon:"❄",title:"Kühlwanne einsatzbereit",body:"Kollder in unmittelbarer Nähe der Belastungszonen positionieren, mit kaltem Wasser gefüllt. Stabile Struktur, bereit für 2 Personen in gleichzeitiger Immersion.",kollder:true}],
+  [{icon:"🩺",title:"Verstärkte medizinische Absicherung",body:"Pflegekraft oder Arzt dauerhaft vor Ort. Rektalthermometer verfügbar: einziger zuverlässiger Indikator der Kerntemperatur.",kollder:false},{icon:"❄",title:"Präventive Kaltwasserimmersion vorbereitet",body:"Kollder vor Beginn der Aktivität aufgebaut und gefüllt. Wasser 2 bis 15°C, Eis in Reserve. Bei EHS-Verdacht: sofort immergieren, ohne auf Diagnosebestätigung zu warten.",kollder:true},{icon:"📞",title:"Rettungsdienst vorab informiert",body:"Rettungsdienst im Voraus kontaktieren. Aktuellen WBGT und das Cool-First-Transport-Second-Protokoll mitteilen.",kollder:false}],
+  [{icon:"🚫",title:"Aussetzung intensiver Aktivitäten empfohlen",body:"Verschiebung oder Absage in Erwägung ziehen. Der Veranstalter trägt die Fürsorgepflicht.",kollder:false},{icon:"❄",title:"Sofortiges EHS-Protokoll: Cool First, Transport Second",body:"Ganzkörperimmersion in Kollder, Wasser 2 bis 10°C, Kopf über Wasser. Ziel: Körperkerntemperatur unter 38,9°C in unter 30 Minuten. 100% Überlebensrate bei über 401 dokumentierten Fällen (Korey Stringer Institute, UConn).",kollder:true},{icon:"🧠",title:"Kontinuierliches neurologisches Monitoring",body:"Bewusstseinskontrolle alle 2 Minuten. Ausstieg bei Kerntemperatur unter 38,9°C. Nicht transportieren vor wirksamer Kühlung.",kollder:false}]
+];
+var RECOS_ES=[
+  [{icon:"✓",title:"Vigilancia estándar",body:"Aplicar los protocolos habituales. No se requieren medidas preventivas excepcionales.",kollder:false},{icon:"⚙",title:"Control del material de emergencia",body:"Verificar la disponibilidad y el estado del material de enfriamiento de emergencia.",kollder:false}],
+  [{icon:"💧",title:"Hidratación reforzada",body:"Mínimo 500 ml por hora en caso de esfuerzo sostenido. Puestos de avituallamiento cada 20 minutos.",kollder:false},{icon:"👁",title:"Vigilancia activa",body:"Referente médico identificado en el lugar. Señales de alerta: confusión, cese de la sudoración, marcha atáxica.",kollder:false},{icon:"❄",title:"Bañera de enfriamiento lista",body:"Colocar Kollder muy cerca de las zonas de esfuerzo, llena de agua fría. Estructura estable, lista para 2 personas en inmersión simultánea.",kollder:true}],
+  [{icon:"🩺",title:"Dispositivo médico reforzado",body:"Enfermero o médico presente permanentemente. Termómetro rectal disponible: único indicador fiable de la temperatura central.",kollder:false},{icon:"❄",title:"Inmersión en agua fría preventiva desplegada",body:"Kollder desplegada y llena ANTES del inicio de la actividad. Agua entre 2 y 15°C, hielo de reserva. Ante sospecha de EHS: inmergir sin esperar la confirmación diagnóstica.",kollder:true},{icon:"📞",title:"Servicios de emergencia prealertados",body:"Contactar con los servicios de emergencia con antelación. Comunicar el WBGT actual y el protocolo Cool First, Transport Second en marcha.",kollder:false}],
+  [{icon:"🚫",title:"Se recomienda suspender las actividades intensas",body:"Considerar el aplazamiento o la cancelación. Aplica la obligación legal del organizador.",kollder:false},{icon:"❄",title:"Protocolo EHS inmediato: Cool First, Transport Second",body:"Inmersión de cuerpo entero en Kollder, agua entre 2 y 10°C, cabeza fuera del agua. Objetivo: temperatura central por debajo de 38,9°C en menos de 30 min. 100% de supervivencia documentada en más de 401 casos (Korey Stringer Institute, UConn).",kollder:true},{icon:"🧠",title:"Monitorización neurológica continua",body:"Evaluación del estado de conciencia cada 2 minutos. Finalizar la inmersión a temperatura central por debajo de 38,9°C. No trasladar antes de un enfriamiento efectivo.",kollder:false}]
+];
+
 var DAYS_FR=["Dim","Lun","Mar","Mer","Jeu","Ven","Sam"];
 var DAYS_EN=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+var DAYS_DE=["So","Mo","Di","Mi","Do","Fr","Sa"];
+var DAYS_ES=["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"];
+
 var ALERT_FR=[
   {title:"Rester informé — alertes EHS",sub:"Recevez une alerte quand le risque de coup de chaleur d'effort dépasse votre seuil pour ce département."},
   {title:"Risque modéré — configurer vos alertes",sub:"Le WBGT actuel justifie une vigilance renforcée. Activez vos alertes pour anticiper les prochains épisodes."},
@@ -653,26 +746,47 @@ var ALERT_EN=[
   {title:"High risk — alerts recommended",sub:"Current WBGT justifies a cooling device on site. Configure alerts to stay ahead of the risk."},
   {title:"Critical risk — activate your alerts now",sub:"Immediate EHS danger in this department. Configure alerts to be notified from tomorrow morning."}
 ];
+var ALERT_DE=[
+  {title:"Informiert bleiben: EHS-Warnmeldungen",sub:"Erhalten Sie eine Meldung, sobald das Risiko für belastungsbedingten Hitzschlag Ihren Schwellenwert für dieses Bundesland überschreitet."},
+  {title:"Mäßiges Risiko: Warnmeldungen einrichten",sub:"Der aktuelle WBGT rechtfertigt erhöhte Wachsamkeit. Aktivieren Sie Ihre Warnmeldungen, um kommende Hitzeperioden vorherzusehen."},
+  {title:"Hohes Risiko: Warnmeldungen empfohlen",sub:"Der aktuelle WBGT rechtfertigt eine Kühlvorrichtung vor Ort. Richten Sie Ihre Warnmeldungen ein, um nicht überrascht zu werden."},
+  {title:"Kritisches Risiko: Warnmeldungen jetzt aktivieren",sub:"Unmittelbare EHS-Gefahr in diesem Bundesland. Richten Sie Ihre Warnmeldungen ein, um bereits morgen früh informiert zu sein."}
+];
+var ALERT_ES=[
+  {title:"Manténgase informado: alertas EHS",sub:"Reciba una alerta cuando el riesgo de golpe de calor por esfuerzo supere su umbral para esta comunidad autónoma."},
+  {title:"Riesgo moderado: configure sus alertas",sub:"El WBGT actual justifica una vigilancia reforzada. Active sus alertas para anticipar los próximos episodios."},
+  {title:"Riesgo alto: alertas recomendadas",sub:"El WBGT actual justifica un dispositivo de enfriamiento en el lugar. Configure sus alertas para no verse sorprendido."},
+  {title:"Riesgo crítico: active sus alertas ahora",sub:"Peligro de EHS inmediato en esta comunidad autónoma. Configure sus alertas para ser avisado desde mañana por la mañana."}
+];
+
 function calcWBGT(t,h){var tw=t*Math.atan(0.151977*Math.sqrt(h+8.313659))+Math.atan(t+h)-Math.atan(h-1.676331)+0.00391838*Math.pow(h,1.5)*Math.atan(0.023101*h)-4.686035;return Math.round((0.7*tw+0.3*t)*10)/10;}
 function getRisk(w){if(w>=35)return 3;if(w>=31)return 2;if(w>=28)return 1;return 0;}
-var currentCode="13";
+function pickRisk(){return LANG==='de'?RISK_DE:(LANG==='es'?RISK_ES:(LANG==='en'?RISK_EN:RISK_FR));}
+function pickRecos(){return LANG==='de'?RECOS_DE:(LANG==='es'?RECOS_ES:(LANG==='en'?RECOS_EN:RECOS_FR));}
+function pickDays(){return LANG==='de'?DAYS_DE:(LANG==='es'?DAYS_ES:(LANG==='en'?DAYS_EN:DAYS_FR));}
+function pickAlert(){return LANG==='de'?ALERT_DE:(LANG==='es'?ALERT_ES:(LANG==='en'?ALERT_EN:ALERT_FR));}
+function localeTag(){return LANG==='de'?'de-DE':(LANG==='es'?'es-ES':(LANG==='en'?'en-GB':'fr-FR'));}
+function todayLabel(){return LANG==='de'?'Heute':(LANG==='es'?'Hoy':(LANG==='en'?'Today':'Auj.'));}
+function loadingErrorLabel(){return LANG==='de'?"Fehler beim Laden. Bitte Verbindung prüfen.":(LANG==='es'?"Error de carga. Compruebe la conexión.":(LANG==='en'?"Loading error. Please check your connection.":"Erreur de chargement. Vérifiez la connexion."));}
+
+var currentCode=DEFAULT_CODE;
 function setThreshold(el,val){document.querySelectorAll('.pill').forEach(function(p){p.classList.remove('active');});el.classList.add('active');document.getElementById('form-threshold').value=val;}
 var sel=document.getElementById('km-select');
-DEPTS.forEach(function(d){var o=document.createElement('option');o.value=d.c;o.textContent=d.c+" — "+d.n;sel.appendChild(o);});
-sel.value="13";
+REGIONS.forEach(function(d){var o=document.createElement('option');o.value=d.c;o.textContent=d.c+" — "+d.n;sel.appendChild(o);});
+sel.value=DEFAULT_CODE;
 async function loadDept(code){
-  var d=DEPTS.find(function(x){return x.c===code;});if(!d)return;
+  var d=REGIONS.find(function(x){return x.c===code;});if(!d)return;
   currentCode=code;
   document.getElementById('km-loading').style.display='block';
   document.getElementById('km-main').style.display='none';
   try{
-    var url="https://api.open-meteo.com/v1/forecast?latitude="+d.lat+"&longitude="+d.lon+"&current=temperature_2m,relative_humidity_2m,wind_speed_10m&daily=temperature_2m_max,relative_humidity_2m_mean,wind_speed_10m_max&timezone=Europe/Paris&forecast_days=7";
+    var url="https://api.open-meteo.com/v1/forecast?latitude="+d.lat+"&longitude="+d.lon+"&current=temperature_2m,relative_humidity_2m,wind_speed_10m&daily=temperature_2m_max,relative_humidity_2m_mean,wind_speed_10m_max&timezone=auto&forecast_days=7";
     var res=await fetch(url);var json=await res.json();
     var temp=Math.round(json.current.temperature_2m*10)/10;
     var hum=Math.round(json.current.relative_humidity_2m);
     var wind=Math.round(json.current.wind_speed_10m);
     var wbgt=calcWBGT(temp,hum);var ri=getRisk(wbgt);
-    var RISK=LANG==='fr'?RISK_FR:RISK_EN;var r=RISK[ri];
+    var RISK=pickRisk();var r=RISK[ri];
     document.getElementById('v-temp').innerHTML=temp+'<span class="stat-unit">°C</span>';
     document.getElementById('v-hum').innerHTML=hum+'<span class="stat-unit">%</span>';
     document.getElementById('v-wbgt').innerHTML=wbgt+'<span class="stat-unit">°C</span>';
@@ -685,7 +799,7 @@ async function loadDept(code){
     document.getElementById('b-desc').textContent=r.desc;document.getElementById('b-desc').style.color=r.color;
     var proto=document.getElementById('b-protocol');
     if(r.protocol){proto.textContent=r.protocol;proto.style.display='inline-block';proto.style.background=r.border;proto.style.color=r.color;}else{proto.style.display='none';}
-    var DAYS=LANG==='fr'?DAYS_FR:DAYS_EN;
+    var DAYS=pickDays();
     var fc=document.getElementById('km-fc');fc.innerHTML='';
     var now=new Date();
     for(var i=0;i<7;i++){
@@ -693,15 +807,15 @@ async function loadDept(code){
       var fh=Math.round(json.daily.relative_humidity_2m_mean[i]);
       var fw=calcWBGT(ft,fh);var fri=getRisk(fw);
       var d2=new Date(now);d2.setDate(now.getDate()+i);
-      var label=i===0?(LANG==='fr'?'Auj.':'Today'):DAYS[d2.getDay()];
+      var label=i===0?todayLabel():DAYS[d2.getDay()];
       var el=document.createElement('div');el.className='fc-card';
       el.innerHTML='<div class="fc-day">'+label+'</div><div class="fc-temp">'+ft+'°</div><div class="fc-hum">'+fh+'% HR</div><div class="fc-wbgt" style="color:'+RISK[fri].dot+'">WBGT '+fw+'°</div><div class="fc-dot" style="background:'+RISK[fri].dot+'"></div>';
       fc.appendChild(el);
     }
-    var RECOS=LANG==='fr'?RECOS_FR:RECOS_EN;
+    var RECOS=pickRecos();
     var recos=document.getElementById('km-recos');recos.innerHTML='';
     RECOS[ri].forEach(function(rc){var el=document.createElement('div');el.className='reco-card'+(rc.kollder?' reco-kollder':'');el.innerHTML='<div class="reco-icon">'+rc.icon+'</div><div><div class="reco-title">'+rc.title+'</div><div class="reco-body">'+rc.body+'</div></div>';recos.appendChild(el);});
-    var ALERT=LANG==='fr'?ALERT_FR:ALERT_EN;
+    var ALERT=pickAlert();
     document.getElementById('alert-header-title').textContent=ALERT[ri].title;
     document.getElementById('alert-header-sub').textContent=ALERT[ri].sub;
     document.getElementById('form-dept').value=d.c+" — "+d.n;
@@ -710,11 +824,11 @@ async function loadDept(code){
     document.getElementById('form-subject').value="[Kollder EHS Alert] "+d.n+" — WBGT "+wbgt+"°C — "+r.level;
     document.getElementById('km-alert-section').style.display='block';
     var t=new Date();
-    document.getElementById('km-updated').textContent=d.n+" · "+t.toLocaleTimeString(LANG==='fr'?'fr-FR':'en-GB',{hour:'2-digit',minute:'2-digit'});
+    document.getElementById('km-updated').textContent=d.n+" · "+t.toLocaleTimeString(localeTag(),{hour:'2-digit',minute:'2-digit'});
     document.getElementById('km-loading').style.display='none';
     document.getElementById('km-main').style.display='block';
   }catch(e){
-    document.getElementById('km-loading').textContent=LANG==='fr'?"Erreur de chargement. Vérifiez la connexion.":"Loading error. Please check your connection.";
+    document.getElementById('km-loading').textContent=loadingErrorLabel();
   }
 }
 sel.addEventListener('change',function(e){if(e.target.value)loadDept(e.target.value);});
@@ -725,22 +839,33 @@ document.getElementById('km-alert-form').addEventListener('submit',function(e){e
   try{
     var geo=await fetch('https://ipapi.co/json/');
     var gd=await geo.json();
-    var code='13';
-    if(gd.country_code==='FR' && gd.region_code){
-      // ipapi.co returns region_code as dept number string for France ("01".."95","2A","2B","971"..)
-      var rc=String(gd.region_code);
-      var found=DEPTS.find(function(x){return x.c===rc;});
-      if(found) code=found.c;
-      else code=DEPTS[Math.floor(Math.random()*DEPTS.length)].c;
-    } else {
-      code=DEPTS[Math.floor(Math.random()*DEPTS.length)].c;
+    var code=DEFAULT_CODE;
+    if(LANG==='fr' || LANG==='en'){
+      if(gd.country_code==='FR' && gd.region_code){
+        // ipapi.co returns region_code as dept number string for France ("01".."95","2A","2B","971"..)
+        var rc=String(gd.region_code);
+        var found=REGIONS.find(function(x){return x.c===rc;});
+        if(found) code=found.c;
+        else code=REGIONS[Math.floor(Math.random()*REGIONS.length)].c;
+      } else {
+        code=REGIONS[Math.floor(Math.random()*REGIONS.length)].c;
+      }
+    } else if((LANG==='de' && gd.country_code==='DE') || (LANG==='es' && gd.country_code==='ES')){
+      // Nearest region centroid by simple squared distance from the visitor's coordinates
+      if(typeof gd.latitude==='number' && typeof gd.longitude==='number'){
+        var best=null, bestDist=Infinity;
+        REGIONS.forEach(function(rgn){
+          var dd=Math.pow(rgn.lat-gd.latitude,2)+Math.pow(rgn.lon-gd.longitude,2);
+          if(dd<bestDist){bestDist=dd;best=rgn;}
+        });
+        if(best) code=best.c;
+      }
     }
     sel.value=code;
     loadDept(code);
   }catch(e){
-    var fallbackCode=DEPTS[Math.floor(Math.random()*DEPTS.length)].c;
-    sel.value=fallbackCode;
-    loadDept(fallbackCode);
+    sel.value=DEFAULT_CODE;
+    loadDept(DEFAULT_CODE);
   }
 })();
 </script>

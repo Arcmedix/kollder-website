@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{% if lang == 'en' %}en{% else %}fr{% endif %}">
+<html lang="{{ lang }}">
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SF9XF8JQZK"></script>
@@ -33,6 +33,8 @@
 <meta property="og:url" content="https://kollder.com{{ page.url }}">
 <link rel="alternate" hreflang="fr" href="https://kollder.com/fr/distributeurs/">
 <link rel="alternate" hreflang="en" href="https://kollder.com/en/partners/">
+<link rel="alternate" hreflang="de" href="https://kollder.com/de/vertriebspartner/">
+<link rel="alternate" hreflang="es" href="https://kollder.com/es/distribuidores/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -387,32 +389,33 @@ footer {
 
 <nav>
   <div class="nav-brand">
-    <a href="{% if lang == 'en' %}/en/{% else %}/?lang=fr{% endif %}"><img src="/logo-kollder.png" alt="Kollder"></a>
+    <a href="{{ nav[lang].homeUrl }}"><img src="/logo-kollder.png" alt="Kollder"></a>
   </div>
   <div class="nav-right">
-    <a href="{% if lang == 'en' %}/en/{% else %}/?lang=fr{% endif %}" class="nav-link">{% if lang == 'en' %}Home{% else %}Accueil{% endif %}</a>
-    <a href="{% if lang == 'en' %}/en/partners/{% else %}/fr/distributeurs/{% endif %}" class="nav-link nav-link-active">{% if lang == 'en' %}Partners{% else %}Distributeurs{% endif %}</a>
+    <a href="{{ nav[lang].homeUrl }}" class="nav-link">{{ nav[lang].home }}</a>
+    <a href="{{ nav[lang].partnersUrl }}" class="nav-link nav-link-active">{{ nav[lang].partners }}</a>
     <div class="nav-dropdown">
-      <a href="javascript:void(0)" class="nav-link">{% if lang == 'en' %}Who We Serve{% else %}Secteurs{% endif %}<svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg></a>
+      <a href="javascript:void(0)" class="nav-link">{{ nav[lang].whoWeServe }}<svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg></a>
       <div class="nav-dropdown-menu">
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/fire-rescue/{% else %}/fr/sdis-pompiers/{% endif %}">{% if lang == 'en' %}Fire & Rescue{% else %}SDIS / Pompiers{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/emergency-medical-services/{% else %}/fr/services-urgence-hopitaux/{% endif %}">{% if lang == 'en' %}EMS & Emergency Depts{% else %}SAMU / SMUR{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/civil-protection/{% else %}/fr/protection-civile/{% endif %}">{% if lang == 'en' %}Civil Protection{% else %}Protection civile{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/event-medical-support/{% else %}/fr/assistance-medicale-evenements/{% endif %}">{% if lang == 'en' %}Event Medical{% else %}Événementiel sportif{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/defense-military/{% else %}/fr/defense-militaire/{% endif %}">{% if lang == 'en' %}Defense & Military{% else %}Défense & Militaire{% endif %}</a>
-        <a class="nav-dropdown-item" href="{% if lang == 'en' %}/en/occupational-safety/{% else %}/fr/securite-travail/{% endif %}">{% if lang == 'en' %}Occupational Safety{% else %}Sécurité au travail{% endif %}</a>
+        {% for sector in nav[lang].sectors %}
+        <a class="nav-dropdown-item" href="{{ sector.url }}">{{ sector.label }}</a>
+        {% endfor %}
       </div>
     </div>
-    <a href="{% if lang == 'en' %}/blog/?lang=en{% else %}/blog/?lang=fr{% endif %}" class="nav-link">
-      {% if lang == 'en' %}Resources{% else %}Ressources{% endif %}<span class="nav-badge" id="nav-badge"></span>
+    {% if nav[lang].resources %}
+    <a href="{{ nav[lang].resourcesUrl }}" class="nav-link">
+      {{ nav[lang].resources }}<span class="nav-badge" id="nav-badge"></span>
     </a>
-    <a href="{% if lang == 'en' %}/en/monitor/{% else %}/fr/monitor/{% endif %}" class="nav-link" style="display:inline-flex;align-items:center;gap:5px;opacity:.85;"><span style="width:7px;height:7px;border-radius:50%;background:#e85c3a;display:inline-block;animation:pulse-dot 2s ease-in-out infinite;"></span>{% if lang == 'en' %}EHS Monitor{% else %}Moniteur EHS{% endif %}</a>
-    <a href="{% if lang == 'en' %}/en/#contact{% else %}/#contact{% endif %}" class="nav-devis">
-      {% if lang == 'en' %}Get a quote{% else %}Obtenir un devis{% endif %}
+    {% endif %}
+    <a href="{{ nav[lang].monitorUrl }}" class="nav-link" style="display:inline-flex;align-items:center;gap:5px;opacity:.85;"><span style="width:7px;height:7px;border-radius:50%;background:#e85c3a;display:inline-block;animation:pulse-dot 2s ease-in-out infinite;"></span>{{ nav[lang].monitor }}</a>
+    <a href="{{ nav[lang].quoteUrl }}" class="nav-devis">
+      {{ nav[lang].quote }}
     </a>
     <div class="lang-toggle">
-      <a class="lang-btn{% if lang != 'en' %} active{% endif %}" href="/fr/distributeurs/" style="text-decoration:none">FR</a>
+      <a class="lang-btn{% if lang == 'fr' %} active{% endif %}" href="/fr/distributeurs/" style="text-decoration:none">FR</a>
       <a class="lang-btn{% if lang == 'en' %} active{% endif %}" href="/en/partners/" style="text-decoration:none">EN</a>
+      <a class="lang-btn{% if lang == 'de' %} active{% endif %}" href="/de/vertriebspartner/" style="text-decoration:none">DE</a>
+      <a class="lang-btn{% if lang == 'es' %} active{% endif %}" href="/es/distribuidores/" style="text-decoration:none">ES</a>
     </div>
   </div>
   <button class="ham-btn" id="hamBtn" aria-label="Menu">
@@ -422,45 +425,46 @@ footer {
 
 <!-- Mobile overlay -->
 <div class="nav-overlay" id="navOverlay">
-  <button type="button" class="nav-overlay-close" aria-label="{% if lang == 'fr' %}Fermer le menu{% else %}Close menu{% endif %}" onclick="closeNavOverlay()">
+  <button type="button" class="nav-overlay-close" aria-label="{{ nav[lang].closeMenu }}" onclick="closeNavOverlay()">
     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M5 5l10 10M15 5L5 15"/></svg>
   </button>
   <div class="nav-overlay-links">
-    <a class="nav-overlay-link" id="ov-home">
-      <span id="ov-home-label">Accueil</span>
+    <a class="nav-overlay-link" href="{{ nav[lang].homeUrl }}">
+      <span>{{ nav[lang].home }}</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
     <button type="button" class="nav-overlay-toggle" aria-expanded="false" onclick="toggleNavOverlayGroup(this)">
-      <span id="ov-secteurs-label">Secteurs</span>
+      <span>{{ nav[lang].whoWeServe }}</span>
       <svg class="nav-overlay-toggle-arrow" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg>
     </button>
     <div class="nav-overlay-sublinks">
-    <a class="nav-overlay-sublink" id="ov-sdis"><span id="ov-sdis-label">SDIS / Pompiers</span></a>
-    <a class="nav-overlay-sublink" id="ov-samu"><span id="ov-samu-label">SAMU / SMUR</span></a>
-    <a class="nav-overlay-sublink" id="ov-civile"><span id="ov-civile-label">Protection civile</span></a>
-    <a class="nav-overlay-sublink" id="ov-event"><span id="ov-event-label">Événementiel sportif</span></a>
-    <a class="nav-overlay-sublink" id="ov-defense"><span id="ov-defense-label">Défense & Militaire</span></a>
-    <a class="nav-overlay-sublink" id="ov-ehs"><span id="ov-ehs-label">Sécurité au travail</span></a>
+    {% for sector in nav[lang].sectors %}
+    <a class="nav-overlay-sublink" href="{{ sector.url }}"><span>{{ sector.label }}</span></a>
+    {% endfor %}
     </div>
-    <a class="nav-overlay-link" id="ov-distrib">
-      <span id="ov-distrib-label">Distributeurs</span>
+    <a class="nav-overlay-link" href="{{ nav[lang].partnersUrl }}">
+      <span>{{ nav[lang].partners }}</span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
-    <a class="nav-overlay-link" id="ov-blog">
-      <span id="ov-blog-label">Ressources</span><span class="nav-overlay-badge" id="ov-badge"></span>
+    {% if nav[lang].resources %}
+    <a class="nav-overlay-link" href="{{ nav[lang].resourcesUrl }}">
+      <span>{{ nav[lang].resources }}</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
-    <a class="nav-overlay-link" id="ov-monitor">
-      <span id="ov-monitor-label">Moniteur EHS <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+    {% endif %}
+    <a class="nav-overlay-link" href="{{ nav[lang].monitorUrl }}">
+      <span>{{ nav[lang].monitor }} <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
   </div>
-  <a class="nav-overlay-cta" id="ov-cta">
-    <span id="ov-cta-label">Obtenir un devis</span>
+  <a class="nav-overlay-cta" href="{{ nav[lang].quoteUrl }}">
+    <span>{{ nav[lang].quote }}</span>
     <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
   </a>
   <div class="nav-overlay-lang">
-    <a id="ov-fr" href="/fr/distributeurs/">FR</a>
-    <a id="ov-en" href="/en/partners/">EN</a>
+    <a href="/fr/distributeurs/" class="{% if lang == 'fr' %}active{% endif %}">FR</a>
+    <a href="/en/partners/" class="{% if lang == 'en' %}active{% endif %}">EN</a>
+    <a href="/de/vertriebspartner/" class="{% if lang == 'de' %}active{% endif %}">DE</a>
+    <a href="/es/distribuidores/" class="{% if lang == 'es' %}active{% endif %}">ES</a>
   </div>
 </div>
 
@@ -476,9 +480,6 @@ footer {
 <script src="/lang.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  var lang = localStorage.getItem('kollder_lang') || 'fr';
-  var isFr = lang !== 'en';
-
   // Article count badge
   fetch('/article-count.json').then(function(r){ return r.json(); }).then(function(d){
     var cnt = (d && (d.count || d.total)) || '';
@@ -487,33 +488,6 @@ document.addEventListener('DOMContentLoaded', function() {
     if (nb && cnt) nb.textContent = cnt;
     if (ob && cnt) ob.textContent = cnt;
   }).catch(function(){});
-
-  // Overlay links
-  document.getElementById('ov-home').href = isFr ? '/?lang=fr' : '/en/';
-  document.getElementById('ov-home-label').textContent = isFr ? 'Accueil' : 'Home';
-  document.getElementById('ov-distrib').href = isFr ? '/fr/distributeurs/' : '/en/partners/';
-  document.getElementById('ov-distrib-label').textContent = isFr ? 'Distributeurs' : 'Partners';
-  document.getElementById('ov-secteurs-label').textContent = isFr ? 'Secteurs' : 'Who We Serve';
-  document.getElementById('ov-sdis').href = isFr ? '/fr/sdis-pompiers/' : '/en/fire-rescue/';
-  document.getElementById('ov-sdis-label').textContent = isFr ? 'SDIS / Pompiers' : 'Fire & Rescue';
-  document.getElementById('ov-samu').href = isFr ? '/fr/services-urgence-hopitaux/' : '/en/emergency-medical-services/';
-  document.getElementById('ov-samu-label').textContent = isFr ? 'SAMU / SMUR' : 'EMS & Emergency Depts';
-  document.getElementById('ov-civile').href = isFr ? '/fr/protection-civile/' : '/en/civil-protection/';
-  document.getElementById('ov-civile-label').textContent = isFr ? 'Protection civile' : 'Civil Protection';
-  document.getElementById('ov-event').href = isFr ? '/fr/assistance-medicale-evenements/' : '/en/event-medical-support/';
-  document.getElementById('ov-event-label').textContent = isFr ? 'Événementiel sportif' : 'Event Medical';
-  document.getElementById('ov-defense').href = isFr ? '/fr/defense-militaire/' : '/en/defense-military/';
-  document.getElementById('ov-defense-label').textContent = isFr ? 'Défense & Militaire' : 'Defense & Military';
-  document.getElementById('ov-ehs').href = isFr ? '/fr/securite-travail/' : '/en/occupational-safety/';
-  document.getElementById('ov-ehs-label').textContent = isFr ? 'Sécurité au travail' : 'Occupational Safety';
-  document.getElementById('ov-blog').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
-  document.getElementById('ov-blog-label').textContent = isFr ? 'Ressources' : 'Resources';
-  document.getElementById('ov-monitor').href = isFr ? '/fr/monitor/' : '/en/monitor/';
-  document.getElementById('ov-monitor-label').innerHTML = (isFr ? 'Moniteur EHS' : 'EHS Monitor') + ' <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span>';
-  document.getElementById('ov-cta').href = isFr ? '/#contact' : '/en/#contact';
-  document.getElementById('ov-cta-label').textContent = isFr ? 'Obtenir un devis' : 'Get a quote';
-  document.getElementById('ov-fr').className = isFr ? 'active' : '';
-  document.getElementById('ov-en').className = !isFr ? 'active' : '';
 
   // Hamburger toggle
   var btn = document.getElementById('hamBtn');
