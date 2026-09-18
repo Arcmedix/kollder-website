@@ -56,14 +56,14 @@ nav {
   display: flex; align-items: center; gap: 8px; transition: color .2s;
 }
 .nav-back:hover { color: var(--ink); }
-.lang-toggle { display: flex; border: 1px solid var(--border); }
-.lang-btn {
-  background: none; border: none; font-family: 'DM Sans', sans-serif;
-  font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
-  padding: 6px 14px; cursor: pointer; color: var(--muted); transition: all .2s;
-  text-decoration: none; display: inline-block;
-}
-.lang-btn.active { background: var(--black); color: var(--white); }
+.lang-switcher-trigger { padding: 0; }
+.lang-switcher-trigger svg:first-child { display: block; }
+.lang-switcher-menu { min-width: 160px; }
+.lang-switcher-menu .nav-dropdown-item { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.lang-switcher-menu .nav-dropdown-item.active { color: var(--black); font-weight: 600; }
+.lang-switcher-menu .nav-dropdown-item.active::after { content: '✓'; font-size: 11px; color: var(--sand); }
+.nav-overlay-sublink.active { color: var(--black); font-weight: 500; }
+.nav-overlay-sublink.active span::after { content: '✓'; margin-left: 8px; font-size: 13px; color: var(--sand); }
 
 /* Hamburger */
 .ham-btn {
@@ -147,15 +147,6 @@ nav {
   font-size: 13px; font-weight: 500; letter-spacing: 0.1em;
   text-transform: uppercase; padding: 16px 28px; align-self: flex-start;
 }
-.nav-overlay-lang {
-  display: flex; gap: 0; border: 1px solid var(--border);
-  margin-top: 24px; align-self: flex-start;
-}
-.nav-overlay-lang a {
-  font-size: 12px; font-weight: 500; letter-spacing: 0.1em;
-  padding: 8px 16px; text-decoration: none; color: var(--muted);
-}
-.nav-overlay-lang a.active { background: var(--black); color: var(--white); }
 @keyframes pulse-dot {
   0%, 100% { opacity: 1; transform: scale(1); }
   50% { opacity: 0.5; transform: scale(0.8); }
@@ -363,11 +354,14 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
       <span style="width:7px;height:7px;border-radius:50%;background:#e85c3a;display:inline-block;animation:pulse-dot 2s ease-in-out infinite;"></span>
       {{ nav[lang].monitor }}
     </a>
-    <div class="lang-toggle">
-      <a class="lang-btn {% if lang == 'fr' %}active{% endif %}" href="/fr/monitor/">FR</a>
-      <a class="lang-btn {% if lang == 'en' %}active{% endif %}" href="/en/monitor/">EN</a>
-      <a class="lang-btn {% if lang == 'de' %}active{% endif %}" href="/de/monitor/">DE</a>
-      <a class="lang-btn {% if lang == 'es' %}active{% endif %}" href="/es/monitor/">ES</a>
+    <div class="nav-dropdown lang-switcher">
+      <a href="javascript:void(0)" class="nav-back lang-switcher-trigger" aria-label="{{ nav[lang].langAria }}" style="display:inline-flex;align-items:center;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><line x1="3" y1="12" x2="21" y2="12"></line><path d="M12 3c2.8 2.6 4.3 5.8 4.3 9s-1.5 6.4-4.3 9c-2.8-2.6-4.3-5.8-4.3-9s1.5-6.4 4.3-9z"></path></svg><svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg></a>
+      <div class="nav-dropdown-menu lang-switcher-menu">
+        <a class="nav-dropdown-item{% if lang == 'fr' %} active{% endif %}" href="/fr/monitor/">{{ nav.langNames.fr }}</a>
+        <a class="nav-dropdown-item{% if lang == 'en' %} active{% endif %}" href="/en/monitor/">{{ nav.langNames.en }}</a>
+        <a class="nav-dropdown-item{% if lang == 'de' %} active{% endif %}" href="/de/monitor/">{{ nav.langNames.de }}</a>
+        <a class="nav-dropdown-item{% if lang == 'es' %} active{% endif %}" href="/es/monitor/">{{ nav.langNames.es }}</a>
+      </div>
     </div>
     <a href="{{ nav[lang].quoteUrl }}" style="display:inline-flex;align-items:center;gap:10px;background:var(--black);color:var(--white);text-decoration:none;font-size:12px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;padding:10px 20px;">
       {{ nav[lang].quote }}
@@ -411,17 +405,21 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
       <span>{{ nav[lang].monitor }} <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
+    <button type="button" class="nav-overlay-toggle" aria-expanded="false" onclick="toggleNavOverlayGroup(this)">
+      <span style="display:inline-flex;align-items:center;gap:10px;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><line x1="3" y1="12" x2="21" y2="12"></line><path d="M12 3c2.8 2.6 4.3 5.8 4.3 9s-1.5 6.4-4.3 9c-2.8-2.6-4.3-5.8-4.3-9s1.5-6.4 4.3-9z"></path></svg>{{ nav[lang].language }}</span>
+      <svg class="nav-overlay-toggle-arrow" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg>
+    </button>
+    <div class="nav-overlay-sublinks">
+      <a class="nav-overlay-sublink{% if lang == 'fr' %} active{% endif %}" href="/fr/monitor/"><span>{{ nav.langNames.fr }}</span></a>
+      <a class="nav-overlay-sublink{% if lang == 'en' %} active{% endif %}" href="/en/monitor/"><span>{{ nav.langNames.en }}</span></a>
+      <a class="nav-overlay-sublink{% if lang == 'de' %} active{% endif %}" href="/de/monitor/"><span>{{ nav.langNames.de }}</span></a>
+      <a class="nav-overlay-sublink{% if lang == 'es' %} active{% endif %}" href="/es/monitor/"><span>{{ nav.langNames.es }}</span></a>
+    </div>
   </div>
   <a class="nav-overlay-cta" href="{{ nav[lang].quoteUrl }}">
     <span>{{ nav[lang].quote }}</span>
     <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
   </a>
-  <div class="nav-overlay-lang">
-    <a class="{% if lang == 'fr' %}active{% endif %}" href="/fr/monitor/">FR</a>
-    <a class="{% if lang == 'en' %}active{% endif %}" href="/en/monitor/">EN</a>
-    <a class="{% if lang == 'de' %}active{% endif %}" href="/de/monitor/">DE</a>
-    <a class="{% if lang == 'es' %}active{% endif %}" href="/es/monitor/">ES</a>
-  </div>
 </div>
 
 <div class="hero">

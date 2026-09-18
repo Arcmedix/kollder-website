@@ -2,6 +2,7 @@
 // Blog/resources has no DE/ES content yet, so `resources` is null for those two —
 // templates should skip rendering the resources link when it's null.
 module.exports = {
+  langNames: { fr: "Français", en: "English", de: "Deutsch", es: "Español" },
   fr: {
     home: "Accueil", homeUrl: "/?lang=fr",
     partners: "Distributeurs", partnersUrl: "/fr/distributeurs/",
@@ -17,7 +18,8 @@ module.exports = {
     resources: "Ressources", resourcesUrl: "/blog/?lang=fr",
     monitor: "Moniteur EHS", monitorUrl: "/fr/monitor/",
     quote: "Obtenir un devis", quoteUrl: "/#contact",
-    closeMenu: "Fermer le menu"
+    closeMenu: "Fermer le menu",
+    language: "Langue", langAria: "Changer de langue"
   },
   en: {
     home: "Home", homeUrl: "/en/",
@@ -34,7 +36,8 @@ module.exports = {
     resources: "Resources", resourcesUrl: "/blog/?lang=en",
     monitor: "EHS Monitor", monitorUrl: "/en/monitor/",
     quote: "Get a quote", quoteUrl: "/en/#contact",
-    closeMenu: "Close menu"
+    closeMenu: "Close menu",
+    language: "Language", langAria: "Change language"
   },
   de: {
     home: "Startseite", homeUrl: "/de/",
@@ -51,7 +54,8 @@ module.exports = {
     resources: null, resourcesUrl: null,
     monitor: "EHS-Monitor", monitorUrl: "/de/monitor/",
     quote: "Angebot anfordern", quoteUrl: "/de/#contact",
-    closeMenu: "Menü schließen"
+    closeMenu: "Menü schließen",
+    language: "Sprache", langAria: "Sprache ändern"
   },
   es: {
     home: "Inicio", homeUrl: "/es/",
@@ -68,6 +72,7 @@ module.exports = {
     resources: null, resourcesUrl: null,
     monitor: "Monitor EHS", monitorUrl: "/es/monitor/",
     quote: "Solicitar presupuesto", quoteUrl: "/es/#contact",
-    closeMenu: "Cerrar menú"
+    closeMenu: "Cerrar menú",
+    language: "Idioma", langAria: "Cambiar idioma"
   }
 };

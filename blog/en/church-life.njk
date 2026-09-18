@@ -56,9 +56,30 @@ nav {
 .nav-right { display: flex; align-items: center; gap: 24px; }
 .nav-back { font-size: 13px; font-weight: 500; color: var(--muted); text-decoration: none; letter-spacing: 0.06em; display: flex; align-items: center; gap: 8px; transition: color .2s; }
 .nav-back:hover { color: var(--ink); }
-.lang-toggle { display: flex; border: 1px solid var(--border); }
-.lang-btn { background: none; border: none; font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 500; letter-spacing: 0.1em; padding: 6px 14px; cursor: pointer; color: var(--muted); transition: all .2s; text-decoration: none; }
-.lang-btn.active { background: var(--black); color: var(--white); }
+.nav-dropdown { position: relative; display: inline-flex; align-items: center; }
+.nav-dropdown-arrow { margin-left: 5px; transition: transform .2s; }
+.nav-dropdown:hover .nav-dropdown-arrow, .nav-dropdown:focus-within .nav-dropdown-arrow { transform: rotate(180deg); }
+.nav-dropdown-menu {
+  position: absolute; top: 100%; right: 0; margin-top: 14px;
+  background: var(--white); border: 1px solid var(--border);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.1); min-width: 160px; padding: 8px;
+  opacity: 0; visibility: hidden; transform: translateY(6px);
+  transition: opacity .2s ease, transform .2s ease, visibility .2s;
+}
+.nav-dropdown:hover .nav-dropdown-menu, .nav-dropdown:focus-within .nav-dropdown-menu {
+  opacity: 1; visibility: visible; transform: translateY(0);
+}
+.nav-dropdown-item {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 10px 14px; font-size: 13px; font-weight: 500;
+  color: var(--ink); text-decoration: none; letter-spacing: 0.02em;
+  transition: background .15s;
+}
+.nav-dropdown-item:hover { background: var(--cream); }
+.nav-dropdown-item.active { color: var(--black); font-weight: 600; }
+.nav-dropdown-item.active::after { content: '✓'; font-size: 11px; color: var(--sand); }
+.lang-switcher-trigger { padding: 0; }
+.lang-switcher-trigger svg:first-child { display: block; }
 .hero { padding: 140px 56px 60px; background: var(--black); color: var(--white); }
 .hero-inner { max-width: 1240px; margin: 0 auto; }
 .hero-breadcrumb { font-size: 11px; font-weight: 500; letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); margin-bottom: 20px; display: flex; align-items: center; gap: 8px; }
@@ -104,9 +125,14 @@ footer { background: #000; border-top: 1px solid rgba(255,255,255,0.08); padding
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 8H3M7 4l-4 4 4 4"/></svg>
       Portable baptistry
     </a>
-    <div class="lang-toggle">
-      <a class="lang-btn" href="/blog/fr/vie-d-eglise/">FR</a>
-      <a class="lang-btn active" href="/blog/en/church-life/">EN</a>
+    <div class="nav-dropdown">
+      <a href="javascript:void(0)" class="nav-back lang-switcher-trigger" aria-label="Change language"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><line x1="3" y1="12" x2="21" y2="12"></line><path d="M12 3c2.8 2.6 4.3 5.8 4.3 9s-1.5 6.4-4.3 9c-2.8-2.6-4.3-5.8-4.3-9s1.5-6.4 4.3-9z"></path></svg><svg class="nav-dropdown-arrow" width="10" height="10" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg></a>
+      <div class="nav-dropdown-menu">
+        <a class="nav-dropdown-item" href="/blog/fr/vie-d-eglise/">Français</a>
+        <a class="nav-dropdown-item active" href="/blog/en/church-life/">English</a>
+        <a class="nav-dropdown-item" href="/de/taufbecken-mobil/">Deutsch</a>
+        <a class="nav-dropdown-item" href="/es/bautisterio-portatil/">Español</a>
+      </div>
     </div>
   </div>
 </nav>
