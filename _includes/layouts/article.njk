@@ -1,6 +1,6 @@
 {% set articleAuthor = "Julie M." %}
 <!DOCTYPE html>
-<html lang="{% if lang == 'en' %}en{% else %}fr{% endif %}">
+<html lang="{% if lang == 'en' %}en{% elif lang == 'de' %}de{% elif lang == 'es' %}es{% else %}fr{% endif %}">
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SF9XF8JQZK"></script>
@@ -280,7 +280,7 @@ footer {
 </head>
 <body>
 
-{% set langLinks = [{code: "fr", url: "/blog/?lang=fr"}, {code: "en", url: "/blog/?lang=en"}, {code: "de", url: "/de/"}, {code: "es", url: "/es/"}] %}
+{% set langLinks = [{code: "fr", url: "/blog/?lang=fr"}, {code: "en", url: "/blog/?lang=en"}, {code: "de", url: "/blog/?lang=de"}, {code: "es", url: "/blog/?lang=es"}] %}
 <nav>
   <div class="nav-brand">
     <a href="/"><img src="/logo-kollder.png" alt="Kollder"></a>
@@ -363,7 +363,7 @@ footer {
   <div class="article-hero-inner">
     <p class="article-cat">{{ category }}</p>
     <h1>{{ title }}</h1>
-    <p class="article-byline">{% if lang == 'en' %}By {{ articleAuthor }}{% else %}Par {{ articleAuthor }}{% endif %}</p>
+    <p class="article-byline">{% if lang == 'en' %}By {{ articleAuthor }}{% elif lang == 'de' %}Von {{ articleAuthor }}{% elif lang == 'es' %}Por {{ articleAuthor }}{% else %}Par {{ articleAuthor }}{% endif %}</p>
     <p class="article-date">{{ date | dateFormat }}</p>
   </div>
 </section>
@@ -379,9 +379,9 @@ footer {
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
     {% else %}
-    <p><strong>{% if lang == 'en' %}Kollder is the emergency cooling tub built for stability, folds flat for transport, and fits 2 people at once.{% else %}Kollder est la baignoire de refroidissement d'urgence stable, entièrement pliable, conçue pour accueillir 2 personnes à la fois.{% endif %}</strong></p>
-    <a href="/#contact">
-      {% if lang == 'en' %}Request a quote{% else %}Obtenir un devis{% endif %}
+    <p><strong>{% if lang == 'en' %}Kollder is the emergency cooling tub built for stability, folds flat for transport, and fits 2 people at once.{% elif lang == 'de' %}Kollder ist die Notfall-Kühlwanne für Stabilität, faltbar für den Transport und mit Platz für 2 Personen gleichzeitig.{% elif lang == 'es' %}Kollder es la bañera de enfriamiento de emergencia diseñada para la estabilidad, se pliega para el transporte y tiene capacidad para 2 personas a la vez.{% else %}Kollder est la baignoire de refroidissement d'urgence stable, entièrement pliable, conçue pour accueillir 2 personnes à la fois.{% endif %}</strong></p>
+    <a href="{% if lang == 'de' %}/de/#contact{% elif lang == 'es' %}/es/#contact{% elif lang == 'en' %}/en/#contact{% else %}/#contact{% endif %}">
+      {% if lang == 'en' %}Request a quote{% elif lang == 'de' %}Angebot anfordern{% elif lang == 'es' %}Solicitar presupuesto{% else %}Obtenir un devis{% endif %}
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
     {% endif %}

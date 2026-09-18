@@ -28,6 +28,16 @@ module.exports = function(eleventyConfig) {
       .filter(item => item.data.published !== false)
       .sort((a, b) => b.date - a.date);
   });
+  eleventyConfig.addCollection("blog_de", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/de/*.md")
+      .filter(item => item.data.published !== false)
+      .sort((a, b) => b.date - a.date);
+  });
+  eleventyConfig.addCollection("blog_es", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/es/*.md")
+      .filter(item => item.data.published !== false)
+      .sort((a, b) => b.date - a.date);
+  });
 
   // "Vie d'église" / "Church Life" is a standalone vertical: its articles are
   // excluded from the main /blog/ feed and only surfaced on their own
@@ -43,6 +53,18 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.addCollection("blog_en_public", function(collectionApi) {
     return collectionApi.getFilteredByGlob("blog/en/*.md")
+      .filter(item => item.data.published !== false)
+      .filter(item => CHURCH_CATEGORIES.indexOf(item.data.category) === -1)
+      .sort((a, b) => b.date - a.date);
+  });
+  eleventyConfig.addCollection("blog_de_public", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/de/*.md")
+      .filter(item => item.data.published !== false)
+      .filter(item => CHURCH_CATEGORIES.indexOf(item.data.category) === -1)
+      .sort((a, b) => b.date - a.date);
+  });
+  eleventyConfig.addCollection("blog_es_public", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/es/*.md")
       .filter(item => item.data.published !== false)
       .filter(item => CHURCH_CATEGORIES.indexOf(item.data.category) === -1)
       .sort((a, b) => b.date - a.date);
@@ -129,6 +151,16 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.addFilter("dateFormatEN", function(date) {
     return new Date(date).toLocaleDateString('en-GB', {
+      year: 'numeric', month: 'long', day: 'numeric'
+    });
+  });
+  eleventyConfig.addFilter("dateFormatDE", function(date) {
+    return new Date(date).toLocaleDateString('de-DE', {
+      year: 'numeric', month: 'long', day: 'numeric'
+    });
+  });
+  eleventyConfig.addFilter("dateFormatES", function(date) {
+    return new Date(date).toLocaleDateString('es-ES', {
       year: 'numeric', month: 'long', day: 'numeric'
     });
   });

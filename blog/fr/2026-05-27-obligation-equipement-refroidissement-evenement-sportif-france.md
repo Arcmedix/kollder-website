@@ -2,13 +2,13 @@
 title: "Obligation d'équipement de refroidissement lors d'un événement sportif en France : ce que dit la loi"
 date: 2026-05-27
 description: "Quelles sont les obligations légales des organisateurs d'événements sportifs en matière d'équipement de refroidissement d'urgence en France ? Décret 2025-482, consensus IOC et responsabilité civile."
-category: "Réglementation"
+category: "Événements sportifs"
 layout: layouts/article.njk
 lang: fr
 published: true
 ---
 
-Après le décès d'une participante à l'Hyrox de Lyon en mai 2026, la question des obligations légales des organisateurs d'événements sportifs en matière d'équipement de refroidissement d'urgence se pose avec une acuité nouvelle. Voici ce que disent les textes — et ce que cela implique concrètement pour les organisateurs.
+Après le décès d'une participante à l'Hyrox de Lyon en mai 2026, la question des obligations légales des organisateurs d'événements sportifs en matière d'équipement de refroidissement d'urgence se pose avec une acuité nouvelle. Voici ce que disent les textes, et ce que cela implique concrètement pour les organisateurs.
 
 ## Le cadre juridique en France
 
@@ -73,6 +73,13 @@ Formez votre équipe médicale au protocole Cool First Transport Second — disp
 Conservez la trace de vos mesures préventives : liste du matériel déployé, formation des équipes, consultation météo. Ces documents constituent votre preuve de diligence en cas de mise en cause.
 
 Kollder accompagne les organisateurs d'événements sportifs dans la mise en conformité de leur dispositif médical. Pour un devis ou une démonstration : [kollder.com/#contact](https://kollder.com/#contact)
+
+## Pour aller plus loin
+
+- [Baignoire de refroidissement pour événements sportifs : guide organisateurs](https://kollder.com/blog/fr/2026-05-27-baignoire-refroidissement-evenement-sportif-organisateurs/)
+- [Poste de refroidissement pour événements sportifs : guide complet](https://kollder.com/blog/fr/2026-06-25-poste-refroidissement-evenements-sportifs-guide/)
+- [Cool First, Transport Second : le protocole complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
+- [Solutions Kollder pour les événements sportifs](https://kollder.com/fr/assistance-medicale-evenements/)
 
 ---
 

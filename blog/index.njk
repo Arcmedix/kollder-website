@@ -287,7 +287,7 @@ footer {
       </div>
     </div>
     <a href="/blog/?lang=fr" class="nav-link nav-link-active" id="nav-blog-link">
-      Ressources<span class="nav-badge" id="nav-article-count"></span>
+      <span id="nav-blog-label">Ressources</span><span class="nav-badge" id="nav-article-count"></span>
     </a>
     <a href="/fr/monitor/" class="nav-link" id="nav-monitor-link" style="display:inline-flex;align-items:center;gap:5px;opacity:.85;"><span style="width:7px;height:7px;border-radius:50%;background:#e85c3a;display:inline-block;animation:pulse-dot 2s ease-in-out infinite;" id="nav-monitor-dot"></span><span id="nav-monitor-label">Moniteur EHS</span></a>
     <a href="/#contact" class="nav-devis" id="nav-devis-link">Obtenir un devis</a>
@@ -296,8 +296,8 @@ footer {
       <div class="nav-dropdown-menu lang-switcher-menu">
         <a class="nav-dropdown-item" id="btn-fr" href="/blog/?lang=fr">{{ nav.langNames.fr }}</a>
         <a class="nav-dropdown-item" id="btn-en" href="/blog/?lang=en">{{ nav.langNames.en }}</a>
-        <a class="nav-dropdown-item" href="/de/">{{ nav.langNames.de }}</a>
-        <a class="nav-dropdown-item" href="/es/">{{ nav.langNames.es }}</a>
+        <a class="nav-dropdown-item" id="btn-de" href="/blog/?lang=de">{{ nav.langNames.de }}</a>
+        <a class="nav-dropdown-item" id="btn-es" href="/blog/?lang=es">{{ nav.langNames.es }}</a>
       </div>
     </div>
   </div>
@@ -346,8 +346,8 @@ footer {
     <div class="nav-overlay-sublinks">
       <a class="nav-overlay-sublink" id="ov-fr" href="/blog/?lang=fr"><span>{{ nav.langNames.fr }}</span></a>
       <a class="nav-overlay-sublink" id="ov-en" href="/blog/?lang=en"><span>{{ nav.langNames.en }}</span></a>
-      <a class="nav-overlay-sublink" href="/de/"><span>{{ nav.langNames.de }}</span></a>
-      <a class="nav-overlay-sublink" href="/es/"><span>{{ nav.langNames.es }}</span></a>
+      <a class="nav-overlay-sublink" id="ov-de" href="/blog/?lang=de"><span>{{ nav.langNames.de }}</span></a>
+      <a class="nav-overlay-sublink" id="ov-es" href="/blog/?lang=es"><span>{{ nav.langNames.es }}</span></a>
     </div>
   </div>
   <a class="nav-overlay-cta" id="ov-cta">
@@ -380,6 +380,14 @@ footer {
       {% for cat in collections.categories %}
       <a href="/blog/en/category/{{ cat.slug_en }}/" class="cat-pill">{{ cat.label_en }}</a>
       {% endfor %}
+    </div>
+
+    <div id="cat-tabs-de" style="display:none;">
+      <a href="/blog/" class="cat-pill all" id="pill-all-de">Alle</a>
+    </div>
+
+    <div id="cat-tabs-es" style="display:none;">
+      <a href="/blog/" class="cat-pill all" id="pill-all-es">Todos</a>
     </div>
 
   </div>
@@ -432,6 +440,50 @@ footer {
       {% endif %}
     </div>
 
+    <div id="de-articles" style="display:none;">
+      {% set dePosts = collections.blog_de_public %}
+      {% if dePosts.length %}
+        {% for post in dePosts %}
+        <a href="{{ post.url }}" class="article-card">
+          <div class="article-body-inner">
+            <p class="article-cat">{{ post.data.category }}</p>
+            <h2 class="article-title">{{ post.data.title }}</h2>
+            <p class="article-desc">{{ post.data.description }}</p>
+            <p class="article-date">{{ post.date | dateFormatDE }}</p>
+            <span class="article-read">
+              Artikel lesen
+              <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+            </span>
+          </div>
+        </a>
+        {% endfor %}
+      {% else %}
+        <div class="empty-state"><strong>Artikel folgen in Kürze.</strong><span>Schauen Sie bald wieder vorbei.</span></div>
+      {% endif %}
+    </div>
+
+    <div id="es-articles" style="display:none;">
+      {% set esPosts = collections.blog_es_public %}
+      {% if esPosts.length %}
+        {% for post in esPosts %}
+        <a href="{{ post.url }}" class="article-card">
+          <div class="article-body-inner">
+            <p class="article-cat">{{ post.data.category }}</p>
+            <h2 class="article-title">{{ post.data.title }}</h2>
+            <p class="article-desc">{{ post.data.description }}</p>
+            <p class="article-date">{{ post.date | dateFormatES }}</p>
+            <span class="article-read">
+              Leer el artículo
+              <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+            </span>
+          </div>
+        </a>
+        {% endfor %}
+      {% else %}
+        <div class="empty-state"><strong>Artículos próximamente.</strong><span>Vuelve pronto.</span></div>
+      {% endif %}
+    </div>
+
   </div>
 </div>
 
@@ -443,84 +495,148 @@ footer {
 </footer>
 
 <script>
+const LANGS = ['fr', 'en', 'de', 'es'];
+const T = {
+  fr: {
+    home: 'Accueil', homeUrl: '/?lang=fr',
+    distrib: 'Distributeurs', distribUrl: '/fr/distributeurs/',
+    secteurs: 'Secteurs',
+    sdis: 'SDIS / Pompiers', sdisUrl: '/fr/sdis-pompiers/',
+    samu: 'SAMU / SMUR', samuUrl: '/fr/services-urgence-hopitaux/',
+    civile: 'Protection civile', civileUrl: '/fr/protection-civile/',
+    event: 'Événementiel sportif', eventUrl: '/fr/assistance-medicale-evenements/',
+    defense: 'Défense & Militaire', defenseUrl: '/fr/defense-militaire/',
+    ehs: 'Sécurité au travail', ehsUrl: '/fr/securite-travail/',
+    blogUrl: '/blog/?lang=fr', resources: 'Ressources', devis: 'Obtenir un devis', devisUrl: '/#contact',
+    closeMenu: 'Fermer le menu', monitorLabel: 'Moniteur EHS', monitorUrl: '/fr/monitor/',
+    heroLabel: 'Ressources & Expertise',
+    heroTitle: 'Tout ce que vous devez savoir sur <em>le coup de chaleur.</em>',
+    heroSub: 'Protocoles médicaux, retours terrain, actualités réglementaires. Par des experts pour des professionnels.'
+  },
+  en: {
+    home: 'Home', homeUrl: '/en/',
+    distrib: 'Partners', distribUrl: '/en/partners/',
+    secteurs: 'Who We Serve',
+    sdis: 'Fire & Rescue', sdisUrl: '/en/fire-rescue/',
+    samu: 'EMS & Emergency Depts', samuUrl: '/en/emergency-medical-services/',
+    civile: 'Civil Protection', civileUrl: '/en/civil-protection/',
+    event: 'Event Medical', eventUrl: '/en/event-medical-support/',
+    defense: 'Defense & Military', defenseUrl: '/en/defense-military/',
+    ehs: 'Occupational Safety', ehsUrl: '/en/occupational-safety/',
+    blogUrl: '/blog/?lang=en', resources: 'Resources', devis: 'Get a quote', devisUrl: '/en/#contact',
+    closeMenu: 'Close menu', monitorLabel: 'EHS Monitor', monitorUrl: '/en/monitor/',
+    heroLabel: 'Resources & Expertise',
+    heroTitle: 'Everything you need to know about <em>heat stroke.</em>',
+    heroSub: 'Medical protocols, field reports, regulatory updates. By experts, for professionals.'
+  },
+  de: {
+    home: 'Startseite', homeUrl: '/de/',
+    distrib: 'Vertriebspartner', distribUrl: '/de/vertriebspartner/',
+    secteurs: 'Einsatzbereiche',
+    sdis: 'Feuerwehr & Rettungsdienst', sdisUrl: '/de/feuerwehr-rettungsdienst/',
+    samu: 'Rettungsdienst & Notaufnahme', samuUrl: '/de/rettungsdienst-notaufnahme/',
+    civile: 'Zivilschutz', civileUrl: '/de/zivilschutz/',
+    event: 'Sportveranstaltungen', eventUrl: '/de/sportveranstaltungen-medizin/',
+    defense: 'Verteidigung & Militär', defenseUrl: '/de/verteidigung-militaer/',
+    ehs: 'Arbeitssicherheit', ehsUrl: '/de/arbeitssicherheit/',
+    blogUrl: '/blog/?lang=de', resources: 'Ressourcen', devis: 'Angebot anfordern', devisUrl: '/de/#contact',
+    closeMenu: 'Menü schließen', monitorLabel: 'EHS-Monitor', monitorUrl: '/de/monitor/',
+    heroLabel: 'Ressourcen & Expertise',
+    heroTitle: 'Alles, was Sie über <em>Hitzschlag wissen müssen.</em>',
+    heroSub: 'Medizinische Protokolle, Erfahrungen aus der Praxis, regulatorische Updates. Von Experten für Fachkräfte.'
+  },
+  es: {
+    home: 'Inicio', homeUrl: '/es/',
+    distrib: 'Distribuidores', distribUrl: '/es/distribuidores/',
+    secteurs: 'A quién servimos',
+    sdis: 'Bomberos y Rescate', sdisUrl: '/es/bomberos-rescate/',
+    samu: 'Emergencias Sanitarias', samuUrl: '/es/servicios-emergencias-sanitarias/',
+    civile: 'Protección Civil', civileUrl: '/es/proteccion-civil/',
+    event: 'Eventos Deportivos', eventUrl: '/es/asistencia-medica-eventos/',
+    defense: 'Defensa y Militar', defenseUrl: '/es/defensa-militar/',
+    ehs: 'Seguridad Laboral', ehsUrl: '/es/seguridad-laboral/',
+    blogUrl: '/blog/?lang=es', resources: 'Recursos', devis: 'Solicitar presupuesto', devisUrl: '/es/#contact',
+    closeMenu: 'Cerrar menú', monitorLabel: 'Monitor EHS', monitorUrl: '/es/monitor/',
+    heroLabel: 'Recursos y Experiencia',
+    heroTitle: 'Todo lo que necesita saber sobre el <em>golpe de calor.</em>',
+    heroSub: 'Protocolos médicos, experiencia de campo, novedades normativas. Por expertos, para profesionales.'
+  }
+};
+
 const _urlLang = new URLSearchParams(window.location.search).get('lang');
-const _initLang = _urlLang || localStorage.getItem('kollder_lang') || 'fr';
-if (_initLang === 'en') setLang('en');
-else setLang('fr');
+const _initLang = LANGS.indexOf(_urlLang) !== -1 ? _urlLang : (LANGS.indexOf(localStorage.getItem('kollder_lang')) !== -1 ? localStorage.getItem('kollder_lang') : 'fr');
+setLang(_initLang);
 
 function setLang(l) {
+  if (LANGS.indexOf(l) === -1) l = 'fr';
   localStorage.setItem('kollder_lang', l);
-  var isFr = l === 'fr';
-  document.getElementById('btn-fr').classList.toggle('active', isFr);
-  document.getElementById('btn-en').classList.toggle('active', !isFr);
-  document.getElementById('fr-articles').style.display = isFr ? 'contents' : 'none';
-  document.getElementById('en-articles').style.display = !isFr ? 'contents' : 'none';
-  document.getElementById('cat-tabs-fr').style.display = isFr ? 'contents' : 'none';
-  document.getElementById('cat-tabs-en').style.display = !isFr ? 'contents' : 'none';
+  var t = T[l];
+
+  LANGS.forEach(function(code) {
+    var active = code === l;
+    document.getElementById('btn-' + code).classList.toggle('active', active);
+    document.getElementById(code + '-articles').style.display = active ? 'contents' : 'none';
+    document.getElementById('cat-tabs-' + code).style.display = active ? 'contents' : 'none';
+    var ov = document.getElementById('ov-' + code);
+    if (ov) ov.className = active ? 'active' : '';
+  });
 
   // Desktop nav
-  document.getElementById('nav-logo-link').href = isFr ? '/?lang=fr' : '/en/';
-  document.getElementById('nav-home-link').href = isFr ? '/?lang=fr' : '/en/';
-  document.getElementById('nav-home-link').textContent = isFr ? 'Accueil' : 'Home';
-  document.getElementById('nav-distrib-link').href = isFr ? '/fr/distributeurs/' : '/en/partners/';
-  document.getElementById('nav-distrib-link').textContent = isFr ? 'Distributeurs' : 'Partners';
-  document.getElementById('nav-secteurs-link').firstChild.textContent = isFr ? 'Secteurs' : 'Who We Serve';
-  document.getElementById('nav-sdis-link').href = isFr ? '/fr/sdis-pompiers/' : '/en/fire-rescue/';
-  document.getElementById('nav-sdis-link').textContent = isFr ? 'SDIS / Pompiers' : 'Fire & Rescue';
-  document.getElementById('nav-samu-link').href = isFr ? '/fr/services-urgence-hopitaux/' : '/en/emergency-medical-services/';
-  document.getElementById('nav-samu-link').textContent = isFr ? 'SAMU / SMUR' : 'EMS & Emergency Depts';
-  document.getElementById('nav-civile-link').href = isFr ? '/fr/protection-civile/' : '/en/civil-protection/';
-  document.getElementById('nav-civile-link').textContent = isFr ? 'Protection civile' : 'Civil Protection';
-  document.getElementById('nav-event-link').href = isFr ? '/fr/assistance-medicale-evenements/' : '/en/event-medical-support/';
-  document.getElementById('nav-event-link').textContent = isFr ? 'Événementiel sportif' : 'Event Medical';
-  document.getElementById('nav-defense-link').href = isFr ? '/fr/defense-militaire/' : '/en/defense-military/';
-  document.getElementById('nav-defense-link').textContent = isFr ? 'Défense & Militaire' : 'Defense & Military';
-  document.getElementById('nav-ehs-link').href = isFr ? '/fr/securite-travail/' : '/en/occupational-safety/';
-  document.getElementById('nav-ehs-link').textContent = isFr ? 'Sécurité au travail' : 'Occupational Safety';
-  document.getElementById('nav-blog-link').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
-  document.getElementById('nav-devis-link').href = isFr ? '/#contact' : '/en/#contact';
-  document.getElementById('nav-devis-link').textContent = isFr ? 'Obtenir un devis' : 'Get a quote';
+  document.getElementById('nav-logo-link').href = t.homeUrl;
+  document.getElementById('nav-home-link').href = t.homeUrl;
+  document.getElementById('nav-home-link').textContent = t.home;
+  document.getElementById('nav-distrib-link').href = t.distribUrl;
+  document.getElementById('nav-distrib-link').textContent = t.distrib;
+  document.getElementById('nav-secteurs-link').firstChild.textContent = t.secteurs;
+  document.getElementById('nav-sdis-link').href = t.sdisUrl;
+  document.getElementById('nav-sdis-link').textContent = t.sdis;
+  document.getElementById('nav-samu-link').href = t.samuUrl;
+  document.getElementById('nav-samu-link').textContent = t.samu;
+  document.getElementById('nav-civile-link').href = t.civileUrl;
+  document.getElementById('nav-civile-link').textContent = t.civile;
+  document.getElementById('nav-event-link').href = t.eventUrl;
+  document.getElementById('nav-event-link').textContent = t.event;
+  document.getElementById('nav-defense-link').href = t.defenseUrl;
+  document.getElementById('nav-defense-link').textContent = t.defense;
+  document.getElementById('nav-ehs-link').href = t.ehsUrl;
+  document.getElementById('nav-ehs-link').textContent = t.ehs;
+  document.getElementById('nav-blog-link').href = t.blogUrl;
+  document.getElementById('nav-blog-label').textContent = t.resources;
+  document.getElementById('nav-devis-link').href = t.devisUrl;
+  document.getElementById('nav-devis-link').textContent = t.devis;
 
   // Mobile overlay
-  document.getElementById('ov-home').href = isFr ? '/?lang=fr' : '/en/';
-  document.getElementById('ov-home-label').textContent = isFr ? 'Accueil' : 'Home';
-  document.getElementById('ov-distrib').href = isFr ? '/fr/distributeurs/' : '/en/partners/';
-  document.getElementById('ov-distrib-label').textContent = isFr ? 'Distributeurs' : 'Partners';
-  document.getElementById('ov-secteurs-label').textContent = isFr ? 'Secteurs' : 'Who We Serve';
-  document.getElementById('ov-sdis').href = isFr ? '/fr/sdis-pompiers/' : '/en/fire-rescue/';
-  document.getElementById('ov-sdis-label').textContent = isFr ? 'SDIS / Pompiers' : 'Fire & Rescue';
-  document.getElementById('ov-samu').href = isFr ? '/fr/services-urgence-hopitaux/' : '/en/emergency-medical-services/';
-  document.getElementById('ov-samu-label').textContent = isFr ? 'SAMU / SMUR' : 'EMS & Emergency Depts';
-  document.getElementById('ov-civile').href = isFr ? '/fr/protection-civile/' : '/en/civil-protection/';
-  document.getElementById('ov-civile-label').textContent = isFr ? 'Protection civile' : 'Civil Protection';
-  document.getElementById('ov-event').href = isFr ? '/fr/assistance-medicale-evenements/' : '/en/event-medical-support/';
-  document.getElementById('ov-event-label').textContent = isFr ? 'Événementiel sportif' : 'Event Medical';
-  document.getElementById('ov-defense').href = isFr ? '/fr/defense-militaire/' : '/en/defense-military/';
-  document.getElementById('ov-defense-label').textContent = isFr ? 'Défense & Militaire' : 'Defense & Military';
-  document.getElementById('ov-ehs').href = isFr ? '/fr/securite-travail/' : '/en/occupational-safety/';
-  document.getElementById('ov-ehs-label').textContent = isFr ? 'Sécurité au travail' : 'Occupational Safety';
-  document.getElementById('ov-close-btn').setAttribute('aria-label', isFr ? 'Fermer le menu' : 'Close menu');
-  document.getElementById('ov-blog').href = isFr ? '/blog/?lang=fr' : '/blog/?lang=en';
-  document.getElementById('ov-blog-label').textContent = isFr ? 'Ressources' : 'Resources';
-  document.getElementById('nav-monitor-link').href = isFr ? '/fr/monitor/' : '/en/monitor/';
-  document.getElementById('nav-monitor-label').textContent = isFr ? 'Moniteur EHS' : 'EHS Monitor';
-  document.getElementById('ov-monitor').href = isFr ? '/fr/monitor/' : '/en/monitor/';
-  document.getElementById('ov-monitor-label').innerHTML = (isFr ? 'Moniteur EHS' : 'EHS Monitor') + ' <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span>';
-  document.getElementById('ov-cta').href = isFr ? '/#contact' : '/en/#contact';
-  document.getElementById('ov-cta-label').textContent = isFr ? 'Obtenir un devis' : 'Get a quote';
-  document.getElementById('ov-fr').className = isFr ? 'active' : '';
-  document.getElementById('ov-en').className = !isFr ? 'active' : '';
+  document.getElementById('ov-home').href = t.homeUrl;
+  document.getElementById('ov-home-label').textContent = t.home;
+  document.getElementById('ov-distrib').href = t.distribUrl;
+  document.getElementById('ov-distrib-label').textContent = t.distrib;
+  document.getElementById('ov-secteurs-label').textContent = t.secteurs;
+  document.getElementById('ov-sdis').href = t.sdisUrl;
+  document.getElementById('ov-sdis-label').textContent = t.sdis;
+  document.getElementById('ov-samu').href = t.samuUrl;
+  document.getElementById('ov-samu-label').textContent = t.samu;
+  document.getElementById('ov-civile').href = t.civileUrl;
+  document.getElementById('ov-civile-label').textContent = t.civile;
+  document.getElementById('ov-event').href = t.eventUrl;
+  document.getElementById('ov-event-label').textContent = t.event;
+  document.getElementById('ov-defense').href = t.defenseUrl;
+  document.getElementById('ov-defense-label').textContent = t.defense;
+  document.getElementById('ov-ehs').href = t.ehsUrl;
+  document.getElementById('ov-ehs-label').textContent = t.ehs;
+  document.getElementById('ov-close-btn').setAttribute('aria-label', t.closeMenu);
+  document.getElementById('ov-blog').href = t.blogUrl;
+  document.getElementById('ov-blog-label').textContent = t.resources;
+  document.getElementById('nav-monitor-link').href = t.monitorUrl;
+  document.getElementById('nav-monitor-label').textContent = t.monitorLabel;
+  document.getElementById('ov-monitor').href = t.monitorUrl;
+  document.getElementById('ov-monitor-label').innerHTML = t.monitorLabel + ' <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span>';
+  document.getElementById('ov-cta').href = t.devisUrl;
+  document.getElementById('ov-cta-label').textContent = t.devis;
 
   // Hero text
-  if (isFr) {
-    document.getElementById('hero-label').textContent = 'Ressources & Expertise';
-    document.getElementById('hero-title').innerHTML = 'Tout ce que vous devez savoir sur <em>le coup de chaleur.</em>';
-    document.getElementById('hero-sub').textContent = 'Protocoles médicaux, retours terrain, actualités réglementaires. Par des experts pour des professionnels.';
-  } else {
-    document.getElementById('hero-label').textContent = 'Resources & Expertise';
-    document.getElementById('hero-title').innerHTML = 'Everything you need to know about <em>heat stroke.</em>';
-    document.getElementById('hero-sub').textContent = 'Medical protocols, field reports, regulatory updates. By experts, for professionals.';
-  }
+  document.getElementById('hero-label').textContent = t.heroLabel;
+  document.getElementById('hero-title').innerHTML = t.heroTitle;
+  document.getElementById('hero-sub').textContent = t.heroSub;
 }
 
 // Article count badge

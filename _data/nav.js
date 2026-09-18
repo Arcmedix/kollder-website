@@ -1,5 +1,5 @@
 // Shared site-chrome strings (nav, mobile overlay, language switcher) for all 4 languages.
-// Blog/resources has no DE/ES content yet, so `resources` is null for those two —
+// `resources`/`resourcesUrl` is null for a language until that language has blog content —
 // templates should skip rendering the resources link when it's null.
 module.exports = {
   langNames: { fr: "Français", en: "English", de: "Deutsch", es: "Español" },
@@ -51,7 +51,7 @@ module.exports = {
       { label: "Verteidigung & Militär", url: "/de/verteidigung-militaer/" },
       { label: "Arbeitssicherheit", url: "/de/arbeitssicherheit/" }
     ],
-    resources: null, resourcesUrl: null,
+    resources: "Ressourcen", resourcesUrl: "/blog/?lang=de",
     monitor: "EHS-Monitor", monitorUrl: "/de/monitor/",
     quote: "Angebot anfordern", quoteUrl: "/de/#contact",
     closeMenu: "Menü schließen",
@@ -69,7 +69,7 @@ module.exports = {
       { label: "Defensa y Militar", url: "/es/defensa-militar/" },
       { label: "Seguridad Laboral", url: "/es/seguridad-laboral/" }
     ],
-    resources: null, resourcesUrl: null,
+    resources: "Recursos", resourcesUrl: "/blog/?lang=es",
     monitor: "Monitor EHS", monitorUrl: "/es/monitor/",
     quote: "Solicitar presupuesto", quoteUrl: "/es/#contact",
     closeMenu: "Cerrar menú",

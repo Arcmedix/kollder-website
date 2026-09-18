@@ -450,4 +450,26 @@ permalink: /sitemap.xml
   </url>
   {% endfor %}
 
+  <!-- DE blog articles -->
+  {% for post in collections.blog_de %}
+  <url>
+    <loc>https://kollder.com{{ post.url }}</loc>
+    <lastmod>{{ post.date | dateFormatISO }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://kollder.com{{ post.url }}"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {% endfor %}
+
+  <!-- ES blog articles -->
+  {% for post in collections.blog_es %}
+  <url>
+    <loc>https://kollder.com{{ post.url }}</loc>
+    <lastmod>{{ post.date | dateFormatISO }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kollder.com{{ post.url }}"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {% endfor %}
+
 </urlset>
