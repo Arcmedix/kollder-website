@@ -202,6 +202,9 @@ nav {
 }
 .cat-pill:hover { color: rgba(250,249,247,0.7); }
 .cat-pill.all { color: rgba(250,249,247,0.7); border-bottom-color: var(--white); }
+/* DE/ES tabs filter the list in place (no category pages yet) */
+button.cat-pill { background: none; border-top: 0; border-left: 0; border-right: 0; font-family: inherit; cursor: pointer; }
+.cat-pill.active { color: rgba(250,249,247,0.9); border-bottom-color: var(--white); }
 
 /* Grid */
 .blog-section { padding: 48px 56px 80px; max-width: 1240px; margin: 0 auto; }
@@ -383,11 +386,17 @@ footer {
     </div>
 
     <div id="cat-tabs-de" style="display:none;">
-      <a href="/blog/" class="cat-pill all" id="pill-all-de">Alle</a>
+      <button type="button" class="cat-pill active" id="pill-all-de" data-lang="de" data-filter="">Alle</button>
+      {% for cat in collections.blog_de_public | uniqueCategories %}
+      <button type="button" class="cat-pill" data-lang="de" data-filter="{{ cat }}">{{ cat }}</button>
+      {% endfor %}
     </div>
 
     <div id="cat-tabs-es" style="display:none;">
-      <a href="/blog/" class="cat-pill all" id="pill-all-es">Todos</a>
+      <button type="button" class="cat-pill active" id="pill-all-es" data-lang="es" data-filter="">Todos</button>
+      {% for cat in collections.blog_es_public | uniqueCategories %}
+      <button type="button" class="cat-pill" data-lang="es" data-filter="{{ cat }}">{{ cat }}</button>
+      {% endfor %}
     </div>
 
   </div>
@@ -444,7 +453,7 @@ footer {
       {% set dePosts = collections.blog_de_public %}
       {% if dePosts.length %}
         {% for post in dePosts %}
-        <a href="{{ post.url }}" class="article-card">
+        <a href="{{ post.url }}" class="article-card" data-cat="{{ post.data.category }}">
           <div class="article-body-inner">
             <p class="article-cat">{{ post.data.category }}</p>
             <h2 class="article-title">{{ post.data.title }}</h2>
@@ -466,7 +475,7 @@ footer {
       {% set esPosts = collections.blog_es_public %}
       {% if esPosts.length %}
         {% for post in esPosts %}
-        <a href="{{ post.url }}" class="article-card">
+        <a href="{{ post.url }}" class="article-card" data-cat="{{ post.data.category }}">
           <div class="article-body-inner">
             <p class="article-cat">{{ post.data.category }}</p>
             <h2 class="article-title">{{ post.data.title }}</h2>
@@ -638,6 +647,20 @@ function setLang(l) {
   document.getElementById('hero-title').innerHTML = t.heroTitle;
   document.getElementById('hero-sub').textContent = t.heroSub;
 }
+
+// DE/ES category tabs: filter the cards of the active language in place
+document.querySelectorAll('button.cat-pill[data-lang]').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var lang = btn.getAttribute('data-lang');
+    var filter = btn.getAttribute('data-filter');
+    document.querySelectorAll('#cat-tabs-' + lang + ' .cat-pill').forEach(function(p) {
+      p.classList.toggle('active', p === btn);
+    });
+    document.querySelectorAll('#' + lang + '-articles .article-card').forEach(function(card) {
+      card.style.display = (!filter || card.getAttribute('data-cat') === filter) ? '' : 'none';
+    });
+  });
+});
 
 // Article count badge
 fetch('/article-count.json').then(function(r){ return r.json(); }).then(function(d){

@@ -140,6 +140,11 @@ module.exports = function(eleventyConfig) {
     return CATEGORIES;
   });
 
+  // Unique category labels, in first-seen order, for the DE/ES blog filter tabs
+  eleventyConfig.addFilter("uniqueCategories", function(posts) {
+    return Array.from(new Set((posts || []).map(p => p.data.category).filter(Boolean)));
+  });
+
   // Date filters
   eleventyConfig.addFilter("dateFormat", function(date) {
     return new Date(date).toLocaleDateString('fr-FR', {
