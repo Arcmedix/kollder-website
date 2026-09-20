@@ -39,12 +39,15 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
-  // "Vie d'église" / "Church Life" is a standalone vertical: its articles are
-  // excluded from the main /blog/ feed and only surfaced on their own
-  // /blog/fr/vie-d-eglise/ and /blog/en/church-life/ pages.
+  // "Vie d'église" / "Church Life" / "Gemeindeleben" / "Vida de Iglesia" is a
+  // standalone vertical: its articles are excluded from the main /blog/ feed and
+  // only surfaced on their own /blog/fr/vie-d-eglise/, /blog/en/church-life/,
+  // /blog/de/gemeindeleben/ and /blog/es/vida-de-iglesia/ pages.
   const VIE_EGLISE = "Vie d'église";
   const CHURCH_LIFE = "Church Life";
-  const CHURCH_CATEGORIES = [VIE_EGLISE, CHURCH_LIFE];
+  const GEMEINDELEBEN = "Gemeindeleben";
+  const VIDA_IGLESIA = "Vida de Iglesia";
+  const CHURCH_CATEGORIES = [VIE_EGLISE, CHURCH_LIFE, GEMEINDELEBEN, VIDA_IGLESIA];
   eleventyConfig.addCollection("blog_fr_public", function(collectionApi) {
     return collectionApi.getFilteredByGlob("blog/fr/*.md")
       .filter(item => item.data.published !== false)
@@ -73,6 +76,18 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("blog/fr/*.md")
       .filter(item => item.data.published !== false)
       .filter(item => item.data.category === VIE_EGLISE)
+      .sort((a, b) => b.date - a.date);
+  });
+  eleventyConfig.addCollection("blog_gemeindeleben", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/de/*.md")
+      .filter(item => item.data.published !== false)
+      .filter(item => item.data.category === GEMEINDELEBEN)
+      .sort((a, b) => b.date - a.date);
+  });
+  eleventyConfig.addCollection("blog_vida_iglesia", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("blog/es/*.md")
+      .filter(item => item.data.published !== false)
+      .filter(item => item.data.category === VIDA_IGLESIA)
       .sort((a, b) => b.date - a.date);
   });
   eleventyConfig.addCollection("blog_church_life", function(collectionApi) {

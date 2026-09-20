@@ -372,10 +372,10 @@ footer {
   {{ content | safe }}
 
   <div class="article-cta">
-    {% if category == "Vie d'église" or category == "Church Life" %}
-    <p><strong>{% if lang == 'en' %}Kollder is the portable baptistry that sets up in under 2 minutes, anywhere.{% else %}Kollder est le baptistère portable qui s'installe en moins de 2 minutes, partout.{% endif %}</strong></p>
-    <a href="{% if lang == 'en' %}/en/portable-baptistry/#devis{% else %}/fr/baptistere-immersion/#devis{% endif %}">
-      {% if lang == 'en' %}Request a quote{% else %}Obtenir un devis{% endif %}
+    {% if category == "Vie d'église" or category == "Church Life" or category == "Gemeindeleben" or category == "Vida de Iglesia" %}
+    <p><strong>{% if lang == 'en' %}Kollder is the portable baptistry that sets up in under 2 minutes, anywhere.{% elif lang == 'de' %}Kollder ist das mobile Taufbecken, das sich in weniger als 2 Minuten aufbauen lässt, überall.{% elif lang == 'es' %}Kollder es el bautisterio portátil que se instala en menos de 2 minutos, en cualquier lugar.{% else %}Kollder est le baptistère portable qui s'installe en moins de 2 minutes, partout.{% endif %}</strong></p>
+    <a href="{% if lang == 'en' %}/en/portable-baptistry/#devis{% elif lang == 'de' %}/de/taufbecken-mobil/#angebot{% elif lang == 'es' %}/es/bautisterio-portatil/#presupuesto{% else %}/fr/baptistere-immersion/#devis{% endif %}">
+      {% if lang == 'en' %}Request a quote{% elif lang == 'de' %}Angebot anfordern{% elif lang == 'es' %}Solicitar presupuesto{% else %}Obtenir un devis{% endif %}
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
     {% else %}
