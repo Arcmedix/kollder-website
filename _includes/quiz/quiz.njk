@@ -275,7 +275,7 @@
   var TIER_KEYS = ['high', 'mid', 'low'];
   var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   var LETTERS = ['A', 'B', 'C', 'D'];
-  var i = 0, score = 0, answers = [], answered = false, unlocked = false;
+  var i = 0, score = 0, answers = [], answered = false, unlocked = false, started = false;
 
   function fmt(t, o) { return t.replace(/\{(\w+)\}/g, function (m, k) { return o[k]; }); }
   function chipText(n) {
@@ -333,6 +333,7 @@
   function answer(k) {
     if (answered) return;
     answered = true;
+    if (!started) { started = true; ga('quiz_start'); }
     var q = qs[i], ok = (k === q.answer);
     answers.push({ chosen: k, ok: ok });
     if (ok) score++;
@@ -366,6 +367,7 @@
   }
 
   function showLocked() {
+    ga('quiz_complete');
     $('kqBody').hidden = true;
     $('kqCount').textContent = '';
     setBar(N);
@@ -375,10 +377,15 @@
     $('kqLockedTitle').focus({ preventScroll: true });
   }
 
+  // GA4 events, same call pattern as pdf_lead_submit / quote_request_submit elsewhere on the site
+  function ga(name, extra) {
+    if (typeof gtag !== 'function') return;
+    var p = { form_location: 'heat_stroke_quiz' };
+    if (extra) { for (var k in extra) { p[k] = extra[k]; } }
+    gtag('event', name, p);
+  }
   function track() {
-    if (typeof gtag === 'function') {
-      gtag('event', 'quiz_lead_submit', { form_location: 'heat_stroke_quiz', quiz_score: score, quiz_total: N });
-    }
+    ga('quiz_lead_submit', { quiz_score: score, quiz_total: N });
   }
 
   function buildReport(idx) {
@@ -506,6 +513,7 @@
   }
 
   function printReport() {
+    ga('quiz_report_download');
     var prev = document.title;
     function restore() { document.title = prev; window.removeEventListener('afterprint', restore); }
     window.addEventListener('afterprint', restore);
@@ -514,7 +522,7 @@
   }
 
   function restart() {
-    i = 0; score = 0; answers = []; answered = false; unlocked = false;
+    i = 0; score = 0; answers = []; answered = false; unlocked = false; started = false;
     document.body.classList.remove('kq-unlocked');
     $('kqReport').textContent = '';
     $('kqGuide').removeAttribute('href');
@@ -537,6 +545,7 @@
   $('kqNext').addEventListener('click', next);
   $('kqGate').addEventListener('submit', onGateSubmit);
   $('kqReportBtn').addEventListener('click', printReport);
+  $('kqGuide').addEventListener('click', function () { ga('quiz_guide_download'); });
   $('kqRetake').addEventListener('click', restart);
   $('kqChip').textContent = chipText(0);
   render();
