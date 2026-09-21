@@ -117,7 +117,7 @@ module.exports = {
         ],
         answer: 1,
         fact: "C'est l'altération de l'état mental (confusion, désorientation, agressivité) qui fait basculer d'un épuisement par la chaleur vers un coup de chaleur. La température de la peau seule ne permet pas de trancher : le diagnostic associe ce signe neurologique à une température centrale supérieure à 40°C.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023"
       },
       {
         type: "tf",
@@ -137,7 +137,7 @@ module.exports = {
         ],
         answer: 2,
         fact: "L'ACSM désigne la thermométrie rectale comme la référence pour le diagnostic et le suivi du refroidissement sur le terrain. Les mesures axillaire ou à l'oreille ne sont pas suffisantes.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023"
       },
       {
         type: "mcq",
@@ -177,7 +177,7 @@ module.exports = {
         q: "Une victime qui transpire encore abondamment peut malgré tout être en coup de chaleur d'effort.",
         answer: 0,
         fact: "La transpiration peut être présente ou absente lors d'un coup de chaleur d'effort. Le critère déterminant est l'association d'une température centrale élevée et de signes neurologiques (confusion, troubles de l'équilibre, agitation), pas l'absence de sueur.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023"
       },
       {
         type: "mcq",
@@ -190,11 +190,11 @@ module.exports = {
         ],
         answer: 1,
         fact: "Cool First, Transport Second : refroidir immédiatement par immersion en eau froide, en alertant le 15 en parallèle. La mise à l'ombre, les serviettes humides et les poches de glace (environ 0,03°C par minute) ne suffisent pas à traiter un coup de chaleur avéré, et un transport sans refroidissement prolonge l'exposition de l'organisme à plus de 40°C.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 ; SFAR"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023 ; SFAR"
       },
       {
         type: "mcq",
-        q: "Que rapporte l'ACSM du suivi à long terme des patients hospitalisés pour une maladie liée à la chaleur d'effort ?",
+        q: "Que rapporte l'American College of Sports Medicine (ACSM) du suivi à long terme des patients hospitalisés pour une maladie liée à la chaleur d'effort ?",
         options: [
           "Un risque identique à celui de la population de référence après la guérison",
           "Une sensibilité accrue à la chaleur, sans autre conséquence médicale documentée",
@@ -203,13 +203,13 @@ module.exports = {
         ],
         answer: 2,
         fact: "Dans un suivi de 14 ans, les survivants présentaient une incidence 3,9 fois plus élevée d'événements cardiovasculaires majeurs, un risque d'AVC ischémique 5,5 fois plus élevé et une incidence de fibrillation auriculaire 15 fois plus élevée. Une cohorte de militaires américains hospitalisés pour ce type de pathologie affichait aussi un risque de mortalité à long terme supérieur de 40 % à celui d'une cohorte de référence hospitalisée pour appendicite.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023"
       },
       {
         type: "tf",
-        q: "Depuis le 1er juillet 2025, le décret n°2025-482 impose à l'employeur des obligations spécifiques de prévention face aux fortes chaleurs.",
+        q: "En France, depuis le 1er juillet 2025, le décret n°2025-482 impose aux employeurs des obligations spécifiques de prévention face aux fortes chaleurs.",
         answer: 0,
-        fact: "Le décret n°2025-482 du 27 mai 2025 crée dans le Code du travail un chapitre dédié aux épisodes de chaleur intense (articles R.4463-1 à R.4463-8). Les obligations de l'employeur sont déclenchées par les niveaux de vigilance canicule de Météo-France (jaune, orange, rouge) et s'adaptent à l'intensification de la chaleur.",
+        fact: "Le décret n°2025-482 du 27 mai 2025 est un texte français : il crée dans le Code du travail un chapitre dédié aux épisodes de chaleur intense (articles R.4463-1 à R.4463-8). Les obligations de l'employeur sont déclenchées par les niveaux de vigilance canicule de Météo-France (jaune, orange, rouge) et s'adaptent à l'intensification de la chaleur.",
         source: "Décret n°2025-482 du 27 mai 2025, Code du travail, articles R.4463-1 à R.4463-8"
       }
     ]
@@ -323,7 +323,7 @@ module.exports = {
         ],
         answer: 1,
         fact: "Altered mental status (confusion, disorientation, aggression) is what tips heat exhaustion into heat stroke. Skin temperature alone cannot settle the diagnosis: it combines this neurological sign with a core temperature above 40°C.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023"
       },
       {
         type: "tf",
@@ -343,7 +343,7 @@ module.exports = {
         ],
         answer: 2,
         fact: "The ACSM names rectal thermometry as the reference for diagnosis and for monitoring cooling in the field. Axillary or ear measurements are not sufficient.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023"
       },
       {
         type: "mcq",
@@ -383,7 +383,7 @@ module.exports = {
         q: "A patient who is still sweating heavily can nonetheless have exertional heat stroke.",
         answer: 0,
         fact: "Sweating may be present or absent in exertional heat stroke. The deciding criterion is the combination of an elevated core temperature and neurological signs (confusion, poor balance, agitation), not the absence of sweat.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023"
       },
       {
         type: "mcq",
@@ -396,11 +396,11 @@ module.exports = {
         ],
         answer: 1,
         fact: "Cool First, Transport Second: cool immediately by cold water immersion, calling the emergency services in parallel. Shade, wet towels and ice packs (about 0.03°C per minute) are not enough to treat confirmed heat stroke, and transport without cooling prolongs exposure to a core temperature above 40°C.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023; SFAR"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023; SFAR"
       },
       {
         type: "mcq",
-        q: "What does the ACSM report about the long-term follow-up of patients hospitalised for exertional heat illness?",
+        q: "What does the American College of Sports Medicine (ACSM) report about the long-term follow-up of patients hospitalised for exertional heat illness?",
         options: [
           "A risk identical to the reference population once they recover",
           "Increased heat sensitivity, with no other documented medical consequence",
@@ -409,13 +409,13 @@ module.exports = {
         ],
         answer: 2,
         fact: "In a 14-year follow-up, survivors had a 3.9 times higher incidence of major cardiovascular events, a 5.5 times greater risk of ischaemic stroke and a 15 times higher incidence of atrial fibrillation. A cohort of US Army personnel hospitalised for this type of illness also showed a 40% higher long-term mortality risk than a reference cohort hospitalised for appendicitis.",
-        source: "ACSM Expert Consensus Statement on Exertional Heat Illness, 2023"
+        source: "American College of Sports Medicine (ACSM), Expert Consensus Statement on Exertional Heat Illness, 2023"
       },
       {
         type: "tf",
-        q: "Since 1 July 2025, French Decree No. 2025-482 places specific heat-prevention obligations on employers.",
+        q: "In France, since 1 July 2025, Decree No. 2025-482 places specific heat-prevention obligations on employers.",
         answer: 0,
-        fact: "Decree No. 2025-482 of 27 May 2025 adds a dedicated chapter on episodes of intense heat to the French Labour Code (articles R.4463-1 to R.4463-8). Employer obligations are triggered by Météo-France heat vigilance levels (yellow, orange, red) and adapt as the heat intensifies.",
+        fact: "Decree No. 2025-482 of 27 May 2025 is a French regulation: it adds a dedicated chapter on episodes of intense heat to the French Labour Code (articles R.4463-1 to R.4463-8). Employer obligations are triggered by Météo-France heat vigilance levels (yellow, orange, red) and adapt as the heat intensifies.",
         source: "Décret n°2025-482 du 27 mai 2025, Code du travail, articles R.4463-1 to R.4463-8"
       }
     ]

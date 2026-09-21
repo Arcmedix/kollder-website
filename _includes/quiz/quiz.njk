@@ -110,13 +110,21 @@
   .kq-score { font-size: 64px; }
 }
 
-/* Print: only the personalised report is printed once the result is unlocked */
-@page { margin: 16mm; }
+/* Print: only the personalised report is printed once the result is unlocked.
+   Margins are built into the report (side padding + repeating top/bottom spacer rows) because
+   some browsers and webviews ignore @page margins. @page margin is 0 so they are never doubled. */
+@page { margin: 0; }
 @media print {
   body.kq-unlocked > *:not(.kq-page) { display: none !important; }
   body.kq-unlocked .kq-screen { display: none !important; }
   body.kq-unlocked { background: #fff; }
   body.kq-unlocked #kqReport { display: block; color: #000; font-family: 'DM Sans', Arial, sans-serif; font-size: 11pt; line-height: 1.5; }
+  #kqReport .kq-r-frame { width: 100%; border-collapse: collapse; }
+  #kqReport .kq-r-frame thead { display: table-header-group; }
+  #kqReport .kq-r-frame tfoot { display: table-footer-group; }
+  #kqReport .kq-r-frame td { padding: 0; vertical-align: top; }
+  #kqReport .kq-r-space { height: 16mm; }
+  #kqReport .kq-r-cell { padding: 0 18mm !important; }
   #kqReport .kq-r-head { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #999; padding-bottom: 10pt; margin-bottom: 16pt; }
   #kqReport .kq-r-head img { height: 34pt; width: auto; }
   #kqReport .kq-r-date { font-size: 10pt; color: #444; }
@@ -375,8 +383,23 @@
 
   function buildReport(idx) {
     var P = D.print, tier = D.result.tiers[idx];
-    var r = $('kqReport');
-    r.textContent = '';
+    var root = $('kqReport');
+    root.textContent = '';
+    var table = make('table', 'kq-r-frame');
+    var cell = make('td', 'kq-r-cell');
+    function spacer(section) {
+      var sec = make(section), row = make('tr'), td = make('td');
+      td.appendChild(make('div', 'kq-r-space'));
+      row.appendChild(td); sec.appendChild(row);
+      return sec;
+    }
+    var bodyRow = make('tr'), tbody = make('tbody');
+    bodyRow.appendChild(cell); tbody.appendChild(bodyRow);
+    table.appendChild(spacer('thead'));
+    table.appendChild(tbody);
+    table.appendChild(spacer('tfoot'));
+    root.appendChild(table);
+    var r = cell;
     var head = make('div', 'kq-r-head');
     var logo = make('img');
     logo.src = D.logo; logo.alt = 'Kollder';
@@ -410,9 +433,11 @@
     var ul = make('ul');
     var seen = {};
     qs.forEach(function (q) {
-      if (seen[q.source]) return;
-      seen[q.source] = true;
-      ul.appendChild(make('li', null, q.source));
+      q.source.split(/\s*;\s*/).forEach(function (ref) {
+        if (seen[ref]) return;
+        seen[ref] = true;
+        ul.appendChild(make('li', null, ref));
+      });
     });
     r.appendChild(ul);
     r.appendChild(make('p', 'kq-r-foot', P.footer));
