@@ -1,6 +1,8 @@
 // Shared site-chrome strings (nav, mobile overlay, language switcher) for all 4 languages.
 // `resources`/`resourcesUrl` is null for a language until that language has blog content —
 // templates should skip rendering the resources link when it's null.
+// `monitor`/`monitorUrl` exist for fr only: the EHS monitor tool is French-only, so
+// templates must guard the monitor link with `lang == "fr"`.
 module.exports = {
   langNames: { fr: "Français", en: "English", de: "Deutsch", es: "Español" },
   fr: {
@@ -34,7 +36,6 @@ module.exports = {
       { label: "Occupational Safety", url: "/en/occupational-safety/" }
     ],
     resources: "Resources", resourcesUrl: "/blog/?lang=en",
-    monitor: "EHS Monitor", monitorUrl: "/en/monitor/",
     quote: "Get a quote", quoteUrl: "/en/#contact",
     closeMenu: "Close menu",
     language: "Language", langAria: "Change language"
@@ -52,7 +53,6 @@ module.exports = {
       { label: "Arbeitssicherheit", url: "/de/arbeitssicherheit/" }
     ],
     resources: "Ressourcen", resourcesUrl: "/blog/?lang=de",
-    monitor: "EHS-Monitor", monitorUrl: "/de/monitor/",
     quote: "Angebot anfordern", quoteUrl: "/de/#contact",
     closeMenu: "Menü schließen",
     language: "Sprache", langAria: "Sprache ändern"
@@ -70,7 +70,6 @@ module.exports = {
       { label: "Seguridad Laboral", url: "/es/seguridad-laboral/" }
     ],
     resources: "Recursos", resourcesUrl: "/blog/?lang=es",
-    monitor: "Monitor EHS", monitorUrl: "/es/monitor/",
     quote: "Solicitar presupuesto", quoteUrl: "/es/#contact",
     closeMenu: "Cerrar menú",
     language: "Idioma", langAria: "Cambiar idioma"

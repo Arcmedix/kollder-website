@@ -43,12 +43,11 @@ For **SDIS units**, military medical teams, and medical directors for trail runs
 
 ## Real-time WBGT monitoring in practice
 
-The [Kollder EHS Monitor](/en/monitor/) calculates WBGT in real time for any location in France, using Open-Meteo data updated every 15 minutes. It displays:
+Temperature and humidity from a local weather source, refreshed every 15 minutes or so (Open-Meteo, national weather services), are enough to compute WBGT for a specific site. A usable WBGT check should give you:
 
 - Current WBGT with its ACSM risk level
-- Hourly forecast over 7 days
-- Emergency protocols by risk level
-- An EHS alert subscription form
+- Hourly forecast over several days
+- The emergency protocol matching each risk level
 
 In practice: before a mountain trail or an industrial site intervention, a medical director can check the 48-hour WBGT forecast, adapt cooling equipment deployment, and anticipate peak-risk windows during the event.
 

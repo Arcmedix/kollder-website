@@ -299,7 +299,9 @@ footer {
     <a href="{{ nav[lang].resourcesUrl }}" class="nav-link nav-link-active">
       {{ nav[lang].resources }}<span class="nav-badge" id="nav-badge"></span>
     </a>
+    {% if lang == "fr" %}
     <a href="{{ nav[lang].monitorUrl }}" class="nav-link" style="display:inline-flex;align-items:center;gap:5px;opacity:.85;"><span style="width:7px;height:7px;border-radius:50%;background:#e85c3a;display:inline-block;animation:pulse-dot 2s ease-in-out infinite;"></span>{{ nav[lang].monitor }}</a>
+    {% endif %}
     <a href="{{ nav[lang].quoteUrl }}" class="nav-devis">
       {{ nav[lang].quote }}
     </a>
@@ -342,9 +344,11 @@ footer {
       <span>{{ nav[lang].resources }}</span><span class="nav-overlay-badge" id="ov-badge"></span>
       <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
+    {% if lang == "fr" %}
     <a class="nav-overlay-link" href="{{ nav[lang].monitorUrl }}">
       <span>{{ nav[lang].monitor }} <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span></span><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
     </a>
+    {% endif %}
     <button type="button" class="nav-overlay-toggle" aria-expanded="false" onclick="toggleNavOverlayGroup(this)">
       <span style="display:inline-flex;align-items:center;gap:10px;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><line x1="3" y1="12" x2="21" y2="12"></line><path d="M12 3c2.8 2.6 4.3 5.8 4.3 9s-1.5 6.4-4.3 9c-2.8-2.6-4.3-5.8-4.3-9s1.5-6.4 4.3-9z"></path></svg>{{ nav[lang].language }}</span>
       <svg class="nav-overlay-toggle-arrow" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6l4 4 4-4"/></svg>

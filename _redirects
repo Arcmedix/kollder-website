@@ -1,2 +1,7 @@
 /blog/fr/2026-05-25-kollder-vs-corben-comparatif-baignoire-refroidissement/  /blog/fr/2026-06-09-fabricants-baignoire-refroidissement-urgence-comparatif/  301
 /blog/en/2026-05-25-kollder-vs-corben-emergency-cooling-tub-comparison/  /blog/en/2026-06-09-emergency-cooling-tub-manufacturers-comparison/  301
+
+# EHS monitor is French-only: send EN/DE/ES visitors to their language homepage
+/en/monitor/  /en/  301
+/de/monitor/  /de/  301
+/es/monitor/  /es/  301

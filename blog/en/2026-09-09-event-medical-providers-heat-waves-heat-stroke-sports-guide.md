@@ -44,7 +44,7 @@ The assessment is done in advance, in writing, and attached to the event file.
 
 **The event profile** modulates that risk: duration, expected intensity, start time, lack of shade and wind on the course, load carriage (trail packs), maximal-effort stations (obstacles, Hyrox format), number of participants exposed at the same time during the hottest hours.
 
-Kollder's [EHS Monitor](https://kollder.com/en/monitor/) computes WBGT in real time from local weather data and places the risk level against ACSM thresholds. It lets you document the decision and adjust the dispatch the day before and on race day.
+Compute WBGT from local weather data for the event site and place the risk level against the ACSM thresholds. Document the decision and adjust the dispatch the day before and on race day.
 
 ## Step 2: size the cooling chain
 

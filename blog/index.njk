@@ -533,7 +533,7 @@ const T = {
     defense: 'Defense & Military', defenseUrl: '/en/defense-military/',
     ehs: 'Occupational Safety', ehsUrl: '/en/occupational-safety/',
     blogUrl: '/blog/?lang=en', resources: 'Resources', devis: 'Get a quote', devisUrl: '/en/#contact',
-    closeMenu: 'Close menu', monitorLabel: 'EHS Monitor', monitorUrl: '/en/monitor/',
+    closeMenu: 'Close menu',
     heroLabel: 'Resources & Expertise',
     heroTitle: 'Everything you need to know about <em>heat stroke.</em>',
     heroSub: 'Medical protocols, field reports, regulatory updates. By experts, for professionals.'
@@ -549,7 +549,7 @@ const T = {
     defense: 'Verteidigung & Militär', defenseUrl: '/de/verteidigung-militaer/',
     ehs: 'Arbeitssicherheit', ehsUrl: '/de/arbeitssicherheit/',
     blogUrl: '/blog/?lang=de', resources: 'Ressourcen', devis: 'Angebot anfordern', devisUrl: '/de/#contact',
-    closeMenu: 'Menü schließen', monitorLabel: 'EHS-Monitor', monitorUrl: '/de/monitor/',
+    closeMenu: 'Menü schließen',
     heroLabel: 'Ressourcen & Expertise',
     heroTitle: 'Alles, was Sie über <em>Hitzschlag wissen müssen.</em>',
     heroSub: 'Medizinische Protokolle, Erfahrungen aus der Praxis, regulatorische Updates. Von Experten für Fachkräfte.'
@@ -565,7 +565,7 @@ const T = {
     defense: 'Defensa y Militar', defenseUrl: '/es/defensa-militar/',
     ehs: 'Seguridad Laboral', ehsUrl: '/es/seguridad-laboral/',
     blogUrl: '/blog/?lang=es', resources: 'Recursos', devis: 'Solicitar presupuesto', devisUrl: '/es/#contact',
-    closeMenu: 'Cerrar menú', monitorLabel: 'Monitor EHS', monitorUrl: '/es/monitor/',
+    closeMenu: 'Cerrar menú',
     heroLabel: 'Recursos y Experiencia',
     heroTitle: 'Todo lo que necesita saber sobre el <em>golpe de calor.</em>',
     heroSub: 'Protocolos médicos, experiencia de campo, novedades normativas. Por expertos, para profesionales.'
@@ -635,10 +635,16 @@ function setLang(l) {
   document.getElementById('ov-close-btn').setAttribute('aria-label', t.closeMenu);
   document.getElementById('ov-blog').href = t.blogUrl;
   document.getElementById('ov-blog-label').textContent = t.resources;
-  document.getElementById('nav-monitor-link').href = t.monitorUrl;
-  document.getElementById('nav-monitor-label').textContent = t.monitorLabel;
-  document.getElementById('ov-monitor').href = t.monitorUrl;
-  document.getElementById('ov-monitor-label').innerHTML = t.monitorLabel + ' <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span>';
+  // The EHS monitor tool is French-only: only the FR strings define monitorUrl.
+  var hasMonitor = !!t.monitorUrl;
+  document.getElementById('nav-monitor-link').style.display = hasMonitor ? 'inline-flex' : 'none';
+  document.getElementById('ov-monitor').style.display = hasMonitor ? '' : 'none';
+  if (hasMonitor) {
+    document.getElementById('nav-monitor-link').href = t.monitorUrl;
+    document.getElementById('nav-monitor-label').textContent = t.monitorLabel;
+    document.getElementById('ov-monitor').href = t.monitorUrl;
+    document.getElementById('ov-monitor-label').innerHTML = t.monitorLabel + ' <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#e85c3a;margin-left:4px;vertical-align:middle;"></span>';
+  }
   document.getElementById('ov-cta').href = t.devisUrl;
   document.getElementById('ov-cta-label').textContent = t.devis;
 

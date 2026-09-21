@@ -40,7 +40,7 @@ SDIS (sapeurs-pompiers), SSSM/militaires, SAMU/SMUR/SAU, associations de protect
 - `_includes/layouts/article.njk` — blog article layout
 - `_includes/layouts/audience.njk` — audience landing pages (sdis-pompiers.njk, protection-civile.njk, services-urgence-hopitaux.njk, assistance-medicale-evenements.njk, defense-militaire.njk, securite-travail.njk)
 - `_includes/layouts/partner.njk` — distributeurs + partners (layout declared in frontmatter)
-- `blog/index.njk`, `monitor.njk` (layout:false, FR+EN via pagination)
+- `blog/index.njk`, `monitor.njk` (layout:false, paginated over `langs`). The EHS monitor tool is **French-only** (`/fr/monitor/`): no EN/DE/ES page, and no monitor link in EN/DE/ES navigation (layouts guard it with `lang == "fr"`; `_data/nav.js` defines `monitor`/`monitorUrl` for `fr` only)
 - **Rule:** always verify `layout:` frontmatter of any `.njk` before assuming it has its own nav
 
 ## Blog corpus
