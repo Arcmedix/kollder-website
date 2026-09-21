@@ -56,7 +56,7 @@ Le protocole Cool First Transport Second repose sur deux données physiologiques
 
 **La fenêtre des 30 minutes.** Si la température centrale repasse sous 40°C dans les 30 minutes suivant la présentation clinique, le taux de survie est de 100% dans les séries documentées par le KSI. Au-delà de 30 minutes à plus de 40°C, le risque de défaillance multiviscérale augmente exponentiellement.
 
-**La supériorité de l'immersion.** L'immersion en eau froide refroidit à **0,35°C par minute**. Les méthodes alternatives ne dépassent pas **0,03°C par minute**. Pour respecter la fenêtre des 30 minutes à partir d'une température de 42°C, il faut atteindre une vitesse de refroidissement d'au moins 0,13°C/min — un seuil que seule l'immersion peut atteindre de manière fiable sur le terrain.
+**La supériorité de l'immersion.** L'immersion en eau froide refroidit à **0,35°C par minute**. Les méthodes alternatives refroidissent en général à seulement **0,03 à 0,08°C par minute**. La littérature considère qu'une vitesse supérieure à 0,15°C par minute correspond à un refroidissement adéquat, un seuil que l'immersion atteint de manière fiable sur le terrain et que la plupart des autres méthodes transportables n'atteignent pas.
 
 ## Application pratique du protocole
 
@@ -88,7 +88,7 @@ Transport vers les urgences pour bilan biologique (CPK, fonction rénale, coagul
 
 Avant Cool First Transport Second, les équipes improvisaient avec les moyens disponibles — serviettes humides, poches de glace, ventilateurs. Ces méthodes créaient une fausse sécurité : la victime semblait prise en charge alors que sa température centrale continuait de monter.
 
-Le protocole impose une contrainte logistique claire : **il faut une baignoire, de l'eau et de la glace, disponibles en moins de 2 minutes sur chaque intervention à risque**.
+Le protocole impose une contrainte logistique claire : **il faut une baignoire, de l'eau et de la glace, immédiatement disponibles sur chaque intervention à risque**.
 
 C'est cette contrainte logistique que Kollder résout. La baignoire de refroidissement, à la structure stable et pliable, opérationnelle en moins de 5 minutes, permet aux équipes terrain — SDIS, SSSM, équipes médicales événementielles — d'appliquer le protocole sans infrastructure préalable.
 
@@ -112,4 +112,4 @@ Le consensus IOC de 2021 (Hosokawa, Racinais et al., BJSM) précise que la forma
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn), SFAR.*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn), SFAR. Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

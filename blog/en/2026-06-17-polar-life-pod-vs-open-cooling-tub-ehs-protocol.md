@@ -60,7 +60,7 @@ Kollder is a French emergency cooling tub. Its stainless steel frame (food-grade
 
 The design is fully open. The patient remains accessible from all sides throughout immersion: airway monitoring, pulse, rectal temperature, IV access if needed. In the event of sudden clinical deterioration, extraction takes seconds, not steps. Dimensions (205 × 80 × 60 cm deployed, 85 × 10 × 10 cm in transport bag, 11.1 kg) are sized to fit SDIS vehicles and event medical kits. Water capacity (200-300 L) consistently achieves ideal cooling rates across morphotypes.
 
-Kollder is developed and produced in France, with French institutions, for French-trained teams working within French and European clinical frameworks. For medical directors and institutional procurement officers who want to evaluate Kollder in their operational context: [kollder.com/#contact](https://kollder.com/#contact).
+Kollder is a French company, developed with French institutions, for French-trained teams working within French and European clinical frameworks. For medical directors and institutional procurement officers who want to evaluate Kollder in their operational context: [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

@@ -85,7 +85,7 @@ Equipment is only as good as the speed of recognition and immersion. Training po
 
 ## The Hyrox case: a format that concentrates risk
 
-Hyrox stacks the aggravating factors: near-maximal effort for 60 to 90 minutes, an indoor environment that is often hot and poorly ventilated, high participant density, large crowds, and motivation that pushes athletes to ignore warning signs. The medical post has limited space, which calls for a cooling setup that is compact and deployable by a single person.
+Hyrox stacks the aggravating factors: near-maximal effort for 60 to 90 minutes, an indoor environment that is often hot and poorly ventilated, high participant density, large crowds, and motivation that pushes athletes to ignore warning signs. The medical post has limited space, which calls for a cooling setup that is compact and stable.
 
 Specific recommendations for a provider assigned to this kind of event:
 

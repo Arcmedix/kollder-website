@@ -32,7 +32,7 @@ Trois éléments du NFPA 1580 restent transposables indépendamment du cadre ré
 - **Une distinction claire entre refroidissement passif et actif**, avec un déclencheur explicite pour basculer de l'un à l'autre.
 - **Des critères de sortie chiffrés**, qui évitent qu'un agent reprenne l'activité sur simple déclaration de mieux-être.
 
-Ce qui manque le plus souvent dans un secteur de réhabilitation, français ou américain, est la capacité de refroidissement actif par immersion complète : le NFPA 1580 ne nomme que l'immersion des avant-bras, qui couvre environ 12 % de la surface corporelle contre près de 90 % pour une immersion complète. Intégrer un dispositif d'immersion complète, déployable par un seul agent, ferme cet écart des deux côtés de l'Atlantique.
+Ce qui manque le plus souvent dans un secteur de réhabilitation, français ou américain, est la capacité de refroidissement actif par immersion complète : le NFPA 1580 ne nomme que l'immersion des avant-bras, qui couvre environ 12 % de la surface corporelle contre près de 90 % pour une immersion complète. Intégrer un dispositif d'immersion complète, stable et sans outillage, ferme cet écart des deux côtés de l'Atlantique.
 
 La baignoire de refroidissement d'urgence Kollder repose sur une structure stable et permet une immersion complète, jusqu'à 2 personnes en simultané si nécessaire, et répond à cette exigence, quel que soit le référentiel appliqué. Renseignements sur [kollder.com/#contact](https://kollder.com/#contact).
 

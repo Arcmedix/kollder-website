@@ -22,7 +22,7 @@ Ce chiffre suffit à éliminer d'emblée plusieurs méthodes couramment utilisé
 
 ### Packs de glace et poches réfrigérantes
 
-Faciles à transporter, souvent déjà présents dans les trousses de secours. Mais leur surface de contact est limitée et leur effet est principalement localisé. Placés sur les zones vasculaires (cou, aisselles, aines), ils atteignent en conditions réelles environ 0,10 à 0,15 °C/min — à la limite basse du seuil thérapeutique, insuffisant pour un CCE sévère.
+Faciles à transporter, souvent déjà présents dans les trousses de secours. Mais leur surface de contact est limitée et leur effet est principalement localisé. Placés sur les zones vasculaires (cou, aisselles, aines), ils atteignent en conditions réelles environ 0,03 à 0,08 °C/min, nettement sous le seuil de 0,15 °C/min, insuffisant pour un CCE sévère.
 
 Leur usage reste pertinent en appoint ou en attente d'une solution plus efficace. Ils ne constituent pas un traitement de premier rang pour un CCE confirmé.
 
@@ -54,8 +54,8 @@ L'obstacle historique à cette méthode n'est pas clinique, il est logistique : 
 |---|---|---|---|---|
 | Brumisation + ventilation | 0,03-0,05 °C/min | Facile | Total | Non (CCE sévère) |
 | Couvertures fraîches | < 0,05 °C/min | Facile | Total | Non |
-| Packs de glace (zones vasculaires) | 0,10-0,15 °C/min | Facile | Partiel | Appoint |
-| Perfusion soluté froid | ~0,10 °C/min | Médicalisé uniquement | Nécessite VVP | Complément |
+| Packs de glace (zones vasculaires) | 0,03-0,08 °C/min | Facile | Partiel | Appoint |
+| Perfusion soluté froid | < 0,08 °C/min | Médicalisé uniquement | Nécessite VVP | Complément |
 | Immersion eau froide | 0,35 °C/min | Variable | Variable | **1re intention** |
 
 ## Le verrou opérationnel de l'immersion
@@ -84,4 +84,4 @@ La question n'est donc pas seulement "quel matériel ?", mais "quel matériel, d
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — McDermott BP et al., Journal of Athletic Training 2009 — Korey Stringer Institute, University of Connecticut — SFAR, recommandations de prise en charge préhospitalière des hyperthermes*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — McDermott BP et al., Journal of Athletic Training 2009 — Korey Stringer Institute, University of Connecticut — SFAR, recommandations de prise en charge préhospitalière des hyperthermes ; Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

@@ -85,7 +85,7 @@ The rationale is simple: every additional minute at elevated core temperature in
 The most effective method is cold water immersion (CWI). The comparative data is clear:
 
 - CWI: cools at **0.35°C per minute** (Casa DJ et al., 2007)
-- Ice packs applied to major vessels: 0.10 to 0.15°C per minute
+- Ice packs applied to major vessels, ice sheets and similar transportable methods: roughly 0.03 to 0.08°C per minute (Filep et al., 2020)
 - Misting with fanning: 0.03 to 0.05°C per minute
 - Cool sheets alone: insufficient for EHS
 
@@ -141,4 +141,4 @@ For the full clinical picture of what happens if this window is missed, see our 
 
 ---
 
-*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007. Walter EJ & Carraretto M, Critical Care 2016. Korey Stringer Institute, University of Connecticut, Douglas Casa.*
+*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007. Walter EJ & Carraretto M, Critical Care 2016. Korey Stringer Institute, University of Connecticut, Douglas Casa. Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

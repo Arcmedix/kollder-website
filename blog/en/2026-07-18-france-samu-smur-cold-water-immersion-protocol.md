@@ -20,7 +20,7 @@ This is where equipment choice becomes a medical decision rather than a logistic
 
 ## Coordination on multi-casualty events
 
-At mass-participation events (trail races, marathons, Hyrox competitions) where French event medical directors are required to plan for exertional heat stroke under IOC/BJSM 2021 guidance, SAMU/SMUR units are typically pre-positioned alongside fire service medical posts, sharing the same cooling equipment rather than each service bringing its own incompatible kit. This shared-equipment approach is only workable if the tub is fast enough to deploy solo and rugged enough to survive back-to-back use across a full event day.
+At mass-participation events (trail races, marathons, Hyrox competitions) where French event medical directors are required to plan for exertional heat stroke under IOC/BJSM 2021 guidance, SAMU/SMUR units are typically pre-positioned alongside fire service medical posts, sharing the same cooling equipment rather than each service bringing its own incompatible kit. This shared-equipment approach is only workable if the tub is stable on any terrain and rugged enough to survive back-to-back use across a full event day.
 
 ## Why Kollder fits this chain
 

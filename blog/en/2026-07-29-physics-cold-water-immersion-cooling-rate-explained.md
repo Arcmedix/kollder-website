@@ -10,7 +10,7 @@ published: true
 
 Every field cooling method claims to bring a patient's temperature down. Only one has the physics to do it fast enough to matter for exertional heat stroke. Understanding why comes down to three properties of water that no fan, towel, or misting system can replicate.
 
-**Short answer:** whole-body cold water immersion cools a hyperthermic patient at roughly 0.35°C per minute, compared with just 0.03 to 0.05°C per minute for misting with fanning, the standard air-based method. That makes immersion seven to twelve times faster than air cooling, a gap wide enough to decide whether core temperature returns to safe levels inside the ACSM's 30-minute treatment window or not (Casa DJ et al., Exercise and Sport Sciences Reviews, 2007).
+**Short answer:** whole-body cold water immersion cools a hyperthermic patient at roughly 0.35°C per minute, compared with just 0.03 to 0.05°C per minute for misting with fanning, the standard air-based method. That makes immersion seven to twelve times faster than air cooling, a gap wide enough to decide whether core temperature returns to safe levels inside the ACSM's 30-minute treatment window or not (Casa DJ et al., Exercise and Sport Sciences Reviews, 2007; Filep EM et al., Medicina, 2020).
 
 ## Heat capacity: water holds far more energy than air
 
@@ -26,15 +26,15 @@ Conductive heat transfer is dramatically more efficient than convective transfer
 
 This is also why partial methods, ice packs on the neck, armpits, and groin, underperform whole-body immersion. They rely on conduction too, but only across a small fraction of total body surface area, limiting total heat transfer regardless of how cold the ice itself is.
 
-## The data: a tenfold difference that matters clinically
+## The data: a large difference that matters clinically
 
-Casa et al. (2007) documented the comparative cooling rates that now anchor the ACSM's treatment recommendations:
+Casa et al. (2007) established whole-body cold water immersion at up to 0.35°C per minute, the reference rate behind the ACSM's treatment recommendations. A 2020 systematic review of exertional heat stroke cooling modalities (Filep et al., Medicina) puts the transportable alternatives far lower:
 
-- **Whole-body cold water immersion**: 0.35°C per minute
-- **Ice packs on major vessels**: 0.10 to 0.15°C per minute
-- **Misting with fanning**: 0.03 to 0.05°C per minute
+- **Whole-body cold water immersion**: up to 0.35°C per minute
+- **Ice packs, ice sheets, fans and similar transportable methods**: roughly 0.03 to 0.08°C per minute
+- **Misting with fanning**: 0.03 to 0.05°C per minute, at the lower end of that range
 
-That is roughly a tenfold difference between immersion and the passive methods still used as a default in many settings. Applied to the ACSM's 30-minute treatment window, the gap is the difference between reaching a safe core temperature well inside that window, or still being above it when the window closes.
+That is roughly a four- to twelvefold difference between immersion and the passive methods still used as a default in many settings. Applied to the ACSM's 30-minute treatment window, the gap is the difference between reaching a safe core temperature well inside that window, or still being above it when the window closes.
 
 Brearley and Walker's 2015 review of fireground cooling modalities, drawing on Australian fire service research, reached the same conclusion from a different data set: immersion methods consistently outperformed fan, mist, and ice-pack approaches for firefighters cooling post-incident, not just for athletes.
 
@@ -58,4 +58,4 @@ Teams evaluating a dedicated immersion solution can find specifications at [koll
 
 ---
 
-*Sources: Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Water immersion for post incident cooling of firefighters, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, 2025 edition (consolidating NFPA 1584, 2022 edition).*
+*Sources: Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Water immersion for post incident cooling of firefighters, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, 2025 edition (consolidating NFPA 1584, 2022 edition). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

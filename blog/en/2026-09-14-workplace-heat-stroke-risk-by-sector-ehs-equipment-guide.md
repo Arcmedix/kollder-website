@@ -34,7 +34,7 @@ A stock tank or a repurposed container sometimes fills the gap on larger sites, 
 
 A dedicated immersion tub, purpose-built with a stable, six-point frame and operational in under 5 minutes, closes that gap without adding a fixed structure or a dedicated vehicle. It stages at the point of exposure (the roofline, the warehouse floor, the field edge) rather than in a first aid room that may be a five-minute walk away, the five minutes that determine whether a worker recovers fully.
 
-The Kollder emergency cooling tub is built for this role: single-person deployment, full patient access during immersion, and a footprint that fits in a site vehicle or a foreman's truck. More at [kollder.com/#contact](https://kollder.com/#contact).
+The Kollder emergency cooling tub is built for this role: a stable six-point frame, room for up to 2 people in simultaneous immersion, full patient access during immersion, and a footprint that fits in a site vehicle or a foreman's truck. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

@@ -10,7 +10,7 @@ published: true
 
 Jede Kühlmethode im Feld verspricht, die Temperatur eines Patienten zu senken. Nur eine erreicht physikalisch die Geschwindigkeit, die bei belastungsbedingtem Hitzschlag entscheidend ist. Der Grund liegt in drei Eigenschaften von Wasser, die kein Ventilator, kein Handtuch und kein Vernebelungssystem nachbilden kann.
 
-**Kurz gesagt:** Die Ganzkörper-Kaltwasserimmersion kühlt einen hyperthermen Patienten mit rund 0,35 °C pro Minute, verglichen mit nur 0,03 bis 0,05 °C pro Minute bei Vernebelung mit Ventilation, der gängigen luftbasierten Methode. Damit ist die Immersion sieben- bis zwölfmal schneller als Luftkühlung, ein Unterschied, der darüber entscheidet, ob die Körperkerntemperatur innerhalb des 30-Minuten-Behandlungsfensters der ACSM wieder auf ein sicheres Niveau sinkt oder nicht (Casa DJ et al., Exercise and Sport Sciences Reviews, 2007).
+**Kurz gesagt:** Die Ganzkörper-Kaltwasserimmersion kühlt einen hyperthermen Patienten mit rund 0,35 °C pro Minute, verglichen mit nur 0,03 bis 0,05 °C pro Minute bei Vernebelung mit Ventilation, der gängigen luftbasierten Methode. Damit ist die Immersion sieben- bis zwölfmal schneller als Luftkühlung, ein Unterschied, der darüber entscheidet, ob die Körperkerntemperatur innerhalb des 30-Minuten-Behandlungsfensters der ACSM wieder auf ein sicheres Niveau sinkt oder nicht (Casa DJ et al., Exercise and Sport Sciences Reviews, 2007; Filep EM et al., Medicina, 2020).
 
 ## Wärmekapazität: Wasser speichert weit mehr Energie als Luft
 
@@ -26,15 +26,15 @@ Wärmeleitung ist aus einem einfachen Grund deutlich effizienter als Konvektion:
 
 Deshalb schneiden auch partielle Methoden, Eispackungen an Hals, Achseln und Leiste, schlechter ab als die Ganzkörperimmersion. Auch sie beruhen auf Wärmeleitung, jedoch nur über einen kleinen Bruchteil der gesamten Körperoberfläche, was den Gesamtwärmetransfer begrenzt, unabhängig davon, wie kalt das Eis selbst ist.
 
-## Die Daten: ein zehnfacher Unterschied mit klinischer Relevanz
+## Die Daten: ein großer Unterschied mit klinischer Relevanz
 
-Casa et al. (2007) dokumentierten die vergleichenden Kühlraten, auf denen die Behandlungsempfehlungen der ACSM heute beruhen:
+Casa et al. (2007) beschrieben die Ganzkörper-Kaltwasserimmersion mit bis zu 0,35 °C pro Minute, der Referenzrate hinter den Behandlungsempfehlungen der ACSM. Eine systematische Übersichtsarbeit von 2020 zu Kühlmethoden beim belastungsbedingten Hitzschlag (Filep et al., Medicina) beziffert die transportablen Alternativen deutlich niedriger:
 
-- **Ganzkörper-Kaltwasserimmersion**: 0,35 °C pro Minute
-- **Eispackungen auf großen Gefäßen**: 0,10 bis 0,15 °C pro Minute
-- **Vernebelung mit Ventilation**: 0,03 bis 0,05 °C pro Minute
+- **Ganzkörper-Kaltwasserimmersion**: bis zu 0,35 °C pro Minute
+- **Eispackungen, Eislaken, Ventilatoren und ähnliche transportable Methoden**: etwa 0,03 bis 0,08 °C pro Minute
+- **Vernebelung mit Ventilation**: 0,03 bis 0,05 °C pro Minute, am unteren Ende dieses Bereichs
 
-Das ist etwa ein zehnfacher Unterschied zwischen Immersion und den passiven Methoden, die in vielen Umgebungen noch immer als Standard gelten. Bezogen auf das 30-Minuten-Behandlungsfenster der ACSM entscheidet diese Differenz darüber, ob eine sichere Körperkerntemperatur innerhalb des Fensters erreicht wird oder ob sie bei dessen Ablauf noch immer überschritten ist.
+Das ist etwa ein vier- bis zwölffacher Unterschied zwischen Immersion und den passiven Methoden, die in vielen Umgebungen noch immer als Standard gelten. Bezogen auf das 30-Minuten-Behandlungsfenster der ACSM entscheidet diese Differenz darüber, ob eine sichere Körperkerntemperatur innerhalb des Fensters erreicht wird oder ob sie bei dessen Ablauf noch immer überschritten ist.
 
 Der Übersichtsartikel von Brearley und Walker aus dem Jahr 2015 zu Kühlmethoden am Einsatzort, gestützt auf Forschung australischer Feuerwehren, kam anhand eines anderen Datensatzes zum gleichen Ergebnis: Immersionsmethoden übertrafen Ventilator-, Vernebelungs- und Eispackungsansätze durchgängig, auch bei Feuerwehrleuten nach dem Einsatz, nicht nur bei Athleten.
 
@@ -58,4 +58,4 @@ Teams, die eine dedizierte Immersionslösung prüfen, finden die Spezifikationen
 
 ---
 
-*Quellen: Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Water immersion for post incident cooling of firefighters, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, Ausgabe 2025 (Zusammenführung von NFPA 1584, Ausgabe 2022).*
+*Quellen: Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Water immersion for post incident cooling of firefighters, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, Ausgabe 2025 (Zusammenführung von NFPA 1584, Ausgabe 2022). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

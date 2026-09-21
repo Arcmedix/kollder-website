@@ -83,7 +83,7 @@ Le rationnel est simple : chaque minute à température centrale élevée augmen
 La méthode la plus efficace est l'immersion en eau froide (Cold Water Immersion, CWI). Les données comparatives sont nettes :
 
 - CWI : refroidissement à **0,35 °C/min** (Casa DJ et al., 2007)
-- Packs de glace appliqués sur les zones vasculaires : 0,10 à 0,15 °C/min
+- Packs de glace sur les zones vasculaires, draps de glace et méthodes transportables similaires : environ 0,03 à 0,08 °C/min (Filep et al., 2020)
 - Brumisation avec ventilation : 0,03 à 0,05 °C/min
 - Couvertures fraîches seules : insuffisant pour un CCE
 
@@ -131,4 +131,4 @@ Après refroidissement :
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — Walter EJ & Carraretto M, Critical Care 2016 — Korey Stringer Institute, University of Connecticut, Douglas Casa — SFAR, recommandations de prise en charge préhospitalière des hyperthermes*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — Walter EJ & Carraretto M, Critical Care 2016 — Korey Stringer Institute, University of Connecticut, Douglas Casa — SFAR, recommandations de prise en charge préhospitalière des hyperthermes ; Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

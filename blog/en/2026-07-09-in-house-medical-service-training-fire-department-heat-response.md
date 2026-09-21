@@ -24,7 +24,7 @@ Refresher training built around the current evidence should cover the confusion-
 
 ## Equipment that supports the training, not just the classroom
 
-Training is only as good as the equipment available to practice on. The Kollder emergency cooling tub's one-person, sub-2-minute deployment makes realistic hands-on drills practical for in-house medical staff without requiring a dedicated setup crew. More at [kollder.com/#contact](https://kollder.com/#contact).
+Training is only as good as the equipment available to practice on. The Kollder emergency cooling tub's stable six-point frame and tool-free setup make realistic hands-on drills practical for in-house medical staff without requiring a dedicated setup crew. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

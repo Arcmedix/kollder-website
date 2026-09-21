@@ -56,7 +56,7 @@ El protocolo Cool First, Transport Second se apoya en dos hechos fisiológicos f
 
 **La ventana de 30 minutos.** Si la temperatura corporal central vuelve a bajar de 40 °C en los 30 minutos posteriores a la presentación clínica, la tasa de supervivencia es del 100 % en las series documentadas por el KSI. Más allá de 30 minutos por encima de 40 °C, el riesgo de fallo multiorgánico aumenta de forma exponencial.
 
-**La superioridad de la inmersión.** La inmersión en agua fría enfría a **0,35 °C por minuto**. Los métodos alternativos no superan **0,03 °C por minuto**. Para respetar la ventana de 30 minutos partiendo de una temperatura de 42 °C, se necesita una tasa de enfriamiento de al menos 0,13 °C por minuto, un umbral que en el terreno solo la inmersión alcanza de forma fiable.
+**La superioridad de la inmersión.** La inmersión en agua fría enfría a **0,35 °C por minuto**. Los métodos alternativos suelen enfriar a solo **0,03 a 0,08 °C por minuto**. La literatura considera adecuada una tasa de enfriamiento superior a 0,15 °C por minuto, un umbral que la inmersión alcanza de forma fiable en el terreno y que la mayoría de los demás métodos transportables no alcanza.
 
 ## Aplicación práctica del protocolo
 
@@ -112,4 +112,4 @@ El consenso del COI de 2021 (Hosokawa, Racinais et al., BJSM) es claro: la forma
 
 ---
 
-*Fuentes: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute (Dr. Douglas Casa, UConn).*
+*Fuentes: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute (Dr. Douglas Casa, UConn). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

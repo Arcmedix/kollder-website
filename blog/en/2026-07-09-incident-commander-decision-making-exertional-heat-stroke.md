@@ -24,7 +24,7 @@ An incident commander managing a multi-casualty heat event, a mass-participation
 
 ## Equipment that supports fast command decisions
 
-An officer is far more likely to commit to immediate immersion when the equipment is known to deploy reliably and fast. The Kollder emergency cooling tub's sub-2-minute, one-person deployment removes hesitation about whether calling for immersion will actually produce a ready tub in time. More at [kollder.com/#contact](https://kollder.com/#contact).
+An officer is far more likely to commit to immediate immersion when the equipment is known to be reliable and ready to use. The Kollder emergency cooling tub's stable six-point frame, which stays level on any terrain, and its room for up to 2 people in simultaneous immersion remove hesitation about whether calling for immersion will actually produce a usable tub. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

@@ -20,7 +20,7 @@ Le taux de refroidissement par immersion est environ dix fois supérieur à celu
 
 ## Ce que doit permettre le matériel d'un poste de secours
 
-Sur un événement grand public, le matériel de refroidissement doit répondre à trois contraintes propres au terrain associatif : être déployable par un seul bénévole formé, sans outillage ni montage technique, et transportable facilement entre les différents points du site. Un équipement qui nécessite deux personnes ou plusieurs minutes de montage retarde le geste au moment où il compte le plus.
+Sur un événement grand public, le matériel de refroidissement doit répondre à trois contraintes propres au terrain associatif : être stable sur un terrain non préparé, se monter sans outillage ni montage technique, et se transporter facilement entre les différents points du site. Un équipement instable ou long à monter retarde le geste au moment où il compte le plus.
 
 ## Le choix Kollder pour ces contraintes
 

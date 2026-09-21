@@ -40,7 +40,7 @@ faqSchema: |
         "name": "¿Por qué la inmersión en agua fría es el método más eficaz?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "La inmersión en agua fría enfría a 0,35 °C por minuto, frente a 0,10-0,15 °C por minuto de las bolsas de hielo sobre grandes vasos y solo 0,03-0,05 °C por minuto con nebulización y ventilación. Las toallas frías por sí solas resultan insuficientes ante un golpe de calor por esfuerzo."
+          "text": "La inmersión en agua fría enfría a 0,35 °C por minuto, frente a aproximadamente 0,03-0,08 °C por minuto de las bolsas de hielo, la nebulización con ventilación y otros métodos transportables similares. Las toallas frías por sí solas resultan insuficientes ante un golpe de calor por esfuerzo."
         }
       }
     ]
@@ -124,7 +124,7 @@ La lógica es simple: cada minuto adicional con temperatura central elevada aume
 El método más eficaz es la inmersión en agua fría (CWI). Los datos comparativos son claros:
 
 - Inmersión en agua fría: enfría a **0,35 °C por minuto** (Casa DJ et al., 2007)
-- Bolsas de hielo sobre grandes vasos: 0,10 a 0,15 °C por minuto
+- Bolsas de hielo sobre grandes vasos, sábanas de hielo y métodos transportables similares: aproximadamente 0,03 a 0,08 °C por minuto (Filep et al., 2020)
 - Nebulización con ventilación: 0,03 a 0,05 °C por minuto
 - Toallas frías por sí solas: insuficientes ante un EHS
 
@@ -173,4 +173,4 @@ Después del enfriamiento:
 
 ---
 
-*Fuentes: ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007. Korey Stringer Institute, Universidad de Connecticut, Douglas Casa.*
+*Fuentes: ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007. Korey Stringer Institute, Universidad de Connecticut, Douglas Casa. Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

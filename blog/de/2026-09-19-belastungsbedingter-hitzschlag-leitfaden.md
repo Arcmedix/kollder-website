@@ -40,7 +40,7 @@ faqSchema: |
         "name": "Warum ist Kaltwasserimmersion die wirksamste Methode?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Kaltwasserimmersion kühlt mit 0,35 °C pro Minute, gegenüber 0,10 bis 0,15 °C pro Minute bei Eispackungen auf großen Gefäßen und nur 0,03 bis 0,05 °C pro Minute bei Vernebelung mit Ventilation. Kühle Tücher allein reichen bei einem belastungsbedingten Hitzschlag nicht aus."
+          "text": "Kaltwasserimmersion kühlt mit 0,35 °C pro Minute, gegenüber etwa 0,03 bis 0,08 °C pro Minute bei Eispackungen, Vernebelung mit Ventilation und ähnlichen transportablen Methoden. Kühle Tücher allein reichen bei einem belastungsbedingten Hitzschlag nicht aus."
         }
       }
     ]
@@ -124,7 +124,7 @@ Die Logik ist einfach: Jede zusätzliche Minute mit erhöhter Körperkerntempera
 Die wirksamste Methode ist die Kaltwasserimmersion. Die Vergleichsdaten sind eindeutig:
 
 - Kaltwasserimmersion: kühlt mit **0,35 °C pro Minute** (Casa DJ et al., 2007)
-- Eispackungen auf großen Gefäßen: 0,10 bis 0,15 °C pro Minute
+- Eispackungen auf großen Gefäßen, Eislaken und ähnliche transportable Methoden: etwa 0,03 bis 0,08 °C pro Minute (Filep et al., 2020)
 - Vernebelung mit Ventilation: 0,03 bis 0,05 °C pro Minute
 - Kühle Tücher allein: unzureichend bei EHS
 
@@ -173,4 +173,4 @@ Nach der Kühlung:
 
 ---
 
-*Quellen: ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007. Korey Stringer Institute, University of Connecticut, Douglas Casa.*
+*Quellen: ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007. Korey Stringer Institute, University of Connecticut, Douglas Casa. Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

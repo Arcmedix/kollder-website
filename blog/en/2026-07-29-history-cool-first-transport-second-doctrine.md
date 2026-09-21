@@ -26,7 +26,7 @@ KSI's founding mission named three populations at risk: athletes, laborers, and 
 
 The doctrine that would become Cool First, Transport Second did not emerge from a single study. It accumulated from a specific, repeated clinical observation: patients who were cooled immediately on site, even by minutes, had dramatically better outcomes than patients who were stabilized and transported to a hospital first, even when that hospital was close by and equipped with advanced cooling technology.
 
-The physiological explanation came into sharper focus with Casa's own 2007 review in *Exercise and Sport Sciences Reviews*, which quantified what many practitioners had observed anecdotally: whole-body cold water immersion cools at roughly 0.35°C per minute, compared to 0.03 to 0.05°C per minute for misting and fanning, and 0.10 to 0.15°C per minute for localized ice packs. That gap, multiplied across a 30-minute window, is the difference between resolving the emergency in the field and still being above a dangerous core temperature on hospital arrival.
+The physiological explanation came into sharper focus with Casa's own 2007 review in *Exercise and Sport Sciences Reviews*, which quantified what many practitioners had observed anecdotally: whole-body cold water immersion cools at roughly 0.35°C per minute, while later reviews put misting, fanning, and localized ice packs at roughly 0.03 to 0.08°C per minute. That gap, multiplied across a 30-minute window, is the difference between resolving the emergency in the field and still being above a dangerous core temperature on hospital arrival.
 
 Casa's personal clinical record reinforced the case: as of his most recent published figures, he has personally treated 295 documented cases of exertional heat stroke, with zero fatalities, using immediate on-site cold water immersion.
 
@@ -54,4 +54,4 @@ That gap between accepted protocol and field-deployable equipment is what the Ko
 
 ---
 
-*Sources: Korey Stringer Institute, University of Connecticut. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM, 2021. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, 2025 edition (consolidating NFPA 1584, 2022 edition).*
+*Sources: Korey Stringer Institute, University of Connecticut. Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM, 2021. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, 2025 edition (consolidating NFPA 1584, 2022 edition). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

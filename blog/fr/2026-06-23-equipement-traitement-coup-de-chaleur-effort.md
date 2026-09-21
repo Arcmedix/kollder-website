@@ -32,7 +32,7 @@ Sur la base de ces contraintes, voici les critères objectifs pour évaluer tout
 
 | Critère | Exigence minimale | Pourquoi |
 |---|---|---|
-| Temps de déploiement | Moins de 5 minutes, 1 opérateur | Fenêtre thérapeutique des 30 min |
+| Temps de déploiement | Moins de 5 minutes | Fenêtre thérapeutique des 30 min |
 | Accès patient | Total (tête, membres, thorax accessibles) | Monitoring continu, gestes médicaux |
 | Volume d'eau | Capacité suffisante pour immersion jusqu'aux épaules | Efficacité thermique maximale |
 | Encombrement replié | Compatible transport véhicule léger ou sac | Mobilité terrain |

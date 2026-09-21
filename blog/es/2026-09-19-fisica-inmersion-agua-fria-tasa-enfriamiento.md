@@ -10,7 +10,7 @@ published: true
 
 Todo método de enfriamiento en el terreno promete bajar la temperatura de un paciente. Solo uno tiene la física necesaria para hacerlo lo bastante rápido como para marcar la diferencia en el golpe de calor por esfuerzo. Entender por qué se reduce a tres propiedades del agua que ningún ventilador, toalla o sistema de nebulización puede replicar.
 
-**Respuesta corta:** la inmersión en agua fría de todo el cuerpo enfría a un paciente hipertérmico a un ritmo de aproximadamente 0,35 °C por minuto, frente a solo 0,03-0,05 °C por minuto con nebulización y ventilación, el método estándar basado en aire. Eso hace que la inmersión sea entre siete y doce veces más rápida que el enfriamiento por aire, una diferencia lo bastante grande como para decidir si la temperatura corporal central vuelve a niveles seguros dentro de la ventana de tratamiento de 30 minutos de la ACSM o no (Casa DJ et al., Exercise and Sport Sciences Reviews, 2007).
+**Respuesta corta:** la inmersión en agua fría de todo el cuerpo enfría a un paciente hipertérmico a un ritmo de aproximadamente 0,35 °C por minuto, frente a solo 0,03-0,05 °C por minuto con nebulización y ventilación, el método estándar basado en aire. Eso hace que la inmersión sea entre siete y doce veces más rápida que el enfriamiento por aire, una diferencia lo bastante grande como para decidir si la temperatura corporal central vuelve a niveles seguros dentro de la ventana de tratamiento de 30 minutos de la ACSM o no (Casa DJ et al., Exercise and Sport Sciences Reviews, 2007; Filep EM et al., Medicina, 2020).
 
 ## Capacidad calorífica: el agua retiene mucha más energía que el aire
 
@@ -26,15 +26,15 @@ La transferencia de calor por conducción es muchísimo más eficiente que la co
 
 Esto también explica por qué los métodos parciales, bolsas de hielo en cuello, axilas e ingles, rinden peor que la inmersión de todo el cuerpo. También dependen de la conducción, pero solo sobre una fracción pequeña de la superficie corporal total, lo que limita la transferencia total de calor sin importar lo fría que esté el hielo en sí.
 
-## Los datos: una diferencia de diez veces con relevancia clínica
+## Los datos: una gran diferencia con relevancia clínica
 
-Casa et al. (2007) documentaron las tasas de enfriamiento comparativas que hoy sustentan las recomendaciones de tratamiento de la ACSM:
+Casa et al. (2007) situaron la inmersión en agua fría de todo el cuerpo en hasta 0,35 °C por minuto, la tasa de referencia que hay detrás de las recomendaciones de tratamiento de la ACSM. Una revisión sistemática de 2020 sobre las modalidades de enfriamiento en el golpe de calor por esfuerzo (Filep et al., Medicina) sitúa las alternativas transportables mucho más abajo:
 
-- **Inmersión en agua fría de todo el cuerpo**: 0,35 °C por minuto
-- **Bolsas de hielo sobre grandes vasos**: 0,10 a 0,15 °C por minuto
-- **Nebulización con ventilación**: 0,03 a 0,05 °C por minuto
+- **Inmersión en agua fría de todo el cuerpo**: hasta 0,35 °C por minuto
+- **Bolsas de hielo, sábanas de hielo, ventiladores y métodos transportables similares**: aproximadamente 0,03 a 0,08 °C por minuto
+- **Nebulización con ventilación**: 0,03 a 0,05 °C por minuto, en el extremo bajo de ese intervalo
 
-Eso supone aproximadamente una diferencia de diez veces entre la inmersión y los métodos pasivos que aún se usan por defecto en muchos entornos. Aplicada a la ventana de tratamiento de 30 minutos de la ACSM, esa diferencia marca si se alcanza una temperatura central segura dentro de esa ventana o si sigue por encima cuando esta se cierra.
+Eso supone aproximadamente una diferencia de cuatro a doce veces entre la inmersión y los métodos pasivos que aún se usan por defecto en muchos entornos. Aplicada a la ventana de tratamiento de 30 minutos de la ACSM, esa diferencia marca si se alcanza una temperatura central segura dentro de esa ventana o si sigue por encima cuando esta se cierra.
 
 La revisión de Brearley y Walker de 2015 sobre métodos de enfriamiento en incendios, basada en investigación de los servicios de bomberos australianos, llegó a la misma conclusión con un conjunto de datos distinto: los métodos de inmersión superaron de forma consistente a los enfoques con ventilador, nebulización y bolsas de hielo para el enfriamiento de bomberos tras una intervención, no solo en atletas.
 
@@ -58,4 +58,4 @@ Los equipos que evalúen una solución de inmersión dedicada pueden encontrar l
 
 ---
 
-*Fuentes: Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Water immersion for post incident cooling of firefighters, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, edición 2025 (consolida NFPA 1584, edición 2022).*
+*Fuentes: Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews, 2007. Brearley M & Walker A, Water immersion for post incident cooling of firefighters, Extreme Physiology & Medicine, 2015. ACSM Expert Consensus Statement on Exertional Heat Illness, 2023. NFPA 1580, Standard for Emergency Responder Occupational Health and Wellness, edición 2025 (consolida NFPA 1584, edición 2022). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

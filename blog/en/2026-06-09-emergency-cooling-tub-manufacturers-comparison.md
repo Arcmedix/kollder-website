@@ -24,9 +24,9 @@ The bag format offers compactness and portability advantages. It is used in mili
 
 **Structural characteristic:** the closed-bag design means patient access during immersion is provided through the reinforced side panels, unlike an open-frame structure where access is continuous across the full surface.
 
-## Kollder: open-frame stainless steel, French manufacturer
+## Kollder: open-frame stainless steel
 
-Kollder is a French manufacturer. The Kollder cooling tub uses a different architecture from the two solutions above: open-frame food-grade stainless steel structure, stable on uneven ground, without tools, with a tub that fits up to 2 people in simultaneous immersion.
+Kollder is a French company. The Kollder cooling tub uses a different architecture from the two solutions above: open-frame food-grade stainless steel structure, stable on uneven ground, without tools, with a tub that fits up to 2 people in simultaneous immersion.
 
 Deployed dimensions: 205 x 80 x 60 cm. Packed and transport format: 85 x 10 x 10 cm in the included carry bag. Patient access is complete throughout immersion, airways, monitoring, and direct medical intervention are accessible at all times.
 

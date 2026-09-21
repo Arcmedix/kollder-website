@@ -69,7 +69,7 @@ Call simultaneously with immersion. Transport to a hospital even after apparent 
 
 ## The logistics challenge: equipment must be at the point of need
 
-The Incident Medical Unit or Forward Medical Post must be able to deploy a cooling capability in under two minutes from the moment a firefighter goes down.
+The Incident Medical Unit or Forward Medical Post must be able to bring a cooling capability into service immediately when a firefighter goes down.
 
 The operational constraints are real:
 

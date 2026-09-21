@@ -52,7 +52,7 @@ Un SDIS qui souhaite équiper ses équipes d'intervention en feux de forêt doit
 
 **Structure stable et pliable, opérationnelle en moins de 5 minutes** — c'est le critère non négociable en contexte opérationnel.
 
-**Portabilité en solo** — l'équipement doit pouvoir être porté par un seul sapeur-pompier depuis le véhicule jusqu'au point d'intervention, sur un terrain accidenté.
+**Portabilité** : l'équipement doit pouvoir être transporté facilement depuis le véhicule jusqu'au point d'intervention, sur un terrain accidenté.
 
 **Résistance aux conditions extrêmes** — chaleur, poussière, cendres, chocs. Les matériaux doivent résister à un usage en environnement hostile.
 
@@ -64,7 +64,7 @@ Un SDIS qui souhaite équiper ses équipes d'intervention en feux de forêt doit
 
 Kollder a été développée en intégrant dès la conception les contraintes opérationnelles des équipes de secours en milieu hostile. Sa structure inox alimentaire et son liner haute résistance sont conçus pour les conditions d'utilisation difficiles — pas pour une salle de sport climatisée.
 
-Sa structure stable à 6 points d'appui répond directement à la contrainte du terrain accidenté des feux de forêt, avec une mise en œuvre en moins de 5 minutes malgré des équipes réduites. Sa compacité repliée lui permet d'être transportée dans tout véhicule léger ou pick-up d'intervention.
+Sa structure stable à 6 points d'appui répond directement à la contrainte du terrain accidenté des feux de forêt, avec une mise en œuvre en moins de 5 minutes. Sa compacité repliée lui permet d'être transportée dans tout véhicule léger ou pick-up d'intervention.
 
 Retrouvez [les critères de sélection pour équiper un SDIS](https://kollder.com/fr/sdis-pompiers/) sur notre page dédiée aux sapeurs-pompiers.
 

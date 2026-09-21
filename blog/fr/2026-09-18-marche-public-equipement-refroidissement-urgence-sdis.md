@@ -131,7 +131,7 @@ Pour un équipement de sécurité, le critère prix ne doit jamais être seul d�
 - 30 à 40 % sur le prix (à raisonner en coût total de possession, pièces et garantie comprises, pas seulement en prix d'achat)
 - 10 à 20 % sur les références et le SAV (retours d'expérience terrain, délais de livraison des pièces)
 
-Demandez systématiquement une démonstration terrain avant attribution : un chronométrage réel du déploiement par un seul agent révèle des écarts importants entre la fiche technique et l'usage réel.
+Demandez systématiquement une démonstration terrain avant attribution : un chronométrage réel du déploiement par l'équipe utilisatrice révèle des écarts importants entre la fiche technique et l'usage réel.
 
 ## Erreurs fréquentes à éviter
 

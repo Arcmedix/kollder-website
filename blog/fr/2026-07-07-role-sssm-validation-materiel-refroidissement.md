@@ -24,7 +24,7 @@ Le protocole **Cool First, Transport Second**, validé par l'**ACSM 2023** et le
 
 ## Les critères opérationnels complémentaires
 
-Au-delà du critère clinique, un SSSM évalue aussi la compatibilité du matériel avec les contraintes réelles d'intervention : déploiement solo (sans dépendre d'un binôme disponible), robustesse sur tout type de terrain, facilité de transport jusqu'au point d'intervention, et facilité de nettoyage/désinfection entre deux usages. Ces critères opérationnels ne se substituent pas aux critères cliniques : ils déterminent si le matériel validé sur le papier sera réellement déployé en situation réelle.
+Au-delà du critère clinique, un SSSM évalue aussi la compatibilité du matériel avec les contraintes réelles d'intervention : montage sans outillage, robustesse sur tout type de terrain, facilité de transport jusqu'au point d'intervention, et facilité de nettoyage/désinfection entre deux usages. Ces critères opérationnels ne se substituent pas aux critères cliniques : ils déterminent si le matériel validé sur le papier sera réellement déployé en situation réelle.
 
 ## Formaliser la validation dans le cadre du SDIS
 

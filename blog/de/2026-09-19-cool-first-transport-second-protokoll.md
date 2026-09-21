@@ -56,7 +56,7 @@ Cool First, Transport Second beruht auf zwei grundlegenden physiologischen Tatsa
 
 **Das 30-Minuten-Fenster.** Sinkt die Körperkerntemperatur innerhalb von 30 Minuten nach dem klinischen Ereignis wieder unter 40 °C, liegt die Überlebensrate in den vom KSI dokumentierten Fallserien bei 100 Prozent. Über 30 Minuten oberhalb von 40 °C steigt das Risiko eines Multiorganversagens exponentiell.
 
-**Die Überlegenheit der Immersion.** Kaltwasserimmersion kühlt mit **0,35 °C pro Minute**. Alternative Methoden erreichen nicht mehr als **0,03 °C pro Minute**. Um das 30-Minuten-Fenster ausgehend von 42 °C einzuhalten, ist eine Kühlrate von mindestens 0,13 °C pro Minute erforderlich, ein Wert, den im Feld verlässlich nur die Immersion erreicht.
+**Die Überlegenheit der Immersion.** Kaltwasserimmersion kühlt mit **0,35 °C pro Minute**. Alternative Methoden kühlen in der Regel nur mit **0,03 bis 0,08 °C pro Minute**. Die Fachliteratur bewertet Kühlraten über 0,15 °C pro Minute als ausreichend, eine Schwelle, die die Immersion im Feld verlässlich erreicht und die die meisten anderen transportablen Methoden nicht erreichen.
 
 ## Praktische Anwendung des Protokolls
 
@@ -112,4 +112,4 @@ Der IOC-Konsens von 2021 (Hosokawa, Racinais et al., BJSM) stellt klar: Teamtrai
 
 ---
 
-*Quellen: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute (Dr. Douglas Casa, UConn).*
+*Quellen: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute (Dr. Douglas Casa, UConn). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

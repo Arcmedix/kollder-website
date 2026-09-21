@@ -24,7 +24,7 @@ A response built around historical seasonal averages is increasingly outdated. F
 
 ## Building capacity that scales with the trend
 
-Because heat waves are becoming more frequent rather than occasional, cooling equipment needs to be a standing part of operational readiness, not an emergency purchase after a bad summer. The Kollder emergency cooling tub's compact storage and sub-2-minute deployment make it practical to keep on hand year-round. More at [kollder.com/#contact](https://kollder.com/#contact).
+Because heat waves are becoming more frequent rather than occasional, cooling equipment needs to be a standing part of operational readiness, not an emergency purchase after a bad summer. The Kollder emergency cooling tub's compact storage (it folds into the Kollder Go bag) and stable steel frame make it practical to keep on hand year-round. More at [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Further Reading
 

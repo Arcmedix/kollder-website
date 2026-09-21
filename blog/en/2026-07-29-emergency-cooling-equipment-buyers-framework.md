@@ -12,7 +12,7 @@ Buying cooling equipment on price or availability alone is how departments end u
 
 ## 1. Structural stability, with no tools
 
-The single most common failure point in field cooling is not the equipment itself, it's the setup time. A cooling solution that requires two people, a water source hookup, or more than a couple of minutes to get operational loses exactly the window that determines outcomes. The correct test is not "how fast can it be set up by a trained team in a demo," it's "how fast can one person, under stress, get it operational for real."
+The single most common failure point in field cooling is not the equipment itself, it's stability and setup. A cooling solution that wobbles on uneven ground, needs a water source hookup, or requires tools loses exactly the window that determines outcomes. The correct test is not what a trained team can do in a demo, it's whether the equipment stays level and usable under real field conditions. Setup time still matters, as a secondary check: ask for a timed demonstration, with operational readiness in under 5 minutes.
 
 **Ask**: Does it stay stable and level on uneven ground, unassisted, with no tools and no water main connection?
 

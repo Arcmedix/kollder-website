@@ -58,7 +58,7 @@ Le Korey Stringer Institute (KSI, Université du Connecticut, Dr Douglas Casa) d
 
 ## Une solution française, pour des équipes françaises
 
-Kollder est une baignoire de refroidissement d'urgence conçue et fabriquée en France. Sa structure en acier inoxydable alimentaire (inox 304), à 6 points d'appui pour rester stable sur terrain irrégulier, son liner haute résistance et sa capacité pour 2 personnes en immersion simultanée ont été développés en tenant compte des contraintes opérationnelles des équipes médicales françaises : SDIS, SSSM, médecins de trail et de marathon, infirmiers de sécurité industrielle.
+Kollder est une baignoire de refroidissement d'urgence développée par une entreprise française. Sa structure en acier inoxydable alimentaire (inox 304), à 6 points d'appui pour rester stable sur terrain irrégulier, son liner haute résistance et sa capacité pour 2 personnes en immersion simultanée ont été développés en tenant compte des contraintes opérationnelles des équipes médicales françaises : SDIS, SSSM, médecins de trail et de marathon, infirmiers de sécurité industrielle.
 
 Le format est ouvert sur toute la longueur. Le patient reste accessible de tous les côtés pendant l'immersion — surveillance des voies aériennes, prise de pouls, température rectale, perfusion IV si nécessaire. En cas d'urgence dans l'urgence (arrêt cardiaque, convulsions), le patient peut être extrait en quelques secondes.
 

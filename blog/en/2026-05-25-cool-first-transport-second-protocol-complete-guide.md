@@ -56,7 +56,7 @@ The Cool First Transport Second protocol rests on two fundamental physiological 
 
 **The 30-minute window.** If core temperature returns below 40°C within 30 minutes of clinical presentation, survival rate is 100% in KSI-documented series. Beyond 30 minutes above 40°C, the risk of multi-organ failure increases exponentially.
 
-**The superiority of immersion.** Cold water immersion cools at **0.35°C per minute**. Alternative methods do not exceed **0.03°C per minute**. To respect the 30-minute window starting from a temperature of 42°C, a cooling rate of at least 0.13°C/min is required — a threshold only immersion can reliably achieve in the field.
+**The superiority of immersion.** Cold water immersion cools at **0.35°C per minute**. Alternative methods typically cool at only **0.03 to 0.08°C per minute**. The literature treats a rate above 0.15°C per minute as adequate cooling, a threshold that immersion reliably reaches in the field and that most other transportable methods do not.
 
 ## Practical protocol application
 
@@ -113,4 +113,4 @@ The 2021 IOC consensus (Hosokawa, Racinais et al., BJSM) states that team traini
 
 ---
 
-*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn).*
+*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

@@ -92,7 +92,7 @@ La connaissance du protocole ne suffit pas si la baignoire n'est pas là. Voici 
 
 ## Kollder : l'équipement pensé pour les contraintes des premiers secours
 
-Les équipes de premiers secours ne peuvent pas se permettre une baignoire qui prend 5 minutes à monter à deux personnes. Elles ont besoin d'un équipement qui se déploie seul, immédiatement, sur n'importe quel terrain.
+Les équipes de premiers secours ne peuvent pas se permettre une baignoire instable ou complexe à monter. Elles ont besoin d'un équipement stable, prêt à l'emploi, sur n'importe quel terrain.
 
 Kollder a été conçue avec ces contraintes opérationnelles comme point de départ. Structure stable et entièrement pliable, opérationnelle en moins de 5 minutes, structure inox résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, accès patient total pendant le refroidissement.
 

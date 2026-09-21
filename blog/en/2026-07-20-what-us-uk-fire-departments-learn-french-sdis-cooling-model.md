@@ -20,7 +20,7 @@ The mechanism behind French consistency is structural: SSSM medical directors se
 
 ## Regulation is arriving whether or not a department is ready
 
-France backed its clinical standard with **Décret n°2025-482**, formalizing heat illness obligations. The US OSHA heat standard process is moving in a comparable direction. Departments that standardize now, ahead of a mandate, avoid the rushed procurement cycle that tends to follow regulation, where equipment gets bought quickly and without proper evaluation against real operational constraints (storage space, water supply, solo deployment, training turnover).
+France backed its clinical standard with **Décret n°2025-482**, formalizing heat illness obligations. The US OSHA heat standard process is moving in a comparable direction. Departments that standardize now, ahead of a mandate, avoid the rushed procurement cycle that tends to follow regulation, where equipment gets bought quickly and without proper evaluation against real operational constraints (storage space, water supply, stability on uneven ground, training turnover).
 
 ## What "French-model" equipment specification looks like
 

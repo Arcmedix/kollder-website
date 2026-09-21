@@ -24,9 +24,9 @@ Le format bag présente un avantage de compacité et de transport. Il est utilis
 
 **Caractéristique structurelle :** le concept de sac fermé implique que l'accès au patient pendant l'immersion passe par l'ouverture des panneaux latéraux rigidifiés, à la différence d'une structure ouverte où l'accès est permanent sur toute la surface.
 
-## Kollder : structure ouverte acier inoxydable, fabrication française
+## Kollder : structure ouverte acier inoxydable
 
-Kollder est un fabricant français. La baignoire de refroidissement Kollder adopte une architecture différente des deux solutions précédentes : structure ouverte sur cadre acier inoxydable alimentaire, stable sur terrain irrégulier, sans outil, avec un bassin accueillant jusqu'à 2 personnes en immersion simultanée.
+Kollder est une entreprise française. La baignoire de refroidissement Kollder adopte une architecture différente des deux solutions précédentes : structure ouverte sur cadre acier inoxydable alimentaire, stable sur terrain irrégulier, sans outil, avec un bassin accueillant jusqu'à 2 personnes en immersion simultanée.
 
 Dimensions déployées : 205 x 80 x 60 cm. Format replié et transporté : 85 x 10 x 10 cm dans le sac de transport inclus. L'accès patient est total sur toute la durée de l'immersion, voies aériennes, monitoring, intervention médicale directe accessibles en permanence.
 

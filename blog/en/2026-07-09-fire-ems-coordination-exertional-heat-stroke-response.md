@@ -24,7 +24,7 @@ Coordination breaks down in practice when fire crews and EMS carry incompatible 
 
 ## A tub built for cross-service use
 
-The Kollder emergency cooling tub's one-person, sub-2-minute deployment and compact Kollder Go transport bag make it practical to stock on both fire apparatus and ambulances, so the handoff is a continuation of the same treatment rather than a restart. Contact [kollder.com/#contact](https://kollder.com/#contact) for fleet-wide options.
+The Kollder emergency cooling tub's stable steel frame, room for up to 2 people in simultaneous immersion and compact Kollder Go transport bag make it practical to stock on both fire apparatus and ambulances, so the handoff is a continuation of the same treatment rather than a restart. Contact [kollder.com/#contact](https://kollder.com/#contact) for fleet-wide options.
 
 ## Further Reading
 

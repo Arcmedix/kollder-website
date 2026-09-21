@@ -24,7 +24,7 @@ L'I-CWIK (Ice-Cold Water Immersion Kit) de Nereus Medical est l'un des systèmes
 | Immersion | Corps immergé, sac refermé autour du patient | Corps entier, structure ouverte |
 | Accès patient pendant l'immersion | Via panneaux latéraux rigidifiés | Total, en continu |
 | Portabilité | Très légère | Compacte |
-| Déploiement | Rapide, sans structure à assembler | < 2 min, un opérateur |
+| Déploiement | Rapide, sans structure à assembler | Structure stable, pliable, 2 personnes |
 | Fermeture | Fermetures étanches YKK AQUASEAL® | Structure rigide sans fermeture |
 
 ## Ce que l'I-CWIK fait bien
