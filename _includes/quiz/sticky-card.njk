@@ -1,0 +1,81 @@
+{#- Sticky invitation to the heat stroke quiz. Included by layouts/audience.njk when a French page sets `quizCard: true`.
+    Same card and behaviour as the FR homepage (index.html). Shares the sessionStorage dismiss key kq_card_dismissed. -#}
+{% raw %}
+<style>
+/* ── Sticky card : test de connaissances coup de chaleur ─────── */
+#kQuizCard{
+  position:fixed;right:24px;bottom:24px;width:288px;z-index:90;
+  background:var(--black);color:var(--white);padding:22px 22px 20px;
+  display:flex;flex-direction:column;gap:10px;
+  box-shadow:0 12px 36px rgba(0,0,0,.35);border:1px solid rgba(250,249,247,.16);
+  visibility:hidden;transform:translateY(calc(100% + 40px));
+  transition:transform .4s cubic-bezier(.22,1,.36,1),visibility 0s linear .4s;
+}
+#kQuizCard.kqc-visible{visibility:visible;transform:translateY(0);transition:transform .4s cubic-bezier(.22,1,.36,1),visibility 0s;}
+#kQuizCard.kqc-hidden{display:none;}
+.kqc-close{position:absolute;top:10px;right:12px;width:28px;height:28px;background:none;border:none;
+  cursor:pointer;color:rgba(250,249,247,.55);font-size:20px;line-height:1;padding:0;}
+.kqc-close:hover{color:var(--white);}
+.kqc-eyebrow{font-size:10px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--sand);margin:0;padding-right:24px;}
+.kqc-title{font-family:'DM Serif Display',Georgia,serif;font-weight:400;font-size:20px;line-height:1.25;color:var(--white);margin:0;}
+.kqc-sub{font-size:13px;line-height:1.5;color:rgba(250,249,247,.6);margin:0;}
+.kqc-cta{display:inline-flex;align-items:center;justify-content:center;gap:8px;margin-top:6px;
+  background:var(--white);color:var(--black);text-decoration:none;
+  font-size:12px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;padding:13px 18px;transition:background .2s;}
+.kqc-cta:hover{background:var(--cream);}
+.kqc-close:focus-visible,.kqc-cta:focus-visible{outline:2px solid var(--sand);outline-offset:2px;}
+@media(max-width:768px){
+  #kQuizCard{left:0;right:0;bottom:0;width:100%;flex-direction:row;align-items:center;gap:12px;
+    padding:14px 44px 14px 18px;transform:translateY(100%);}
+  .kqc-eyebrow,.kqc-sub{display:none;}
+  .kqc-title{flex:1;font-size:15px;}
+  .kqc-cta{margin-top:0;padding:11px 14px;white-space:nowrap;}
+  .kqc-close{top:50%;right:8px;transform:translateY(-50%);}
+}
+@media(prefers-reduced-motion:reduce){
+  #kQuizCard,#kQuizCard.kqc-visible{transition:none;}
+}
+</style>
+<aside id="kQuizCard" role="complementary" aria-label="Test de connaissances sur le coup de chaleur">
+  <button type="button" class="kqc-close" id="kQuizClose" aria-label="Fermer">&#215;</button>
+  <p class="kqc-eyebrow">Test gratuit · 10 questions</p>
+  <p class="kqc-title">Que savez-vous vraiment du coup de chaleur d'effort ?</p>
+  <p class="kqc-sub">Une correction sourcée après chaque réponse.</p>
+  <a class="kqc-cta" id="kQuizCta" href="/fr/test-connaissances-coup-de-chaleur/">Faire le test &#8594;</a>
+</aside>
+<script>
+(function(){
+  var KEY = 'kq_card_dismissed';
+  var card = document.getElementById('kQuizCard');
+  if (!card) return;
+  var dismissed = false;
+  try { dismissed = !!sessionStorage.getItem(KEY); } catch (e) {}
+  if (dismissed) { card.classList.add('kqc-hidden'); return; }
+
+  // Show after 15% scroll
+  var shown = false;
+  function onScroll() {
+    if (shown) return;
+    var max = document.body.scrollHeight - window.innerHeight;
+    if (max > 0 && window.scrollY / max >= 0.15) {
+      shown = true;
+      card.classList.add('kqc-visible');
+      window.removeEventListener('scroll', onScroll);
+    }
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  document.getElementById('kQuizClose').addEventListener('click', function(){
+    card.classList.remove('kqc-visible');
+    setTimeout(function(){ card.classList.add('kqc-hidden'); }, 400);
+    try { sessionStorage.setItem(KEY, '1'); } catch (e) {}
+  });
+
+  document.getElementById('kQuizCta').addEventListener('click', function(){
+    if (typeof gtag === 'function') {
+      gtag('event', 'quiz_card_click', { form_location: 'sticky_card' });
+    }
+  });
+})();
+</script>
+{% endraw %}

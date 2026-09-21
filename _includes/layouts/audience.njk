@@ -666,6 +666,8 @@ footer {
   </div>
 </footer>
 
+{% if quizCard and lang == "fr" %}{% include "quiz/sticky-card.njk" %}{% endif %}
+
 <script src="/lang.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
