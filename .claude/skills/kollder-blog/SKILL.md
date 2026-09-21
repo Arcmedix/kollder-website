@@ -1,6 +1,6 @@
 ---
 name: kollder-blog
-description: Produce blog articles for the Kollder website CMS (Eleventy / Cloudflare Pages). Use this skill whenever producing any blog post, article, or content for kollder.com — whether in French or English. Trigger on any request involving writing, creating, or drafting content for the Kollder blog, even if the user just says "write me a blog post" or "create an article about X for Kollder". Always use this skill before producing any Kollder blog content — the frontmatter format is non-negotiable for the CMS to render the file correctly.
+description: Produce blog articles for the Kollder website CMS (Eleventy / Cloudflare Pages). Use this skill whenever producing any blog post, article, or content for kollder.com — whether in French, English, German or Spanish. Trigger on any request involving writing, creating, or drafting content for the Kollder blog, even if the user just says "write me a blog post" or "create an article about X for Kollder". Always use this skill before producing any Kollder blog content — the frontmatter format is non-negotiable for the CMS to render the file correctly.
 ---
 
 # Kollder Blog Article Skill
@@ -11,13 +11,16 @@ Read this before writing, editing, or publishing any Kollder blog article. The f
 
 - French articles: `blog/fr/YYYY-MM-DD-slug.md`
 - English articles: `blog/en/YYYY-MM-DD-slug.md`
+- German articles: `blog/de/YYYY-MM-DD-slug.md`
+- Spanish articles: `blog/es/YYYY-MM-DD-slug.md`
+- DE/ES articles are adapted from the EN/FR corpus, not translated word for word (see "Translating into German or Spanish" below).
 - Filename is the publish date + a kebab-case slug derived from the title.
 - Never put the word "article" in the filename.
 - Use the actual current date. Never future-date a file.
 
-## Frontmatter — exactly 7 fields
+## Frontmatter: 7 required fields
 
-Every article must have exactly these 7 frontmatter fields, no more, no fewer:
+Every article must have these 7 frontmatter fields. The only optional additions are `faqSchema` and `howToSchema` (JSON-LD blocks for FAQ or HowTo rich results), and only when the article really is a Q&A or a step-by-step. No other extra fields.
 
 ```yaml
 ---
@@ -36,13 +39,16 @@ published: true
 - `description` — quoted string, 1-2 sentences.
 - `category` — quoted string, must be one of the categories in use (see below).
 - `layout` — always `layouts/article.njk`, never quoted.
-- `lang` — `fr` or `en`, matching the article's language and directory.
+- `lang`: `fr`, `en`, `de` or `es`, matching the article's language and directory.
 - `published` — always `true` for anything meant to go live.
 
 ## Categories in use
 
 - **French:** Sapeurs-pompiers, Protocoles médicaux, Médecine d'urgence, Événements sportifs, Militaire, EHS et industrie, Épidémiologie et santé publique
 - **English:** Fire & Rescue, Field Protocols, Emergency Medicine, Sports Events, Military, EHS & Industry, Epidemiology
+- **German:** Feuerwehr und Rettungsdienst, Feldprotokolle, Notfallmedizin, Sportveranstaltungen, Militär, Arbeitssicherheit und Industrie, Epidemiologie
+- **Spanish:** Bomberos y Rescate, Protocolos de Campo, Medicina de Urgencia, Eventos Deportivos, Militar, Seguridad Laboral e Industria, Epidemiología
+- **Baptistry (Church Life vertical, kept out of the main blog feed):** `Vie d'église` (FR), `Church Life` (EN), `Gemeindeleben` (DE), `Vida de Iglesia` (ES). These articles appear only on their own listing pages.
 
 Reuse an existing category exactly as written above. Don't invent a new one unless the user explicitly asks for a new content vertical.
 
@@ -52,12 +58,12 @@ Reuse an existing category exactly as written above. Don't invent a new one unle
 - Use `##` for section headings.
 - Use bullet lists for protocols, checklists, and comparisons.
 - Bold key operational rules and numbers inline (e.g. **"Cool First, Transport Second"**).
-- Close with a "Pour aller plus loin" (FR) or "Further Reading" (EN) section as the final `##` heading.
+- Close with a "Pour aller plus loin" (FR), "Further Reading" (EN), "Weiterführende Informationen" (DE) or "Para saber más" (ES) section as the final `##` heading.
 
 ## "Pour aller plus loin" / "Further Reading" section
 
 This is the last section of every article. Use it for:
-- **Internal links** to related Kollder blog articles and relevant audience landing pages (`/sdis-pompiers/`, `/protection-civile/`, `/services-urgence-hopitaux/`, `/assistance-medicale-evenements/`, `/defense-militaire/`, `/securite-travail/`) — prioritize these, since the audience pages currently have very few inbound links from the blog corpus.
+- **Internal links** to related Kollder blog articles and relevant audience landing pages (use the page in the article's own language: FR `/fr/sdis-pompiers/`, `/fr/protection-civile/`, `/fr/services-urgence-hopitaux/`, `/fr/assistance-medicale-evenements/`, `/fr/defense-militaire/`, `/fr/securite-travail/`; EN `/en/fire-rescue/`, `/en/civil-protection/`, `/en/emergency-medical-services/`, `/en/event-medical-support/`, `/en/defense-military/`, `/en/occupational-safety/`; DE `/de/feuerwehr-rettungsdienst/`, `/de/zivilschutz/`, `/de/rettungsdienst-notaufnahme/`, `/de/sportveranstaltungen-medizin/`, `/de/verteidigung-militaer/`, `/de/arbeitssicherheit/`; ES `/es/bomberos-rescate/`, `/es/proteccion-civil/`, `/es/servicios-emergencias-sanitarias/`, `/es/asistencia-medica-eventos/`, `/es/defensa-militar/`, `/es/seguridad-laboral/`; baptistry articles link to `/fr/baptistere-immersion/`, `/en/portable-baptistry/`, `/de/taufbecken-mobil/`, `/es/bautisterio-portatil/`) — prioritize these, since the audience pages currently have very few inbound links from the blog corpus.
 - Citations of the authoritative sources below when directly referenced in the article.
 
 Format as a simple bullet list:
@@ -77,17 +83,20 @@ Before writing this section, run the cannibalization check below to find real ex
 Before starting a new article, check whether the topic is already covered:
 
 ```bash
-grep -rli "[keyword]" blog/fr blog/en
+grep -rli "[keyword]" blog/fr blog/en blog/de blog/es
 ```
 
 If a close match exists, either fold the new angle into the existing article or clearly differentiate the new one (different audience, different angle, different keyword) rather than duplicating coverage.
 
 ## Content rules (non-negotiable, from CLAUDE.md)
 
-- **Never use "30 secondes" / "30 seconds"** — the correct claim is always "moins de 2 minutes" / "under 2 minutes", deployed by a single operator.
+- **Never use "30 secondes" / "30 seconds"** (or "30 Sekunden" / "30 segundos") for Kollder's deployment time.
+- **Emergency-cooling articles: lead with structural stability (steel frame, 6 support points, stays level on uneven ground), full foldability (Kollder Go bag) and capacity for up to 2 people in simultaneous immersion.** Deployment speed is a secondary detail only, always "moins de 5 minutes" / "under 5 minutes", never "under 2 minutes", and never tied to an operator count. Do not write "one person", "single operator", "solo" or "one-person deployment" about the tub. If a source article says so, rewrite that paragraph instead of copying it.
+- **Baptistry articles (Church Life vertical) are the exception**: "moins de 2 minutes / under 2 minutes" and single-person setup stay as is, because Corben does not compete in that market.
+- **Cooling rates must stay consistent across the corpus**: whole-body cold water immersion up to 0.35 C/min (Casa et al. 2007); transportable alternatives (ice packs, ice sheets, fans, misting) roughly 0.03 to 0.08 C/min (Filep EM et al., Medicina 2020;56(11):589); the literature treats more than 0.15 C/min as adequate cooling. Do not introduce other per-method figures without a source.
 - **No em dashes anywhere** in the body or frontmatter — use commas, periods, or parentheses instead.
 - **No future-dated articles** — the `date` field must be the actual current date, never a projected or placeholder future date.
-- **No "Made in Normandy" or manufacturing/assembly location mentions** unless the user explicitly raises it first.
+- **No "Made in Normandy" or manufacturing/assembly location mentions** (also "fabrication française", "produced in France", "French manufacturer") unless the user explicitly raises it first. "Kollder is a French company" is fine.
 - **Never mention Corben's city** when referencing the competitor Corben.
 - Protocol anchor whenever relevant: "Cool First, Transport Second" (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute).
 
@@ -97,13 +106,22 @@ ACSM Expert Consensus Statement 2023, IOC — Hosokawa Y, Racinais S et al. BJSM
 
 ## Pre-publish validation checklist
 
-- [ ] Exactly 7 frontmatter fields, correctly formatted
+- [ ] The 7 required frontmatter fields, correctly formatted (plus `faqSchema`/`howToSchema` only if justified)
 - [ ] `published: true`
 - [ ] Filename is `YYYY-MM-DD-slug.md`, no "article" in the slug
 - [ ] `date` is the real current date, not a future date
-- [ ] `lang` matches the directory (`blog/fr/` → `fr`, `blog/en/` → `en`)
+- [ ] `lang` matches the directory (`blog/fr/` → `fr`, `blog/en/` → `en`, `blog/de/` → `de`, `blog/es/` → `es`)
 - [ ] `category` matches one of the categories in use
 - [ ] Zero em dashes anywhere in the file
 - [ ] Zero instances of "30 secondes" / "30 seconds"
-- [ ] Cannibalization check run against `blog/fr` and `blog/en`
+- [ ] Emergency-cooling article: no "under 2 minutes", no one-person or solo deployment claim, no manufacturing location; stability and 2-person capacity lead
+- [ ] Cooling-rate figures match the consistent set above
+- [ ] Cannibalization check run against `blog/fr`, `blog/en`, `blog/de` and `blog/es`
 - [ ] "Pour aller plus loin" / "Further Reading" section present with real internal links (prioritizing audience pages) and any cited sources
+
+## Translating into German or Spanish
+
+- Adapt for the reader, do not translate word for word. Only link to articles in the same language, plus the audience page in that language.
+- Convert US units to metric (°F to °C, gallons to litres, inches to cm). Keep US-market prices as an explicit "US market" reference.
+- Church Life articles use the categories `Gemeindeleben` / `Vida de Iglesia`; wiring for listing pages, CTA and sitemap already exists.
+- Before translating, check `project_de_es_translation_ledger` in memory for what is already done, and skip sources that carry stale claims until the paragraph is rewritten (see content rules).
