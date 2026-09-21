@@ -94,6 +94,7 @@ Retrouvez [le matériel recommandé pour les services d'urgence](https://kollder
 ## Pour aller plus loin
 
 - [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
+- [Test : 10 questions sur le coup de chaleur d'effort](/fr/test-connaissances-coup-de-chaleur/)
 - [Demander un devis Kollder](https://kollder.com/#contact)
 
 ---

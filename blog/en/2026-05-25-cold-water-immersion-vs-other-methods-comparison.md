@@ -90,6 +90,7 @@ That is why having a deployable cooling tub, such as Kollder, is the non-negotia
 ## Further Reading
 
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
+- [Test: 10 questions on exertional heat stroke](/en/heat-stroke-knowledge-test/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 
 ---

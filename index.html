@@ -1924,7 +1924,9 @@ h1           { animation: up .5s ease both .2s; }
   .stat-num { font-size: 2rem; }
 }
 
-/* ── Kollder sticky guide card ───────────────────────────────── */
+/* ── Kollder sticky guide card ── DÉSACTIVÉ ──────────────────────
+   Désactivé le 21 septembre 2026 : faible taux de conversion, remplacé par le quiz de connaissances sur le coup de chaleur. Réactiver si besoin la saison prochaine.
+   Pour réactiver : retirer ce commentaire CSS, le commentaire HTML autour de #kGuideSticky et du script associé (plus bas), et restaurer les 4 notes internes [ ... ].
 #kGuideSticky{
   position:fixed;right:24px;top:50%;transform:translateY(-50%) translateX(320px);
   width:252px;background:#1A1917;border-radius:12px;padding:20px;
@@ -1995,6 +1997,7 @@ h1           { animation: up .5s ease both .2s; }
   .kg-compact{display:none;}
   .kg-expanded{display:flex;flex-direction:column;gap:12px;}
 }
+*/
 </style>
 
 <!-- ══ WHO WE SERVE ══ -->
@@ -2580,11 +2583,15 @@ window.closeNavOverlay = function() {
 })();
 </script>
 
-<!-- ── Kollder guide sticky card ───────────────────────────── -->
+<!--
+  Désactivé le 21 septembre 2026 : faible taux de conversion, remplacé par le quiz de connaissances sur le coup de chaleur. Réactiver si besoin la saison prochaine.
+  Carte sticky du guide PDF (Formspree mykovqeg, événement GA4 pdf_lead_submit). Balisage et script conservés à l'identique.
+  Les 4 notes internes ci-dessous étaient des commentaires HTML : elles sont notées [ ... ] pour ne pas fermer ce commentaire. Les remettre en commentaires HTML à la réactivation.
+
 <div id="kGuideSticky" role="complementary" aria-label="Télécharger le guide coup de chaleur">
   <button class="kg-close" aria-label="Fermer" id="kGuideClose">&#215;</button>
 
-  <!-- MOBILE compact bar -->
+  [MOBILE compact bar]
   <div class="kg-compact">
     <div class="kg-compact-text">
       <p class="kg-compact-title">Un coup de chaleur peut tuer en 30 min.</p>
@@ -2593,7 +2600,7 @@ window.closeNavOverlay = function() {
     <button class="kg-compact-cta" id="kMobExpand">Recevoir →</button>
   </div>
 
-  <!-- DESKTOP full card + MOBILE expanded -->
+  [DESKTOP full card + MOBILE expanded]
   <div class="kg-expanded">
     <div>
       <p class="kg-eyebrow">Guide terrain gratuit · 16 pages</p>
@@ -2620,7 +2627,7 @@ window.closeNavOverlay = function() {
       </div>
     </div>
     <hr class="kg-divider"/>
-    <!-- Form state -->
+    [Form state]
     <div id="kGuideForm" style="display:flex;flex-direction:column;gap:8px;">
       <input class="kg-input" type="email" id="kEmail" placeholder="Email professionnel" required autocomplete="email"/>
       <input class="kg-input" type="text" id="kOrg" placeholder="Organisation" required/>
@@ -2629,7 +2636,7 @@ window.closeNavOverlay = function() {
       </button>
       <p class="kg-fine">Réservé aux professionnels de santé et de sécurité.</p>
     </div>
-    <!-- Success state -->
+    [Success state]
     <div id="kGuideSuccess" class="kg-success">
       <div class="kg-success-icon">&#10003;</div>
       <div>
@@ -2642,8 +2649,6 @@ window.closeNavOverlay = function() {
     </div>
   </div>
 </div>
-<!-- ── END sticky card ─────────────────────────────────────── -->
-
 
 <script>
 (function(){
@@ -2744,6 +2749,8 @@ window.closeNavOverlay = function() {
   });
 })();
 </script>
+-->
+
 
 </body>
 </html>

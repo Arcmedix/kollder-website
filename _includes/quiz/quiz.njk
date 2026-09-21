@@ -1,0 +1,521 @@
+{#- Heat stroke knowledge quiz body, shared by the FR and EN pages. Strings and questions live in _data/quiz.js. -#}
+{% set q = quiz[lang] %}
+{% set payload = {
+  lang: lang,
+  total: quiz.total,
+  formId: quiz.formId,
+  pdfUrl: quiz.pdfUrl,
+  logo: "/logo-kollder.png",
+  ui: q.ui,
+  gate: q.gate,
+  result: q.result,
+  print: q.print,
+  questions: q.questions
+} %}
+<div class="kq-page" data-lang="{{ lang }}">
+
+{% raw %}
+<style>
+[hidden] { display: none !important; }
+.kq-page .kq-hero .partner-hero-inner { grid-template-columns: 1fr; max-width: 860px; }
+.kq-page .kq-hero .partner-hero__sub { max-width: 640px; }
+.kq-altlang { margin-top: 20px; font-size: 13px; color: var(--muted); }
+.kq-altlang a { color: inherit; text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--sand); }
+.kq-altlang a:hover { text-decoration-color: var(--ink); }
+.kq-wrap { max-width: 820px; margin: 0 auto; }
+#test { scroll-margin-top: 90px; }
+.kq-card { background: var(--white); border: 1px solid var(--border); padding: 36px; scroll-margin-top: 100px; }
+.kq-top { display: flex; justify-content: space-between; align-items: center; gap: 12px 16px; flex-wrap: wrap; }
+.kq-count { font-size: 11px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.kq-chip {
+  display: inline-flex; align-items: center; font-size: 12px; font-weight: 500;
+  background: var(--cream); border: 1px solid var(--border); border-radius: 20px;
+  padding: 4px 12px; color: var(--ink);
+}
+.kq-bar { height: 3px; background: var(--border); margin: 16px 0 28px; }
+.kq-bar span { display: block; height: 100%; width: 0; background: var(--black); transition: width .3s ease; }
+.kq-type { font-size: 11px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.kq-question {
+  font-family: 'DM Serif Display', serif; font-weight: 400; color: var(--black);
+  font-size: clamp(22px, 2.6vw, 30px); line-height: 1.25; margin: 8px 0 24px;
+}
+.kq-options { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.kq-opt {
+  display: flex; align-items: flex-start; gap: 14px; width: 100%; text-align: left;
+  background: var(--white); border: 1px solid var(--border); padding: 14px 16px;
+  font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 300; line-height: 1.5;
+  color: var(--ink); cursor: pointer; transition: border-color .15s, background .15s;
+}
+.kq-opt:hover:not(:disabled) { border-color: var(--ink); background: var(--cream); }
+.kq-opt:focus-visible, .kq-link:focus-visible, .kq-gate-form input:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.kq-opt:disabled { cursor: default; color: var(--ink); }
+.kq-opt:disabled:not(.is-correct):not(.is-wrong) { opacity: .55; }
+.kq-opt-key {
+  flex: 0 0 26px; height: 26px; border: 1px solid var(--sand); border-radius: 50%;
+  display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 500; line-height: 1;
+}
+.kq-opt.is-correct { border-color: #2f6b3f; background: #edf5ee; }
+.kq-opt.is-correct .kq-opt-key { background: #2f6b3f; border-color: #2f6b3f; color: #fff; }
+.kq-opt.is-wrong { border-color: #a3392b; background: #faeeec; }
+.kq-opt.is-wrong .kq-opt-key { background: #a3392b; border-color: #a3392b; color: #fff; }
+.kq-options--tf { flex-direction: row; }
+.kq-options--tf li { flex: 1; }
+.kq-feedback { margin-top: 24px; padding: 20px 22px; background: var(--cream); border-left: 3px solid var(--ink); outline: none; }
+.kq-feedback.is-correct { border-left-color: #2f6b3f; }
+.kq-feedback.is-wrong { border-left-color: #a3392b; }
+.kq-fb-status { font-size: 11px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 8px; }
+.kq-feedback.is-correct .kq-fb-status { color: #2f6b3f; }
+.kq-feedback.is-wrong .kq-fb-status { color: #a3392b; }
+.kq-fb-answer { font-size: 15px; font-weight: 500; color: var(--black); margin-bottom: 8px; }
+.kq-fb-fact { font-size: 14px; color: var(--ink); line-height: 1.65; margin-bottom: 10px; }
+.kq-fb-source { font-size: 12px; color: var(--muted); line-height: 1.5; margin-bottom: 18px; }
+.kq-page button.partner-btn { border: 0; cursor: pointer; }
+.kq-page button.partner-btn--outline { border: 1px solid var(--ink); }
+.kq-locked { text-align: center; padding: 8px 0 0; }
+.kq-locked-score { position: relative; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 8px; }
+.kq-blur { font-family: 'DM Serif Display', serif; font-size: 88px; line-height: 1; color: var(--black); filter: blur(9px); user-select: none; }
+.kq-lock { position: absolute; color: var(--ink); }
+.kq-eyebrow { font-size: 11px; font-weight: 500; letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.kq-gate-title, .kq-tier-title {
+  font-family: 'DM Serif Display', serif; font-weight: 400; color: var(--black);
+  font-size: clamp(24px, 3vw, 32px); line-height: 1.2; margin-bottom: 14px; outline: none;
+}
+.kq-gate-body { font-size: 15px; color: var(--muted); line-height: 1.7; max-width: 560px; margin: 0 auto 24px; }
+.kq-gate-form { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; max-width: 560px; margin: 0 auto; }
+.kq-gate-form input[type="email"] {
+  flex: 1 1 260px; border: 1px solid var(--border); background: var(--white);
+  padding: 14px; font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 300; color: var(--ink);
+}
+.kq-gate-form input[type="email"]::placeholder { color: var(--muted); opacity: .6; }
+.kq-gate-form input[aria-invalid="true"] { border-color: #a3392b; }
+.kq-error { min-height: 20px; margin-top: 10px; font-size: 13px; color: #a3392b; }
+.kq-fine { font-size: 12px; color: var(--muted); margin-top: 6px; }
+.kq-score { font-family: 'DM Serif Display', serif; font-size: 80px; line-height: 1; color: var(--black); margin-bottom: 12px; }
+.kq-tier-body { font-size: 15px; color: var(--muted); line-height: 1.7; max-width: 640px; margin-bottom: 28px; }
+.kq-next { margin-bottom: 28px; }
+.kq-next .kq-next-text { font-size: 15px; color: rgba(250,249,247,0.8); line-height: 1.7; margin-bottom: 22px; }
+.kq-hint { font-size: 12px; color: var(--muted); margin-top: 14px; }
+.kq-link {
+  background: none; border: 0; padding: 0; margin-top: 22px; cursor: pointer;
+  font-family: 'DM Sans', sans-serif; font-size: 13px; color: var(--muted);
+  text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--sand);
+}
+.kq-link:hover { color: var(--ink); text-decoration-color: var(--ink); }
+.kq-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+#kqReport { display: none; }
+@media (max-width: 768px) {
+  .kq-card { padding: 24px 18px; }
+  .kq-options--tf { flex-direction: column; }
+  .kq-blur { font-size: 68px; }
+  .kq-score { font-size: 64px; }
+}
+
+/* Print: only the personalised report is printed once the result is unlocked */
+@page { margin: 16mm; }
+@media print {
+  body.kq-unlocked > *:not(.kq-page) { display: none !important; }
+  body.kq-unlocked .kq-screen { display: none !important; }
+  body.kq-unlocked { background: #fff; }
+  body.kq-unlocked #kqReport { display: block; color: #000; font-family: 'DM Sans', Arial, sans-serif; font-size: 11pt; line-height: 1.5; }
+  #kqReport .kq-r-head { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #999; padding-bottom: 10pt; margin-bottom: 16pt; }
+  #kqReport .kq-r-head img { height: 34pt; width: auto; }
+  #kqReport .kq-r-date { font-size: 10pt; color: #444; }
+  #kqReport h1 { font-family: 'DM Serif Display', Georgia, serif; font-weight: 400; font-size: 20pt; margin-bottom: 10pt; }
+  #kqReport .kq-r-score { font-family: 'DM Serif Display', Georgia, serif; font-size: 34pt; line-height: 1.1; margin-bottom: 4pt; }
+  #kqReport h2 { font-family: 'DM Sans', Arial, sans-serif; font-weight: 500; font-size: 13pt; margin: 0 0 4pt; }
+  #kqReport h3 { font-size: 12pt; font-weight: 500; margin: 18pt 0 8pt; border-bottom: 1px solid #ccc; padding-bottom: 4pt; }
+  #kqReport p { margin-bottom: 6pt; }
+  #kqReport .kq-r-item { border: 1px solid #bbb; padding: 10pt 12pt; margin-bottom: 10pt; break-inside: avoid; page-break-inside: avoid; }
+  #kqReport .kq-r-q { font-weight: 500; }
+  #kqReport .kq-r-wrong { color: #7a2a20; }
+  #kqReport .kq-r-right { color: #1f5030; font-weight: 500; }
+  #kqReport .kq-r-src { font-size: 9.5pt; color: #444; }
+  #kqReport ul { margin: 0 0 0 16pt; font-size: 9.5pt; color: #444; }
+  #kqReport .kq-r-foot { margin-top: 18pt; padding-top: 8pt; border-top: 1px solid #999; font-size: 9.5pt; color: #444; }
+}
+</style>
+{% endraw %}
+
+<!-- HERO -->
+<section class="partner-hero kq-hero kq-screen">
+  <div class="partner-hero-inner">
+    <div>
+      <p class="partner-hero__label">{{ q.hero.label }}</p>
+      <h1>{{ q.hero.title }}</h1>
+      <p class="partner-hero__sub">{{ q.hero.sub }}</p>
+      <div class="partner-cta-row">
+        <a href="#test" class="partner-btn partner-btn--solid">{{ q.hero.cta }}</a>
+      </div>
+      <div class="partner-hero__dims">
+        {% for d in q.hero.dims %}<span class="partner-hero__dim">{{ d }}</span>{% endfor %}
+      </div>
+      <p class="kq-altlang">
+        {% if lang == "fr" %}<a href="{{ urlEn }}" hreflang="en" lang="en">{{ q.hero.altLabel }}</a>{% else %}<a href="{{ urlFr }}" hreflang="fr" lang="fr">{{ q.hero.altLabel }}</a>{% endif %}
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- QUIZ -->
+<section class="partner-section partner-section--alt kq-screen" id="test">
+  <div class="partner-section__inner kq-wrap">
+    <noscript><p class="partner-section__lead">{{ q.ui.noscript }}</p></noscript>
+    <div class="kq-card" id="kqCard">
+
+      <div id="kqTop">
+        <div class="kq-top">
+          <span class="kq-count" id="kqCount"></span>
+          <span class="kq-chip" id="kqChip" aria-live="polite"></span>
+        </div>
+        <div class="kq-bar" id="kqBar" role="progressbar" aria-label="{{ q.ui.progressLabel }}" aria-valuemin="0" aria-valuemax="{{ quiz.total }}" aria-valuenow="0"><span></span></div>
+      </div>
+
+      <div id="kqBody">
+        <p class="kq-type" id="kqType"></p>
+        <h2 class="kq-question" id="kqQuestion"></h2>
+        <ul class="kq-options" id="kqOptions"></ul>
+        <div class="kq-feedback" id="kqFeedback" tabindex="-1" aria-live="polite" hidden>
+          <p class="kq-fb-status" id="kqFbStatus"></p>
+          <p class="kq-fb-answer" id="kqFbAnswer"></p>
+          <p class="kq-fb-fact" id="kqFbFact"></p>
+          <p class="kq-fb-source" id="kqFbSource"></p>
+          <button type="button" class="partner-btn partner-btn--solid" id="kqNext"></button>
+        </div>
+      </div>
+
+      <!-- LOCKED RESULT: no score is written to the DOM before the gate is passed -->
+      <div class="kq-locked" id="kqLocked" hidden>
+        <div class="kq-locked-score" aria-hidden="true">
+          <span class="kq-blur">?/{{ quiz.total }}</span>
+          <svg class="kq-lock" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="10" rx="1.5"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>
+        </div>
+        <p class="kq-eyebrow">{{ q.gate.eyebrow }}</p>
+        <h2 class="kq-gate-title" id="kqLockedTitle" tabindex="-1">{{ q.gate.headline }}</h2>
+        <p class="kq-gate-body">{{ q.gate.body }}</p>
+        <form class="kq-gate-form" id="kqGate" action="https://formspree.io/f/{{ quiz.formId }}" method="POST" novalidate>
+          <label class="kq-sr" for="kqEmail">{{ q.gate.emailLabel }}</label>
+          <input type="email" id="kqEmail" name="email" placeholder="{{ q.gate.placeholder }}" autocomplete="email" required>
+          <input type="hidden" name="_subject" value="{{ q.gate.subject }}">
+          <input type="hidden" name="source" value="heat-stroke-quiz">
+          <input type="hidden" name="quiz_score" id="kqFScore" value="">
+          <input type="hidden" name="quiz_total" value="{{ quiz.total }}">
+          <input type="hidden" name="quiz_completed" value="true">
+          <input type="hidden" name="quiz_tier" id="kqFTier" value="">
+          <input type="hidden" name="quiz_lang" value="{{ lang }}">
+          <button type="submit" class="partner-btn partner-btn--solid" id="kqSubmit">{{ q.gate.button }}</button>
+        </form>
+        <p class="kq-error" id="kqGateError" role="alert"></p>
+        <p class="kq-fine">{{ q.gate.fine }}</p>
+      </div>
+
+      <!-- UNLOCKED RESULT -->
+      <div id="kqResult" hidden>
+        <p class="kq-eyebrow">{{ q.result.scoreLabel }}</p>
+        <p class="kq-score" id="kqScore"></p>
+        <h2 class="kq-tier-title" id="kqTierTitle" tabindex="-1"></h2>
+        <p class="kq-tier-body" id="kqTierBody"></p>
+        <div class="partner-x-list kq-next">
+          <p class="partner-x-list__title">{{ q.result.nextEyebrow }}</p>
+          <p class="kq-next-text" id="kqTierNext"></p>
+          <a class="partner-btn" href="{{ nav[lang].quoteUrl }}">{{ q.result.quoteCta }}</a>
+        </div>
+        <div class="partner-cta-row">
+          <a class="partner-btn partner-btn--solid" id="kqGuide" target="_blank" rel="noopener">{{ q.result.guide }}</a>
+          <button type="button" class="partner-btn partner-btn--outline" id="kqReportBtn">{{ q.result.report }}</button>
+        </div>
+        <p class="kq-hint">{{ q.result.reportHint }}</p>
+        <button type="button" class="kq-link" id="kqRetake">{{ q.result.retake }}</button>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- FURTHER READING + SOURCES -->
+<section class="partner-section kq-screen">
+  <div class="partner-section__inner">
+    <h2>{{ q.reading.title }}</h2>
+    <div class="partner-reading">
+      {% for it in q.reading.items %}
+      <a href="{{ it.url }}">
+        <span class="partner-reading__kicker">{{ it.kicker }}</span>
+        <span class="partner-reading__title">{{ it.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    <div class="partner-sources">
+      <span class="partner-sources__label">{{ q.sourcesLabel }}</span>
+      <img src="/images/logo-sfar.png" alt="SFAR" loading="lazy">
+      <img src="/images/logo-acsm.png" alt="ACSM" loading="lazy">
+      <img src="/images/logo-ioc.png" alt="{% if lang == 'fr' %}Comité International Olympique{% else %}International Olympic Committee{% endif %}" loading="lazy">
+      <img src="/images/logo-ksi.png" alt="Korey Stringer Institute" loading="lazy">
+    </div>
+  </div>
+</section>
+
+<!-- Print-only personalised report, filled after the gate is passed -->
+<div id="kqReport" aria-hidden="true"></div>
+
+<script>window.KQ = {{ payload | dump | safe }};</script>
+{% raw %}
+<script>
+(function () {
+  var D = window.KQ;
+  if (!D) return;
+  var $ = function (id) { return document.getElementById(id); };
+  var qs = D.questions, N = qs.length;
+  var TIER_KEYS = ['high', 'mid', 'low'];
+  var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  var LETTERS = ['A', 'B', 'C', 'D'];
+  var i = 0, score = 0, answers = [], answered = false, unlocked = false;
+
+  function fmt(t, o) { return t.replace(/\{(\w+)\}/g, function (m, k) { return o[k]; }); }
+  function chipText(n) {
+    return n === 0 ? D.ui.chipZero : n === 1 ? D.ui.chipOne : fmt(D.ui.chipMany, { n: n });
+  }
+  function tierIndex(s) {
+    var t = D.result.tiers;
+    for (var k = 0; k < t.length; k++) { if (s >= t[k].min) return k; }
+    return t.length - 1;
+  }
+  function optionsOf(q) { return q.type === 'tf' ? D.ui.tfOptions : q.options; }
+  function make(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+  function scrollToCard() {
+    var c = $('kqCard');
+    if (c && c.getBoundingClientRect().top < 0) c.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function setBar(done) {
+    var bar = $('kqBar');
+    bar.firstElementChild.style.width = (done / N * 100) + '%';
+    bar.setAttribute('aria-valuenow', String(done));
+  }
+
+  function render() {
+    var q = qs[i];
+    answered = false;
+    $('kqCount').textContent = fmt(D.ui.questionOf, { n: i + 1, total: N });
+    setBar(i);
+    $('kqType').textContent = q.type === 'tf' ? D.ui.typeTf : D.ui.typeMcq;
+    $('kqQuestion').textContent = q.q;
+    var list = $('kqOptions');
+    list.textContent = '';
+    list.className = 'kq-options' + (q.type === 'tf' ? ' kq-options--tf' : '');
+    optionsOf(q).forEach(function (label, k) {
+      var li = make('li');
+      var b = make('button', 'kq-opt');
+      b.type = 'button';
+      b.setAttribute('data-i', String(k));
+      var key = make('span', 'kq-opt-key', LETTERS[k]);
+      key.setAttribute('aria-hidden', 'true');
+      b.appendChild(key);
+      b.appendChild(make('span', 'kq-opt-text', label));
+      b.addEventListener('click', function () { answer(k); });
+      li.appendChild(b);
+      list.appendChild(li);
+    });
+    $('kqFeedback').hidden = true;
+  }
+
+  function answer(k) {
+    if (answered) return;
+    answered = true;
+    var q = qs[i], ok = (k === q.answer);
+    answers.push({ chosen: k, ok: ok });
+    if (ok) score++;
+
+    var btns = $('kqOptions').querySelectorAll('.kq-opt');
+    Array.prototype.forEach.call(btns, function (b, idx) {
+      b.disabled = true;
+      var key = b.firstChild;
+      if (idx === q.answer) { b.classList.add('is-correct'); key.textContent = '✓'; }
+      else if (idx === k) { b.classList.add('is-wrong'); key.textContent = '✕'; }
+    });
+
+    // The running counter is not updated on the last question: the final score stays behind the gate.
+    if (i < N - 1) $('kqChip').textContent = chipText(score);
+
+    var fb = $('kqFeedback');
+    fb.className = 'kq-feedback ' + (ok ? 'is-correct' : 'is-wrong');
+    $('kqFbStatus').textContent = ok ? D.ui.correct : D.ui.wrong;
+    $('kqFbAnswer').textContent = D.ui.correctAnswer + optionsOf(q)[q.answer];
+    $('kqFbFact').textContent = q.fact;
+    $('kqFbSource').textContent = D.ui.source + q.source;
+    $('kqNext').textContent = (i < N - 1) ? D.ui.next : D.ui.finish;
+    fb.hidden = false;
+    fb.focus({ preventScroll: true });
+    fb.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+
+  function next() {
+    if (i < N - 1) { i++; render(); scrollToCard(); $('kqQuestion').setAttribute('tabindex', '-1'); $('kqQuestion').focus({ preventScroll: true }); }
+    else { showLocked(); }
+  }
+
+  function showLocked() {
+    $('kqBody').hidden = true;
+    $('kqCount').textContent = '';
+    setBar(N);
+    $('kqChip').textContent = D.ui.chipDone;
+    $('kqLocked').hidden = false;
+    scrollToCard();
+    $('kqLockedTitle').focus({ preventScroll: true });
+  }
+
+  function track() {
+    if (typeof gtag === 'function') {
+      gtag('event', 'quiz_lead_submit', { form_location: 'heat_stroke_quiz', quiz_score: score, quiz_total: N });
+    }
+  }
+
+  function buildReport(idx) {
+    var P = D.print, tier = D.result.tiers[idx];
+    var r = $('kqReport');
+    r.textContent = '';
+    var head = make('div', 'kq-r-head');
+    var logo = make('img');
+    logo.src = D.logo; logo.alt = 'Kollder';
+    head.appendChild(logo);
+    var locale = D.lang === 'fr' ? 'fr-FR' : 'en-GB';
+    head.appendChild(make('span', 'kq-r-date', P.dateLabel + new Date().toLocaleDateString(locale, { year: 'numeric', month: 'long', day: 'numeric' })));
+    r.appendChild(head);
+    r.appendChild(make('h1', null, P.heading));
+    r.appendChild(make('p', 'kq-r-score', score + '/' + N));
+    r.appendChild(make('h2', null, tier.title));
+    r.appendChild(make('p', null, tier.body));
+
+    r.appendChild(make('h3', null, P.review));
+    var missed = 0;
+    qs.forEach(function (q, n) {
+      var a = answers[n];
+      if (a.ok) return;
+      missed++;
+      var opts = optionsOf(q);
+      var item = make('div', 'kq-r-item');
+      item.appendChild(make('p', 'kq-r-q', (n + 1) + '. ' + q.q));
+      item.appendChild(make('p', 'kq-r-wrong', P.yourAnswer + opts[a.chosen]));
+      item.appendChild(make('p', 'kq-r-right', P.correctAnswer + opts[q.answer]));
+      item.appendChild(make('p', null, q.fact));
+      item.appendChild(make('p', 'kq-r-src', D.ui.source + q.source));
+      r.appendChild(item);
+    });
+    if (!missed) r.appendChild(make('p', null, P.none));
+
+    r.appendChild(make('h3', null, P.refs));
+    var ul = make('ul');
+    var seen = {};
+    qs.forEach(function (q) {
+      if (seen[q.source]) return;
+      seen[q.source] = true;
+      ul.appendChild(make('li', null, q.source));
+    });
+    r.appendChild(ul);
+    r.appendChild(make('p', 'kq-r-foot', P.footer));
+  }
+
+  function unlock() {
+    if (unlocked) return;
+    unlocked = true;
+    var idx = tierIndex(score), tier = D.result.tiers[idx];
+    $('kqScore').textContent = score + '/' + N;
+    $('kqTierTitle').textContent = tier.title;
+    $('kqTierBody').textContent = tier.body;
+    $('kqTierNext').textContent = tier.next;
+    $('kqGuide').href = D.pdfUrl;
+    buildReport(idx);
+    document.body.classList.add('kq-unlocked');
+    $('kqTop').hidden = true;
+    $('kqLocked').hidden = true;
+    $('kqResult').hidden = false;
+    scrollToCard();
+    $('kqTierTitle').focus({ preventScroll: true });
+  }
+
+  function onGateSubmit(e) {
+    e.preventDefault();
+    var form = $('kqGate'), input = $('kqEmail'), btn = $('kqSubmit'), err = $('kqGateError');
+    var email = input.value.trim();
+    if (!EMAIL_RE.test(email)) {
+      input.setAttribute('aria-invalid', 'true');
+      err.textContent = D.gate.invalid;
+      input.focus();
+      return;
+    }
+    input.removeAttribute('aria-invalid');
+    err.textContent = '';
+    btn.disabled = true;
+    btn.textContent = D.gate.sending;
+
+    var idx = tierIndex(score);
+    $('kqFScore').value = String(score);
+    $('kqFTier').value = TIER_KEYS[idx] || '';
+    var data = new FormData(form);
+    data.set('email', email);
+
+    fetch('https://formspree.io/f/' + D.formId, {
+      method: 'POST',
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    })
+    .then(function (r) { return r.json(); })
+    .then(function (json) {
+      if (json.ok || json.next) {
+        track();
+        unlock();
+      } else {
+        btn.disabled = false;
+        btn.textContent = D.gate.retry;
+        err.textContent = D.gate.failed;
+      }
+    })
+    .catch(function () {
+      // On network error still unlock (graceful degradation, same as the homepage guide card)
+      track();
+      unlock();
+    });
+  }
+
+  function printReport() {
+    var prev = document.title;
+    function restore() { document.title = prev; window.removeEventListener('afterprint', restore); }
+    window.addEventListener('afterprint', restore);
+    document.title = D.print.docTitle;
+    window.print();
+  }
+
+  function restart() {
+    i = 0; score = 0; answers = []; answered = false; unlocked = false;
+    document.body.classList.remove('kq-unlocked');
+    $('kqReport').textContent = '';
+    $('kqGuide').removeAttribute('href');
+    $('kqFScore').value = '';
+    $('kqFTier').value = '';
+    $('kqEmail').value = '';
+    var btn = $('kqSubmit');
+    btn.disabled = false;
+    btn.textContent = D.gate.button;
+    $('kqGateError').textContent = '';
+    $('kqResult').hidden = true;
+    $('kqLocked').hidden = true;
+    $('kqTop').hidden = false;
+    $('kqBody').hidden = false;
+    $('kqChip').textContent = chipText(0);
+    render();
+    scrollToCard();
+  }
+
+  $('kqNext').addEventListener('click', next);
+  $('kqGate').addEventListener('submit', onGateSubmit);
+  $('kqReportBtn').addEventListener('click', printReport);
+  $('kqRetake').addEventListener('click', restart);
+  $('kqChip').textContent = chipText(0);
+  render();
+})();
+</script>
+{% endraw %}
+</div>

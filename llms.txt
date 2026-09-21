@@ -16,6 +16,10 @@
 - [Défense / militaire (FR)](https://kollder.com/fr/defense-militaire/) / [Defense & Military (EN)](https://kollder.com/en/defense-military/): Cooling equipment for military medical services (SSSM) supporting personnel in hot environments.
 - [Sécurité au travail (FR)](https://kollder.com/fr/securite-travail/) / [Occupational Safety / EHS (EN)](https://kollder.com/en/occupational-safety/): Cooling equipment for workplace EHS managers responsible for heat illness prevention.
 
+## Tools
+
+- [Test de connaissances : coup de chaleur d'effort (FR)](https://kollder.com/fr/test-connaissances-coup-de-chaleur/) / [Heat Stroke Knowledge Test (EN)](https://kollder.com/en/heat-stroke-knowledge-test/): 10-question quiz on exertional heat stroke with a sourced explanation after each answer (ACSM 2023, IOC/BJSM 2021, Korey Stringer Institute).
+
 ## Key articles: cold water immersion, exertional heat stroke, Cool First Transport Second
 
 - [Cool First Transport Second : le protocole qui sauve des vies sur le terrain (FR)](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/): Origins, scientific basis, field application and required equipment for the Cool First Transport Second protocol.
