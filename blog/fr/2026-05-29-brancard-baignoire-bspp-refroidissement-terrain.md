@@ -12,7 +12,7 @@ Le 24 mai 2026, les sapeurs-pompiers de Paris (BSPP) ont publié sur leur compte
 
 ## Qu'est-ce qu'un brancard baignoire ?
 
-Un "brancard baignoire" est le terme opérationnel utilisé par les sapeurs-pompiers pour désigner une **baignoire de refroidissement d'urgence déployable**. Ce n'est pas un brancard au sens habituel du terme — c'est une cuve étanche à structure rigide, remplie d'eau froide, dans laquelle la victime est immergée corps entier sur place, avant tout transport vers les urgences.
+Un "brancard baignoire" est le terme opérationnel utilisé par les sapeurs-pompiers pour désigner une **baignoire de refroidissement d'urgence déployable**. Ce n'est pas un brancard au sens habituel du terme, c'est une cuve étanche à structure rigide, remplie d'eau froide, dans laquelle la victime est immergée corps entier sur place, avant tout transport vers les urgences.
 
 Le terme "brancard" reflète la logique opérationnelle : comme un brancard classique, il se déploie rapidement sur le terrain, permet une prise en charge immédiate, et libère l'équipe pour le transport dès que la victime est stabilisée.
 
@@ -31,7 +31,7 @@ L'immersion en eau froide est la seule technique qui respecte cette fenêtre :
 
 Le Dr Douglas Casa (Korey Stringer Institute, Université du Connecticut) a documenté un taux de survie de **100% sur 401 cas** de coup de chaleur sévère traités par immersion dans les 30 premières minutes. Ce chiffre chute significativement dès lors que le transport précède le refroidissement.
 
-La règle est celle du **Cool First, Transport Second** — validée par la SFAR, l'ACSM et le Comité International Olympique.
+La règle est celle du **Cool First, Transport Second**, validée par la SFAR, l'ACSM et le Comité International Olympique.
 
 ## Pourquoi plusieurs baignoires simultanément à Maisons-Alfort ?
 
@@ -43,19 +43,19 @@ Une seule baignoire n'aurait pas suffi. La BSPP avait anticipé ce scénario et 
 
 Pour être utile sur le terrain, une baignoire de refroidissement d'urgence doit répondre à des contraintes opérationnelles précises que les baignoires domestiques ou hospitalières ne remplissent pas :
 
-**Déploiement immédiat** — entièrement pliable, opérationnelle en moins de 5 minutes sur le terrain.
+**Déploiement immédiat** : entièrement pliable, opérationnelle en moins de 5 minutes sur le terrain.
 
-**Portabilité** — s'intégrer replié dans un VSAV, un fourgon pompe-tonne ou un véhicule de commandement sans contraindre le reste du matériel.
+**Portabilité** : s'intégrer replié dans un VSAV, un fourgon pompe-tonne ou un véhicule de commandement sans contraindre le reste du matériel.
 
-**Accès patient complet** — permettre la surveillance continue des voies aériennes, la mesure de la température rectale et tout geste médical avancé pendant l'immersion. Un système fermé ne remplit pas cette exigence.
+**Accès patient complet** : permettre la surveillance continue des voies aériennes, la mesure de la température rectale et tout geste médical avancé pendant l'immersion. Un système fermé ne remplit pas cette exigence.
 
-**Stabilité** — tenir sur un terrain non plat, en pente, ou sur revêtement irrégulier, sans se déformer sous le poids du patient et de l'eau.
+**Stabilité** : tenir sur un terrain non plat, en pente, ou sur revêtement irrégulier, sans se déformer sous le poids du patient et de l'eau.
 
-**Résistance** — supporter un usage répété en conditions difficiles (chaleur, poussière, chocs) sans détérioration des jonctions ni fuites.
+**Résistance** : supporter un usage répété en conditions difficiles (chaleur, poussière, chocs) sans détérioration des jonctions ni fuites.
 
 ## Kollder : conçue pour les contraintes des sapeurs-pompiers
 
-Kollder est la baignoire de refroidissement d'urgence développée pour répondre aux contraintes opérationnelles des équipes terrain — notamment les sapeurs-pompiers et les équipes SSSM. Sa structure inox alimentaire et son liner haute résistance, associés à une base stable à 6 points d'appui, garantissent un déploiement en moins de 5 minutes sur n'importe quel terrain, avec accès patient complet.
+Kollder est la baignoire de refroidissement d'urgence développée pour répondre aux contraintes opérationnelles des équipes terrain, notamment les sapeurs-pompiers et les équipes SSSM. Sa structure inox alimentaire et son liner haute résistance, associés à une base stable à 6 points d'appui, garantissent un déploiement en moins de 5 minutes sur n'importe quel terrain, avec accès patient complet.
 
 Les SDIS et SSSM qui souhaitent évaluer Kollder dans le cadre de leur politique d'équipement peuvent contacter l'équipe via [kollder.com/#contact](https://kollder.com/#contact).
 
@@ -69,4 +69,4 @@ Les SDIS et SSSM qui souhaitent évaluer Kollder dans le cadre de leur politique
 
 ---
 
-*Sources : @PompiersParis, post X du 24 mai 2026. ACSM Expert Consensus Statement on Exertional Heat Illness 2023. IOC Adverse Weather Impact Expert Working Group — Hosokawa Y, Racinais S et al., BJSM 2021. Casa DJ et al., Exercise and Sport Sciences Reviews 2007. Korey Stringer Institute — Douglas Casa, UConn.*
+*Sources : @PompiersParis, post X du 24 mai 2026. ACSM Expert Consensus Statement on Exertional Heat Illness 2023. IOC Adverse Weather Impact Expert Working Group, Hosokawa Y, Racinais S et al., BJSM 2021. Casa DJ et al., Exercise and Sport Sciences Reviews 2007. Korey Stringer Institute, Douglas Casa, UConn.*

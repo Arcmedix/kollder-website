@@ -8,7 +8,7 @@ lang: fr
 published: true
 ---
 
-L'hyperthermie d'effort sévère — le coup de chaleur d'effort — n'est pas un malaise. C'est une urgence vitale qui provoque des lésions organiques irréversibles en l'absence de traitement dans les 30 premières minutes. Comprendre ce qui se passe dans le corps est la première étape pour répondre correctement.
+L'hyperthermie d'effort sévère, le coup de chaleur d'effort, n'est pas un malaise. C'est une urgence vitale qui provoque des lésions organiques irréversibles en l'absence de traitement dans les 30 premières minutes. Comprendre ce qui se passe dans le corps est la première étape pour répondre correctement.
 
 ## Ce qui se passe dans le corps à partir de 40°C
 
@@ -20,7 +20,7 @@ Selon une publication de ScienceDirect (2024), l'hyperthermie déclenche une ré
 
 ## Les conséquences neurologiques
 
-Le cerveau est l'organe le plus vulnérable à la chaleur. Une revue publiée dans *Critical Care* (Walter & Carraretto, 2016) établit qu'une seule exposition à des températures élevées peut provoquer des dysfonctions cognitives et neurologiques durables — voire permanentes. Le cervelet est particulièrement sensible.
+Le cerveau est l'organe le plus vulnérable à la chaleur. Une revue publiée dans *Critical Care* (Walter & Carraretto, 2016) établit qu'une seule exposition à des températures élevées peut provoquer des dysfonctions cognitives et neurologiques durables, voire permanentes. Le cervelet est particulièrement sensible.
 
 Les manifestations immédiates incluent confusion, agitation, convulsions et coma. Ces troubles peuvent persister des semaines après l'épisode aigu. Dans les cas sévères, des séquelles cérébelleuses permanentes ont été documentées.
 
@@ -36,7 +36,7 @@ Ces données sont issues d'un suivi sur 14 ans. L'hyperthermie d'effort n'est pa
 
 ## Les conséquences rénales et musculaires
 
-La rhabdomyolyse — destruction des fibres musculaires sous l'effet de la chaleur — libère de la myoglobine dans le sang. Cette protéine obstrue les tubules rénaux et peut provoquer une insuffisance rénale aiguë en quelques heures.
+La rhabdomyolyse, destruction des fibres musculaires sous l'effet de la chaleur, libère de la myoglobine dans le sang. Cette protéine obstrue les tubules rénaux et peut provoquer une insuffisance rénale aiguë en quelques heures.
 
 Dans les cas graves, une coagulation intravasculaire disséminée (CIVD), une insuffisance hépatique et une défaillance multiviscérale complète peuvent s'installer. À partir de 42°C, les ischémies tissulaires touchent tous les organes simultanément.
 
@@ -44,7 +44,7 @@ Dans les cas graves, une coagulation intravasculaire disséminée (CIVD), une in
 
 Une étude de cohorte citée par l'ACSM (2023) portant sur des militaires américains hospitalisés pour hyperthermie d'effort a montré un risque de mortalité à long terme augmenté de **40%** par rapport à une population de référence hospitalisée pour appendicite.
 
-Le pronostic à distance dépend directement de la durée d'exposition à une température centrale supérieure à 40°C — et donc de la vitesse de traitement initial.
+Le pronostic à distance dépend directement de la durée d'exposition à une température centrale supérieure à 40°C, et donc de la vitesse de traitement initial.
 
 ## Pourquoi les 30 premières minutes sont décisives
 
@@ -71,4 +71,4 @@ Kollder est conçue pour ça : structure stable sur n'importe quel terrain, enti
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Walter EJ & Carraretto M, Critical Care 2016, ScienceDirect 2024 — Coup de chaleur d'exercice, Korey Stringer Institute — Douglas Casa (UConn).*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Walter EJ & Carraretto M, Critical Care 2016, ScienceDirect 2024, Coup de chaleur d'exercice, Korey Stringer Institute, Douglas Casa (UConn).*

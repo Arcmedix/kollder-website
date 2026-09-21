@@ -8,7 +8,7 @@ lang: en
 published: true
 ---
 
-Choosing the wrong cooling method in an exertional heat stroke emergency does not just slow recovery — it can be fatal. Here is a structured comparison of available solutions and the evidence behind each.
+Choosing the wrong cooling method in an exertional heat stroke emergency does not just slow recovery; it can be fatal. Here is a structured comparison of available solutions and the evidence behind each.
 
 ## The only metric that matters: cooling rate
 
@@ -16,7 +16,7 @@ The clinical objective is non-negotiable: return core temperature below 40 °C w
 
 The ACSM (2023) Expert Consensus Statement is unambiguous: cold water immersion is the only method with a consistently sufficient cooling rate. All alternatives fall short for a constituted EHS case.
 
-## Method 1 — Ice packs, wet towels, localised cold
+## Method 1: Ice packs, wet towels, localised cold
 
 The most commonly improvised response because it requires no equipment planning.
 
@@ -24,23 +24,23 @@ The most commonly improvised response because it requires no equipment planning.
 
 These approaches act on the skin surface but cannot sustain deep thermal transfer. Localised cold application can trigger cutaneous vasoconstriction, which paradoxically reduces heat exchange by limiting superficial blood flow. Appropriate for prevention and mild heat illness (heat exhaustion). Not a treatment for EHS.
 
-## Method 2 — Ice sheets / wet sheet method
+## Method 2: Ice sheets / wet sheet method
 
 Wrapping the patient in ice-water-soaked sheets, often combined with ice packs over high-vascularity zones (groin, axilla, neck).
 
 **Cooling rate: 0.10–0.20 °C/min depending on surface coverage**
 
-An improvement over localised cold, but the rate is still insufficient to meet the 30-minute target from a 42–43 °C starting temperature. Sheets warm rapidly and must be replaced continuously. In a chaotic field environment — a finish-line emergency, a wildfire incident — sustaining technique quality is difficult. The method has no standardised protocol and significant inter-operator variability.
+An improvement over localised cold, but the rate is still insufficient to meet the 30-minute target from a 42–43 °C starting temperature. Sheets warm rapidly and must be replaced continuously. In a chaotic field environment (a finish-line emergency, a wildfire incident), sustaining technique quality is difficult. The method has no standardised protocol and significant inter-operator variability.
 
-## Method 3 — Evaporative cooling with forced ventilation
+## Method 3: Evaporative cooling with forced ventilation
 
 High-flow misting combined with fan airflow to maximise evaporative heat loss from the skin.
 
-**Cooling rate: variable — highly humidity-dependent**
+**Cooling rate: variable: highly humidity-dependent**
 
-In low-humidity, high-wind conditions (alpine environments, desert) this method can achieve meaningful cooling rates. In hot, humid conditions — the environments most likely to generate EHS in distance running and industrial settings — evaporative capacity drops significantly. A method whose efficacy collapses in the conditions where EHS is most prevalent is not a reliable first-line treatment.
+In low-humidity, high-wind conditions (alpine environments, desert) this method can achieve meaningful cooling rates. In hot, humid conditions, the environments most likely to generate EHS in distance running and industrial settings, evaporative capacity drops significantly. A method whose efficacy collapses in the conditions where EHS is most prevalent is not a reliable first-line treatment.
 
-## Method 4 — Cold Water Immersion (CWI)
+## Method 4: Cold Water Immersion (CWI)
 
 **Cooling rate: 0.35 °C/min** (Casa DJ et al., *Exercise and Sport Sciences Reviews*, 2007)
 
@@ -57,17 +57,17 @@ CWI is the unambiguous gold standard endorsed by the ACSM (2023), the IOC (Hosok
 | Evaporative + fan | Variable | Low (humidity-dependent) | No |
 | **Cold water immersion** | **0.35 °C/min** | **High** | **Yes** |
 
-## The operational barrier — and how to remove it
+## The operational barrier, and how to remove it
 
-CWI has been the evidence-based standard for over 20 years. The reason it remains under-deployed is not clinical scepticism — it is logistics. Standard immersion tubs are fixed installations. They belong to sports medicine facilities and hospital emergency departments, not to trail medical posts, fire & rescue incident sites, or industrial first-aid stations.
+CWI has been the evidence-based standard for over 20 years. The reason it remains under-deployed is not clinical scepticism; it is logistics. Standard immersion tubs are fixed installations. They belong to sports medicine facilities and hospital emergency departments, not to trail medical posts, fire & rescue incident sites, or industrial first-aid stations.
 
-The **Kollder portable cooling tub** is built around this specific operational problem. It is a reinforced PVC and aluminium-frame tub (205 × 65 × 35 cm deployed, compact when folded) built on a stable frame that stays level on any terrain and folds fully into a transport bag. It provides full patient immersion — from shoulders to feet — with complete medical access throughout: rectal thermometry monitoring, IV lines, airway management. There is no need to extract the patient during treatment.
+The **Kollder portable cooling tub** is built around this specific operational problem. It is a reinforced PVC and aluminium-frame tub (205 × 65 × 35 cm deployed, compact when folded) built on a stable frame that stays level on any terrain and folds fully into a transport bag. It provides full patient immersion, from shoulders to feet, with complete medical access throughout: rectal thermometry monitoring, IV lines, airway management. There is no need to extract the patient during treatment.
 
 For sporting event medical teams, fire & rescue units (SDIS), military medical units (SSSM), or industrial EHS managers who need to apply the protocol the evidence supports: [kollder.com/#contact](https://kollder.com/#contact)
 
 ## Liability and protocol compliance
 
-For event medical directors and occupational health officers, the question is not only clinical — it is legal. The ACSM and IOC recommendations establish a standard of care. Failing to have CWI-capable equipment on site when an EHS fatality occurs exposes the responsible parties to serious civil and professional liability. Knowing the protocol and not being equipped to apply it is not a defensible position.
+For event medical directors and occupational health officers, the question is not only clinical; it is legal. The ACSM and IOC recommendations establish a standard of care. Failing to have CWI-capable equipment on site when an EHS fatality occurs exposes the responsible parties to serious civil and professional liability. Knowing the protocol and not being equipped to apply it is not a defensible position.
 
 In France, the 2025-482 decree reinforces employer obligations on heat-related health risks. The trend across European and international jurisdictions is toward more explicit requirements for on-site heat emergency treatment capacity.
 
@@ -81,4 +81,4 @@ In France, the 2025-482 decree reinforces employer obligations on heat-related h
 
 ---
 
-*Sources: ACSM Expert Consensus Statement, 2023 — Casa DJ et al., Exercise and Sport Sciences Reviews, 2007 — Hosokawa Y, Racinais S et al., IOC/BJSM, 2021 — Walter EJ & Carraretto M, Critical Care, 2016 — Korey Stringer Institute, University of Connecticut (Dr Douglas Casa) — SFAR prehospital recommendations — Décret 2025-482 (FR employer heat obligations).*
+*Sources: ACSM Expert Consensus Statement, 2023, Casa DJ et al., Exercise and Sport Sciences Reviews, 2007, Hosokawa Y, Racinais S et al., IOC/BJSM, 2021, Walter EJ & Carraretto M, Critical Care, 2016, Korey Stringer Institute, University of Connecticut (Dr Douglas Casa), SFAR prehospital recommendations, Décret 2025-482 (FR employer heat obligations).*

@@ -1,7 +1,7 @@
 ---
-title: "Dr. Douglas Casa: Why Exertional Heat Stroke Is 100% Survivable — And Still Killing People"
+title: "Dr. Douglas Casa: Why Exertional Heat Stroke Is 100% Survivable, and Still Killing People"
 date: 2026-05-24
-description: "Dr. Douglas Casa of the Korey Stringer Institute has tracked over 3,000 exertional heat stroke cases with zero deaths when treated correctly. His research explains exactly why people are still dying — and what every responder must do differently."
+description: "Dr. Douglas Casa of the Korey Stringer Institute has tracked over 3,000 exertional heat stroke cases with zero deaths when treated correctly. His research explains exactly why people are still dying, and what every responder must do differently."
 category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
@@ -16,7 +16,7 @@ Dr. Casa's path to becoming the world's leading authority on EHS began on August
 
 As he told [UConn Today](https://today.uconn.edu/2025/10/one-collapse-countless-saves/): *"The benefit of having a near-death experience as a 16-year-old is I never had to worry about what my job or my career was going to be. I knew literally within a couple days of that taking place that I wanted to pursue this area of study."*
 
-Since then, Casa has accumulated more than 200 peer-reviewed publications on heat-related illness and has treated hundreds of EHS patients personally — with zero fatalities.
+Since then, Casa has accumulated more than 200 peer-reviewed publications on heat-related illness and has treated hundreds of EHS patients personally, with zero fatalities.
 
 ## The core finding: 100% survival is achievable
 
@@ -30,11 +30,11 @@ Every preventable EHS death is a system failure, not a medical inevitability.
 
 **1. Rushing to transport before cooling**
 
-The reflex to load a patient and drive to the hospital is deeply embedded in emergency response culture. In EHS, it is the wrong priority. The patient who arrives already cooled has a fundamentally different prognosis from the one who arrives at 108°F after a 20-minute transport. The protocol: **cool first, transport second.** The ambulance call happens in parallel with immersion — not instead of it.
+The reflex to load a patient and drive to the hospital is deeply embedded in emergency response culture. In EHS, it is the wrong priority. The patient who arrives already cooled has a fundamentally different prognosis from the one who arrives at 108°F after a 20-minute transport. The protocol: **cool first, transport second.** The ambulance call happens in parallel with immersion, not instead of it.
 
 **2. Using inadequate cooling methods**
 
-Wet towels, ice packs, and misting fans are widely available. They are also insufficient as primary EHS treatment. Cold water immersion cools at 0.35 to 0.40°F per minute. Wet towels and fanning cool at 0.05 to 0.10°F per minute — approximately 6 times slower. In a 30-minute window, that gap is the difference between full recovery and permanent neurological damage.
+Wet towels, ice packs, and misting fans are widely available. They are also insufficient as primary EHS treatment. Cold water immersion cools at 0.35 to 0.40°F per minute. Wet towels and fanning cool at 0.05 to 0.10°F per minute, approximately 6 times slower. In a 30-minute window, that gap is the difference between full recovery and permanent neurological damage.
 
 **3. Missing or unavailable cooling equipment**
 
@@ -50,18 +50,18 @@ Casa describes the protocol shift as equivalent to AED deployment for cardiac ar
 
 Based on KSI's recommendations:
 
-- **Cold water immersion capability on site** — not in a vehicle, not in a depot, but at the point of potential need
-- **Rectal thermometers in every medical kit** — ear and forehead devices are not adequate for EHS diagnosis
-- **All first responders trained on "cool first, transport second"** — not just the team physician
+- **Cold water immersion capability on site**: not in a vehicle, not in a depot, but at the point of potential need
+- **Rectal thermometers in every medical kit**: ear and forehead devices are not adequate for EHS diagnosis
+- **All first responders trained on "cool first, transport second"**: not just the team physician
 - **Ice supply planned and confirmed** for events and training sessions at risk
 - **Emergency action plan** with EHS response, named roles, and time targets
 
 ## Sources
 
-- SciLine, *Dr. Douglas Casa: Heat stroke care — Cool first, transport second*, November 2025 — [sciline.org](https://www.sciline.org/health-medicine/rapid-cooling-heat-stroke/)
-- UConn Today, *One Collapse, Countless Saves*, October 2025 — [today.uconn.edu](https://today.uconn.edu/2025/10/one-collapse-countless-saves/)
-- CBS News Minnesota, *Korey Stringer Institute heat research* — [cbsnews.com](https://www.cbsnews.com/minnesota/news/korey-stringer-institute-heat-research)
-- Korey Stringer Institute, University of Connecticut — [ksi.uconn.edu](https://ksi.uconn.edu)
+- SciLine, *Dr. Douglas Casa: Heat stroke care (Cool first, transport second*, November 2025) [sciline.org](https://www.sciline.org/health-medicine/rapid-cooling-heat-stroke/)
+- UConn Today, *One Collapse, Countless Saves*, October 2025, [today.uconn.edu](https://today.uconn.edu/2025/10/one-collapse-countless-saves/)
+- CBS News Minnesota, *Korey Stringer Institute heat research*, [cbsnews.com](https://www.cbsnews.com/minnesota/news/korey-stringer-institute-heat-research)
+- Korey Stringer Institute, University of Connecticut, [ksi.uconn.edu](https://ksi.uconn.edu)
 
 ---
 

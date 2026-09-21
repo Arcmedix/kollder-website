@@ -44,7 +44,7 @@ This protocol is now validated by the American College of Sports Medicine, the I
 
 The historical mistake in exertional heat stroke management was to evacuate the patient to hospital as quickly as possible. This instinct, while logical, worsened outcomes for two reasons:
 
-**Transport time is lost treatment time.** During transit, core temperature continues to rise — or at best plateaus — without effective cooling. Every minute above 40°C worsens brain, liver, and kidney damage.
+**Transport time is lost treatment time.** During transit, core temperature continues to rise, or at best plateaus, without effective cooling. Every minute above 40°C worsens brain, liver, and kidney damage.
 
 **Emergency departments are not always ready.** Cold water immersion in a hospital setting requires specific preparation. Patients arriving too late and without pre-cooling have often exceeded the therapeutic window.
 
@@ -60,37 +60,37 @@ The Cool First Transport Second protocol rests on two fundamental physiological 
 
 ## Practical protocol application
 
-### Step 1 — Recognition (0–2 minutes)
+### Step 1: Recognition (0–2 minutes)
 
 Any collapse during or immediately following intense physical exertion with:
 - Core temperature ≥ 40°C (tympanic or rectal)
 - Neurological signs: confusion, agitation, loss of consciousness, seizures
 
-= **Suspected exertional heat stroke — Cool First protocol activated immediately**
+= **Suspected exertional heat stroke: Cool First protocol activated immediately**
 
-### Step 2 — Cooling (2–20 minutes)
+### Step 2: Cooling (2–20 minutes)
 
 Deploy the immersion tub, fill with cold water and ice, immerse the patient fully (shoulders and scalp), keep airway above water.
 
 Continuous monitoring of rectal temperature every 5 minutes.
 
-### Step 3 — Call EMS (in parallel)
+### Step 3: Call EMS (in parallel)
 
-The call to emergency services is made **in parallel** with cooling, not before it. The dispatch message states: "Exertional heat stroke currently being treated by cold water immersion — requesting transport to emergency department once temperature returns below 38.6°C."
+The call to emergency services is made **in parallel** with cooling, not before it. The dispatch message states: "Exertional heat stroke currently being treated by cold water immersion, requesting transport to emergency department once temperature returns below 38.6°C."
 
-### Step 4 — Stop cooling and transport
+### Step 4: Stop cooling and transport
 
-Remove the patient from the tub at **38.6°C rectal temperature**. Do not wait for 37°C — risk of hypothermia by thermal inertia.
+Remove the patient from the tub at **38.6°C rectal temperature**. Do not wait for 37°C, risk of hypothermia by thermal inertia.
 
 Transfer to emergency department for blood work (CPK, renal function, coagulation) and monitoring for secondary complications.
 
 ## What the protocol changes for field teams
 
-Before Cool First Transport Second, teams improvised with available means — wet towels, ice packs, fans. These methods created a false sense of security: the patient appeared to be receiving care while core temperature continued rising.
+Before Cool First Transport Second, teams improvised with available means: wet towels, ice packs, fans. These methods created a false sense of security: the patient appeared to be receiving care while core temperature continued rising.
 
 The protocol imposes a clear logistical requirement: **a tub, water and ice must be available within 2 minutes at every at-risk intervention**.
 
-This is the logistical constraint Kollder solves. The cooling tub, stable on any terrain and fully foldable into a transport bag, allows field teams — fire services, military medical units, event medical teams — to apply the protocol without any prior infrastructure.
+This is the logistical constraint Kollder solves. The cooling tub, stable on any terrain and fully foldable into a transport bag, allows field teams (fire services, military medical units, event medical teams) to apply the protocol without any prior infrastructure.
 
 ## Who needs to know this protocol?
 
@@ -113,4 +113,4 @@ The 2021 IOC consensus (Hosokawa, Racinais et al., BJSM) states that team traini
 
 ---
 
-*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*
+*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute, Douglas Casa (UConn). Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

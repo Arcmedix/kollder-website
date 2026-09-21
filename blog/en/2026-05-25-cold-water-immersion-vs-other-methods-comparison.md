@@ -12,7 +12,7 @@ Not all cooling methods are equal when treating exertional heat stroke. The scie
 
 ## The decisive criterion: cooling rate
 
-The therapeutic window for exertional heat stroke is **30 minutes** between clinical presentation and core temperature returning below 40°C. For a patient at 42°C, that requires cooling by 2°C in 30 minutes — a minimum rate of **0.07°C per minute**.
+The therapeutic window for exertional heat stroke is **30 minutes** between clinical presentation and core temperature returning below 40°C. For a patient at 42°C, that requires cooling by 2°C in 30 minutes: a minimum rate of **0.07°C per minute**.
 
 | Method | Cooling rate | Meets the 30-min window? |
 |---|---|---|
@@ -31,7 +31,7 @@ The therapeutic window for exertional heat stroke is **30 minutes** between clin
 
 Whole-body immersion in water between 1.5°C and 15°C is the gold standard, validated by all major medical and sports science organisations. The Korey Stringer Institute has documented **zero deaths** in 401 cases treated with this method when cooling was initiated within 30 minutes.
 
-Its effectiveness is explained by the thermal conductivity of water — 25 times higher than air — and by maximum contact surface with the patient's entire body.
+Its effectiveness is explained by the thermal conductivity of water, 25 times higher than air, and by maximum contact surface with the patient's entire body.
 
 **Advantages:**
 - Scientifically validated cooling rate
@@ -49,7 +49,7 @@ The combination of cold water spraying and fanning (mechanical fan or natural wi
 
 It is recommended **when no immersion tub is available**, as a secondary alternative by the ACSM and other guidelines. Its cooling rate is insufficient for severe hyperthermia (> 41°C) and its effectiveness varies significantly with ambient humidity.
 
-In hot and humid conditions — the most common circumstances for exertional heat stroke — evaporation is reduced and effectiveness drops significantly.
+In hot and humid conditions, the most common circumstances for exertional heat stroke, evaporation is reduced and effectiveness drops significantly.
 
 ## Ice packs at vascular sites
 
@@ -81,9 +81,9 @@ Misting without fanning is the least effective method. In high-humidity conditio
 
 ## Conclusion: equipment makes the difference
 
-Knowing the protocol is not enough — the equipment must be available before the incident occurs. A team that knows the Cool First Transport Second rule but has no tub on site will be forced to use an insufficient method.
+Knowing the protocol is not enough; the equipment must be available before the incident occurs. A team that knows the Cool First Transport Second rule but has no tub on site will be forced to use an insufficient method.
 
-That is why having a deployable cooling tub — such as Kollder — is the non-negotiable logistical precondition for correct protocol application.
+That is why having a deployable cooling tub, such as Kollder, is the non-negotiable logistical precondition for correct protocol application.
 
 [Request a Kollder quote](https://kollder.com/#contact)
 
@@ -94,4 +94,4 @@ That is why having a deployable cooling tub — such as Kollder — is the non-n
 
 ---
 
-*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Hosokawa Y, Racinais S et al. BJSM 2021, Casa DJ — Korey Stringer Institute, CHAMP Clinical Practice Guideline 2024.*
+*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Hosokawa Y, Racinais S et al. BJSM 2021, Casa DJ, Korey Stringer Institute, CHAMP Clinical Practice Guideline 2024.*

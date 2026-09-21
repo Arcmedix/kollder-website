@@ -20,27 +20,27 @@ Ce n'est pas une recommandation de confort. C'est une exigence médicale fondée
 
 Tout événement sportif organisé par temps chaud est concerné dès lors qu'il implique un effort physique intense. Les événements à risque incluent :
 
-**Les courses à pied** — marathons, semi-marathons, trails, courses nature, courses sur route. Le risque est maximal lors des arrivées, où les coureurs ont accumulé plusieurs heures d'effort et de déshydratation.
+**Les courses à pied** : marathons, semi-marathons, trails, courses nature, courses sur route. Le risque est maximal lors des arrivées, où les coureurs ont accumulé plusieurs heures d'effort et de déshydratation.
 
-**Les événements de fitness** — Hyrox, CrossFit, OCR (Obstacle Course Racing). L'intensité de l'effort combinée à un environnement souvent confiné augmente significativement le risque même par temps modéré.
+**Les événements de fitness** : Hyrox, CrossFit, OCR (Obstacle Course Racing). L'intensité de l'effort combinée à un environnement souvent confiné augmente significativement le risque même par temps modéré.
 
-**Les épreuves cyclistes et de triathlon** — notamment les formats longue distance où l'exposition thermique est prolongée.
+**Les épreuves cyclistes et de triathlon** : notamment les formats longue distance où l'exposition thermique est prolongée.
 
-**Les événements de sports collectifs estivaux** — tournois de beach volley, football en plein air, rugby à VII.
+**Les événements de sports collectifs estivaux** : tournois de beach volley, football en plein air, rugby à VII.
 
-**Les épreuves militaires et de sécurité civile** — marches forcées, épreuves de sélection, exercices en tenue de protection.
+**Les épreuves militaires et de sécurité civile** : marches forcées, épreuves de sélection, exercices en tenue de protection.
 
 ## Ce que vous devez avoir sur chaque événement à risque
 
 Le protocole Cool First Transport Second impose une disponibilité immédiate de l'équipement. Concrètement, chaque poste médical avancé d'un événement sportif estival doit disposer de :
 
-**1. Une baignoire de refroidissement déployable** — conformes au protocole d'immersion complète, stables sur n'importe quel point du parcours, accessibles en moins de 5 minutes.
+**1. Une baignoire de refroidissement déployable** : conformes au protocole d'immersion complète, stables sur n'importe quel point du parcours, accessibles en moins de 5 minutes.
 
-**2. De l'eau froide et de la glace** — en quantité suffisante pour remplir la baignoire et maintenir une température entre 1,5°C et 15°C. Anticipez les besoins selon la température ambiante et la durée de l'événement.
+**2. De l'eau froide et de la glace** : en quantité suffisante pour remplir la baignoire et maintenir une température entre 1,5°C et 15°C. Anticipez les besoins selon la température ambiante et la durée de l'événement.
 
-**3. Un thermomètre rectal** — c'est le seul moyen fiable de mesurer la température centrale sur le terrain. La température tympanique sous-estime systématiquement la température centrale lors d'un coup de chaleur d'effort.
+**3. Un thermomètre rectal** : c'est le seul moyen fiable de mesurer la température centrale sur le terrain. La température tympanique sous-estime systématiquement la température centrale lors d'un coup de chaleur d'effort.
 
-**4. Une équipe formée au protocole** — connaître la règle Cool First Transport Second et savoir l'appliquer sous stress opérationnel.
+**4. Une équipe formée au protocole** : connaître la règle Cool First Transport Second et savoir l'appliquer sous stress opérationnel.
 
 ## Combien de baignoires prévoir ?
 
@@ -57,7 +57,7 @@ Lors de l'intervention de la BSPP à Maisons-Alfort le 24 mai 2026, plusieurs vi
 
 Kollder a été conçue en pensant aux contraintes spécifiques des événements sportifs : logistique réduite, équipe médicale de taille variable, terrain imprévisible, nécessité d'intervenir vite sur plusieurs victimes potentielles simultanées.
 
-Sa structure stable et rapide à mettre en œuvre permet à un infirmier ou un médecin de terrain de monter la baignoire pendant qu'un second soignant prend en charge la victime — sans perdre une seconde.
+Sa structure stable et rapide à mettre en œuvre permet à un infirmier ou un médecin de terrain de monter la baignoire pendant qu'un second soignant prend en charge la victime, sans perdre une seconde.
 
 Sa structure compacte repliée s'intègre dans une camionnette médicale, un véhicule de coordination ou même un coffre de voiture. Pas d'infrastructure fixe nécessaire. Pas d'eau courante nécessaire à l'avance.
 
@@ -72,4 +72,4 @@ Pour les organisateurs qui souhaitent équiper leur événement pour la saison e
 
 ---
 
-*Sources : IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), ACSM Expert Consensus Statement 2023, Korey Stringer Institute — Douglas Casa (UConn), @PompiersParis 24 mai 2026.*
+*Sources : IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), ACSM Expert Consensus Statement 2023, Korey Stringer Institute, Douglas Casa (UConn), @PompiersParis 24 mai 2026.*

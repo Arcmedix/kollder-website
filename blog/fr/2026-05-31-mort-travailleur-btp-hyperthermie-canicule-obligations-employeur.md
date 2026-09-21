@@ -42,7 +42,7 @@ Le décret porte sur la prévention. Il ne dit pas ce qu'il faut faire lorsqu'un
 
 Or c'est précisément là que le pronostic vital se joue.
 
-L'hyperthermie d'effort — aussi appelée coup de chaleur d'effort — est une urgence médicale absolue. La température corporelle monte rapidement au-delà de 40 °C. Sans refroidissement immédiat et efficace, les conséquences sont irréversibles : défaillance hépatique, rénale, coagulopathie, atteinte neurologique. Et le décès.
+L'hyperthermie d'effort, aussi appelée coup de chaleur d'effort, est une urgence médicale absolue. La température corporelle monte rapidement au-delà de 40 °C. Sans refroidissement immédiat et efficace, les conséquences sont irréversibles : défaillance hépatique, rénale, coagulopathie, atteinte neurologique. Et le décès.
 
 Le protocole médical de référence, validé par l'**ACSM (American College of Sports Medicine, consensus 2023)**, l'**IOC (BJSM, 2021)** et la **SFAR** en France, est sans ambiguïté : **Cool First, Transport Second**. L'immersion en eau froide doit être pratiquée sur place, avant le transfert à l'hôpital. Chaque minute compte. L'objectif est de ramener la température centrale en dessous de 40 °C dans les 30 minutes suivant le malaise.
 
@@ -58,7 +58,7 @@ Sur un chantier extérieur, en période de vigilance canicule, l'employeur doit 
 
 C'est le gap que les équipes de secours et les responsables EHS les plus rigoureux ont identifié : l'espace entre la prévention et la prise en charge d'un coup de chaleur constitué.
 
-**Kollder** a été conçu précisément pour combler ce gap. La baignoire de refroidissement d'urgence reste stable sur n'importe quel terrain — y compris à pied d'un chantier — grâce à ses 6 points d'appui. Elle permet d'initier l'immersion en eau froide immédiatement, sans attendre l'arrivée des secours. Le patient reste entièrement accessible : monitoring, ventilation, communication — rien n'est compromis.
+**Kollder** a été conçu précisément pour combler ce gap. La baignoire de refroidissement d'urgence reste stable sur n'importe quel terrain, y compris à pied d'un chantier, grâce à ses 6 points d'appui. Elle permet d'initier l'immersion en eau froide immédiatement, sans attendre l'arrivée des secours. Le patient reste entièrement accessible : monitoring, ventilation, communication, rien n'est compromis.
 
 Pour les responsables EHS, les directeurs de travaux et les chefs de chantier exposés à des épisodes de chaleur intense, c'est un équipement à intégrer dans le plan de prévention au même titre qu'un défibrillateur. Pas parce que la prévention est insuffisante, mais parce que l'accident peut survenir malgré elle.
 
@@ -83,4 +83,4 @@ Ce n'est pas une question de budget. C'est une question d'anticipation.
 
 ---
 
-*Sources : Décret n° 2025-482 du 27 mai 2025 (Légifrance) — BFMTV / Batiweb / Le Tribunal du Net, reportages mai 2026 — ACSM Expert Consensus Statement 2023 — Casa DJ et al., Exercise and Sport Sciences Reviews 2007 — Korey Stringer Institute, University of Connecticut — SFAR — DGT, bilan accidents du travail 2025 — Assurance maladie-risques professionnels, rapport annuel 2025*
+*Sources : Décret n° 2025-482 du 27 mai 2025 (Légifrance), BFMTV / Batiweb / Le Tribunal du Net, reportages mai 2026, ACSM Expert Consensus Statement 2023, Casa DJ et al., Exercise and Sport Sciences Reviews 2007, Korey Stringer Institute, University of Connecticut, SFAR, DGT, bilan accidents du travail 2025, Assurance maladie-risques professionnels, rapport annuel 2025*

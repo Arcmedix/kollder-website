@@ -14,7 +14,7 @@ En 2021, le groupe de travail sur les conditions météorologiques du Comité In
 
 La question de la chaleur lors des grandes compétitions n'est pas nouvelle. Mais deux événements ont accéléré la structuration des protocoles internationaux : les Championnats du Monde d'Athlétisme de Doha en 2019, organisés dans des conditions de chaleur et d'humidité extrêmes, et les Jeux Olympiques de Tokyo 2020.
 
-Le Dr Sébastien Racinais, directeur de la recherche et du support scientifique à l'ASPETAR Orthopaedic and Sports Medicine Hospital de Doha, a joué un rôle central dans les deux. Dans un [éditorial publié dans *Frontiers in Sports*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7739629/) en 2019, Racinais et Girard posaient le cadre : le coup de chaleur est *"the second highest cause of death in sport after cardiac conditions"* — la deuxième cause de décès dans le sport après les pathologies cardiaques.
+Le Dr Sébastien Racinais, directeur de la recherche et du support scientifique à l'ASPETAR Orthopaedic and Sports Medicine Hospital de Doha, a joué un rôle central dans les deux. Dans un [éditorial publié dans *Frontiers in Sports*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7739629/) en 2019, Racinais et Girard posaient le cadre : le coup de chaleur est *"the second highest cause of death in sport after cardiac conditions"*, la deuxième cause de décès dans le sport après les pathologies cardiaques.
 
 ## Les recommandations CIO 2021 : ce qui est exigé des organisateurs
 
@@ -27,7 +27,7 @@ Les commissaires, secouristes de parcours et bénévoles doivent être formés �
 Le groupe d'experts est explicite : la température rectale est la seule méthode fiable sur le terrain. Les thermomètres auriculaires et frontaux ne doivent pas être utilisés pour confirmer ou infirmer le diagnostic de CCE.
 
 **3. Immersion immédiate en eau froide**
-Le traitement de référence reste l'immersion corps entier en eau froide. La capacité d'immersion doit être présente sur site — pas en attente dans un véhicule à distance.
+Le traitement de référence reste l'immersion corps entier en eau froide. La capacité d'immersion doit être présente sur site, pas en attente dans un véhicule à distance.
 
 **4. "Cool first, transport second"**
 L'évacuation vers l'hôpital ne doit pas interrompre ou retarder le refroidissement en cours. Le SMUR est appelé en parallèle de l'initiation du refroidissement.
@@ -36,13 +36,13 @@ L'évacuation vers l'hôpital ne doit pas interrompre ou retarder le refroidisse
 
 Les Championnats du Monde de Doha 2019 ont été un test grandeur nature : 32°C et 73% d'humidité relative à 23h30 du soir, des conditions que le WBGT classait en zone rouge. Les équipes médicales de World Athletics et d'ASPETAR avaient déployé des dispositifs de refroidissement pré-positionnés sur les parcours et en zone d'arrivée.
 
-Le bilan : aucun décès, des cas de CCE gérés rapidement sur place avec récupération complète. Ce résultat n'est pas dû à la chance — c'est le produit d'une planification médicale rigoureuse et d'un équipement adéquat pré-positionné.
+Le bilan : aucun décès, des cas de CCE gérés rapidement sur place avec récupération complète. Ce résultat n'est pas dû à la chance, c'est le produit d'une planification médicale rigoureuse et d'un équipement adéquat pré-positionné.
 
 ## Un angle souvent négligé : les femmes et l'immersion en eau froide
 
 Une étude publiée en 2022 dans [*Frontiers in Physiology*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9732943/) par Hutchins, Minett et Stewart (Queensland University of Technology) soulève un point important : la recherche fondatrice sur l'efficacité de l'immersion en eau froide dans le CCE a été conduite presque exclusivement sur des sujets masculins. Les recommandations actuelles sont donc appliquées aux femmes sans validation spécifique.
 
-En pratique, le protocole reste le même — l'immersion reste le meilleur traitement disponible. Mais les médecins d'événements doivent être attentifs au suivi des paramètres pendant l'immersion chez les athlètes féminines.
+En pratique, le protocole reste le même : l'immersion reste le meilleur traitement disponible. Mais les médecins d'événements doivent être attentifs au suivi des paramètres pendant l'immersion chez les athlètes féminines.
 
 ## Ce que les directeurs médicaux d'événements doivent avoir en place pour 2026
 
@@ -64,9 +64,9 @@ Retrouvez [les obligations d'un directeur médical d'événement sportif](https:
 
 ## Sources
 
-- Hosokawa Y, Racinais S, Akama T, Casa DJ, et al., *Prehospital management of exertional heat stroke at sports competitions: IOC Adverse Weather Impact Expert Working Group*, British Journal of Sports Medicine, 2021 — [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8639927/)
-- Racinais S, Girard O, *Editorial: Hurdling the Challenges of the 2019 IAAF World Championships*, Frontiers in Sports, 2019 — [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7739629/)
-- Hutchins KP, Minett GM, Stewart IB, *Treating exertional heat stroke: Limited understanding of the female response to cold water immersion*, Frontiers in Physiology, 2022 — [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9732943/)
+- Hosokawa Y, Racinais S, Akama T, Casa DJ, et al., *Prehospital management of exertional heat stroke at sports competitions: IOC Adverse Weather Impact Expert Working Group*, British Journal of Sports Medicine, 2021, [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8639927/)
+- Racinais S, Girard O, *Editorial: Hurdling the Challenges of the 2019 IAAF World Championships*, Frontiers in Sports, 2019, [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7739629/)
+- Hutchins KP, Minett GM, Stewart IB, *Treating exertional heat stroke: Limited understanding of the female response to cold water immersion*, Frontiers in Physiology, 2022, [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9732943/)
 
 ---
 

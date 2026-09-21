@@ -8,7 +8,7 @@ layout: layouts/article.njk
 lang: fr
 ---
 
-**En cette saison chaude 2026, les équipes médicales de terrain — SAMU, SMUR, médecins d'événements sportifs, SSSM des SDIS — vont de nouveau être confrontées au coup de chaleur d'effort. Cette urgence vitale tue encore chaque été en France, non par manque de connaissance, mais par manque d'équipement adapté sur le terrain.**
+**En cette saison chaude 2026, les équipes médicales de terrain : SAMU, SMUR, médecins d'événements sportifs, SSSM des SDIS, vont de nouveau être confrontées au coup de chaleur d'effort. Cette urgence vitale tue encore chaque été en France, non par manque de connaissance, mais par manque d'équipement adapté sur le terrain.**
 
 
 ## Qu'est-ce que le coup de chaleur d'effort ?
@@ -59,7 +59,7 @@ Pourquoi l'immersion et pas autre chose ?
 | Brumisation + ventilation | 0,03 à 0,05°C/min | Oui, mais insuffisant |
 | Perfusion de solutés froids | Variable | Médical uniquement |
 
-**L'immersion en eau froide refroidit 6 à 10 fois plus vite que les méthodes alternatives.** Cette différence n'est pas anecdotique — c'est une différence entre séquelles permanentes et récupération complète.
+**L'immersion en eau froide refroidit 6 à 10 fois plus vite que les méthodes alternatives.** Cette différence n'est pas anecdotique, c'est une différence entre séquelles permanentes et récupération complète.
 
 ---
 
@@ -100,12 +100,12 @@ Les contraintes opérationnelles sont réelles :
 
 ## Protocole de prise en charge sur le terrain (résumé)
 
-1. **Identifier** — Personne effondrée pendant ou après un effort : coup de chaleur présomptif
-2. **Mesurer** — Température rectale (thermomètre rectal à 15 cm de profondeur)
-3. **Refroidir immédiatement** — Immersion corps entier en eau froide (5-15°C si possible)
-4. **Surveiller** — Température toutes les 5 minutes, maintenir jusqu'à 38,5°C
-5. **Transporter** — Vers structure hospitalière même si amélioration clinique
-6. **Alerter le SMUR** — Simultanément à l'initiation du refroidissement, pas à la place
+1. **Identifier** : Personne effondrée pendant ou après un effort : coup de chaleur présomptif
+2. **Mesurer** : Température rectale (thermomètre rectal à 15 cm de profondeur)
+3. **Refroidir immédiatement** : Immersion corps entier en eau froide (5-15°C si possible)
+4. **Surveiller** : Température toutes les 5 minutes, maintenir jusqu'à 38,5°C
+5. **Transporter** : Vers structure hospitalière même si amélioration clinique
+6. **Alerter le SMUR** : Simultanément à l'initiation du refroidissement, pas à la place
 
 ---
 
@@ -125,5 +125,5 @@ La saison chaude 2026 a débuté. Voici les points de préparation essentiels po
 - [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
 - [Comment les services d'urgence hospitaliers s'organisent face au CCE](https://kollder.com/fr/services-urgence-hopitaux/)
 - Recommandations SFAR sur le coup de chaleur d'exercice (2024)
-- Bulletin Épidémiologique Hebdomadaire — Chaleur et performance sportive, Santé Publique France (2025)
+- Bulletin Épidémiologique Hebdomadaire : Chaleur et performance sportive, Santé Publique France (2025)
 - Guide pour un été sportif et responsable 2025, Ministère de la Santé

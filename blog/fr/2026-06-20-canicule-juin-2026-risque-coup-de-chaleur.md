@@ -72,4 +72,4 @@ La baignoire de refroidissement d'urgence **Kollder** est conçue pour répondre
 
 ---
 
-*Sources : Météo-France, communiqué canicule juin 2026 — ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Casa DJ et al., Exercise and Sport Sciences Reviews, 2007 — Hosokawa Y, Racinais S et al., IOC/BJSM, 2021 — Korey Stringer Institute, University of Connecticut (Douglas Casa) — SFAR — Décret 2025-482 — Franceinfo, 18-19 juin 2026 — Préfecture de Police de Paris, communiqué 18 juin 2026*
+*Sources : Météo-France, communiqué canicule juin 2026, ACSM Expert Consensus Statement on Exertional Heat Illness, 2023, Casa DJ et al., Exercise and Sport Sciences Reviews, 2007, Hosokawa Y, Racinais S et al., IOC/BJSM, 2021, Korey Stringer Institute, University of Connecticut (Douglas Casa), SFAR, Décret 2025-482, Franceinfo, 18-19 juin 2026, Préfecture de Police de Paris, communiqué 18 juin 2026*

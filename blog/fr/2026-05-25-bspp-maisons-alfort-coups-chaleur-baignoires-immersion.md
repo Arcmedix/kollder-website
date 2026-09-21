@@ -12,13 +12,13 @@ Le 24 mai 2026, vers 12h00, les sapeurs-pompiers de Paris (BSPP) sont intervenus
 
 Dans un post publié sur leur compte X officiel (@PompiersParis), la BSPP précise que *"l'effort des secours s'est porté sur le refroidissement des victimes, grâce à la mise en place de plusieurs 'brancards baignoires' sur l'intervention."*
 
-Ce cas concret illustre ce que les protocoles médicaux internationaux recommandent depuis plusieurs années — et ce que les équipes médicales de terrain mettent progressivement en pratique.
+Ce cas concret illustre ce que les protocoles médicaux internationaux recommandent depuis plusieurs années, et ce que les équipes médicales de terrain mettent progressivement en pratique.
 
 ## Ce que sont les "brancards baignoires"
 
 Le terme "brancard baignoire" utilisé par la BSPP désigne des baignoires de refroidissement d'urgence déployables sur le terrain, permettant l'immersion corps entier de la victime en eau froide, immédiatement sur place, avant tout transport.
 
-C'est la traduction opérationnelle concrète du protocole **Cool First, Transport Second** — la règle d'or de la médecine préhospitalière pour le coup de chaleur d'effort, validée par la SFAR, l'ACSM et le Comité International Olympique.
+C'est la traduction opérationnelle concrète du protocole **Cool First, Transport Second**, la règle d'or de la médecine préhospitalière pour le coup de chaleur d'effort, validée par la SFAR, l'ACSM et le Comité International Olympique.
 
 La mise en place de "plusieurs" baignoires simultanément sur cette intervention illustre la réalité des événements sportifs à risque : le coup de chaleur d'effort peut toucher plusieurs coureurs en même temps, dans les mêmes conditions environnementales. Une seule baignoire n'est pas toujours suffisante.
 
@@ -26,7 +26,7 @@ La mise en place de "plusieurs" baignoires simultanément sur cette intervention
 
 La réponse est physiologique. Lorsque la température centrale dépasse 40°C avec des troubles neurologiques, chaque minute sans refroidissement efficace aggrave les lésions cérébrales, hépatiques et rénales.
 
-L'immersion en eau froide refroidit à **0,35°C par minute** — dix fois plus vite que toute méthode alternative (serviettes humides, brumisation, poches de glace). Le Dr Douglas Casa du Korey Stringer Institute a documenté un taux de survie de **100% sur 401 cas** lorsque le refroidissement était initié dans les 30 premières minutes.
+L'immersion en eau froide refroidit à **0,35°C par minute** : dix fois plus vite que toute méthode alternative (serviettes humides, brumisation, poches de glace). Le Dr Douglas Casa du Korey Stringer Institute a documenté un taux de survie de **100% sur 401 cas** lorsque le refroidissement était initié dans les 30 premières minutes.
 
 Transporter la victime vers les urgences sans la refroidir d'abord, c'est perdre cette fenêtre thérapeutique critique.
 
@@ -36,7 +36,7 @@ L'intervention de la BSPP à Maisons-Alfort illustre deux réalités que les org
 
 **Premièrement**, les coups de chaleur d'effort ne surviennent pas uniquement lors de grandes épreuves internationales. Une course locale par temps chaud peut générer plusieurs victimes simultanées. L'équipement de refroidissement doit être anticipé pour tout événement sportif estival, quelle que soit sa taille.
 
-**Deuxièmement**, la capacité à déployer plusieurs baignoires rapidement est déterminante. Dans ce contexte, la vitesse de déploiement et la portabilité de l'équipement ne sont pas des critères de confort — ce sont des critères médicaux qui conditionnent la prise en charge simultanée de plusieurs victimes.
+**Deuxièmement**, la capacité à déployer plusieurs baignoires rapidement est déterminante. Dans ce contexte, la vitesse de déploiement et la portabilité de l'équipement ne sont pas des critères de confort : ce sont des critères médicaux qui conditionnent la prise en charge simultanée de plusieurs victimes.
 
 ## Le consensus scientifique est unanime
 

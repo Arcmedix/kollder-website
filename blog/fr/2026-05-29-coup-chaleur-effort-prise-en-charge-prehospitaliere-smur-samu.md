@@ -8,13 +8,13 @@ lang: fr
 published: true
 ---
 
-Le coup de chaleur d'effort (CCE) est la pathologie préhospitalière la plus chronosensible qui soit. Sa mortalité dépend quasi exclusivement d'un seul paramètre : le délai entre l'effondrement et le retour de la température centrale sous 40°C. Les équipes SMUR et SAMU sont en première ligne pour optimiser ce délai — à condition d'avoir l'équipement et le protocole adaptés.
+Le coup de chaleur d'effort (CCE) est la pathologie préhospitalière la plus chronosensible qui soit. Sa mortalité dépend quasi exclusivement d'un seul paramètre : le délai entre l'effondrement et le retour de la température centrale sous 40°C. Les équipes SMUR et SAMU sont en première ligne pour optimiser ce délai, à condition d'avoir l'équipement et le protocole adaptés.
 
 ## La spécificité préhospitalière du CCE
 
 Le CCE diffère des autres urgences préhospitalières sur un point fondamental : **le traitement définitif peut et doit être initié avant l'arrivée du SMUR**, sur le lieu de l'incident, par les premiers intervenants ou les témoins compétents. Le rôle de l'équipe SMUR n'est pas d'initier le traitement mais de le superviser, de gérer les complications et d'assurer la continuité jusqu'aux urgences.
 
-Cette logique inversée par rapport aux autres urgences — où le traitement définitif est hospitalier — a des implications directes sur la doctrine d'intervention des équipes SMUR.
+Cette logique inversée par rapport aux autres urgences, où le traitement définitif est hospitalier, a des implications directes sur la doctrine d'intervention des équipes SMUR.
 
 ## Ce que dit le consensus international
 
@@ -26,9 +26,9 @@ L'ACSM Expert Consensus Statement 2023 et le consensus IOC (Hosokawa, Racinais e
 
 **La fenêtre thérapeutique est de 30 minutes.** Au-delà de 30 minutes à température centrale > 40°C, le risque de défaillance multiviscérale et de séquelles neurologiques permanentes augmente exponentiellement (Walter & Carraretto, Critical Care 2016).
 
-**La température rectale est le seul indicateur fiable.** La mesure tympanique sous-estime la température centrale lors d'un CCE — elle ne doit pas être utilisée pour déclencher ou arrêter le refroidissement.
+**La température rectale est le seul indicateur fiable.** La mesure tympanique sous-estime la température centrale lors d'un CCE : elle ne doit pas être utilisée pour déclencher ou arrêter le refroidissement.
 
-## Protocole SMUR — séquence d'intervention
+## Protocole SMUR, séquence d'intervention
 
 ### À l'arrivée sur les lieux
 
@@ -45,7 +45,7 @@ Si aucun refroidissement n'a été initié → déploiement immédiat de la baig
 - Remplissage vasculaire : cristalloïdes 500-1000 mL première heure si hypotension
 - Température rectale toutes les 5 minutes
 - Gestion des voies aériennes : intubation si GCS < 8 ou convulsions non contrôlées
-- **Ne pas administrer d'antipyrétiques** (paracétamol, AINS) — inefficaces et potentiellement délétères dans le CCE
+- **Ne pas administrer d'antipyrétiques** (paracétamol, AINS), inefficaces et potentiellement délétères dans le CCE
 
 ### Arrêt du refroidissement
 
@@ -57,7 +57,7 @@ Message de préguidage aux urgences : température à l'arrivée, délai depuis 
 
 ## L'équipement SMUR indispensable
 
-La doctrine Cool First Transport Second impose que les véhicules SMUR soient équipés pour initier le refroidissement par immersion sur site — pas uniquement au service d'urgences.
+La doctrine Cool First Transport Second impose que les véhicules SMUR soient équipés pour initier le refroidissement par immersion sur site, pas uniquement au service d'urgences.
 
 Cela suppose :
 
@@ -89,4 +89,4 @@ Kollder est conçue pour répondre à ce déficit d'équipement préhospitalier.
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023. IOC Adverse Weather Impact Expert Working Group — Hosokawa Y, Racinais S et al., BJSM 2021. Walter EJ & Carraretto M, Critical Care 2016. Casa DJ et al., Exercise and Sport Sciences Reviews 2007. SFAR. Korey Stringer Institute — Douglas Casa, UConn.*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023. IOC Adverse Weather Impact Expert Working Group, Hosokawa Y, Racinais S et al., BJSM 2021. Walter EJ & Carraretto M, Critical Care 2016. Casa DJ et al., Exercise and Sport Sciences Reviews 2007. SFAR. Korey Stringer Institute, Douglas Casa, UConn.*

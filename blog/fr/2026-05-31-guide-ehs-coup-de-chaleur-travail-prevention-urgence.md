@@ -41,7 +41,7 @@ howToSchema: |
   }
 ---
 
-Le 27 mai 2026, un couvreur de 19 ans mourait d'hyperthermie sur un chantier de toiture dans la Drôme par 31 °C à l'ombre. Le 30 juin 2025, un homme de 35 ans décédait sur un chantier en Île-de-France dans les mêmes circonstances. En 2025, neuf accidents du travail mortels liés à la chaleur ont été notifiés à Santé publique France — dont six dans la construction et l'agriculture. En 2024, sept. En 2022, sept. En 2020, douze. Ce n'est pas une anomalie statistique. C'est une tendance structurelle, alimentée par le changement climatique et un sous-équipement chronique des chantiers et des sites industriels en matière de gestion de l'urgence thermique. Ce guide est à destination des responsables EHS, directeurs de travaux, médecins du travail et préventeurs qui veulent aller au-delà des affiches de sensibilisation.
+Le 27 mai 2026, un couvreur de 19 ans mourait d'hyperthermie sur un chantier de toiture dans la Drôme par 31 °C à l'ombre. Le 30 juin 2025, un homme de 35 ans décédait sur un chantier en Île-de-France dans les mêmes circonstances. En 2025, neuf accidents du travail mortels liés à la chaleur ont été notifiés à Santé publique France, dont six dans la construction et l'agriculture. En 2024, sept. En 2022, sept. En 2020, douze. Ce n'est pas une anomalie statistique. C'est une tendance structurelle, alimentée par le changement climatique et un sous-équipement chronique des chantiers et des sites industriels en matière de gestion de l'urgence thermique. Ce guide est à destination des responsables EHS, directeurs de travaux, médecins du travail et préventeurs qui veulent aller au-delà des affiches de sensibilisation.
 
 ## 1. Comprendre ce qu'est réellement un coup de chaleur d'effort
 
@@ -49,7 +49,7 @@ Il existe deux grandes formes de coup de chaleur, et la confusion entre elles pe
 
 **Le coup de chaleur classique** touche principalement les personnes sédentaires exposées passivement à la chaleur ambiante (personnes âgées, nourrissons, personnes sous traitement). C'est le registre de la canicule estivale et de la mortalité urbaine.
 
-**Le coup de chaleur d'effort** (en anglais *Exertional Heat Stroke*, EHS) touche une personne en activité physique intense. Il peut survenir même sans vigilance météorologique orange ou rouge — une vigilance jaune, couplée à un effort prolongé sur une surface réverbérante (toit, macadam, plateforme métallique), suffit à créer les conditions d'une urgence vitale. C'est le registre des accidents du travail dans le BTP, le TP, l'agriculture et l'industrie.
+**Le coup de chaleur d'effort** (en anglais *Exertional Heat Stroke*, EHS) touche une personne en activité physique intense. Il peut survenir même sans vigilance météorologique orange ou rouge, une vigilance jaune, couplée à un effort prolongé sur une surface réverbérante (toit, macadam, plateforme métallique), suffit à créer les conditions d'une urgence vitale. C'est le registre des accidents du travail dans le BTP, le TP, l'agriculture et l'industrie.
 
 La distinction est médicalement importante : dans le coup de chaleur d'effort, **la sudation est souvent encore présente** au moment de l'effondrement, ce qui peut tromper les témoins. L'absence de sudation n'est donc pas un critère requis pour suspecter un coup de chaleur d'effort.
 
@@ -59,24 +59,24 @@ Le seuil de diagnostic clinique est une **température centrale supérieure à 4
 
 Comprendre la mécanique de l'hyperthermie est indispensable pour saisir pourquoi la rapidité d'intervention n'est pas une recommandation mais une exigence biologique.
 
-**Étape 1 — Accumulation thermique (T° centrale 37 à 39 °C).** L'effort musculaire génère de la chaleur. La thermorégulation (sudation, vasodilatation périphérique) est encore efficace. Les signes sont non spécifiques : fatigue, transpiration abondante, légère confusion.
+**Étape 1 : Accumulation thermique (T° centrale 37 à 39 °C).** L'effort musculaire génère de la chaleur. La thermorégulation (sudation, vasodilatation périphérique) est encore efficace. Les signes sont non spécifiques : fatigue, transpiration abondante, légère confusion.
 
-**Étape 2 — Stress thermique (39 à 40 °C).** La capacité de thermorégulation commence à être débordée. Nausées, céphalées, vertiges. C'est la fenêtre d'alerte : l'intervention à ce stade est encore simple et efficace (ombre, hydratation, refroidissement actif).
+**Étape 2 : Stress thermique (39 à 40 °C).** La capacité de thermorégulation commence à être débordée. Nausées, céphalées, vertiges. C'est la fenêtre d'alerte : l'intervention à ce stade est encore simple et efficace (ombre, hydratation, refroidissement actif).
 
-**Étape 3 — Coup de chaleur constitué (> 40 °C).** La thermorégulation est en échec. La cascade de lésions organiques commence : dénaturation enzymatique, atteinte de la barrière intestinale (translocation bactérienne), activation de la coagulation. Les signes neurologiques apparaissent. **C'est l'urgence vitale.**
+**Étape 3 : Coup de chaleur constitué (> 40 °C).** La thermorégulation est en échec. La cascade de lésions organiques commence : dénaturation enzymatique, atteinte de la barrière intestinale (translocation bactérienne), activation de la coagulation. Les signes neurologiques apparaissent. **C'est l'urgence vitale.**
 
-**Étape 4 — Lésions organiques irréversibles (> 41 à 42 °C, > 20-30 min).** Rhabdomyolyse (destruction musculaire), défaillance hépatique aiguë, coagulopathie intravasculaire disséminée (CIVD), insuffisance rénale aiguë, lésions neurologiques permanentes. Le taux de mortalité augmente de façon exponentielle à ce stade.
+**Étape 4 : Lésions organiques irréversibles (> 41 à 42 °C, > 20-30 min).** Rhabdomyolyse (destruction musculaire), défaillance hépatique aiguë, coagulopathie intravasculaire disséminée (CIVD), insuffisance rénale aiguë, lésions neurologiques permanentes. Le taux de mortalité augmente de façon exponentielle à ce stade.
 
-**Étape 5 — Défaillance multiviscérale.** Sans refroidissement rapide, la progression vers la défaillance multiviscérale est inéluctable. C'est à ce stade que parviennent aux urgences les patients dont le refroidissement n'a pas été initié sur place.
+**Étape 5 : Défaillance multiviscérale.** Sans refroidissement rapide, la progression vers la défaillance multiviscérale est inéluctable. C'est à ce stade que parviennent aux urgences les patients dont le refroidissement n'a pas été initié sur place.
 
-La **fenêtre thérapeutique des 30 minutes** — temps maximal pour ramener la température centrale sous 40 °C — est le consensus international ([ACSM 2023](https://journals.lww.com/acsm-msse/fulltext/2023/12000/inter_association_task_force_recommendations_on.6.aspx), [IOC/BJSM 2021](https://bjsm.bmj.com/content/55/15/811), [Korey Stringer Institute](https://ksi.uconn.edu/emergency-conditions/exertional-heat-stroke/)). Au-delà, la probabilité de séquelles permanentes augmente drastiquement, même si le patient survit.
+La **fenêtre thérapeutique des 30 minutes**, temps maximal pour ramener la température centrale sous 40 °C, est le consensus international ([ACSM 2023](https://journals.lww.com/acsm-msse/fulltext/2023/12000/inter_association_task_force_recommendations_on.6.aspx), [IOC/BJSM 2021](https://bjsm.bmj.com/content/55/15/811), [Korey Stringer Institute](https://ksi.uconn.edu/emergency-conditions/exertional-heat-stroke/)). Au-delà, la probabilité de séquelles permanentes augmente drastiquement, même si le patient survit.
 
 ## 3. Les secteurs et situations à risque : qui est exposé dans un contexte EHS
 
 L'[INRS recense 3 558 100 salariés](https://www.inrs.fr/risques/chaleur/exposition-risques.html) exposés au travail extérieur selon l'enquête Sumer 2017. Mais la chaleur n'est pas un risque exclusivement extérieur.
 
 **Secteurs à risque élevé (extérieur, effort physique intense) :**
-- BTP — couverture, maçonnerie, terrassement, voirie
+- BTP : couverture, maçonnerie, terrassement, voirie
 - Travaux publics et génie civil
 - Agriculture et sylviculture
 - Logistique et livraison (chauffeurs-livreurs, manutentionnaires)
@@ -118,7 +118,7 @@ Le dispositif est adossé aux **seuils de vigilance météorologique de Météo-
 
 - Évaluer les risques liés à l'exposition à la chaleur et les intégrer dans le Document Unique d'Évaluation des Risques Professionnels (DUERP)
 - Maintenir les locaux fermés à une température adaptée à l'activité
-- Mettre à disposition de l'eau potable fraîche à proximité des postes de travail — minimum 3 litres par jour et par travailleur en l'absence d'eau courante sur le chantier
+- Mettre à disposition de l'eau potable fraîche à proximité des postes de travail, minimum 3 litres par jour et par travailleur en l'absence d'eau courante sur le chantier
 - Adapter l'organisation du travail (aménagement d'horaires, rotation des équipes, pauses régulières)
 - Informer et former les travailleurs sur les risques et les signes d'alerte
 - Prendre en compte les situations individuelles aggravantes
@@ -131,13 +131,13 @@ Le Code du travail (articles L.4131-1 à L.4131-4) prévoit par ailleurs le **dr
 
 **Ce que le Décret 2025-482 ne règle pas :** il porte exclusivement sur la prévention. Il ne définit aucun protocole de prise en charge d'un coup de chaleur constitué. C'est le gap opérationnel le plus important pour les responsables EHS.
 
-Pour aller plus loin sur la réglementation : [INRS — Travail à la chaleur, réglementation](https://www.inrs.fr/risques/chaleur/reglementation.html) et [CFDT — Analyse du Décret 2025-482](https://www.cfdt.fr/mes-droits/actualites-juridiques/sante-et-conditions-de-travail/risques-lies-a-la-chaleur-les-obligations-de-lemployeur-renforcees).
+Pour aller plus loin sur la réglementation : [INRS, Travail à la chaleur, réglementation](https://www.inrs.fr/risques/chaleur/reglementation.html) et [CFDT, Analyse du Décret 2025-482](https://www.cfdt.fr/mes-droits/actualites-juridiques/sante-et-conditions-de-travail/risques-lies-a-la-chaleur-les-obligations-de-lemployeur-renforcees).
 
 ## 5. Le plan de prévention canicule : structure opérationnelle pour un responsable EHS
 
 Un plan de prévention canicule efficace se structure en trois niveaux : anticipation, surveillance active, et gestion de l'urgence. Les deux premiers sont largement documentés. Le troisième est systématiquement sous-traité dans les guides sectoriels.
 
-### 5.1 Niveau 1 — Anticipation (à faire avant la saison)
+### 5.1 Niveau 1 : Anticipation (à faire avant la saison)
 
 **Cartographie des postes exposés**
 
@@ -157,13 +157,13 @@ Définir à l'avance les actions déclenchées selon le niveau de vigilance Mét
 
 Les chefs d'équipe et chefs de chantier doivent être formés à : reconnaître les signes précoces d'hyperthermie chez leurs collègues, initier les premiers gestes de refroidissement, appeler le 15 et communiquer les informations critiques (température ambiante, nature de l'activité, durée d'exposition, signes présentés).
 
-### 5.2 Niveau 2 — Surveillance active (pendant les épisodes de chaleur)
+### 5.2 Niveau 2 : Surveillance active (pendant les épisodes de chaleur)
 
 **Mesures organisationnelles**
 
 - Débuter le travail à 6h ou 7h et arrêter à 14h ou 15h lors des vigilances orange/rouge
 - Imposer des pauses d'au moins 15 minutes à l'ombre toutes les heures lors de travaux physiques intenses par forte chaleur
-- Mettre en place un **système de binôme** : le coup de chaleur peut affecter la capacité de jugement et d'auto-évaluation — un collègue qui surveille est souvent le seul à détecter les signes précoces
+- Mettre en place un **système de binôme** : le coup de chaleur peut affecter la capacité de jugement et d'auto-évaluation, un collègue qui surveille est souvent le seul à détecter les signes précoces
 - Interdire l'alcool sur le site pendant les épisodes de chaleur (l'alcool accélère la déshydratation et altère la perception de l'inconfort thermique)
 - Faciliter l'acclimatation progressive des nouveaux arrivants et des travailleurs reprenant après une absence de plus de 2 semaines
 
@@ -176,9 +176,9 @@ Les chefs d'équipe et chefs de chantier doivent être formés à : reconnaître
 
 **Hydratation**
 
-L'[INRS recommande](https://www.inrs.fr/risques/chaleur/mesures-prevention.html) une hydratation régulière sans attendre la sensation de soif — 250 ml toutes les 20-30 minutes lors d'un effort physique intense en ambiance chaude. L'eau fraîche doit être accessible à moins de 5 minutes de marche depuis tout poste de travail.
+L'[INRS recommande](https://www.inrs.fr/risques/chaleur/mesures-prevention.html) une hydratation régulière sans attendre la sensation de soif : 250 ml toutes les 20-30 minutes lors d'un effort physique intense en ambiance chaude. L'eau fraîche doit être accessible à moins de 5 minutes de marche depuis tout poste de travail.
 
-### 5.3 Niveau 3 — Gestion de l'urgence thermique
+### 5.3 Niveau 3 : Gestion de l'urgence thermique
 
 C'est le niveau le moins documenté dans les plans de prévention standard, et pourtant le plus déterminant pour le pronostic vital.
 
@@ -201,7 +201,7 @@ Les signes qui doivent déclencher l'alerte immédiate :
 
 3. **Initier le refroidissement actif immédiatement.** Ne pas attendre les secours. Chaque minute sans refroidissement augmente les dommages organiques.
 
-4. **Continuer le refroidissement jusqu'à l'arrivée des secours** — et ne pas transporter le patient avant d'avoir initié un refroidissement efficace (principe *Cool First, Transport Second*).
+4. **Continuer le refroidissement jusqu'à l'arrivée des secours** : et ne pas transporter le patient avant d'avoir initié un refroidissement efficace (principe *Cool First, Transport Second*).
 
 5. **Ne pas laisser seul.** Surveiller la conscience et la respiration. Position latérale de sécurité si inconscience.
 
@@ -260,13 +260,13 @@ Ces évolutions convergent : la gestion de l'urgence thermique va devenir un cri
 
 **Été 2019 :** 10 accidents du travail mortels liés à la chaleur signalés par la DGT, dont 4 dans le BTP.
 
-**Été 2020 :** 12 accidents du travail mortels liés à la chaleur — le bilan le plus élevé de la décennie à cette date.
+**Été 2020 :** 12 accidents du travail mortels liés à la chaleur, le bilan le plus élevé de la décennie à cette date.
 
-**Été 2022 :** Trois épisodes caniculaires entre juin et août, 33 jours de fortes chaleurs — un record depuis 1947 selon Météo-France. L'OPPBTP note 3 accidents mortels BTP directement liés à la chaleur. Sur le plan sanitaire global, Santé publique France estime à plus de 10 000 le nombre de décès en excès toutes causes confondues pendant l'été. Perte mondiale estimée à 40 milliards d'heures de travail productives liées à la chaleur (Université de Durham, 2021).
+**Été 2022 :** Trois épisodes caniculaires entre juin et août, 33 jours de fortes chaleurs, un record depuis 1947 selon Météo-France. L'OPPBTP note 3 accidents mortels BTP directement liés à la chaleur. Sur le plan sanitaire global, Santé publique France estime à plus de 10 000 le nombre de décès en excès toutes causes confondues pendant l'été. Perte mondiale estimée à 40 milliards d'heures de travail productives liées à la chaleur (Université de Durham, 2021).
 
 **Été 2024 :** 7 accidents du travail mortels liés à la chaleur signalés à Santé publique France, dont 6 dans la construction, les travaux publics ou l'agriculture. Plus de 17 000 recours aux soins d'urgence pour hyperthermie, déshydratation ou hyponatrémie recensés par les urgences hospitalières pendant la saison chaude.
 
-**Été 2025 :** 9 accidents du travail mortels liés à la chaleur notifiés — dont 6 dans la construction, le TP et l'agriculture. Le Décret 2025-482 est entré en vigueur le 1er juillet, mais la DGT constate lors de ses inspections que les mesures de prévention restent insuffisamment mises en oeuvre dans les petites et moyennes entreprises.
+**Été 2025 :** 9 accidents du travail mortels liés à la chaleur notifiés, dont 6 dans la construction, le TP et l'agriculture. Le Décret 2025-482 est entré en vigueur le 1er juillet, mais la DGT constate lors de ses inspections que les mesures de prévention restent insuffisamment mises en oeuvre dans les petites et moyennes entreprises.
 
 **Été 2026 (en cours) :** Premier décès recensé le 27 mai, avant même le début de la saison caniculaire officielle. La Drôme bascule en vigilance jaune canicule dès le jeudi 29 mai. Le ministre du Travail déclare « faire confiance aux entreprises du BTP », mais une enquête judiciaire est ouverte.
 
@@ -316,4 +316,4 @@ La courbe est claire : les épisodes se multiplient, s'intensifient, et se produ
 
 ---
 
-*Sources : INRS — Dossier Travail à la chaleur, [inrs.fr/risques/chaleur](https://www.inrs.fr/risques/chaleur/ce-qu-il-faut-retenir.html) — Santé publique France, Bulletin chaleur et santé, bilans étés 2022, 2024 et 2025 — OPPBTP, Guide de préconisations "Fortes chaleurs et effets caniculaires sur les chantiers", 2023, [oppbtp.com](https://www.oppbtp.com/loppbtp-donne-ses-recommandations-pour-prevenir-les-risques-lies-aux-fortes-chaleurs-sur-les-chantiers/) — Décret n° 2025-482 du 27 mai 2025, Légifrance — ACSM Expert Consensus Statement 2023 — Casa DJ et al., Exercise and Sport Sciences Reviews 2007, PubMed 17921784 — IOC, Hosokawa Y, Racinais S et al., BJSM 2021 — Korey Stringer Institute, University of Connecticut, [ksi.uconn.edu](https://ksi.uconn.edu/emergency-conditions/exertional-heat-stroke/) — OSHA, Notice of Proposed Rulemaking Heat Injury and Illness Prevention, Federal Register août 2024 — Walter EJ & Carraretto M, Critical Care 2016 — SFAR*
+*Sources : INRS, Dossier Travail à la chaleur, [inrs.fr/risques/chaleur](https://www.inrs.fr/risques/chaleur/ce-qu-il-faut-retenir.html), Santé publique France, Bulletin chaleur et santé, bilans étés 2022, 2024 et 2025, OPPBTP, Guide de préconisations "Fortes chaleurs et effets caniculaires sur les chantiers", 2023, [oppbtp.com](https://www.oppbtp.com/loppbtp-donne-ses-recommandations-pour-prevenir-les-risques-lies-aux-fortes-chaleurs-sur-les-chantiers/), Décret n° 2025-482 du 27 mai 2025, Légifrance, ACSM Expert Consensus Statement 2023, Casa DJ et al., Exercise and Sport Sciences Reviews 2007, PubMed 17921784, IOC, Hosokawa Y, Racinais S et al., BJSM 2021, Korey Stringer Institute, University of Connecticut, [ksi.uconn.edu](https://ksi.uconn.edu/emergency-conditions/exertional-heat-stroke/), OSHA, Notice of Proposed Rulemaking Heat Injury and Illness Prevention, Federal Register août 2024, Walter EJ & Carraretto M, Critical Care 2016, SFAR*

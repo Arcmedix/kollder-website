@@ -20,7 +20,7 @@ Ce décès illustre un fait que les médecins du sport et les urgentistes soulig
 
 ## Ce que les médias ne disent pas : le vrai geste qui sauve
 
-Le Dr Damien Mascret, interrogé sur France Info le 25 mai, a listé les bons réflexes face à un coup de chaleur. Ces conseils — mettre la personne à l'ombre, l'hydrater, appeler le 15 — sont utiles pour les formes légères d'hyperthermie.
+Le Dr Damien Mascret, interrogé sur France Info le 25 mai, a listé les bons réflexes face à un coup de chaleur. Ces conseils (mettre la personne à l'ombre, l'hydrater, appeler le 15) sont utiles pour les formes légères d'hyperthermie.
 
 Mais pour un coup de chaleur d'effort sévère, comme celui qui a coûté la vie à cette sportive de 28 ans, ces gestes ne suffisent pas.
 
@@ -38,7 +38,7 @@ Les méthodes couramment utilisées sur le terrain ont des limites physiologique
 - **La brumisation** refroidit à 0,02°C par minute en conditions humides
 - **Les ventilateurs seuls** refroidissent à 0,01°C par minute
 
-L'immersion en eau froide refroidit à **0,35°C par minute** — dix fois plus vite. C'est la seule technique capable de respecter la fenêtre thérapeutique des 30 minutes.
+L'immersion en eau froide refroidit à **0,35°C par minute**, dix fois plus vite. C'est la seule technique capable de respecter la fenêtre thérapeutique des 30 minutes.
 
 Le Dr Douglas Casa (Korey Stringer Institute, Université du Connecticut) a documenté un taux de survie de **100% sur plus de 401 cas** de coup de chaleur d'effort sévère lorsque l'immersion était initiée dans les 30 premières minutes.
 
@@ -50,7 +50,7 @@ Refroidir avant de transporter. Cette règle, validée par l'ACSM, la SFAR et le
 
 Le consensus IOC 2021 (Hosokawa, Racinais et al., BJSM) est explicite : les organisateurs d'événements sportifs doivent s'assurer de la disponibilité d'une baignoire d'immersion sur chaque compétition se tenant par temps chaud.
 
-Le même week-end, les sapeurs-pompiers de Paris intervenaient à Maisons-Alfort pour plusieurs coups de chaleur lors d'une course à pied, déployant plusieurs "brancards baignoires" simultanément. La BSPP a publié ces images sur son compte X officiel — une démonstration concrète que le protocole fonctionne quand l'équipement est disponible.
+Le même week-end, les sapeurs-pompiers de Paris intervenaient à Maisons-Alfort pour plusieurs coups de chaleur lors d'une course à pied, déployant plusieurs "brancards baignoires" simultanément. La BSPP a publié ces images sur son compte X officiel, une démonstration concrète que le protocole fonctionne quand l'équipement est disponible.
 
 ## L'équipement qui manquait
 
@@ -60,7 +60,7 @@ On ne peut pas répondre avec certitude à cette question. Mais les données sci
 
 C'est pour répondre à cet enjeu logistique que Kollder a été développée. La baignoire de refroidissement Kollder repose sur une **structure stable et entièrement pliable**, utilisable dans n'importe quelle salle de compétition, n'importe quel parcours de trail, n'importe quel événement sportif. Sans infrastructure. Sans eau courante nécessaire au préalable.
 
-Sa conception ouverte permet un accès complet au patient pendant l'immersion — pour surveiller les voies aériennes, mesurer la température, intervenir médicalement si nécessaire.
+Sa conception ouverte permet un accès complet au patient pendant l'immersion : pour surveiller les voies aériennes, mesurer la température, intervenir médicalement si nécessaire.
 
 ## Ce que les organisateurs d'événements sportifs doivent faire maintenant
 
@@ -79,4 +79,4 @@ Retrouvez [l'équipement que tout organisateur d'événement sportif doit prévo
 
 ---
 
-*Sources : France 3 Auvergne-Rhône-Alpes, 24 mai 2026. France Info / Dr Damien Mascret, 25 mai 2026. @PompiersParis, 24 mai 2026. ACSM Expert Consensus Statement 2023. IOC BJSM 2021 (Hosokawa, Racinais et al.). Korey Stringer Institute — Douglas Casa (UConn).*
+*Sources : France 3 Auvergne-Rhône-Alpes, 24 mai 2026. France Info / Dr Damien Mascret, 25 mai 2026. @PompiersParis, 24 mai 2026. ACSM Expert Consensus Statement 2023. IOC BJSM 2021 (Hosokawa, Racinais et al.). Korey Stringer Institute, Douglas Casa (UConn).*

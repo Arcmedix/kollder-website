@@ -8,7 +8,7 @@ lang: fr
 published: true
 ---
 
-En France, la chaleur tue chaque été — et la majorité des décès liés à l'hyperthermie d'effort surviennent alors que des outils de prévision fiables existent. Le problème : ils restent trop souvent réservés aux chercheurs ou aux médecins du sport, au lieu d'être intégrés aux protocoles terrain des sapeurs-pompiers, des responsables EHS et des directeurs médicaux d'événements.
+En France, la chaleur tue chaque été, et la majorité des décès liés à l'hyperthermie d'effort surviennent alors que des outils de prévision fiables existent. Le problème : ils restent trop souvent réservés aux chercheurs ou aux médecins du sport, au lieu d'être intégrés aux protocoles terrain des sapeurs-pompiers, des responsables EHS et des directeurs médicaux d'événements.
 
 ## Le WBGT : pourquoi c'est l'indicateur de référence
 
@@ -39,7 +39,7 @@ Ces seuils sont issus de l'American College of Sports Medicine et repris par l'I
 
 La France métropolitaine couvre une plage climatique importante. En juin, le WBGT peut atteindre 30°C dans les Bouches-du-Rhône alors qu'il reste à 22°C en Bretagne. Cette disparité implique qu'un outil national générique est insuffisant pour la prise de décision locale.
 
-Pour les **SDIS**, les SSSM militaires et les directeurs médicaux de trails ou de marathons, la valeur pertinente est celle du département de l'événement ou de l'intervention — pas une moyenne nationale.
+Pour les **SDIS**, les SSSM militaires et les directeurs médicaux de trails ou de marathons, la valeur pertinente est celle du département de l'événement ou de l'intervention, pas une moyenne nationale.
 
 ## Surveiller le WBGT en temps réel
 
@@ -54,7 +54,7 @@ Concrètement : avant un trail en montagne ou une intervention sur un site indus
 
 ## Ce que cette surveillance ne remplace pas
 
-Le WBGT est un outil d'aide à la décision, pas un substitut au protocole de traitement. Lorsqu'un coup de chaleur d'effort est avéré — confusion, température centrale > 40°C — la seule intervention validée est l'immersion immédiate en eau froide.
+Le WBGT est un outil d'aide à la décision, pas un substitut au protocole de traitement. Lorsqu'un coup de chaleur d'effort est avéré (confusion, température centrale > 40°C), la seule intervention validée est l'immersion immédiate en eau froide.
 
 **Le protocole "Cool First, Transport Second"** (ACSM 2023, Hutchins et al., Frontiers in Physiology 2022) stipule que la priorité absolue est de ramener la température centrale sous 39°C avant le transport. Le taux de survie est de 100 % sur plus de 401 cas documentés lorsque ce seuil est atteint dans les 30 minutes (Korey Stringer Institute, Dr Douglas Casa, UConn).
 
@@ -63,7 +63,7 @@ La baignoire de refroidissement [Kollder](https://kollder.com/#contact) est con�
 ## Pour aller plus loin
 
 - [Qu'est-ce que l'immersion en eau froide ?](https://kollder.com/blog/fr/2026-08-01-quest-ce-que-limmersion-en-eau-froide/)
-- [Protocole Cool First, Transport Second — Guide complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
+- [Protocole Cool First, Transport Second : Guide complet](https://kollder.com/blog/fr/2026-05-25-cool-first-transport-second-protocole-complet/)
 - [Immersion en eau froide vs autres méthodes de refroidissement](https://kollder.com/blog/fr/2026-05-25-immersion-eau-froide-vs-autres-methodes-comparatif/)
 - [Équipement de refroidissement pour pompiers et SDIS](https://kollder.com/blog/fr/2026-05-27-equipement-refroidissement-pompiers-feux-foret-sdis/)
 - [Plan canicule et SDIS : ce que couvre (et ne couvre pas) le cadre réglementaire](https://kollder.com/blog/fr/2026-07-07-plan-canicule-sdis-cadre-reglementaire/)
@@ -71,4 +71,4 @@ La baignoire de refroidissement [Kollder](https://kollder.com/#contact) est con�
 
 ---
 
-*Sources : ACSM Expert Consensus Statement 2023 ; Hosokawa Y, Racinais S et al., BJSM 2021 ; Hutchins et al., Frontiers in Physiology 2022 ; Korey Stringer Institute — Douglas Casa, UConn ; Open-Meteo API (données météo temps réel).*
+*Sources : ACSM Expert Consensus Statement 2023 ; Hosokawa Y, Racinais S et al., BJSM 2021 ; Hutchins et al., Frontiers in Physiology 2022 ; Korey Stringer Institute, Douglas Casa, UConn ; Open-Meteo API (données météo temps réel).*

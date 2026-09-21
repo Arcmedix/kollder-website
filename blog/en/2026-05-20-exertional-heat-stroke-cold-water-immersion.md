@@ -46,11 +46,11 @@ howToSchema: |
   }
 ---
 
-**Every summer, athletes, soldiers, firefighters, and outdoor workers die from exertional heat stroke. Not because the treatment is unknown. Because the right equipment is not there when it is needed. This article covers what every field medical team needs to know — and have — before the season starts.**
+**Every summer, athletes, soldiers, firefighters, and outdoor workers die from exertional heat stroke. Not because the treatment is unknown. Because the right equipment is not there when it is needed. This article covers what every field medical team needs to know: and have, before the season starts.**
 
 ---
 
-## What is exertional heat stroke — and why it is different
+## What is exertional heat stroke, and why it is different
 
 Exertional heat stroke (EHS) is not the same as classic heat stroke caused by a heat wave. It occurs during intense physical exertion, even in moderate ambient temperatures. A firefighter working a wildfire at 65 degrees Fahrenheit can still suffer EHS if the effort is sustained long enough.
 
@@ -131,12 +131,12 @@ Cold water immersion requires a tub that can hold a person, water, and ice. On a
 
 ## Field protocol summary
 
-1. **Identify** — collapse during or after exertion: presumptive EHS
-2. **Measure** — rectal temperature (insert 15 cm, hold 15 seconds)
-3. **Immerse immediately** — full body, water as cold as available
-4. **Monitor** — rectal temperature every 5 minutes, maintain until below 102 F
-5. **Activate EMS** — simultaneously with immersion, not after
-6. **Transport** — to a hospital even if rapid recovery occurs
+1. **Identify**: collapse during or after exertion: presumptive EHS
+2. **Measure**: rectal temperature (insert 15 cm, hold 15 seconds)
+3. **Immerse immediately**: full body, water as cold as available
+4. **Monitor**: rectal temperature every 5 minutes, maintain until below 102 F
+5. **Activate EMS**: simultaneously with immersion, not after
+6. **Transport**: to a hospital even if rapid recovery occurs
 
 ---
 

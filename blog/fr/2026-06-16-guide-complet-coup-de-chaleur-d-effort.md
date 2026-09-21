@@ -58,7 +58,7 @@ Certains facteurs augmentent significativement le risque de CCE :
 
 ## Reconnaître le coup de chaleur d'effort sur le terrain
 
-Le diagnostic est clinique. La mesure de la température rectale est l'examen de référence — les thermomètres tympaniques et cutanés sont insuffisamment fiables en contexte d'effort.
+Le diagnostic est clinique. La mesure de la température rectale est l'examen de référence : les thermomètres tympaniques et cutanés sont insuffisamment fiables en contexte d'effort.
 
 **Signes d'alarme à identifier immédiatement :**
 
@@ -68,7 +68,7 @@ Le diagnostic est clinique. La mesure de la température rectale est l'examen de
 - Convulsions
 - Perte de connaissance
 
-La peau peut être sèche ou encore sudorante — la présence de sueur n'exclut pas le CCE. Ce signe n'est pas discriminant.
+La peau peut être sèche ou encore sudorante : la présence de sueur n'exclut pas le CCE. Ce signe n'est pas discriminant.
 
 **Ce qu'il ne faut pas attendre** : un diagnostic formel en milieu hospitalier. Sur le terrain, si la température dépasse 40 °C et que les signes neurologiques sont présents, le traitement commence immédiatement.
 
@@ -131,4 +131,4 @@ Après refroidissement :
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — Walter EJ & Carraretto M, Critical Care 2016 — Korey Stringer Institute, University of Connecticut, Douglas Casa — SFAR, recommandations de prise en charge préhospitalière des hyperthermes ; Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023, Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021, Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007, Walter EJ & Carraretto M, Critical Care 2016, Korey Stringer Institute, University of Connecticut, Douglas Casa, SFAR, recommandations de prise en charge préhospitalière des hyperthermes ; Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

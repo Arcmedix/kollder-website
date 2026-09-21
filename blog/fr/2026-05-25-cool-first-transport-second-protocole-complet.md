@@ -44,7 +44,7 @@ Cette règle est aujourd'hui validée par l'American College of Sports Medicine,
 
 L'erreur historique dans la prise en charge du coup de chaleur d'effort était d'évacuer la victime le plus rapidement possible vers les urgences. Ce réflexe, pourtant logique, aggravait le pronostic pour deux raisons :
 
-**Le temps de transport est du temps perdu.** Pendant le trajet, la température centrale continue de monter — ou au mieux se stabilise — sans refroidissement efficace. Chaque minute au-dessus de 40°C aggrave les lésions cérébrales, hépatiques et rénales.
+**Le temps de transport est du temps perdu.** Pendant le trajet, la température centrale continue de monter, ou au mieux se stabilise, sans refroidissement efficace. Chaque minute au-dessus de 40°C aggrave les lésions cérébrales, hépatiques et rénales.
 
 **Les urgences ne sont pas toujours prêtes.** L'immersion en eau froide en contexte hospitalier nécessite une préparation spécifique. En arrivant trop tard et sans pré-refroidissement, la fenêtre thérapeutique est souvent dépassée.
 
@@ -60,37 +60,37 @@ Le protocole Cool First Transport Second repose sur deux données physiologiques
 
 ## Application pratique du protocole
 
-### Étape 1 — Reconnaissance (0-2 minutes)
+### Étape 1 : Reconnaissance (0-2 minutes)
 
 Tout effondrement lors ou au décours immédiat d'un effort physique intense avec :
 - Température centrale ≥ 40°C (tympanique ou rectale)
 - Troubles neurologiques : confusion, agitation, perte de conscience, convulsions
 
-= **Suspicion de coup de chaleur d'effort — protocole Cool First activé immédiatement**
+= **Suspicion de coup de chaleur d'effort : protocole Cool First activé immédiatement**
 
-### Étape 2 — Refroidissement (2-20 minutes)
+### Étape 2 : Refroidissement (2-20 minutes)
 
 Déploiement de la baignoire d'immersion, remplissage eau froide + glace, immersion corps entier (épaules et cuir chevelu), maintien des voies aériennes hors de l'eau.
 
 Surveillance continue de la température rectale toutes les 5 minutes.
 
-### Étape 3 — Appel des secours (en parallèle)
+### Étape 3 : Appel des secours (en parallèle)
 
-L'appel au SAMU/15 se fait **en parallèle** du refroidissement, pas avant. Le message de régulation précise : "Coup de chaleur d'effort en cours de refroidissement par immersion — demande de transport vers urgences après retour température sous 38,6°C."
+L'appel au SAMU/15 se fait **en parallèle** du refroidissement, pas avant. Le message de régulation précise : "Coup de chaleur d'effort en cours de refroidissement par immersion, demande de transport vers urgences après retour température sous 38,6°C."
 
-### Étape 4 — Arrêt du refroidissement et transport
+### Étape 4 : Arrêt du refroidissement et transport
 
-Sortir la victime de la baignoire à **38,6°C de température rectale**. Ne pas attendre 37°C — risque d'hypothermie par inertie thermique.
+Sortir la victime de la baignoire à **38,6°C de température rectale**. Ne pas attendre 37°C, risque d'hypothermie par inertie thermique.
 
 Transport vers les urgences pour bilan biologique (CPK, fonction rénale, coagulation) et surveillance des complications secondaires.
 
 ## Ce que le protocole change pour les équipes terrain
 
-Avant Cool First Transport Second, les équipes improvisaient avec les moyens disponibles — serviettes humides, poches de glace, ventilateurs. Ces méthodes créaient une fausse sécurité : la victime semblait prise en charge alors que sa température centrale continuait de monter.
+Avant Cool First Transport Second, les équipes improvisaient avec les moyens disponibles : serviettes humides, poches de glace, ventilateurs. Ces méthodes créaient une fausse sécurité : la victime semblait prise en charge alors que sa température centrale continuait de monter.
 
 Le protocole impose une contrainte logistique claire : **il faut une baignoire, de l'eau et de la glace, immédiatement disponibles sur chaque intervention à risque**.
 
-C'est cette contrainte logistique que Kollder résout. La baignoire de refroidissement, à la structure stable et pliable, opérationnelle en moins de 5 minutes, permet aux équipes terrain — SDIS, SSSM, équipes médicales événementielles — d'appliquer le protocole sans infrastructure préalable.
+C'est cette contrainte logistique que Kollder résout. La baignoire de refroidissement, à la structure stable et pliable, opérationnelle en moins de 5 minutes, permet aux équipes terrain (SDIS, SSSM, équipes médicales événementielles) d'appliquer le protocole sans infrastructure préalable.
 
 ## Qui doit connaître ce protocole ?
 
@@ -112,4 +112,4 @@ Le consensus IOC de 2021 (Hosokawa, Racinais et al., BJSM) précise que la forma
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn), SFAR. Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute, Douglas Casa (UConn), SFAR. Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

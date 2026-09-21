@@ -15,13 +15,13 @@ Les recommandations sont claires. L'ACSM (2023) et l'IOC/BJSM (2021) positionnen
 Le protocole "Cool First, Transport Second" impose des contraintes opérationnelles précises qui se traduisent directement en critères d'équipement.
 
 **Contrainte 1 : la fenêtre des 30 minutes**
-L'objectif est d'atteindre une température rectale inférieure à 40 °C en moins de 30 minutes. Cela signifie que l'équipement doit être opérationnel en quelques minutes au maximum — le temps de déploiement n'est pas un détail logistique, c'est une variable clinique.
+L'objectif est d'atteindre une température rectale inférieure à 40 °C en moins de 30 minutes. Cela signifie que l'équipement doit être opérationnel en quelques minutes au maximum : le temps de déploiement n'est pas un détail logistique, c'est une variable clinique.
 
 **Contrainte 2 : l'accès continu au patient**
 Pendant l'immersion, l'équipe médicale doit pouvoir prendre la température rectale toutes les 2 à 3 minutes, surveiller la conscience, accéder aux voies veineuses et intervenir si l'état se dégrade. Un équipement qui entrave ces gestes n'est pas adapté à un CCE sévère.
 
 **Contrainte 3 : la mobilité**
-Le CCE peut survenir à distance de toute infrastructure fixe — en fin de parcours d'un trail, sur une intervention feux de forêt, sur un chantier en période de canicule. L'équipement doit pouvoir être acheminé et déployé là où se trouve le patient, pas l'inverse.
+Le CCE peut survenir à distance de toute infrastructure fixe, en fin de parcours d'un trail, sur une intervention feux de forêt, sur un chantier en période de canicule. L'équipement doit pouvoir être acheminé et déployé là où se trouve le patient, pas l'inverse.
 
 **Contrainte 4 : la fiabilité en conditions réelles**
 Un équipement qui fonctionne parfaitement en démonstration mais se révèle fragile à l'usage, difficile à étanchéifier sous pression ou trop encombrant pour être systématiquement emporté est un équipement qui ne sera pas disponible le jour où il est nécessaire.
@@ -56,11 +56,11 @@ La baignoire de refroidissement d'urgence Kollder a été conçue en réponse di
 
 - **Structure stable à 6 points d'appui**, sur n'importe quel type de sol, même irrégulier
 - **Accès complet au patient** : la structure ouverte permet le monitoring continu et tous les gestes médicaux sans retirer le patient de l'eau
-- **Dimensions déployées** : 205 × 80 × 60 cm — adapté à l'immersion d'un adulte jusqu'aux épaules
-- **Format replié** : 85 × 10 × 10 cm — transportable dans un coffre de véhicule léger, un sac de dotation ou un sac à dos de secours
+- **Dimensions déployées** : 205 × 80 × 60 cm, adapté à l'immersion d'un adulte jusqu'aux épaules
+- **Format replié** : 85 × 10 × 10 cm, transportable dans un coffre de véhicule léger, un sac de dotation ou un sac à dos de secours
 - **Construction en acier inoxydable** : durabilité en conditions d'intervention réelles, résistance aux désinfectants, pas de dégradation UV
 
-Pour les équipes qui souhaitent évaluer la solution dans leur contexte — SDIS, SSSM, poste médical d'événement, service de médecine du travail : [kollder.com/#contact](https://kollder.com/#contact).
+Pour les équipes qui souhaitent évaluer la solution dans leur contexte : SDIS, SSSM, poste médical d'événement, service de médecine du travail : [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Intégrer l'équipement dans le plan de réponse
 
@@ -83,4 +83,4 @@ Un équipement stocké mais non planifié dans le dispositif médical ne sera pa
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — Korey Stringer Institute, University of Connecticut — SFAR, recommandations de prise en charge préhospitalière des hyperthermes*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023, Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021, Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007, Korey Stringer Institute, University of Connecticut, SFAR, recommandations de prise en charge préhospitalière des hyperthermes*

@@ -20,9 +20,9 @@ This death illustrates what sports medicine physicians and emergency doctors hav
 
 ## What mainstream advice misses: the intervention that actually saves lives
 
-In the media coverage that followed, doctors focused on standard advice — move the person to shade, hydrate them, call emergency services. These steps are useful for mild forms of hyperthermia.
+In the media coverage that followed, doctors focused on standard advice: move the person to shade, hydrate them, call emergency services. These steps are useful for mild forms of hyperthermia.
 
-But for a severe exertional heat stroke — like the one that killed this 28-year-old athlete — these measures are not enough.
+But for a severe exertional heat stroke, like the one that killed this 28-year-old athlete, these measures are not enough.
 
 Emergency medicine is unambiguous: **the only treatment that changes the prognosis of severe exertional heat stroke is whole-body cold water immersion, initiated immediately on scene.**
 
@@ -38,7 +38,7 @@ The methods commonly used in the field have clear physiological limits:
 - **Misting** cools at 0.02°C per minute in humid conditions
 - **Fans alone** cool at 0.01°C per minute
 
-Cold water immersion cools at **0.35°C per minute** — ten times faster. It is the only technique capable of meeting the 30-minute therapeutic window.
+Cold water immersion cools at **0.35°C per minute**, ten times faster. It is the only technique capable of meeting the 30-minute therapeutic window.
 
 Dr Douglas Casa (Korey Stringer Institute, University of Connecticut) has documented a **100% survival rate across more than 401 cases** of severe exertional heat stroke when immersion was initiated within the first 30 minutes.
 
@@ -50,7 +50,7 @@ Cool before you transport. This rule, validated by the ACSM, SFAR and the Intern
 
 The 2021 IOC consensus (Hosokawa, Racinais et al., BJSM) is explicit: sporting event organisers must ensure that immersion tubs are available at every competition held in hot conditions.
 
-The same weekend, Paris firefighters (BSPP) responded to multiple heat stroke cases at a running event in Maisons-Alfort, deploying several field cooling tubs simultaneously. The BSPP published images on their official X account — a concrete demonstration that the protocol works when the equipment is available.
+The same weekend, Paris firefighters (BSPP) responded to multiple heat stroke cases at a running event in Maisons-Alfort, deploying several field cooling tubs simultaneously. The BSPP published images on their official X account, a concrete demonstration that the protocol works when the equipment is available.
 
 ## The equipment that was missing
 
@@ -60,7 +60,7 @@ That question cannot be answered with certainty. But the scientific data indicat
 
 This is the logistical problem Kollder was developed to solve. The Kollder cooling tub stays **stable on any surface**, in any competition hall, any trail course, any sporting event, with room for 2 people in simultaneous immersion. No infrastructure required. No running water needed in advance.
 
-Its open design allows full patient access during immersion — to monitor the airway, measure temperature, and intervene medically if required.
+Its open design allows full patient access during immersion: to monitor the airway, measure temperature, and intervene medically if required.
 
 ## What sporting event organisers need to do now
 
@@ -78,4 +78,4 @@ Selection criteria for equipping a race or competition medical post are on our d
 
 ---
 
-*Sources: France 3 Auvergne-Rhône-Alpes, 24 May 2026. France Info / Dr Damien Mascret, 25 May 2026. @PompiersParis, 24 May 2026. ACSM Expert Consensus Statement 2023. IOC BJSM 2021 (Hosokawa, Racinais et al.). Korey Stringer Institute — Douglas Casa (UConn).*
+*Sources: France 3 Auvergne-Rhône-Alpes, 24 May 2026. France Info / Dr Damien Mascret, 25 May 2026. @PompiersParis, 24 May 2026. ACSM Expert Consensus Statement 2023. IOC BJSM 2021 (Hosokawa, Racinais et al.). Korey Stringer Institute, Douglas Casa (UConn).*

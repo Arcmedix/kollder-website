@@ -20,7 +20,7 @@ According to a 2024 paper published in ScienceDirect, hyperthermia triggers a sy
 
 ## Neurological Consequences
 
-The brain is the organ most vulnerable to heat. A review published in *Critical Care* (Walter & Carraretto, 2016) establishes that a single hyperthermic episode can cause lasting — and potentially permanent — neurological and cognitive dysfunction. The cerebellum is particularly intolerant to heat.
+The brain is the organ most vulnerable to heat. A review published in *Critical Care* (Walter & Carraretto, 2016) establishes that a single hyperthermic episode can cause lasting, and potentially permanent, neurological and cognitive dysfunction. The cerebellum is particularly intolerant to heat.
 
 Immediate manifestations include confusion, agitation, seizures, and coma. Cognitive dysfunction can persist for weeks after the acute episode. In severe cases, permanent cerebellar damage has been documented.
 
@@ -36,7 +36,7 @@ These figures come from a 14-year follow-up study of patients hospitalised for e
 
 ## Renal and Muscular Consequences
 
-Rhabdomyolysis — the breakdown of muscle fibres under heat stress — releases myoglobin into the bloodstream. This protein obstructs the renal tubules and can cause acute kidney injury within hours.
+Rhabdomyolysis, the breakdown of muscle fibres under heat stress, releases myoglobin into the bloodstream. This protein obstructs the renal tubules and can cause acute kidney injury within hours.
 
 In severe cases, disseminated intravascular coagulation (DIC), acute liver failure, and complete multi-organ failure can develop. Above 42°C (107.6°F), tissue ischaemia affects all organs simultaneously.
 
@@ -44,7 +44,7 @@ In severe cases, disseminated intravascular coagulation (DIC), acute liver failu
 
 A cohort mortality study of US Army personnel hospitalised for exertional heat illness, cited by the ACSM (2023), found a **40% increased long-term mortality risk** compared to a reference population hospitalised for appendicitis.
 
-Long-term prognosis depends directly on the duration of exposure to a core temperature above 40°C — and therefore on the speed of initial treatment.
+Long-term prognosis depends directly on the duration of exposure to a core temperature above 40°C, and therefore on the speed of initial treatment.
 
 ## Why the First 30 Minutes Are Decisive
 
@@ -70,4 +70,4 @@ Kollder is designed for that: a stable, six-point steel frame that stays level o
 
 ---
 
-*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Walter EJ & Carraretto M, Critical Care 2016, ScienceDirect 2024 — Exertional heat stroke, Korey Stringer Institute — Douglas Casa (UConn).*
+*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, Walter EJ & Carraretto M, Critical Care 2016, ScienceDirect 2024, Exertional heat stroke, Korey Stringer Institute, Douglas Casa (UConn).*

@@ -1,7 +1,7 @@
 ---
 title: "Dôme de chaleur en France : comment les services de premiers secours peuvent se préparer"
 date: 2026-05-27
-description: "Plus de 1 000 records battus en France depuis le 21 mai 2026. Guide pratique pour les équipes de premiers secours — sapeurs-pompiers, secouristes événementiels, SST — face à la multiplication des coups de chaleur d'effort."
+description: "Plus de 1 000 records battus en France depuis le 21 mai 2026. Guide pratique pour les équipes de premiers secours (sapeurs-pompiers, secouristes événementiels, SST) face à la multiplication des coups de chaleur d'effort."
 category: "Sapeurs-pompiers"
 layout: layouts/article.njk
 lang: fr
@@ -10,7 +10,7 @@ published: true
 
 Le dôme de chaleur qui s'est installé sur la France depuis le 21 mai 2026 a déjà pulvérisé plus de 1 000 records météorologiques. Avec des températures de 9 à 12°C supérieures aux normales saisonnières et un pic à 37,1°C près d'Hossegor, cet épisode qualifié d'"inédit" par Météo-France ne fait que commencer.
 
-Pour les équipes de premiers secours — sapeurs-pompiers, secouristes d'événements sportifs, sauveteurs-secouristes du travail (SST) — la chaleur n'est pas un phénomène nouveau. Mais son intensité croissante et sa précocité en 2026 imposent une mise à jour urgente des protocoles et des équipements.
+Pour les équipes de premiers secours, sapeurs-pompiers, secouristes d'événements sportifs, sauveteurs-secouristes du travail (SST), la chaleur n'est pas un phénomène nouveau. Mais son intensité croissante et sa précocité en 2026 imposent une mise à jour urgente des protocoles et des équipements.
 
 ## Pourquoi cet épisode est différent des précédents
 
@@ -24,15 +24,15 @@ Ce qui distingue cet épisode des précédents pour les équipes de secours :
 
 **L'intensité inattendue.** Les scientifiques estiment que cet épisode a une probabilité d'occurrence d'une chance sur 1 000 pour cette période de l'année, avec un record à 37,1°C enregistré près d'Hossegor.
 
-**La durée.** Contrairement à un pic de chaleur de 48 heures, un dôme thermique maintient des températures élevées pendant plusieurs jours consécutifs — aggravant progressivement la fatigue thermique des intervenants eux-mêmes.
+**La durée.** Contrairement à un pic de chaleur de 48 heures, un dôme thermique maintient des températures élevées pendant plusieurs jours consécutifs, aggravant progressivement la fatigue thermique des intervenants eux-mêmes.
 
 ## Les situations à risque que les premiers secours vont rencontrer
 
 ### Les événements sportifs
 
-Le week-end de la Pentecôte a été meurtrier. Une femme de 28 ans est décédée à l'Hyrox de Lyon, et les pompiers de Paris ont dû déployer plusieurs baignoires de refroidissement simultanément lors d'une course à pied à Maisons-Alfort. Ce ne sont pas des cas isolés — c'est la norme lors d'une vague de chaleur intense.
+Le week-end de la Pentecôte a été meurtrier. Une femme de 28 ans est décédée à l'Hyrox de Lyon, et les pompiers de Paris ont dû déployer plusieurs baignoires de refroidissement simultanément lors d'une course à pied à Maisons-Alfort. Ce ne sont pas des cas isolés, c'est la norme lors d'une vague de chaleur intense.
 
-Tout événement sportif organisé lors de cet épisode — course à pied, trail, compétition de fitness, tournoi de sport collectif — est une intervention de coup de chaleur d'effort en puissance.
+Tout événement sportif organisé lors de cet épisode (course à pied, trail, compétition de fitness, tournoi de sport collectif) est une intervention de coup de chaleur d'effort en puissance.
 
 ### Les interventions professionnelles
 
@@ -40,7 +40,7 @@ Les travailleurs du BTP, de la logistique, de l'agriculture exposés à des temp
 
 ### Les interventions sur feux de forêt
 
-Cet épisode de chaleur précoce s'inscrit dans une tendance de fond qui s'accentue, avec des températures supérieures de 9 à 12°C aux normales saisonnières. Combinées à la sécheresse, ces conditions créent un risque feux de forêt élevé dès mai — et les pompiers en intervention cumulent chaleur ambiante extrême, effort intense et tenue de protection imperméable.
+Cet épisode de chaleur précoce s'inscrit dans une tendance de fond qui s'accentue, avec des températures supérieures de 9 à 12°C aux normales saisonnières. Combinées à la sécheresse, ces conditions créent un risque feux de forêt élevé dès mai, et les pompiers en intervention cumulent chaleur ambiante extrême, effort intense et tenue de protection imperméable.
 
 ### Les populations vulnérables
 
@@ -84,11 +84,11 @@ Sortir la victime à **38,6°C de température rectale**. Transport vers les urg
 
 La connaissance du protocole ne suffit pas si la baignoire n'est pas là. Voici ce que chaque équipe de premiers secours doit avoir disponible lors de cet épisode :
 
-**Une baignoire de refroidissement déployable** — conforme au protocole d'immersion complète, à la structure stable et opérationnelle en moins de 5 minutes. C'est l'équipement non négociable.
+**Une baignoire de refroidissement déployable** : conforme au protocole d'immersion complète, à la structure stable et opérationnelle en moins de 5 minutes. C'est l'équipement non négociable.
 
-**De l'eau froide et de la glace** — en quantité suffisante pour remplir la baignoire et maintenir une température entre 1,5°C et 15°C. Anticipez les besoins dès le début du service.
+**De l'eau froide et de la glace** : en quantité suffisante pour remplir la baignoire et maintenir une température entre 1,5°C et 15°C. Anticipez les besoins dès le début du service.
 
-**Un thermomètre rectal** — c'est le seul moyen fiable de mesurer la température centrale sur le terrain. Ne pas se fier à la mesure tympanique qui sous-estime systématiquement la température centrale en cas de CCE.
+**Un thermomètre rectal** : c'est le seul moyen fiable de mesurer la température centrale sur le terrain. Ne pas se fier à la mesure tympanique qui sous-estime systématiquement la température centrale en cas de CCE.
 
 ## Kollder : l'équipement pensé pour les contraintes des premiers secours
 
@@ -96,7 +96,7 @@ Les équipes de premiers secours ne peuvent pas se permettre une baignoire insta
 
 Kollder a été conçue avec ces contraintes opérationnelles comme point de départ. Structure stable et entièrement pliable, opérationnelle en moins de 5 minutes, structure inox résistante aux conditions difficiles, liner sans jonctions Velcro pour éviter les fuites, accès patient total pendant le refroidissement.
 
-Dans le contexte du dôme de chaleur de mai 2026 — et des épisodes qui vont se multiplier — disposer de cet équipement n'est plus une option.
+Dans le contexte du dôme de chaleur de mai 2026, et des épisodes qui vont se multiplier, disposer de cet équipement n'est plus une option.
 
 Les SDIS et sapeurs-pompiers peuvent retrouver [l'équipement de refroidissement dédié à leurs contraintes terrain](https://kollder.com/fr/sdis-pompiers/) sur notre page audience.
 
@@ -109,4 +109,4 @@ Pour les équipes de secours qui souhaitent évaluer Kollder avant l'été : [ko
 
 ---
 
-*Sources : Météo-France — Épisode de chaleur mai 2026 (27/05/2026), France Info — Records mensuels mai 2026 (22/05/2026), ConsoGlobe — Canicule mai 2026 (26/05/2026), Euronews — Record May heat France (26/05/2026), Bilan climatique été 2025 Météo-France, ACSM Expert Consensus Statement 2023, IOC BJSM 2021 (Hosokawa, Racinais et al.), Korey Stringer Institute — Douglas Casa (UConn).*
+*Sources : Météo-France, Épisode de chaleur mai 2026 (27/05/2026), France Info, Records mensuels mai 2026 (22/05/2026), ConsoGlobe, Canicule mai 2026 (26/05/2026), Euronews, Record May heat France (26/05/2026), Bilan climatique été 2025 Météo-France, ACSM Expert Consensus Statement 2023, IOC BJSM 2021 (Hosokawa, Racinais et al.), Korey Stringer Institute, Douglas Casa (UConn).*

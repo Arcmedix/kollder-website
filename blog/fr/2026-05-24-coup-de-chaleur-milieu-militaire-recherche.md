@@ -12,21 +12,21 @@ Le coup de chaleur d'effort (CCE) est l'une des principales causes de mortalité
 
 ## Une menace documentée, pas exceptionnelle
 
-En 2024, les maladies liées à la chaleur figuraient parmi les cinq événements médicaux les plus signalés chez les militaires américains en service actif, avec un pic en juin-juillet. L'US Army a enregistré un taux brut de **36,4 cas de coup de chaleur pour 100 000 personnes-années** — une augmentation après plusieurs années de stabilisation.
+En 2024, les maladies liées à la chaleur figuraient parmi les cinq événements médicaux les plus signalés chez les militaires américains en service actif, avec un pic en juin-juillet. L'US Army a enregistré un taux brut de **36,4 cas de coup de chaleur pour 100 000 personnes-années**, une augmentation après plusieurs années de stabilisation.
 
 Ces données, publiées par la Defense Centers of Public Health dans le *Medical Surveillance Monthly Report* de 2025, reflètent une réalité que les médecins militaires connaissent bien : le coup de chaleur d'effort ne survient pas uniquement en OPEX en zone tropicale. Il survient à l'entraînement, en France, pendant les exercices de préparation physique intensive.
 
-La revue internationale publiée en 2025 par [Epstein et al. dans *Frontiers in Physiology*](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920190/) — co-signée par des experts de l'US Army, de l'armée française (Malgoyre) et d'autres armées — le confirme : l'US Army a enregistré une augmentation de **42%** du taux de cas d'épuisement thermique sur les trois dernières années.
+La revue internationale publiée en 2025 par [Epstein et al. dans *Frontiers in Physiology*](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920190/), co-signée par des experts de l'US Army, de l'armée française (Malgoyre) et d'autres armées, le confirme : l'US Army a enregistré une augmentation de **42%** du taux de cas d'épuisement thermique sur les trois dernières années.
 
 ## Pourquoi le milieu militaire est particulièrement exposé
 
-**Équipement lourd et tenues de protection** — une tenue de combat complète avec équipements individuels peut réduire de 50% la capacité de dissipation thermique du corps.
+**Équipement lourd et tenues de protection** : une tenue de combat complète avec équipements individuels peut réduire de 50% la capacité de dissipation thermique du corps.
 
-**Effort prolongé sans possibilité de pause** — les exercices tactiques et les marches d'endurance ne permettent pas d'adapter le rythme à la sensation de chaleur.
+**Effort prolongé sans possibilité de pause** : les exercices tactiques et les marches d'endurance ne permettent pas d'adapter le rythme à la sensation de chaleur.
 
-**Pression de la performance et culture du dépassement** — les militaires sont formés à ignorer les signaux de fatigue, ce qui peut masquer les premiers signes du CCE.
+**Pression de la performance et culture du dépassement** : les militaires sont formés à ignorer les signaux de fatigue, ce qui peut masquer les premiers signes du CCE.
 
-**Environnements chauds et humides** — les opérations en zone subtropicale ou désertique maintiennent une charge thermique externe élevée, indépendamment de l'effort.
+**Environnements chauds et humides** : les opérations en zone subtropicale ou désertique maintiennent une charge thermique externe élevée, indépendamment de l'effort.
 
 ## Les signes cliniques que tout médecin de l'avant doit connaître
 
@@ -43,7 +43,7 @@ Le *Clinical Practice Guideline for the Prevention, Diagnosis, and Management of
 
 La Defense Health Agency américaine l'exprime ainsi dans son [article du 10 juin 2025](https://www.army.mil/article/286206/military_efforts_preventing_severe_heat_illness_cases) sur army.mil : *"We now have evidence that immediately cooling a heat-stroke casualty by wrapping their body in ice sheets in the field before transporting for further medical treatment can save a life."*
 
-La règle est celle adoptée par tous les systèmes de soins d'urgence militaires : **cool first, transport second** — refroidir d'abord, évacuer ensuite. L'évacuation médicalisée ne doit pas retarder le refroidissement.
+La règle est celle adoptée par tous les systèmes de soins d'urgence militaires : **cool first, transport second**, refroidir d'abord, évacuer ensuite. L'évacuation médicalisée ne doit pas retarder le refroidissement.
 
 | Méthode | Vitesse de refroidissement | Faisabilité terrain |
 |---|---|---|
@@ -68,10 +68,10 @@ La revue Epstein et al. (2025) consolide les recommandations pour le milieu mili
 
 ## Sources
 
-- Epstein Y, Charkoudian N, DeGroot DW, Malgoyre A, O'Connor FG, et al., *Exertional heat illness: international military-oriented lessons learned and best practices*, Frontiers in Physiology, 2025 — [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920190/)
-- Maule AL, et al., *Heat Exhaustion and Heat Stroke Among Active Component Members of the U.S. Armed Forces, 2020-2024*, 2025 — [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12266733/)
-- Defense Health Agency, *Military Efforts Preventing Severe Heat Illness Cases*, army.mil, juin 2025 — [army.mil](https://www.army.mil/article/286206/military_efforts_preventing_severe_heat_illness_cases)
-- CHAMP/USUHS, *Clinical Practice Guideline: Exertional Heat Illness*, juin 2024 — [champ.usuhs.edu](https://champ.usuhs.edu/sites/default/files/media/documents/champ_whec_ehi_cpg_508_070224_acc.pdf)
+- Epstein Y, Charkoudian N, DeGroot DW, Malgoyre A, O'Connor FG, et al., *Exertional heat illness: international military-oriented lessons learned and best practices*, Frontiers in Physiology, 2025, [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11920190/)
+- Maule AL, et al., *Heat Exhaustion and Heat Stroke Among Active Component Members of the U.S. Armed Forces, 2020-2024*, 2025, [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12266733/)
+- Defense Health Agency, *Military Efforts Preventing Severe Heat Illness Cases*, army.mil, juin 2025, [army.mil](https://www.army.mil/article/286206/military_efforts_preventing_severe_heat_illness_cases)
+- CHAMP/USUHS, *Clinical Practice Guideline: Exertional Heat Illness*, juin 2024, [champ.usuhs.edu](https://champ.usuhs.edu/sites/default/files/media/documents/champ_whec_ehi_cpg_508_070224_acc.pdf)
 
 ---
 

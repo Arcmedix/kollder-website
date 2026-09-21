@@ -35,7 +35,7 @@ howToSchema: |
 
 ## Qui est le Dr Douglas Casa ?
 
-Le Dr Douglas Casa est l'un des chercheurs les plus cités au monde sur le coup de chaleur d'effort. Il dirige le Korey Stringer Institute à l'Université du Connecticut — un centre de recherche fondé en 2010 en mémoire de Korey Stringer, joueur de NFL décédé d'un coup de chaleur lors d'un entraînement en 2001.
+Le Dr Douglas Casa est l'un des chercheurs les plus cités au monde sur le coup de chaleur d'effort. Il dirige le Korey Stringer Institute à l'Université du Connecticut, un centre de recherche fondé en 2010 en mémoire de Korey Stringer, joueur de NFL décédé d'un coup de chaleur lors d'un entraînement en 2001.
 
 Ce qui rend la voix de Casa unique : il est lui-même survivant. En 1985, à 16 ans, il s'est effondré lors d'un 10 km à Buffalo sous l'effet d'un coup de chaleur d'effort. Comme il l'a raconté à [UConn Today](https://today.uconn.edu/2025/10/one-collapse-countless-saves/) : *"The benefit of having a near-death experience as a 16-year-old is I never had to worry about what my job or my career was going to be. I knew literally within a couple days of that taking place that I wanted to pursue this area of study."*
 
@@ -45,7 +45,7 @@ Depuis, il a publié plus de 200 articles scientifiques sur le CCE et a traité 
 
 Lors d'un briefing média diffusé par [SciLine en novembre 2025](https://www.sciline.org/health-medicine/rapid-cooling-heat-stroke/), le Dr Casa l'a formulé de façon directe : *"It has been 100% survival in over 3,000 cases we have tracked if the person's body temperature gets under 104 [°F / 40°C] within 30 minutes of the presentation of the condition."*
 
-Cette donnée est fondamentale. Le coup de chaleur d'effort n'est pas une fatalité. C'est une urgence médicale entièrement traitable — à condition d'agir dans la bonne fenêtre de temps et avec le bon équipement.
+Cette donnée est fondamentale. Le coup de chaleur d'effort n'est pas une fatalité. C'est une urgence médicale entièrement traitable, à condition d'agir dans la bonne fenêtre de temps et avec le bon équipement.
 
 Le corollaire est tout aussi important : chaque décès par CCE est un échec du système de prise en charge. Casa l'a exprimé clairement : *"Any time you hear of a death you'll know from this moment forward that person was not cooled aggressively."*
 
@@ -53,9 +53,9 @@ Le corollaire est tout aussi important : chaque décès par CCE est un échec du
 
 Le réflexe naturel face à une personne inconsciente est d'appeler le SMUR et d'attendre. Dans le cas du CCE, cette approche tue. Le principe "cool first, transport second" inverse la priorité :
 
-1. **Initier le refroidissement immédiatement** — avant l'arrivée du SMUR, avant l'évacuation
-2. **Appeler le 15 en parallèle** — pas à la place du refroidissement
-3. **Transporter vers l'hôpital** — une fois le refroidissement en cours
+1. **Initier le refroidissement immédiatement** : avant l'arrivée du SMUR, avant l'évacuation
+2. **Appeler le 15 en parallèle** : pas à la place du refroidissement
+3. **Transporter vers l'hôpital** : une fois le refroidissement en cours
 
 Cette approche est la règle de référence de l'American College of Sports Medicine (ACSM), du Korey Stringer Institute, et des guides militaires américains. Elle commence à s'imposer en France dans les milieux sportifs et des sapeurs-pompiers.
 
@@ -63,7 +63,7 @@ Cette approche est la règle de référence de l'American College of Sports Medi
 
 Casa est explicite sur la méthode : *"Ice-cold water is best, and the more skin surface area that's covered, the faster you're going to cool."*
 
-L'immersion corps entier en eau froide refroidit à une vitesse de 0,20 à 0,35°C par minute. Toutes les méthodes alternatives — serviettes humides, poches de glace, brumisation — refroidissent 6 à 10 fois moins vite. Dans la fenêtre des 30 minutes, cette différence est littéralement la ligne entre la récupération complète et des séquelles neurologiques permanentes.
+L'immersion corps entier en eau froide refroidit à une vitesse de 0,20 à 0,35°C par minute. Toutes les méthodes alternatives (serviettes humides, poches de glace, brumisation) refroidissent 6 à 10 fois moins vite. Dans la fenêtre des 30 minutes, cette différence est littéralement la ligne entre la récupération complète et des séquelles neurologiques permanentes.
 
 ## Ce que le Korey Stringer Institute a accompli
 
@@ -74,19 +74,19 @@ Casa compare le protocole à l'utilisation d'un défibrillateur : *"Cool first, 
 ## Ce que les équipes de terrain doivent retenir
 
 - Avoir une baignoire de refroidissement par immersion disponible **sur chaque poste médical**, pas dans un véhicule à distance
-- Former tous les secouristes au protocole CCE — pas seulement le médecin référent
-- Inclure un thermomètre rectal dans le kit de base — les thermomètres frontaux ou auriculaires sont insuffisants pour le CCE
+- Former tous les secouristes au protocole CCE, pas seulement le médecin référent
+- Inclure un thermomètre rectal dans le kit de base : les thermomètres frontaux ou auriculaires sont insuffisants pour le CCE
 - Ne pas attendre l'avis médical pour initier le refroidissement sur un patient suspect
 
 Retrouvez [l'application du protocole Cool First par les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/) sur notre page dédiée aux SAMU, SMUR et urgences hospitalières.
 
 ## Sources
 
-- SciLine, *Dr. Douglas Casa: Heat stroke care — Cool first, transport second*, novembre 2025 — [sciline.org](https://www.sciline.org/health-medicine/rapid-cooling-heat-stroke/)
-- UConn Today, *One Collapse, Countless Saves*, octobre 2025 — [today.uconn.edu](https://today.uconn.edu/2025/10/one-collapse-countless-saves/)
-- CBS News Minnesota, *Korey Stringer Institute heat research* — [cbsnews.com](https://www.cbsnews.com/minnesota/news/korey-stringer-institute-heat-research)
-- Korey Stringer Institute — [ksi.uconn.edu](https://ksi.uconn.edu)
-- Burlaton G. et al., *Le coup de chaleur d'exercice*, Annales Françaises de Médecine d'Urgence, 2024 — [cairn.info](https://stm.cairn.info/revue-annales-francaises-de-medecine-d-urgence-2024-5-page-320?lang=fr)
+- SciLine, *Dr. Douglas Casa: Heat stroke care (Cool first, transport second*, novembre 2025) [sciline.org](https://www.sciline.org/health-medicine/rapid-cooling-heat-stroke/)
+- UConn Today, *One Collapse, Countless Saves*, octobre 2025, [today.uconn.edu](https://today.uconn.edu/2025/10/one-collapse-countless-saves/)
+- CBS News Minnesota, *Korey Stringer Institute heat research*, [cbsnews.com](https://www.cbsnews.com/minnesota/news/korey-stringer-institute-heat-research)
+- Korey Stringer Institute : [ksi.uconn.edu](https://ksi.uconn.edu)
+- Burlaton G. et al., *Le coup de chaleur d'exercice*, Annales Françaises de Médecine d'Urgence, 2024, [cairn.info](https://stm.cairn.info/revue-annales-francaises-de-medecine-d-urgence-2024-5-page-320?lang=fr)
 
 ---
 

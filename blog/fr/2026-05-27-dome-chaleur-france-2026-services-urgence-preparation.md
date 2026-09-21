@@ -8,11 +8,11 @@ lang: fr
 published: true
 ---
 
-Depuis le 21 mai 2026, la France est sous l'emprise d'un dôme de chaleur d'une intensité historique pour un mois de mai. Les températures dépassent de 9 à 12°C les normales saisonnières. Plus de 1 000 records mensuels ont été battus, dont 37,1°C près d'Hossegor — un niveau qualifié d'"inédit" par Météo-France, avec une probabilité d'occurrence estimée à 1 sur 1 000 pour cette période de l'année.
+Depuis le 21 mai 2026, la France est sous l'emprise d'un dôme de chaleur d'une intensité historique pour un mois de mai. Les températures dépassent de 9 à 12°C les normales saisonnières. Plus de 1 000 records mensuels ont été battus, dont 37,1°C près d'Hossegor, un niveau qualifié d'"inédit" par Météo-France, avec une probabilité d'occurrence estimée à 1 sur 1 000 pour cette période de l'année.
 
 Le bilan humain est déjà lourd : au moins 7 décès liés à la chaleur lors du week-end de la Pentecôte, des malaises en série lors d'événements sportifs, et le décès d'une participante de 28 ans à l'Hyrox de Lyon. Et selon Météo-France, l'épisode doit se poursuivre.
 
-Pour les services d'urgence — SAMU, SMUR, urgences hospitalières — cet épisode n'est pas une surprise. C'est la répétition d'un scénario qui va se reproduire de plus en plus souvent. La question n'est plus "est-ce que cela va arriver ?" mais "sommes-nous organisés pour y répondre ?"
+Pour les services d'urgence (SAMU, SMUR, urgences hospitalières), cet épisode n'est pas une surprise. C'est la répétition d'un scénario qui va se reproduire de plus en plus souvent. La question n'est plus "est-ce que cela va arriver ?" mais "sommes-nous organisés pour y répondre ?"
 
 ## Ce que les données climatiques annoncent
 
@@ -26,7 +26,7 @@ Ces chiffres ne sont pas des anecdotes météorologiques. Ils définissent le ca
 
 Les services d'urgence hospitaliers font face à un double défi lors des épisodes de chaleur intense.
 
-**Le flux entrant explose.** Lors de la canicule de 2003, les urgences de l'AP-HP ont enregistré une augmentation de 70% des admissions en 15 jours. En 2025, les deux vagues de chaleur ont saturé les services d'urgence dans plusieurs régions. Un épisode de chaleur précoce en mai — avant que les équipes aient pu se préparer — aggrave ce phénomène.
+**Le flux entrant explose.** Lors de la canicule de 2003, les urgences de l'AP-HP ont enregistré une augmentation de 70% des admissions en 15 jours. En 2025, les deux vagues de chaleur ont saturé les services d'urgence dans plusieurs régions. Un épisode de chaleur précoce en mai, avant que les équipes aient pu se préparer, aggrave ce phénomène.
 
 **Les pathologies sont chronophages.** Un coup de chaleur d'effort sévère nécessite une prise en charge intensive immédiate, occupe une équipe pendant plusieurs heures et mobilise des ressources (bilan biologique, scope, réanimation) qui ne sont pas disponibles en nombre illimité.
 
@@ -42,17 +42,17 @@ N'attendez pas le niveau rouge. Les flux de patients commencent à augmenter dè
 
 Le protocole de référence est clair : refroidir avant de transporter. Les équipes SMUR qui interviennent sur des victimes d'hyperthermie d'effort doivent initier le refroidissement sur place avant le transport, pas dans le véhicule en route vers les urgences.
 
-Cela suppose que les véhicules SMUR soient équipés d'une baignoire de refroidissement déployable et d'une réserve d'eau froide. L'immersion en eau froide refroidit à 0,35°C/min — contre 0,03°C/min pour les poches de glace. La fenêtre thérapeutique est de 30 minutes. Chaque minute de transport sans refroidissement efficace est une minute perdue.
+Cela suppose que les véhicules SMUR soient équipés d'une baignoire de refroidissement déployable et d'une réserve d'eau froide. L'immersion en eau froide refroidit à 0,35°C/min, contre 0,03°C/min pour les poches de glace. La fenêtre thérapeutique est de 30 minutes. Chaque minute de transport sans refroidissement efficace est une minute perdue.
 
 ### 3. Équiper les VSAV et véhicules SMUR d'une baignoire déployable
 
 C'est la mesure qui change le pronostic des cas sévères. Le Dr Douglas Casa (Korey Stringer Institute) a documenté 0 décès sur 401 cas de coup de chaleur sévère traités par immersion dans les 30 premières minutes. Ce chiffre est conditionné à la disponibilité de l'équipement sur le lieu d'intervention.
 
-Kollder est conçue pour s'intégrer dans tout véhicule de secours — à la structure stable et pliable, avec accès patient complet pendant le refroidissement.
+Kollder est conçue pour s'intégrer dans tout véhicule de secours, à la structure stable et pliable, avec accès patient complet pendant le refroidissement.
 
 ### 4. Coordonner avec les organisateurs d'événements sportifs
 
-Les semaines de chaleur intense voient une concentration d'incidents lors d'événements sportifs. Les SAMU et SMUR territoriaux doivent anticiper les événements à risque dans leur zone de couverture et s'assurer que les dispositifs médicaux des organisateurs sont conformes aux recommandations — notamment la présence d'une baignoire d'immersion.
+Les semaines de chaleur intense voient une concentration d'incidents lors d'événements sportifs. Les SAMU et SMUR territoriaux doivent anticiper les événements à risque dans leur zone de couverture et s'assurer que les dispositifs médicaux des organisateurs sont conformes aux recommandations, notamment la présence d'une baignoire d'immersion.
 
 ### 5. Renforcer la surveillance des populations vulnérables
 
@@ -66,7 +66,7 @@ Chaque épisode de chaleur intense est une opportunité d'apprentissage. Documen
 
 Le dôme de chaleur de mai 2026 est un signal d'alerte précoce. Il survient avant le début officiel de la saison estivale, avant que les équipes aient pu se préparer, avant que les populations aient adapté leurs comportements.
 
-Météo-France confirme que la journée du mardi 27 mai a été la plus chaude jamais connue en mai avec une température moyenne nationale de 24,9°C. Si un tel épisode survient en juillet ou en août — avec des températures encore plus élevées et une durée plus longue — les services d'urgence non préparés seront rapidement saturés.
+Météo-France confirme que la journée du mardi 27 mai a été la plus chaude jamais connue en mai avec une température moyenne nationale de 24,9°C. Si un tel épisode survient en juillet ou en août, avec des températures encore plus élevées et une durée plus longue, les services d'urgence non préparés seront rapidement saturés.
 
 La préparation ne se fait pas pendant la crise. Elle se fait maintenant.
 
@@ -81,4 +81,4 @@ Pour les services d'urgence qui souhaitent évaluer l'intégration de Kollder da
 
 ---
 
-*Sources : Météo-France — Épisode de chaleur mai 2026, Copernicus Climate Change Service avril 2026, Euronews 26 mai 2026, ConsoGlobe 26 mai 2026, Bilan climatique été 2025 Météo-France, ACSM Expert Consensus Statement 2023, Korey Stringer Institute — Douglas Casa (UConn).*
+*Sources : Météo-France, Épisode de chaleur mai 2026, Copernicus Climate Change Service avril 2026, Euronews 26 mai 2026, ConsoGlobe 26 mai 2026, Bilan climatique été 2025 Météo-France, ACSM Expert Consensus Statement 2023, Korey Stringer Institute, Douglas Casa (UConn).*

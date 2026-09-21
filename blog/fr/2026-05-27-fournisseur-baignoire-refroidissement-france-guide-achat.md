@@ -8,7 +8,7 @@ lang: fr
 published: true
 ---
 
-La baignoire de refroidissement d'urgence est devenue un équipement incontournable pour les services de secours, les forces armées, les équipes médicales d'événements sportifs et les responsables EHS en entreprise. Face à la multiplication des incidents d'hyperthermie d'effort — illustrée par le décès d'une participante à l'Hyrox de Lyon en mai 2026 — la demande en France progresse rapidement.
+La baignoire de refroidissement d'urgence est devenue un équipement incontournable pour les services de secours, les forces armées, les équipes médicales d'événements sportifs et les responsables EHS en entreprise. Face à la multiplication des incidents d'hyperthermie d'effort, illustrée par le décès d'une participante à l'Hyrox de Lyon en mai 2026, la demande en France progresse rapidement.
 
 Mais comment choisir le bon fournisseur ? Quels sont les critères techniques non négociables ? Et quels sont les points de vigilance à connaître avant de passer commande ?
 
@@ -18,7 +18,7 @@ Le consensus international est désormais clair. L'ACSM, la SFAR et le Comité I
 
 En France, le Décret 2025-482 renforce les obligations des employeurs en matière de prévention de l'hyperthermie d'effort, ce qui crée une obligation de moyens pour les entreprises exposées.
 
-La baignoire de refroidissement n'est plus un équipement optionnel — c'est une réponse à une exigence médicale et réglementaire documentée.
+La baignoire de refroidissement n'est plus un équipement optionnel, c'est une réponse à une exigence médicale et réglementaire documentée.
 
 ## Les critères techniques essentiels
 
@@ -26,7 +26,7 @@ Avant de contacter un fournisseur, voici les critères objectifs sur lesquels é
 
 ### 1. La conformité au protocole d'immersion complète
 
-Le protocole de référence — validé par la SFAR, l'ACSM et le CIO — exige une immersion **corps entier**, épaules et cuir chevelu compris, avec les voies aériennes maintenues hors de l'eau. Toute solution qui ne permet pas cette immersion complète ne respecte pas le protocole de référence.
+Le protocole de référence (validé par la SFAR, l'ACSM et le CIO) exige une immersion **corps entier**, épaules et cuir chevelu compris, avec les voies aériennes maintenues hors de l'eau. Toute solution qui ne permet pas cette immersion complète ne respecte pas le protocole de référence.
 
 Point de vigilance : certains systèmes de type "sac" ou "body bag" ne permettent pas une immersion totale et limitent l'accès au patient pendant le refroidissement. Ces contraintes ne sont pas compatibles avec les exigences médicales d'une prise en charge sévère.
 
@@ -52,7 +52,7 @@ L'équipement doit s'intégrer dans le véhicule de l'équipe sans contraindre l
 
 ### 5. La robustesse des matériaux
 
-L'équipement sera utilisé en conditions difficiles — poussière, boue, chocs, eau salée, produits désinfectants. Les matériaux doivent résister à un usage répété en milieu hostile.
+L'équipement sera utilisé en conditions difficiles : poussière, boue, chocs, eau salée, produits désinfectants. Les matériaux doivent résister à un usage répété en milieu hostile.
 
 - **Structure** : l'inox alimentaire résiste mieux à la corrosion et aux chocs que l'aluminium tubulaire
 - **Liner** : le PVC haute résistance soudé est plus fiable que les assemblages Velcro répétés
@@ -83,17 +83,17 @@ Avant de signer un bon de commande, voici les questions à poser systématiqueme
 
 Le marché français de la baignoire de refroidissement d'urgence est encore émergent. Trois solutions se distinguent :
 
-**Corben** — Solution française distribuée via les canaux habituels des équipementiers pompiers. Structure aluminium, immersion complète, accès patient ouvert. Point de vigilance : fixation par pattes Velcro, encombrement important replié.
+**Corben** : Solution française distribuée via les canaux habituels des équipementiers pompiers. Structure aluminium, immersion complète, accès patient ouvert. Point de vigilance : fixation par pattes Velcro, encombrement important replié.
 
-**I-CWIK (Nereus Medical)** — Solution britannique, très portable sous forme de sac. Point de vigilance majeur : système fermé limitant l'accès patient pendant l'immersion, documentation fabricant elle-même mentionnant le risque de noyade si le patient n'est pas surveillé en permanence.
+**I-CWIK (Nereus Medical)** : Solution britannique, très portable sous forme de sac. Point de vigilance majeur : système fermé limitant l'accès patient pendant l'immersion, documentation fabricant elle-même mentionnant le risque de noyade si le patient n'est pas surveillé en permanence.
 
-**Kollder** — Solution française en phase de développement avancé, conçue spécifiquement pour lever les limitations des systèmes existants. Structure inox alimentaire stable sur terrain irrégulier, bassin pour jusqu'à 2 personnes en immersion simultanée, immersion corps entier complète, accès patient total pendant le refroidissement. Pensée pour les équipes mobiles : SDIS, SSSM militaires, équipes médicales événementielles, responsables EHS terrain.
+**Kollder** : Solution française en phase de développement avancé, conçue spécifiquement pour lever les limitations des systèmes existants. Structure inox alimentaire stable sur terrain irrégulier, bassin pour jusqu'à 2 personnes en immersion simultanée, immersion corps entier complète, accès patient total pendant le refroidissement. Pensée pour les équipes mobiles : SDIS, SSSM militaires, équipes médicales événementielles, responsables EHS terrain.
 
 ## Pourquoi le choix du fournisseur engage votre responsabilité
 
 Choisir une baignoire de refroidissement pour votre équipe, votre événement ou votre entreprise est une décision qui engage votre responsabilité médicale et juridique.
 
-Si l'équipement que vous avez sélectionné ne permet pas d'appliquer le protocole de référence — immersion complète, accès patient, déploiement dans la fenêtre thérapeutique — vous ne pourrez pas invoquer la conformité aux recommandations en cas d'incident.
+Si l'équipement que vous avez sélectionné ne permet pas d'appliquer le protocole de référence (immersion complète, accès patient, déploiement dans la fenêtre thérapeutique), vous ne pourrez pas invoquer la conformité aux recommandations en cas d'incident.
 
 La règle est simple : choisissez un équipement qui vous permet d'appliquer le protocole **Cool First, Transport Second** dans les conditions réelles de vos interventions.
 

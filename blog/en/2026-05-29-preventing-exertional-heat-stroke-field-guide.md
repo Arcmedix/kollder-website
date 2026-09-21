@@ -14,13 +14,13 @@ Most deaths from exertional heat stroke are preventable. Dr Douglas Casa (Korey 
 
 Exertional heat stroke does not only affect elite athletes. The at-risk population is broader than commonly assumed.
 
-**Endurance athletes** — Marathon, trail running, triathlon, Hyrox. Summer races expose large numbers of participants to hyperthermia, including those with strong fitness levels. Insufficient heat acclimatisation and dehydration are the two primary aggravating factors.
+**Endurance athletes**: Marathon, trail running, triathlon, Hyrox. Summer races expose large numbers of participants to hyperthermia, including those with strong fitness levels. Insufficient heat acclimatisation and dehydration are the two primary aggravating factors.
 
-**Firefighters** — Intense physical effort in thermal protective equipment under high ambient temperatures is one of the highest-risk situations for exertional heat stroke. Multiple fire and rescue services have documented cases during summer wildfire operations.
+**Firefighters**: Intense physical effort in thermal protective equipment under high ambient temperatures is one of the highest-risk situations for exertional heat stroke. Multiple fire and rescue services have documented cases during summer wildfire operations.
 
-**Military personnel** — The French Army's medical service has tracked exertional heat stroke cases since 1989. Incidence was 19.8 per 100,000 in 2010, with mortality brought below 1% — down from 30% in the 1980s — through improved protocols.
+**Military personnel**: The French Army's medical service has tracked exertional heat stroke cases since 1989. Incidence was 19.8 per 100,000 in 2010, with mortality brought below 1%, down from 30% in the 1980s, through improved protocols.
 
-**Outdoor workers** — Construction, metallurgy, agriculture, oil and gas. Regulatory frameworks in several countries are tightening employer obligations around heat illness prevention. EHS managers are directly accountable.
+**Outdoor workers**: Construction, metallurgy, agriculture, oil and gas. Regulatory frameworks in several countries are tightening employer obligations around heat illness prevention. EHS managers are directly accountable.
 
 ## Aggravating Factors to Monitor
 
@@ -41,7 +41,7 @@ This is where most critical situations are won or lost. ACSM (2023) and IOC (Hos
 
 **Train the teams.** First responders, volunteers, and race officials must recognise early warning signs: confusion, unsteady gait, abnormal behaviour during exertion. The victim is often the last to realise what is happening.
 
-**Equip medical posts before the start.** A forward medical post with cold water immersion equipment must be operational before the first competitor starts — not during the event.
+**Equip medical posts before the start.** A forward medical post with cold water immersion equipment must be operational before the first competitor starts, not during the event.
 
 **Define the emergency action plan.** Who initiates cooling? Who monitors core temperature? Who calls emergency services? These questions must be answered before any incident occurs.
 
@@ -57,7 +57,7 @@ Signs that cannot wait:
 - Sudden cessation of sweating with intense flushing
 - Collapse
 
-When any of these signs appears, exertion must stop immediately. Definitive diagnosis relies on rectal temperature measurement — the only reliable method in prehospital settings according to international consensus. Any temperature above 40°C (104°F) with neurological signs confirms exertional heat stroke.
+When any of these signs appears, exertion must stop immediately. Definitive diagnosis relies on rectal temperature measurement, the only reliable method in prehospital settings according to international consensus. Any temperature above 40°C (104°F) with neurological signs confirms exertional heat stroke.
 
 ## The Most Common Field Mistakes
 
@@ -104,4 +104,4 @@ Fire and rescue services, event medical teams, military medical units, and EHS m
 
 ---
 
-*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC — Hosokawa Y, Racinais S et al., BJSM 2021, Casa DJ et al., Exercise and Sport Sciences Reviews 2007, Korey Stringer Institute — Douglas Casa (UConn).*
+*Sources: ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC, Hosokawa Y, Racinais S et al., BJSM 2021, Casa DJ et al., Exercise and Sport Sciences Reviews 2007, Korey Stringer Institute, Douglas Casa (UConn).*

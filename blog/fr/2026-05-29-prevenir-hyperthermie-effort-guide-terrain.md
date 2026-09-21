@@ -14,13 +14,13 @@ La majorité des décès par coup de chaleur d'effort sont évitables. Le Dr Dou
 
 L'hyperthermie d'effort ne touche pas que les sportifs de haut niveau. Les populations exposées sont plus larges qu'on ne le pense.
 
-**Sportifs d'endurance** — Marathons, trails, triathlons, Hyrox. Les courses estivales exposent massivement les coureurs, y compris ceux qui ont une bonne condition physique. L'acclimatation insuffisante et la déshydratation sont les deux premiers facteurs aggravants.
+**Sportifs d'endurance** : Marathons, trails, triathlons, Hyrox. Les courses estivales exposent massivement les coureurs, y compris ceux qui ont une bonne condition physique. L'acclimatation insuffisante et la déshydratation sont les deux premiers facteurs aggravants.
 
-**Sapeurs-pompiers** — L'effort intense en tenue de protection thermique par temps chaud est l'une des situations à plus haut risque. Plusieurs SDIS français ont documenté des cas lors de feux de forêt estivaux.
+**Sapeurs-pompiers** : L'effort intense en tenue de protection thermique par temps chaud est l'une des situations à plus haut risque. Plusieurs SDIS français ont documenté des cas lors de feux de forêt estivaux.
 
-**Militaires** — Le Service de Santé des Armées suit les cas de coup de chaleur d'exercice depuis 1989. L'incidence dans l'armée française était de 19,8 pour 100 000 en 2010, avec une mortalité ramenée à moins de 1% contre 30% dans les années 80 — grâce à l'amélioration des protocoles.
+**Militaires** : Le Service de Santé des Armées suit les cas de coup de chaleur d'exercice depuis 1989. L'incidence dans l'armée française était de 19,8 pour 100 000 en 2010, avec une mortalité ramenée à moins de 1% contre 30% dans les années 80, grâce à l'amélioration des protocoles.
 
-**Travailleurs exposés** — BTP, métallurgie, agriculture, industrie pétrolière. Le Décret 2025-482 renforce les obligations employeurs en matière de prévention de l'hyperthermie d'effort. Les responsables EHS sont directement concernés.
+**Travailleurs exposés** : BTP, métallurgie, agriculture, industrie pétrolière. Le Décret 2025-482 renforce les obligations employeurs en matière de prévention de l'hyperthermie d'effort. Les responsables EHS sont directement concernés.
 
 ## Les facteurs aggravants à surveiller
 
@@ -41,7 +41,7 @@ C'est là que se gagnent ou se perdent la plupart des situations critiques. Les 
 
 **Former les équipes.** Secouristes, bénévoles et officiels doivent reconnaître les signes précoces : confusion, démarche instable, comportement anormal pendant l'effort. La victime est souvent la dernière à réaliser ce qui lui arrive.
 
-**Équiper les postes médicaux avant le départ.** Un poste médical avancé avec matériel de refroidissement par immersion doit être opérationnel avant le départ du premier concurrent — pas pendant la course.
+**Équiper les postes médicaux avant le départ.** Un poste médical avancé avec matériel de refroidissement par immersion doit être opérationnel avant le départ du premier concurrent, pas pendant la course.
 
 **Définir le protocole d'action.** Qui initie le refroidissement ? Qui surveille la température centrale ? Qui appelle le SAMU ? Ces questions ne doivent pas se poser au moment où la victime s'effondre.
 
@@ -57,7 +57,7 @@ Les signaux qui ne doivent pas attendre :
 - Arrêt soudain de la transpiration avec rougeur intense
 - Effondrement ou chute
 
-Dès qu'un de ces signes apparaît, l'effort s'arrête immédiatement. Le diagnostic de certitude repose sur la mesure de la température rectale — seule méthode fiable en préhospitalier. Toute température supérieure à 40°C avec troubles neurologiques confirme le coup de chaleur d'effort.
+Dès qu'un de ces signes apparaît, l'effort s'arrête immédiatement. Le diagnostic de certitude repose sur la mesure de la température rectale, seule méthode fiable en préhospitalier. Toute température supérieure à 40°C avec troubles neurologiques confirme le coup de chaleur d'effort.
 
 ## Les erreurs terrain les plus fréquentes
 
@@ -106,4 +106,4 @@ Les SDIS, équipes médicales événementielles et responsables EHS qui souhaite
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC — Hosokawa Y, Racinais S et al., BJSM 2021, SFAR, Korey Stringer Institute — Douglas Casa (UConn), Décret 2025-482.*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC, Hosokawa Y, Racinais S et al., BJSM 2021, SFAR, Korey Stringer Institute, Douglas Casa (UConn), Décret 2025-482.*

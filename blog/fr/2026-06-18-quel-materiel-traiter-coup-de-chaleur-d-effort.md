@@ -42,7 +42,7 @@ Utilisée en milieu médicalisé ou par les équipes SMUR. La perfusion intravei
 
 ### Immersion en eau froide (Cold Water Immersion, CWI)
 
-C'est la méthode de référence, recommandée en première intention par l'ACSM (2023), l'IOC/BJSM (2021) et la SFAR. Sa vitesse de refroidissement est de **0,35 °C/min** (Casa DJ et al., 2007) — soit un facteur 10 par rapport à la brumisation, et plus du double des packs de glace.
+C'est la méthode de référence, recommandée en première intention par l'ACSM (2023), l'IOC/BJSM (2021) et la SFAR. Sa vitesse de refroidissement est de **0,35 °C/min** (Casa DJ et al., 2007), soit un facteur 10 par rapport à la brumisation, et plus du double des packs de glace.
 
 Le rationnel physique est simple : l'eau est un conducteur thermique 25 fois plus efficace que l'air. L'immersion du corps jusqu'aux épaules dans de l'eau froide (entre 8 et 15 °C) maximise la surface d'échange et la vitesse de transfert.
 
@@ -64,13 +64,13 @@ L'immersion en eau froide est efficace. Mais sans équipement dédié, la mettre
 
 C'est pour répondre à cette contrainte que la baignoire de refroidissement d'urgence Kollder a été conçue. Sa structure stable à 6 points d'appui tient sur n'importe quel type de surface, et elle offre un accès complet au patient pour les gestes médicaux et le monitoring. Sa construction en acier inoxydable garantit la tenue en conditions réelles d'intervention.
 
-En termes de critères combinés — vitesse de déploiement, efficacité de refroidissement, accessibilité patient, durabilité — c'est la réponse la plus directe aux exigences du protocole "Cool First, Transport Second" en dehors d'un hôpital.
+En termes de critères combinés (vitesse de déploiement, efficacité de refroidissement, accessibilité patient, durabilité), c'est la réponse la plus directe aux exigences du protocole "Cool First, Transport Second" en dehors d'un hôpital.
 
 Pour évaluer la solution dans votre contexte opérationnel : [kollder.com/#contact](https://kollder.com/#contact).
 
 ## Ce que ça change dans la préparation des équipes
 
-Choisir son matériel de refroidissement avant l'événement ou l'intervention, c'est décider à froid de ce qu'on sera capable de faire à chaud. Une équipe qui n'a pas de solution d'immersion en dotation ne peut pas appliquer le protocole de référence — quelles que soient ses compétences cliniques.
+Choisir son matériel de refroidissement avant l'événement ou l'intervention, c'est décider à froid de ce qu'on sera capable de faire à chaud. Une équipe qui n'a pas de solution d'immersion en dotation ne peut pas appliquer le protocole de référence, quelles que soient ses compétences cliniques.
 
 La question n'est donc pas seulement "quel matériel ?", mais "quel matériel, déjà en place, mobilisable en moins de 5 minutes par l'effectif disponible ce jour-là ?"
 
@@ -84,4 +84,4 @@ La question n'est donc pas seulement "quel matériel ?", mais "quel matériel, d
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — McDermott BP et al., Journal of Athletic Training 2009 — Korey Stringer Institute, University of Connecticut — SFAR, recommandations de prise en charge préhospitalière des hyperthermes ; Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023, Hosokawa Y, Racinais S et al., IOC Consensus Statement, BJSM 2021, Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007, McDermott BP et al., Journal of Athletic Training 2009, Korey Stringer Institute, University of Connecticut, SFAR, recommandations de prise en charge préhospitalière des hyperthermes ; Filep EM, Murata Y, Endres BD, Kim G, Stearns RL, Casa DJ, Exertional Heat Stroke, Modality Cooling Rate, and Survival Outcomes: A Systematic Review, Medicina 2020;56(11):589*

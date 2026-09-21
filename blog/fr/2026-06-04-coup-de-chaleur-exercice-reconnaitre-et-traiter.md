@@ -8,7 +8,7 @@ lang: fr
 published: true
 ---
 
-Chaque année, des coureurs, des travailleurs exposés à la chaleur et des militaires décèdent d'un coup de chaleur d'exercice qui aurait pu être évité. La fenêtre thérapeutique est de trente minutes. Passé ce délai, les lésions neurologiques permanentes deviennent probables — et le décès, possible.
+Chaque année, des coureurs, des travailleurs exposés à la chaleur et des militaires décèdent d'un coup de chaleur d'exercice qui aurait pu être évité. La fenêtre thérapeutique est de trente minutes. Passé ce délai, les lésions neurologiques permanentes deviennent probables, et le décès, possible.
 
 ## Qu'est-ce que le coup de chaleur d'exercice ?
 
@@ -20,11 +20,11 @@ Il ne s'agit pas d'un simple coup de soleil ni d'une déshydratation sévère. L
 
 Sur le terrain, plusieurs signes doivent alerter immédiatement :
 
-- **Confusion, désorientation, propos incohérents** — signe neurologique central
-- **Ataxie** (démarche instable, chutes) — fréquent chez les coureurs
+- **Confusion, désorientation, propos incohérents** : signe neurologique central
+- **Ataxie** (démarche instable, chutes), fréquent chez les coureurs
 - **Peau chaude**, parfois sèche (la sudation peut être absente ou présente)
 - **Fréquence cardiaque élevée**, hypotension
-- **Température rectale > 40 °C** — seule mesure fiable en situation d'urgence
+- **Température rectale > 40 °C** : seule mesure fiable en situation d'urgence
 
 La mesure axillaire ou auriculaire est insuffisante. L'ACSM précise que **la thermométrie rectale est le gold standard** pour le diagnostic et le suivi de refroidissement sur le terrain.
 
@@ -48,21 +48,21 @@ Légèrement plus efficaces, mais très dépendantes des conditions environnemen
 Taux de refroidissement amélioré mais variable selon la surface corporelle couverte et le renouvellement des draps. Difficile à maintenir dans un contexte opérationnel.
 
 **Immersion en eau froide (Cold Water Immersion, CWI)**
-C'est le standard de référence recommandé par l'ACSM (2023), l'IOC/BJSM (Hosokawa et al., 2021) et la SFAR. Taux de refroidissement mesuré : **0,35 °C/min** (Casa et al., *Exercise and Sport Sciences Reviews*, 2007) — soit un facteur ×10 par rapport aux méthodes alternatives. La CWI est la seule technique qui garantit un retour sous 40 °C dans la fenêtre des 30 minutes.
+C'est le standard de référence recommandé par l'ACSM (2023), l'IOC/BJSM (Hosokawa et al., 2021) et la SFAR. Taux de refroidissement mesuré : **0,35 °C/min** (Casa et al., *Exercise and Sport Sciences Reviews*, 2007), soit un facteur ×10 par rapport aux méthodes alternatives. La CWI est la seule technique qui garantit un retour sous 40 °C dans la fenêtre des 30 minutes.
 
 ## Le protocole "Cool First, Transport Second"
 
-L'erreur la plus fréquente — et la plus mortelle — consiste à évacuer le patient avant de le refroidir. Les minutes passées dans l'ambulance sans immersion sont des minutes perdues à des lésions d'organes.
+L'erreur la plus fréquente, et la plus mortelle, consiste à évacuer le patient avant de le refroidir. Les minutes passées dans l'ambulance sans immersion sont des minutes perdues à des lésions d'organes.
 
 Le protocole **Cool First, Transport Second**, formalisé par l'ACSM et repris dans les recommandations SFAR, est explicite : **refroidir le patient sur place jusqu'à 38,5 °C, puis transporter**. L'évacuation ne doit jamais primer sur le traitement thermique.
 
-Ce changement de paradigme implique que les équipements de refroidissement soient disponibles sur les lieux mêmes de l'urgence — pas uniquement à l'hôpital.
+Ce changement de paradigme implique que les équipements de refroidissement soient disponibles sur les lieux mêmes de l'urgence, pas uniquement à l'hôpital.
 
 ## La baignoire Kollder : l'immersion partout, en toute stabilité
 
 Déployer une cuve d'immersion sur un sentier de trail, dans une salle omnisports ou sur un chantier industriel n'était pas possible jusqu'ici avec des équipements classiques. La **baignoire de refroidissement Kollder** est conçue pour rendre la CWI opérationnelle partout : structure stable à 6 points d'appui, sur tout terrain, sans infrastructure.
 
-La cuve (205 × 65 × 35 cm déployée) permet une immersion complète du patient jusqu'aux épaules. Elle offre un accès total aux équipes médicales : surveillance clinique, thermométrie rectale, perfusion — sans devoir extraire le patient pendant le traitement. Pour les organisateurs d'événements sportifs, les SDIS ou les responsables EHS en milieu industriel, c'est la solution qui permet d'appliquer le protocole recommandé sans dépendre d'une infrastructure fixe.
+La cuve (205 × 65 × 35 cm déployée) permet une immersion complète du patient jusqu'aux épaules. Elle offre un accès total aux équipes médicales : surveillance clinique, thermométrie rectale, perfusion, sans devoir extraire le patient pendant le traitement. Pour les organisateurs d'événements sportifs, les SDIS ou les responsables EHS en milieu industriel, c'est la solution qui permet d'appliquer le protocole recommandé sans dépendre d'une infrastructure fixe.
 
 Pour un devis ou une démonstration : [kollder.com/#contact](https://kollder.com/#contact)
 
@@ -77,4 +77,4 @@ Pour un devis ou une démonstration : [kollder.com/#contact](https://kollder.com
 
 ---
 
-*Sources : ACSM Expert Consensus Statement, 2023 — Hosokawa Y, Racinais S et al., IOC/BJSM, 2021 — Casa DJ et al., Exercise and Sport Sciences Reviews, 2007 — Walter EJ & Carraretto M, Critical Care, 2016 — Korey Stringer Institute, University of Connecticut (Dr Douglas Casa) — SFAR, recommandations pré-hospitalières.*
+*Sources : ACSM Expert Consensus Statement, 2023, Hosokawa Y, Racinais S et al., IOC/BJSM, 2021, Casa DJ et al., Exercise and Sport Sciences Reviews, 2007, Walter EJ & Carraretto M, Critical Care, 2016, Korey Stringer Institute, University of Connecticut (Dr Douglas Casa), SFAR, recommandations pré-hospitalières.*

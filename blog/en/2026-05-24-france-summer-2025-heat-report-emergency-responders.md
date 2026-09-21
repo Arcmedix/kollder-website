@@ -16,16 +16,16 @@ According to the [Sante Publique France national bulletin](https://www.santepubl
 
 Key figures from the monitoring period:
 
-- **Over 5,700 deaths** attributable to heat — more than 3% of all-cause mortality observed
+- **Over 5,700 deaths** attributable to heat, more than 3% of all-cause mortality observed
 - **More than 24,000 emergency care visits** linked to heatstroke, dehydration, and hyponatremia
 - A **2.9-fold increase** in emergency room visits and a **6.5-fold increase** in SOS Medecins consultations during heat wave periods
 - **69 of France's departments** affected by at least one heat wave, covering 80% of the population
 
-The first heat wave alone — June 19 to July 6 — caused an estimated 480 excess deaths across 60 departments.
+The first heat wave alone, June 19 to July 6, caused an estimated 480 excess deaths across 60 departments.
 
 ## The detail most reports miss: working-age adults are affected too
 
-The dominant narrative around heat mortality focuses on elderly, isolated individuals. People aged 75 and older did represent 53% of emergency visits. But the [August 13, 2025 surveillance bulletin](https://www.santepubliquefrance.fr/determinants-de-sante/climat/fortes-chaleurs-canicule/documents/bulletin-national/canicule-et-sante-en-france.-bulletin-du-13-aout-2025) revealed something critical for field teams: **increases in hyperthermia and heat stroke cases were observed across all age groups, with a particularly marked rise among the 15-to-44-year-old cohort** — the working-age, physically active population.
+The dominant narrative around heat mortality focuses on elderly, isolated individuals. People aged 75 and older did represent 53% of emergency visits. But the [August 13, 2025 surveillance bulletin](https://www.santepubliquefrance.fr/determinants-de-sante/climat/fortes-chaleurs-canicule/documents/bulletin-national/canicule-et-sante-en-france.-bulletin-du-13-aout-2025) revealed something critical for field teams: **increases in hyperthermia and heat stroke cases were observed across all age groups, with a particularly marked rise among the 15-to-44-year-old cohort**, the working-age, physically active population.
 
 These are precisely the people at risk of exertional heat stroke (EHS):
 
@@ -38,7 +38,7 @@ EHS is clinically distinct from classic heat stroke. It can occur even in modera
 
 ## The long-term trend: nearly 40,000 deaths since 2017
 
-The Sante Publique France report places 2025 in a clear trajectory: **since 2017, nearly 40,000 deaths have been attributable to heat**, with 11,700 during heat wave episodes specifically. This figure should appear in every corporate heat plan, every emergency team summer preparation protocol, and every equipment procurement justification. Heat mortality is not a once-in-a-decade anomaly — it is a recurrent, documented, worsening trend.
+The Sante Publique France report places 2025 in a clear trajectory: **since 2017, nearly 40,000 deaths have been attributable to heat**, with 11,700 during heat wave episodes specifically. This figure should appear in every corporate heat plan, every emergency team summer preparation protocol, and every equipment procurement justification. Heat mortality is not a once-in-a-decade anomaly; it is a recurrent, documented, worsening trend.
 
 ## What the data demands from field medical teams in 2026
 
@@ -48,11 +48,11 @@ The increase in heat-related interventions is structural. The logistical questio
 
 **For event medical directors**
 
-The 2026 trail, marathon, and triathlon season is underway under conditions that mirror summer 2025. Cold water immersion must be in the base medical kit — not a backup option. International consensus from the IOC, World Athletics, and ACSM is unambiguous: [whole-body cold water immersion is the gold standard treatment for exertional heat stroke](/blog/en/2026-05-20-exertional-heat-stroke-cold-water-immersion/). No alternative method comes close in cooling speed.
+The 2026 trail, marathon, and triathlon season is underway under conditions that mirror summer 2025. Cold water immersion must be in the base medical kit, not a backup option. International consensus from the IOC, World Athletics, and ACSM is unambiguous: [whole-body cold water immersion is the gold standard treatment for exertional heat stroke](/blog/en/2026-05-20-exertional-heat-stroke-cold-water-immersion/). No alternative method comes close in cooling speed.
 
 **For EHS and occupational health professionals**
 
-The French regulatory landscape changed on July 1, 2025, when Decree n°2025-482 introduced mandatory heat risk assessment obligations for employers. The Sante Publique France data provides the epidemiological justification for why those obligations exist — and why field-level response capability, including rapid cooling equipment, is their operational translation.
+The French regulatory landscape changed on July 1, 2025, when Decree n°2025-482 introduced mandatory heat risk assessment obligations for employers. The Sante Publique France data provides the epidemiological justification for why those obligations exist: and why field-level response capability, including rapid cooling equipment, is their operational translation.
 
 ## Cool first, transport second: the protocol the data demands
 
@@ -60,10 +60,10 @@ Every minute without cooling worsens outcomes. The "cool first, transport second
 
 ## Sources
 
-- Sante Publique France, *Heat and Health: A Review of Summer 2025*, 26 February 2026 — [santepubliquefrance.fr](https://www.santepubliquefrance.fr/en/climat/fortes-chaleurs-canicule/national-bulletin/heat-and-health-a-review-summer-2025)
-- Sante Publique France, *Bulletin du 23 juillet 2025* — [santepubliquefrance.fr](https://www.santepubliquefrance.fr/determinants-de-sante/climat/fortes-chaleurs-canicule/documents/bulletin-national/canicule-et-sante-exces-de-mortalite.-bulletin-du-23-juillet-2025)
-- Sante Publique France, *Bulletin du 13 aout 2025* — [santepubliquefrance.fr](https://www.santepubliquefrance.fr/determinants-de-sante/climat/fortes-chaleurs-canicule/documents/bulletin-national/canicule-et-sante-en-france.-bulletin-du-13-aout-2025)
-- INRS, *Canicule et fortes chaleurs au travail*, June 2025 — [inrs.fr](https://www.inrs.fr/header/presse/cp-canicule-fortes-chaleurs-travail.html)
+- Sante Publique France, *Heat and Health: A Review of Summer 2025*, 26 February 2026, [santepubliquefrance.fr](https://www.santepubliquefrance.fr/en/climat/fortes-chaleurs-canicule/national-bulletin/heat-and-health-a-review-summer-2025)
+- Sante Publique France, *Bulletin du 23 juillet 2025*, [santepubliquefrance.fr](https://www.santepubliquefrance.fr/determinants-de-sante/climat/fortes-chaleurs-canicule/documents/bulletin-national/canicule-et-sante-exces-de-mortalite.-bulletin-du-23-juillet-2025)
+- Sante Publique France, *Bulletin du 13 aout 2025*, [santepubliquefrance.fr](https://www.santepubliquefrance.fr/determinants-de-sante/climat/fortes-chaleurs-canicule/documents/bulletin-national/canicule-et-sante-en-france.-bulletin-du-13-aout-2025)
+- INRS, *Canicule et fortes chaleurs au travail*, June 2025, [inrs.fr](https://www.inrs.fr/header/presse/cp-canicule-fortes-chaleurs-travail.html)
 
 ---
 

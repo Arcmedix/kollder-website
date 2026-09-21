@@ -30,7 +30,7 @@ howToSchema: |
       {
         "@type": "HowToStep",
         "name": "Monitor and maintain",
-        "text": "Check rectal temperature every 5 minutes. Maintain immersion until core temperature reaches 102 degrees Fahrenheit. Do not stop earlier — premature removal of cooling is associated with rebound hyperthermia."
+        "text": "Check rectal temperature every 5 minutes. Maintain immersion until core temperature reaches 102 degrees Fahrenheit. Do not stop earlier, premature removal of cooling is associated with rebound hyperthermia."
       },
       {
         "@type": "HowToStep",
@@ -51,7 +51,7 @@ Exertional heat stroke (EHS) occurs when the body's heat production exceeds its 
 
 **High metabolic heat production.** A competitive marathon runner generates 15 to 20 times their resting metabolic heat output. Even in moderate temperatures, this can overwhelm thermoregulatory capacity in undertrained or insufficiently acclimatized athletes.
 
-**Competitive suppression of warning signals.** Athletes in race conditions push through discomfort. The early symptoms of EHS — unusual fatigue, lightheadedness, slowing pace — are often dismissed as normal race suffering. By the time neurological signs appear, the situation is already critical.
+**Competitive suppression of warning signals.** Athletes in race conditions push through discomfort. The early symptoms of EHS (unusual fatigue, lightheadedness, slowing pace) are often dismissed as normal race suffering. By the time neurological signs appear, the situation is already critical.
 
 **Environmental amplifiers.** Direct sun exposure, high humidity, and limited airflow at finish line areas significantly reduce the body's ability to cool itself through sweating.
 
@@ -59,13 +59,13 @@ Exertional heat stroke (EHS) occurs when the body's heat production exceeds its 
 
 ## Recognizing EHS at the finish line and on course
 
-**Early signs — act immediately:**
+**Early signs: act immediately:**
 - Uncharacteristic slowing, stumbling, or stopping
 - Confusion, disorientation, or altered behavior
 - Severe headache combined with nausea
 - Loss of coordination (ataxia)
 
-**Critical signs — immerse without delay:**
+**Critical signs: immerse without delay:**
 - Loss of consciousness, even brief
 - Seizure activity
 - Core temperature above 104 degrees Fahrenheit
@@ -79,15 +79,15 @@ Exertional heat stroke (EHS) occurs when the body's heat production exceeds its 
 
 This is the most important principle in EHS management and the one most frequently violated. Waiting for EMS to arrive before initiating cooling is a documented cause of preventable death and permanent neurological injury.
 
-### Step 1 — Rapid extraction
+### Step 1: Rapid extraction
 
 Remove the athlete from the course or finish chute. Position in shade if available. Remove race kit, shoes, and as much clothing as possible to maximize skin surface exposure.
 
-### Step 2 — Temperature measurement
+### Step 2: Temperature measurement
 
 Rectal temperature is the only reliable measurement method. Ear, forehead, and oral thermometers significantly underestimate core temperature in EHS and should not be used to guide clinical decisions.
 
-### Step 3 — Cold water immersion
+### Step 3: Cold water immersion
 
 Immerse the athlete's body in the coldest water available. Target water temperature between 35 and 60 degrees Fahrenheit. Add ice aggressively.
 
@@ -98,11 +98,11 @@ The data on cooling rates is unambiguous:
 
 Cold water immersion is the only method fast enough to reliably achieve target temperature within the treatment window.
 
-### Step 4 — Monitor and maintain
+### Step 4: Monitor and maintain
 
-Check rectal temperature every 5 minutes. Maintain immersion until core temperature reaches 102 degrees Fahrenheit. Do not stop earlier — premature removal of cooling is associated with rebound hyperthermia.
+Check rectal temperature every 5 minutes. Maintain immersion until core temperature reaches 102 degrees Fahrenheit. Do not stop earlier, premature removal of cooling is associated with rebound hyperthermia.
 
-### Step 5 — EMS and transport
+### Step 5: EMS and transport
 
 Activate EMS simultaneously with the initiation of cooling. Transport to a hospital following all cases, even those with rapid clinical recovery. Rhabdomyolysis, acute kidney injury, and coagulopathy can develop hours after apparent recovery.
 
@@ -123,7 +123,7 @@ Activate EMS simultaneously with the initiation of cooling. Transport to a hospi
 
 **Volunteer and crew training:**
 - All finish line volunteers should be able to identify EHS warning signs
-- They do not need to diagnose — they need to know to call medical immediately
+- They do not need to diagnose; they need to know to call medical immediately
 - The time between symptom onset and medical contact is where lives are saved or lost
 
 ---

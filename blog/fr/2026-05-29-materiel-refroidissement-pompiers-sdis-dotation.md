@@ -56,7 +56,7 @@ howToSchema: |
   }
 ---
 
-L'été 2025 a été le 3e plus chaud en France depuis 1900. Le dôme de chaleur de mai 2026 pulvérise déjà les records pour cette période de l'année. Pour les SDIS, la question n'est plus de savoir si le coup de chaleur d'effort chez les sapeurs-pompiers va se produire — mais d'être équipés pour le traiter quand il se produira.
+L'été 2025 a été le 3e plus chaud en France depuis 1900. Le dôme de chaleur de mai 2026 pulvérise déjà les records pour cette période de l'année. Pour les SDIS, la question n'est plus de savoir si le coup de chaleur d'effort chez les sapeurs-pompiers va se produire, mais d'être équipés pour le traiter quand il se produira.
 
 ## Pourquoi le matériel de refroidissement est devenu une dotation critique
 
@@ -74,11 +74,11 @@ Le résultat de cette combinaison : le sapeur-pompier peut atteindre une tempér
 
 ## Les spécifications techniques du matériel de refroidissement en dotation SDIS
 
-### Baignoire de refroidissement déployable — spécifications minimales
+### Baignoire de refroidissement déployable, spécifications minimales
 
 **Déploiement** : structure stable sur terrain non préparé, opérationnelle en moins de 5 minutes. La situation d'urgence ne permet pas une montage complexe sous stress.
 
-**Immersion** : corps entier conforme au protocole ACSM/SFAR — épaules et cuir chevelu immergés, voies aériennes maintenues hors de l'eau.
+**Immersion** : corps entier conforme au protocole ACSM/SFAR, épaules et cuir chevelu immergés, voies aériennes maintenues hors de l'eau.
 
 **Accès patient** : structure ouverte permettant la surveillance des voies aériennes, la mesure de la température rectale et tout geste médical avancé pendant l'immersion.
 
@@ -92,7 +92,7 @@ Le résultat de cette combinaison : le sapeur-pompier peut atteindre une tempér
 
 **Eau froide et glace** : prévoir un stock de 20 à 30 kg de glace par véhicule en dotation chaleur. Renouveler quotidiennement lors des périodes de risque élevé.
 
-**Thermomètre rectal** : un par véhicule équipé. La sonde rectale est indispensable — ne pas remplacer par une mesure tympanique.
+**Thermomètre rectal** : un par véhicule équipé. La sonde rectale est indispensable, ne pas remplacer par une mesure tympanique.
 
 **Couverture de survie** : pour la phase post-refroidissement, prévenir l'hypothermie iatrogène.
 
@@ -152,4 +152,4 @@ Les SDIS, UIISC et services de déminage qui souhaitent intégrer Kollder dans l
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023. IOC Adverse Weather Impact Expert Working Group — Hosokawa Y, Racinais S et al., BJSM 2021. Casa DJ et al., Exercise and Sport Sciences Reviews 2007. Bilan climatique été 2025 — Météo-France. SFAR. Korey Stringer Institute — Douglas Casa, UConn.*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness 2023. IOC Adverse Weather Impact Expert Working Group, Hosokawa Y, Racinais S et al., BJSM 2021. Casa DJ et al., Exercise and Sport Sciences Reviews 2007. Bilan climatique été 2025, Météo-France. SFAR. Korey Stringer Institute, Douglas Casa, UConn.*

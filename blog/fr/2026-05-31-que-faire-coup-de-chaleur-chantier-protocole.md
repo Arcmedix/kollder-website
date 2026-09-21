@@ -12,7 +12,7 @@ Le 27 mai 2026, un couvreur de 19 ans s'est effondré sur un chantier de toiture
 
 ## Ce qui se passe dans le corps lors d'un coup de chaleur d'effort
 
-Le coup de chaleur d'effort — **hyperthermie d'effort** dans la terminologie médicale — n'est pas un simple malaise dû à la chaleur. C'est une défaillance systémique : la thermorégulation s'emballe, la température centrale dépasse 40 °C, et une cascade de lésions s'enclenche simultanément.
+Le coup de chaleur d'effort, **hyperthermie d'effort** dans la terminologie médicale, n'est pas un simple malaise dû à la chaleur. C'est une défaillance systémique : la thermorégulation s'emballe, la température centrale dépasse 40 °C, et une cascade de lésions s'enclenche simultanément.
 
 **Au-delà de 40 °C :** les enzymes cellulaires commencent à se dénaturer. Le cerveau, le foie, les reins sont les premiers organes atteints.
 
@@ -28,13 +28,13 @@ L'**ACSM (Expert Consensus Statement 2023)** est catégorique : l'objectif thér
 
 Le Korey Stringer Institute (KSI, Université du Connecticut), dirigé par le Dr Douglas Casa, a analysé plus de 401 cas de coup de chaleur d'effort traités par immersion en eau froide immédiate. Le résultat : **100 % de survie** lorsque le refroidissement est initié dans cette fenêtre.
 
-Le problème sur un chantier en zone semi-rurale — comme Ponet-et-Saint-Auban dans la Drôme — est simple : le SAMU peut mettre 20 à 40 minutes à arriver après l'appel. Si le refroidissement n'est pas commencé sur place, la fenêtre est déjà fermée à l'arrivée des secours.
+Le problème sur un chantier en zone semi-rurale, comme Ponet-et-Saint-Auban dans la Drôme, est simple : le SAMU peut mettre 20 à 40 minutes à arriver après l'appel. Si le refroidissement n'est pas commencé sur place, la fenêtre est déjà fermée à l'arrivée des secours.
 
 ## Ce qu'il faut faire immédiatement : le protocole Cold First
 
-Le principe **Cool First, Transport Second** — formulé par l'ACSM, l'IOC (BJSM 2021) et repris par la **SFAR** en France — est le standard international pour la prise en charge du coup de chaleur d'effort.
+Le principe **Cool First, Transport Second**, formulé par l'ACSM, l'IOC (BJSM 2021) et repris par la **SFAR** en France, est le standard international pour la prise en charge du coup de chaleur d'effort.
 
-**Étape 1 — Reconnaître les signes (ne pas attendre la perte de conscience)**
+**Étape 1 : Reconnaître les signes (ne pas attendre la perte de conscience)**
 
 Les signes précurseurs que tout encadrant de chantier doit connaître :
 - Confusion, désorientation, comportement inhabituel
@@ -43,11 +43,11 @@ Les signes précurseurs que tout encadrant de chantier doit connaître :
 - Faiblesse musculaire intense, trébuchements
 - Température cutanée anormalement élevée
 
-**Étape 2 — Appeler le 15 immédiatement**
+**Étape 2 : Appeler le 15 immédiatement**
 
 Donner la localisation précise du chantier, indiquer la suspicion de coup de chaleur d'effort, et préciser la température ambiante. Le médecin régulateur guidera la suite.
 
-**Étape 3 — Initier le refroidissement sans attendre**
+**Étape 3 : Initier le refroidissement sans attendre**
 
 C'est ici que tout se joue. Les options par ordre d'efficacité :
 
@@ -60,11 +60,11 @@ C'est ici que tout se joue. Les options par ordre d'efficacité :
 
 Les draps mouillés et les packs de glace sont **dix fois moins efficaces** que l'immersion en eau froide (Casa DJ et al., Exercise and Sport Sciences Reviews, 2007). Ils peuvent ralentir la progression mais ne refroidissent pas à la vitesse suffisante pour respecter la fenêtre des 30 minutes.
 
-**Étape 4 — Maintenir le refroidissement jusqu'à l'arrivée des secours**
+**Étape 4 : Maintenir le refroidissement jusqu'à l'arrivée des secours**
 
-Ne pas transporter le patient avant d'avoir amorcé le refroidissement. Le principe Cool First, Transport Second signifie précisément cela : le transport vers l'hôpital ne doit pas précéder le refroidissement — même si les secours arrivent vite.
+Ne pas transporter le patient avant d'avoir amorcé le refroidissement. Le principe Cool First, Transport Second signifie précisément cela : le transport vers l'hôpital ne doit pas précéder le refroidissement, même si les secours arrivent vite.
 
-**Étape 5 — Surveiller, ne pas laisser seul**
+**Étape 5 : Surveiller, ne pas laisser seul**
 
 Un patient en coup de chaleur peut convulser ou perdre connaissance rapidement. Maintenir la position de sécurité si inconscient, surveiller la respiration, continuer le refroidissement.
 
@@ -72,7 +72,7 @@ Un patient en coup de chaleur peut convulser ou perdre connaissance rapidement. 
 
 Appliquer ce protocole sur un chantier BTP sans équipement adapté revient à compter sur des draps mouillés et des bouteilles d'eau froide. C'est insuffisant au regard de la physiologie.
 
-**Kollder** est une baignoire de refroidissement d'urgence portable, développée pour permettre une immersion complète en milieu extérieur. Elle reste stable grâce à sa structure à 6 points d'appui sur n'importe quel terrain — une route de chantier, un parking, l'espace au pied d'un bâtiment en construction. Une fois déployée, elle peut être remplie d'eau froide et de glace en quelques minutes et permet une immersion du tronc et des membres inférieurs, là où le réseau sanguin est le plus dense.
+**Kollder** est une baignoire de refroidissement d'urgence portable, développée pour permettre une immersion complète en milieu extérieur. Elle reste stable grâce à sa structure à 6 points d'appui sur n'importe quel terrain : une route de chantier, un parking, l'espace au pied d'un bâtiment en construction. Une fois déployée, elle peut être remplie d'eau froide et de glace en quelques minutes et permet une immersion du tronc et des membres inférieurs, là où le réseau sanguin est le plus dense.
 
 Le patient reste entièrement accessible pendant l'immersion : les bras sont dégagés pour le monitoring, la communication reste possible, et les secours peuvent continuer la prise en charge sans interrompre le refroidissement. C'est un point critique que les équipements concurrents en sac fermé ne permettent pas.
 
@@ -109,4 +109,4 @@ La mort de Daniel, 19 ans, sur un toit dans la Drôme, n'était pas une fatalit�
 
 ---
 
-*Sources : ACSM Expert Consensus Statement 2023 — Casa DJ et al., "Exertional heat stroke treatment", Exercise and Sport Sciences Reviews 2007 — Hosokawa Y, Racinais S et al., IOC consensus statement, BJSM 2021 — Korey Stringer Institute, University of Connecticut — Walter EJ & Carraretto M, "The neurological and cognitive consequences of hyperthermia", Critical Care 2016 — SFAR — Décret n° 2025-482 du 27 mai 2025 (Légifrance)*
+*Sources : ACSM Expert Consensus Statement 2023, Casa DJ et al., "Exertional heat stroke treatment", Exercise and Sport Sciences Reviews 2007, Hosokawa Y, Racinais S et al., IOC consensus statement, BJSM 2021, Korey Stringer Institute, University of Connecticut, Walter EJ & Carraretto M, "The neurological and cognitive consequences of hyperthermia", Critical Care 2016, SFAR, Décret n° 2025-482 du 27 mai 2025 (Légifrance)*

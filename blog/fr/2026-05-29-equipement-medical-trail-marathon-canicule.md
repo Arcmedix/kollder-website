@@ -18,16 +18,16 @@ Ce n'est pas une recommandation optionnelle. En droit français, la non-conformi
 
 ## L'équipement médical de base pour un trail ou marathon par temps chaud
 
-### Équipement de refroidissement — non négociable
+### Équipement de refroidissement, non négociable
 
-**Baignoire de refroidissement déployable** — une par poste médical avancé, avec capacité d'immersion corps entier. Nombre minimum :
+**Baignoire de refroidissement déployable** : une par poste médical avancé, avec capacité d'immersion corps entier. Nombre minimum :
 - Moins de 500 participants : 1 baignoire
 - 500 à 2 000 participants : 2 baignoires
 - Plus de 2 000 participants : 1 baignoire pour 1 000 participants
 
-**Eau froide et glace** — en quantité suffisante pour remplir chaque baignoire et maintenir une température entre 1,5°C et 15°C pendant la durée de l'événement. Prévoir des réapprovisionnements si nécessaire.
+**Eau froide et glace** : en quantité suffisante pour remplir chaque baignoire et maintenir une température entre 1,5°C et 15°C pendant la durée de l'événement. Prévoir des réapprovisionnements si nécessaire.
 
-**Thermomètres rectaux** — un par poste médical. C'est le seul moyen fiable de mesurer la température centrale sur le terrain et de décider l'arrêt du refroidissement.
+**Thermomètres rectaux** : un par poste médical. C'est le seul moyen fiable de mesurer la température centrale sur le terrain et de décider l'arrêt du refroidissement.
 
 ### Équipement de triage et monitoring
 
@@ -46,7 +46,7 @@ Ce n'est pas une recommandation optionnelle. En droit français, la non-conformi
 
 ## Le dispositif humain
 
-L'équipement seul ne suffit pas — les personnels doivent connaître le protocole.
+L'équipement seul ne suffit pas : les personnels doivent connaître le protocole.
 
 **Formation obligatoire avant l'événement :**
 - Reconnaissance des signes du CCE
@@ -64,11 +64,11 @@ L'équipement seul ne suffit pas — les personnels doivent connaître le protoc
 
 Lors d'un épisode de chaleur intense, le nombre de malaises peut dépasser rapidement la capacité de prise en charge individuelle. Préparer un plan de triage :
 
-**Niveau 1 — Malaise simple** : fatigue, crampes, vertiges sans trouble neurologique, température < 39°C. Traitement : repos, hydratation, refroidissement passif.
+**Niveau 1 (malaise simple)** : fatigue, crampes, vertiges sans trouble neurologique, température < 39°C. Traitement : repos, hydratation, refroidissement passif.
 
-**Niveau 2 — Hyperthermie modérée** : température 39-40°C, sans trouble neurologique franc. Traitement : refroidissement actif (aspersion + ventilation), surveillance rapprochée, hospitalisation si pas d'amélioration rapide.
+**Niveau 2 (hyperthermie modérée)** : température 39-40°C, sans trouble neurologique franc. Traitement : refroidissement actif (aspersion + ventilation), surveillance rapprochée, hospitalisation si pas d'amélioration rapide.
 
-**Niveau 3 — CCE sévère** : température > 40°C avec trouble neurologique. **Protocole Cool First Transport Second immédiat. Baignoire déployée en priorité.**
+**Niveau 3 (CCE sévère)** : température > 40°C avec trouble neurologique. **Protocole Cool First Transport Second immédiat. Baignoire déployée en priorité.**
 
 ## Comment Kollder s'intègre dans votre dispositif
 
@@ -88,4 +88,4 @@ Pour équiper votre prochain événement ou obtenir un devis multi-unités : [ko
 
 ---
 
-*Sources : IOC Adverse Weather Impact Expert Working Group — Hosokawa Y, Racinais S et al., BJSM 2021. ACSM Expert Consensus Statement on Exertional Heat Illness 2023. Décret 2025-482. Circulaire du 28 septembre 1979 relative à la sécurité des manifestations sportives. Casa DJ et al., Exercise and Sport Sciences Reviews 2007.*
+*Sources : IOC Adverse Weather Impact Expert Working Group, Hosokawa Y, Racinais S et al., BJSM 2021. ACSM Expert Consensus Statement on Exertional Heat Illness 2023. Décret 2025-482. Circulaire du 28 septembre 1979 relative à la sécurité des manifestations sportives. Casa DJ et al., Exercise and Sport Sciences Reviews 2007.*

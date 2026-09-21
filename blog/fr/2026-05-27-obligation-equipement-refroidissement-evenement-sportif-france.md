@@ -14,7 +14,7 @@ Après le décès d'une participante à l'Hyrox de Lyon en mai 2026, la question
 
 ### Le Code du sport et l'obligation de sécurité
 
-L'article L. 312-2 du Code du sport impose aux organisateurs de manifestations sportives une **obligation générale de sécurité** envers les participants. Cette obligation est de résultat pour certains risques prévisibles et documentés — dont le coup de chaleur d'effort lors d'événements estivaux.
+L'article L. 312-2 du Code du sport impose aux organisateurs de manifestations sportives une **obligation générale de sécurité** envers les participants. Cette obligation est de résultat pour certains risques prévisibles et documentés, dont le coup de chaleur d'effort lors d'événements estivaux.
 
 La jurisprudence française est constante sur ce point : un risque prévisible et documenté qui n'a pas fait l'objet de mesures de prévention adaptées engage la responsabilité civile et pénale de l'organisateur.
 
@@ -60,16 +60,16 @@ L'absence de réponse positive à ces questions expose l'organisateur à une mis
 
 ## Comment se conformer à ces obligations
 
-**Étape 1 — Évaluation du risque thermique**
+**Étape 1 : Évaluation du risque thermique**
 Pour chaque événement estival, évaluez l'indice WBGT (Wet Bulb Globe Temperature) prévu. Des valeurs > 25 impliquent un risque élevé d'hyperthermie d'effort.
 
-**Étape 2 — Équipement du poste médical**
+**Étape 2 : Équipement du poste médical**
 Intégrez une baignoire de refroidissement déployable dans le kit de chaque poste médical. L'équipement doit permettre une immersion complète et un accès patient total pendant le refroidissement.
 
-**Étape 3 — Formation des équipes**
-Formez votre équipe médicale au protocole Cool First Transport Second — disponible sur kollder.com/blog.
+**Étape 3 : Formation des équipes**
+Formez votre équipe médicale au protocole Cool First Transport Second, disponible sur kollder.com/blog.
 
-**Étape 4 — Documentation**
+**Étape 4 : Documentation**
 Conservez la trace de vos mesures préventives : liste du matériel déployé, formation des équipes, consultation météo. Ces documents constituent votre preuve de diligence en cas de mise en cause.
 
 Kollder accompagne les organisateurs d'événements sportifs dans la mise en conformité de leur dispositif médical. Pour un devis ou une démonstration : [kollder.com/#contact](https://kollder.com/#contact)

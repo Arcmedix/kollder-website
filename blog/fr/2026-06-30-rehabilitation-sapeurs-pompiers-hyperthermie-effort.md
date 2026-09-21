@@ -31,7 +31,7 @@ howToSchema: |
   }
 ---
 
-Le sapeur-pompier en tenue de protection est, du point de vue thermique, l'un des profils les plus exposés au coup de chaleur d'effort. La combinaison étanche empêche l'évaporation sudorale. L'effort physique est intense et souvent prolongé. L'environnement est par définition chaud. Ces trois facteurs réunis créent des conditions dans lesquelles la température centrale peut atteindre des niveaux critiques en moins de 20 minutes d'effort intense — bien plus vite qu'un athlète en tenue légère.
+Le sapeur-pompier en tenue de protection est, du point de vue thermique, l'un des profils les plus exposés au coup de chaleur d'effort. La combinaison étanche empêche l'évaporation sudorale. L'effort physique est intense et souvent prolongé. L'environnement est par définition chaud. Ces trois facteurs réunis créent des conditions dans lesquelles la température centrale peut atteindre des niveaux critiques en moins de 20 minutes d'effort intense, bien plus vite qu'un athlète en tenue légère.
 
 La question de la réhabilitation thermique post-intervention n'est pas une question de confort. C'est une question de sécurité opérationnelle et de prévention des défaillances en cours de mission.
 
@@ -55,19 +55,19 @@ Ce cumul est sans équivalent dans la pratique sportive ordinaire. Il explique p
 
 **La déshydratation accélérée**
 
-Malgré l'imperméabilité de la tenue, la sudation se poursuit. La sueur ne s'évapore pas, elle s'accumule. Les pertes hydriques peuvent atteindre 1 à 2 litres par heure en intervention intensive, sans que le sapeur-pompier en perçoive toujours la réalité — la sensation thermique est masquée par la protection de la tenue.
+Malgré l'imperméabilité de la tenue, la sudation se poursuit. La sueur ne s'évapore pas, elle s'accumule. Les pertes hydriques peuvent atteindre 1 à 2 litres par heure en intervention intensive, sans que le sapeur-pompier en perçoive toujours la réalité : la sensation thermique est masquée par la protection de la tenue.
 
 ## Les signes d'alerte sur le terrain
 
 Le chef de groupe et le médecin sapeur-pompier doivent identifier rapidement les signaux d'une hyperthermie en cours de constitution ou constituée.
 
-**Signes précoces — hyperthermie d'effort simple :**
+**Signes précoces : hyperthermie d'effort simple :**
 - Sensation de chaleur intense, malaise général
 - Tachycardie disproportionnée à l'effort résiduel
 - Crampes musculaires
 - Céphalées, nausées
 
-**Signes d'alarme — coup de chaleur d'effort probable :**
+**Signes d'alarme : coup de chaleur d'effort probable :**
 - Désorientation, confusion, propos incohérents
 - Ataxie, instabilité à la marche
 - Agitation ou prostration soudaine
@@ -79,7 +79,7 @@ La présence d'une dysfonction neurologique associée à un effort en conditions
 
 La réhabilitation thermique post-intervention se structure en trois phases.
 
-### Phase 1 — Sortie de zone et déséquipement (0-5 minutes)
+### Phase 1 : Sortie de zone et déséquipement (0-5 minutes)
 
 Dès la fin de l'engagement opérationnel ou dès l'apparition de signes d'alerte :
 
@@ -90,7 +90,7 @@ Dès la fin de l'engagement opérationnel ou dès l'apparition de signes d'alert
 
 Le retrait de la tenue est la première intervention thermique. Aussi longtemps que la tenue reste en place, la production de chaleur ne peut pas être dissipée.
 
-### Phase 2 — Refroidissement actif (5-35 minutes)
+### Phase 2 : Refroidissement actif (5-35 minutes)
 
 **Si température centrale ≥ 40 °C ou signes neurologiques : CCE confirmé**
 
@@ -108,7 +108,7 @@ Refroidissement actif par méthodes combinées :
 
 Repos, réhydratation, mise au frais. Surveillance pour détecter une ascension tardive de la température.
 
-### Phase 3 — Surveillance et autorisation de retour à l'activité
+### Phase 3 : Surveillance et autorisation de retour à l'activité
 
 Après refroidissement, la surveillance doit se poursuivre a minima 30 à 60 minutes avant tout retour opérationnel. Les critères de retour à l'activité incluent :
 
@@ -165,4 +165,4 @@ Le SSSM a un rôle central dans cette démarche : c'est lui qui valide la doctri
 
 ---
 
-*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023 — Hostler D et al., Prehospital Emergency Care 2010 — Selkirk GA et al., European Journal of Applied Physiology 2004 — Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007 — Korey Stringer Institute, University of Connecticut — SFAR, recommandations de prise en charge préhospitalière des hyperthermes — IOC Consensus Statement, BJSM 2021*
+*Sources : ACSM Expert Consensus Statement on Exertional Heat Illness, 2023, Hostler D et al., Prehospital Emergency Care 2010, Selkirk GA et al., European Journal of Applied Physiology 2004, Casa DJ et al., Exertional heat stroke, Exercise and Sport Sciences Reviews 2007, Korey Stringer Institute, University of Connecticut, SFAR, recommandations de prise en charge préhospitalière des hyperthermes, IOC Consensus Statement, BJSM 2021*

@@ -10,25 +10,25 @@ published: true
 
 Les feux de forêt sont l'environnement le plus exigeant qui soit pour les sapeurs-pompiers : chaleur rayonnante intense, effort physique maximal, combinaison de protection thermique imperméable à la vapeur, déshydratation progressive. Le coup de chaleur d'effort est l'une des premières causes de décès non traumatique chez les pompiers en intervention estivale.
 
-Disposer de l'équipement de refroidissement adapté sur le terrain n'est plus une option — c'est une exigence opérationnelle et une obligation de sécurité.
+Disposer de l'équipement de refroidissement adapté sur le terrain n'est plus une option, c'est une exigence opérationnelle et une obligation de sécurité.
 
 ## Pourquoi les pompiers sont particulièrement exposés
 
 Le risque de coup de chaleur d'effort chez les sapeurs-pompiers en feux de forêt est le résultat de plusieurs facteurs qui se cumulent :
 
-**La combinaison de protection thermique** — Les tenues de feu (Nomex, F1, F2) sont conçues pour protéger des flammes et de la chaleur rayonnante. En contrepartie, elles sont quasi imperméables à la transpiration. La chaleur métabolique produite par l'effort physique intense ne peut pas s'évacuer par évaporation — elle s'accumule.
+**La combinaison de protection thermique** : Les tenues de feu (Nomex, F1, F2) sont conçues pour protéger des flammes et de la chaleur rayonnante. En contrepartie, elles sont quasi imperméables à la transpiration. La chaleur métabolique produite par l'effort physique intense ne peut pas s'évacuer par évaporation, elle s'accumule.
 
-**L'effort physique intense et prolongé** — Un sapeur-pompier en attaque de feux de forêt peut produire jusqu'à 1 000 watts de chaleur métabolique par heure, soit 10 fois le métabolisme de base.
+**L'effort physique intense et prolongé** : Un sapeur-pompier en attaque de feux de forêt peut produire jusqu'à 1 000 watts de chaleur métabolique par heure, soit 10 fois le métabolisme de base.
 
-**La chaleur ambiante** — Sur un feux de forêt, la température ambiante peut dépasser 45-50°C à proximité du front de flammes. S'y ajoutent la chaleur rayonnante des braises et la chaleur convective des gaz chauds.
+**La chaleur ambiante** : Sur un feux de forêt, la température ambiante peut dépasser 45-50°C à proximité du front de flammes. S'y ajoutent la chaleur rayonnante des braises et la chaleur convective des gaz chauds.
 
-**La déshydratation** — Difficulté de s'hydrater pendant l'attaque, pertes sudorales bloquées par la tenue, stress opérationnel. La déshydratation aggrave significativement le risque d'hyperthermie.
+**La déshydratation** : Difficulté de s'hydrater pendant l'attaque, pertes sudorales bloquées par la tenue, stress opérationnel. La déshydratation aggrave significativement le risque d'hyperthermie.
 
 ## Les données épidémiologiques
 
 Aux États-Unis, l'analyse des décès de pompiers sur feux de forêt montre que les pathologies cardiovasculaires et l'hyperthermie représentent la majorité des décès non traumatiques. En France, le BSPP a documenté des cas de coup de chaleur d'effort lors des interventions estivales et a progressivement intégré des protocoles de refroidissement terrain.
 
-Le retour d'expérience de l'été 2025 — saison record avec plus de 200 000 hectares brûlés en Europe — a confirmé la nécessité d'un équipement de refroidissement déployable au plus près des zones d'intervention.
+Le retour d'expérience de l'été 2025, saison record avec plus de 200 000 hectares brûlés en Europe, a confirmé la nécessité d'un équipement de refroidissement déployable au plus près des zones d'intervention.
 
 ## Le protocole Cool First Transport Second appliqué aux interventions feux de forêt
 
@@ -50,19 +50,19 @@ Pente, rochers, végétation. La baignoire doit tenir stable sur un terrain non 
 
 Un SDIS qui souhaite équiper ses équipes d'intervention en feux de forêt doit évaluer chaque solution sur les critères suivants :
 
-**Structure stable et pliable, opérationnelle en moins de 5 minutes** — c'est le critère non négociable en contexte opérationnel.
+**Structure stable et pliable, opérationnelle en moins de 5 minutes** : c'est le critère non négociable en contexte opérationnel.
 
 **Portabilité** : l'équipement doit pouvoir être transporté facilement depuis le véhicule jusqu'au point d'intervention, sur un terrain accidenté.
 
-**Résistance aux conditions extrêmes** — chaleur, poussière, cendres, chocs. Les matériaux doivent résister à un usage en environnement hostile.
+**Résistance aux conditions extrêmes** : chaleur, poussière, cendres, chocs. Les matériaux doivent résister à un usage en environnement hostile.
 
-**Volume d'eau minimal** — optimiser le volume nécessaire pour une immersion efficace, dans un contexte où l'eau est contrainte.
+**Volume d'eau minimal** : optimiser le volume nécessaire pour une immersion efficace, dans un contexte où l'eau est contrainte.
 
-**Accès patient complet** — permettre la surveillance continue des voies aériennes et les gestes médicaux avancés pendant le refroidissement.
+**Accès patient complet** : permettre la surveillance continue des voies aériennes et les gestes médicaux avancés pendant le refroidissement.
 
 ## Kollder : conçue pour les contraintes terrain des SDIS
 
-Kollder a été développée en intégrant dès la conception les contraintes opérationnelles des équipes de secours en milieu hostile. Sa structure inox alimentaire et son liner haute résistance sont conçus pour les conditions d'utilisation difficiles — pas pour une salle de sport climatisée.
+Kollder a été développée en intégrant dès la conception les contraintes opérationnelles des équipes de secours en milieu hostile. Sa structure inox alimentaire et son liner haute résistance sont conçus pour les conditions d'utilisation difficiles, pas pour une salle de sport climatisée.
 
 Sa structure stable à 6 points d'appui répond directement à la contrainte du terrain accidenté des feux de forêt, avec une mise en œuvre en moins de 5 minutes. Sa compacité repliée lui permet d'être transportée dans tout véhicule léger ou pick-up d'intervention.
 

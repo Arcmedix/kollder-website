@@ -8,7 +8,7 @@ lang: fr
 published: true
 ---
 
-L'hyperthermie d'effort est une élévation pathologique de la température corporelle centrale survenant lors ou au décours immédiat d'un effort physique intense. Elle constitue une urgence médicale absolue dont la forme la plus grave — le coup de chaleur d'effort — engage le pronostic vital en quelques dizaines de minutes.
+L'hyperthermie d'effort est une élévation pathologique de la température corporelle centrale survenant lors ou au décours immédiat d'un effort physique intense. Elle constitue une urgence médicale absolue dont la forme la plus grave, le coup de chaleur d'effort, engage le pronostic vital en quelques dizaines de minutes.
 
 En Europe, les vagues de chaleur de 2023 ont causé plus de 47 000 décès, dont 9 500 en France selon Santé Publique France. L'été 2025 a été encore plus meurtrier, avec plus de 16 500 décès estimés en Europe, confirmant une tendance qui s'accélère avec le réchauffement climatique.
 
@@ -16,13 +16,13 @@ En Europe, les vagues de chaleur de 2023 ont causé plus de 47 000 décès, dont
 
 L'hyperthermie survient lorsque la thermorégulation est dépassée par une combinaison de production métabolique excessive de chaleur, de chaleur environnementale et de mécanismes de refroidissement insuffisants ou altérés.
 
-Le corps humain maintient normalement sa température centrale autour de 37°C grâce à plusieurs mécanismes : sudation, vasodilatation cutanée et modulation du débit cardiaque. Lors d'un effort intense en ambiance chaude, ces mécanismes peuvent être saturés — particulièrement en cas de forte humidité, qui réduit l'efficacité de l'évaporation sudorale.
+Le corps humain maintient normalement sa température centrale autour de 37°C grâce à plusieurs mécanismes : sudation, vasodilatation cutanée et modulation du débit cardiaque. Lors d'un effort intense en ambiance chaude, ces mécanismes peuvent être saturés, particulièrement en cas de forte humidité, qui réduit l'efficacité de l'évaporation sudorale.
 
 On distingue deux grandes formes :
 
-**L'hyperthermie d'effort classique** — survient chez des personnes sédentaires exposées à une chaleur ambiante prolongée (canicule). Concerne principalement les personnes âgées, les nourrissons et les sujets à risque cardiovasculaire.
+**L'hyperthermie d'effort classique** : survient chez des personnes sédentaires exposées à une chaleur ambiante prolongée (canicule). Concerne principalement les personnes âgées, les nourrissons et les sujets à risque cardiovasculaire.
 
-**Le coup de chaleur d'effort (CCE)** — survient chez des sujets en bonne santé physique lors d'un effort intense : sapeurs-pompiers en intervention, militaires à l'entraînement, marathoniens, travailleurs du BTP. C'est la forme la plus fréquente chez les populations actives et la plus imprévisible.
+**Le coup de chaleur d'effort (CCE)** : survient chez des sujets en bonne santé physique lors d'un effort intense : sapeurs-pompiers en intervention, militaires à l'entraînement, marathoniens, travailleurs du BTP. C'est la forme la plus fréquente chez les populations actives et la plus imprévisible.
 
 ## Les seuils critiques
 
@@ -30,25 +30,25 @@ Le coup de chaleur est défini par une température corporelle supérieure à 40
 
 La progression est rapide et non linéaire :
 
-**37-38°C** — Zone normale. Légère augmentation de la sudation et du débit cardiaque.
+**37-38°C** : Zone normale. Légère augmentation de la sudation et du débit cardiaque.
 
-**38-40°C** — Hyperthermie légère à modérée. Fatigue, crampes, étourdissements, nausées. Stade réversible avec repos et hydratation.
+**38-40°C** : Hyperthermie légère à modérée. Fatigue, crampes, étourdissements, nausées. Stade réversible avec repos et hydratation.
 
-**40-41°C** — Hyperthermie sévère. Confusion, désorientation, cessation paradoxale de la sudation possible. Urgence médicale — refroidissement immédiat requis.
+**40-41°C** : Hyperthermie sévère. Confusion, désorientation, cessation paradoxale de la sudation possible. Urgence médicale, refroidissement immédiat requis.
 
-**Au-delà de 41°C** — Défaillance multiviscérale imminente. Atteinte cérébrale, hépatique et rénale. Risque létal si non traité dans les 30 minutes.
+**Au-delà de 41°C** : Défaillance multiviscérale imminente. Atteinte cérébrale, hépatique et rénale. Risque létal si non traité dans les 30 minutes.
 
-**Au-delà de 42°C** — Lésions cérébrales irréversibles possibles. Risque de décès très élevé.
+**Au-delà de 42°C** : Lésions cérébrales irréversibles possibles. Risque de décès très élevé.
 
 ## Populations à risque
 
 **Les sapeurs-pompiers** sont particulièrement exposés lors des feux de forêt : combinaison de protection thermique, effort physique intense, chaleur ambiante extrême et déshydratation. Le coup de chaleur d'effort est l'une des premières causes de décès non traumatique chez les pompiers en intervention estivale.
 
-**Les militaires** constituent une population bien documentée. Le risque de décès est inférieur à 5% pour le coup de chaleur d'effort contre jusqu'à 65% pour la forme classique — à condition que la prise en charge soit rapide et adaptée.
+**Les militaires** constituent une population bien documentée. Le risque de décès est inférieur à 5% pour le coup de chaleur d'effort contre jusqu'à 65% pour la forme classique, à condition que la prise en charge soit rapide et adaptée.
 
-**Les sportifs d'endurance** — marathoniens, traileurs, triathlètes, participants aux épreuves Hyrox — sont exposés lors de compétitions estivales. En juin 2024, au moins 1 301 pèlerins sont décédés lors du Hajj à La Mecque, où les températures ont dépassé 51°C, illustrant la létalité de l'hyperthermie de masse sans équipement adapté.
+**Les sportifs d'endurance** (marathoniens, traileurs, triathlètes, participants aux épreuves Hyrox) sont exposés lors de compétitions estivales. En juin 2024, au moins 1 301 pèlerins sont décédés lors du Hajj à La Mecque, où les températures ont dépassé 51°C, illustrant la létalité de l'hyperthermie de masse sans équipement adapté.
 
-**Les travailleurs en ambiance thermique contraignante** — BTP, fonderies, industrie pétrolière — sont soumis au Décret 2025-482 qui renforce les obligations employeurs en matière de prévention et de traitement de l'hyperthermie d'effort.
+**Les travailleurs en ambiance thermique contraignante** (BTP, fonderies, industrie pétrolière) sont soumis au Décret 2025-482 qui renforce les obligations employeurs en matière de prévention et de traitement de l'hyperthermie d'effort.
 
 ## Reconnaître les signes d'alarme
 
@@ -68,7 +68,7 @@ Le traitement du coup de chaleur d'effort est aujourd'hui clairement établi par
 
 La règle est simple : **Cool First, Transport Second**. Refroidir avant de transporter.
 
-Cette règle repose sur une donnée physiologique fondamentale : l'hyperthermie est une pathologie dont le pronostic dépend directement de la durée d'exposition à des températures supérieures à 40°C. Le transport vers les urgences sans refroidissement préalable prolonge cette exposition de plusieurs dizaines de minutes — souvent de façon fatale.
+Cette règle repose sur une donnée physiologique fondamentale : l'hyperthermie est une pathologie dont le pronostic dépend directement de la durée d'exposition à des températures supérieures à 40°C. Le transport vers les urgences sans refroidissement préalable prolonge cette exposition de plusieurs dizaines de minutes, souvent de façon fatale.
 
 L'immersion en eau froide (1,5°C à 15°C) refroidit à **0,35°C par minute**, contre 0,03°C/min pour les serviettes humides ou les poches de glace. Le Dr Douglas Casa (Korey Stringer Institute, Université du Connecticut) a documenté un taux de survie de **100% sur plus de 401 cas** de CCE sévère traités par immersion dans les 30 premières minutes.
 
@@ -78,19 +78,19 @@ Connaître le protocole ne suffit pas. Sur le terrain, les équipes médicales s
 
 C'est pour répondre à cet enjeu logistique que Kollder a été développée. La baignoire de refroidissement Kollder repose sur une **structure stable, entièrement pliable, sans infrastructure préalable**. Sa structure inox alimentaire et son liner haute résistance permettent une immersion corps entier conforme aux protocoles internationaux, avec accès complet au patient pour tous les gestes médicaux avancés.
 
-Repliée, elle s'intègre dans tout véhicule de secours, VSAV, pick-up ou sac de portage. Déployée, elle permet d'appliquer le protocole Cool First Transport Second dans les conditions les plus contraignantes — feu de forêt, compétition sportive, site industriel.
+Repliée, elle s'intègre dans tout véhicule de secours, VSAV, pick-up ou sac de portage. Déployée, elle permet d'appliquer le protocole Cool First Transport Second dans les conditions les plus contraignantes : feu de forêt, compétition sportive, site industriel.
 
 ## Prévention : ce que les équipes peuvent mettre en place
 
 La prévention de l'hyperthermie d'effort repose sur quatre piliers :
 
-**Hydratation** — Avant, pendant et après l'effort. La déshydratation aggrave significativement le risque d'hyperthermie en réduisant le volume sanguin disponible pour la thermorégulation.
+**Hydratation** : Avant, pendant et après l'effort. La déshydratation aggrave significativement le risque d'hyperthermie en réduisant le volume sanguin disponible pour la thermorégulation.
 
-**Acclimatation** — Une exposition progressive à la chaleur sur 10 à 14 jours permet au corps de développer des adaptations thermorégulatrices. Les équipes militaires et sportives de haut niveau intègrent systématiquement cette phase avant les compétitions en ambiance chaude.
+**Acclimatation** : Une exposition progressive à la chaleur sur 10 à 14 jours permet au corps de développer des adaptations thermorégulatrices. Les équipes militaires et sportives de haut niveau intègrent systématiquement cette phase avant les compétitions en ambiance chaude.
 
-**Surveillance** — Identifier les facteurs de risque individuels (prise de médicaments diurétiques, antécédents d'hyperthermie, surpoids) et surveiller les membres les plus exposés.
+**Surveillance** : Identifier les facteurs de risque individuels (prise de médicaments diurétiques, antécédents d'hyperthermie, surpoids) et surveiller les membres les plus exposés.
 
-**Équipement** — Disposer d'une baignoire de refroidissement déployable sur chaque intervention ou événement à risque. C'est la recommandation explicite du consensus IOC 2021 (Hosokawa, Racinais et al., BJSM).
+**Équipement** : Disposer d'une baignoire de refroidissement déployable sur chaque intervention ou événement à risque. C'est la recommandation explicite du consensus IOC 2021 (Hosokawa, Racinais et al., BJSM).
 
 Retrouvez [l'équipement de refroidissement pour les services d'urgence](https://kollder.com/fr/services-urgence-hopitaux/) sur notre page dédiée.
 
@@ -103,4 +103,4 @@ Retrouvez [l'équipement de refroidissement pour les services d'urgence](https:/
 
 ---
 
-*Sources : Santé Publique France — Bulletin épidémiologique été 2023, ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute — Douglas Casa (UConn), Décret 2025-482, Wikipedia Heat stroke / Hyperthermia.*
+*Sources : Santé Publique France, Bulletin épidémiologique été 2023, ACSM Expert Consensus Statement on Exertional Heat Illness 2023, IOC Adverse Weather Impact Expert Working Group Tokyo 2020 (Hosokawa, Racinais et al., BJSM 2021), Korey Stringer Institute, Douglas Casa (UConn), Décret 2025-482, Wikipedia Heat stroke / Hyperthermia.*
