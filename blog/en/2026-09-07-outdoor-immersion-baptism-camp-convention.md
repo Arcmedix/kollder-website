@@ -29,6 +29,6 @@ If several candidates are baptized back to back, the same water stays usable for
 
 ## Further reading
 
-- [What Size Pool Do You Need for an Adult Immersion Baptism](https://kollder.com/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
+- [Baptismal Pool Dimensions: What Size You Need for Full Adult Immersion](https://kollder.com/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
 - [Cleaning and Maintaining a Portable Baptistry Between Services](https://kollder.com/blog/en/2026-09-07-cleaning-maintaining-portable-baptistry/)
 - [Request a quote for a portable baptistry](https://kollder.com/en/portable-baptistry/#devis)

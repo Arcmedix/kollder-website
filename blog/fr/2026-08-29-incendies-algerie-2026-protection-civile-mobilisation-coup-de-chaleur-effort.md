@@ -1,7 +1,7 @@
 ---
 title: "Incendies en Algérie 2026 : la mobilisation historique de la Protection civile face à un bilan humain qui s'alourdit"
 date: 2026-08-29
-description: "Depuis début juillet, l'Algérie affronte une vague d'incendies exceptionnelle sous une canicule dépassant 48°C. Plus de 19 000 agents de la Protection civile ont été mobilisés, et le bilan humain de la dernière vague continue de s'alourdir."
+description: "Incendies en Algérie 2026 : plus de 19 000 agents de la Protection civile mobilisés sous une canicule à 48°C. Bilan humain, risque de coup de chaleur pour les pompiers, chronologie de la crise."
 category: "Sapeurs-pompiers"
 layout: layouts/article.njk
 lang: fr

@@ -1,7 +1,7 @@
 ---
-title: "Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke"
+title: "Cool First, Transport Second: The Complete Protocol Guide for Exertional Heat Stroke"
 date: 2026-05-25
-description: "Cool First Transport Second is the gold standard prehospital protocol for exertional heat stroke. Origins, science, field application and required equipment explained."
+description: "The Cool First, Transport Second protocol explained: Korey Stringer Institute origins, ACSM and IOC guidance, field application steps, and the equipment required to cool before transport."
 category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en

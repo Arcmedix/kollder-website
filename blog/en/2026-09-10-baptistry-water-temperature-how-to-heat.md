@@ -46,7 +46,7 @@ The simplest approach, with no special equipment.
 ## Further reading
 
 - [How to Conduct an Immersion Baptism, Step by Step](/blog/en/2026-09-10-how-to-conduct-immersion-baptism-step-by-step/)
-- [What Size Pool Do You Need for an Adult Immersion Baptism](/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
+- [Baptismal Pool Dimensions: What Size You Need for Full Adult Immersion](/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
 - [Outdoor Immersion Baptism: What to Plan for at a Camp or Convention](/blog/en/2026-09-07-outdoor-immersion-baptism-camp-convention/)
 - [Portable Baptistry for Immersion Baptism](/en/portable-baptistry/)
 - [Request a quote for a portable baptistry](/en/portable-baptistry/#devis)

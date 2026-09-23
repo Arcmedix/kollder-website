@@ -1,7 +1,7 @@
 ---
-title: "Exertional Heat Stroke in Military Settings: What International Research Tells Us About Prevention and Treatment"
+title: "Military Exertional Heat Stroke: What 2025 Research Says About Prevention and Treatment"
 date: 2026-05-24
-description: "Heat illness ranked among the top five medical events in the US military in 2024. A 2025 international research review consolidates what works, and what still fails, in prevention and field treatment of exertional heat stroke."
+description: "Heat illness was a top-five US military medical event in 2024. This review of 2025 international research shows what prevention and field treatment protocols actually work, and where current practice still fails."
 category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
@@ -79,7 +79,7 @@ The international review is explicit: the principal remaining barrier to effecti
 
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Tactical Medicine in Hot Environments: Managing Exertional Heat Stroke in the Field](https://kollder.com/blog/en/2026-05-21-tactical-medicine-hot-environments-heat-stroke/)
-- [Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
-- [Exertional Heat Stroke: The Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)
+- [Cool First, Transport Second: The Complete Protocol Guide for Exertional Heat Stroke](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
+- [Exertional Heat Stroke (EHS): Symptoms, Field Treatment, and the Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)
 - [Kollder solutions for defense and military](https://kollder.com/en/defense-military/)
 - [Request a Kollder quote](https://kollder.com/#contact)

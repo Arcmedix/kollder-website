@@ -53,7 +53,7 @@ For departments evaluating a dedicated immersion solution against any of these f
 - [Cold Water Immersion in Fire Departments: Operational Barriers](https://kollder.com/blog/en/2026-07-09-cold-water-immersion-fire-departments-operational-barriers/)
 - [Heat Action Plans for Fire Departments: Covering Your Own Personnel](https://kollder.com/blog/en/2026-07-09-heat-action-plans-fire-departments-covering-own-personnel/)
 - [What US and UK Fire Departments Can Learn From the French SDIS Cooling Model](https://kollder.com/blog/en/2026-07-20-what-us-uk-fire-departments-learn-french-sdis-cooling-model/)
-- [Exertional Heat Stroke: The Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)
+- [Exertional Heat Stroke (EHS): Symptoms, Field Treatment, and the Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)
 - [Kollder solutions for fire and rescue services](https://kollder.com/en/fire-rescue/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 

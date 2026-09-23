@@ -33,7 +33,7 @@ Whatever solution a church chooses, a few things are worth planning in advance: 
 ## Further reading
 
 - [Inflatable vs Rigid Folding Baptistry: Which One Fits Your Church](https://kollder.com/blog/en/2026-09-07-inflatable-vs-rigid-folding-baptistry-comparison/)
-- [What Size Pool Do You Need for an Adult Immersion Baptism](https://kollder.com/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
+- [Baptismal Pool Dimensions: What Size You Need for Full Adult Immersion](https://kollder.com/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
 - [Request a quote for a portable baptistry](https://kollder.com/en/portable-baptistry/#devis)
 
 ---

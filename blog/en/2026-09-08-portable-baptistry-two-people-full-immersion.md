@@ -41,7 +41,7 @@ Once the service is over, the baptistry drains through a valve, folds into a bag
 
 ## Further reading
 
-- [What Size Pool Do You Need for an Adult Immersion Baptism](/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
+- [Baptismal Pool Dimensions: What Size You Need for Full Adult Immersion](/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
 - [How to Hold an Immersion Baptism Without a Pool or River](/blog/en/2026-09-07-immersion-baptism-without-a-pool/)
 - [The Advantages of the Kollder Portable Baptistry for Immersion Baptism](/blog/en/2026-09-07-advantages-kollder-portable-baptistry/)
 - [Portable Baptistry for Immersion Baptism](/en/portable-baptistry/)

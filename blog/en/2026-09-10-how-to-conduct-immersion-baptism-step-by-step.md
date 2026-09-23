@@ -43,7 +43,7 @@ A well-run immersion baptism comes down to preparation, not improvisation. Here 
 ## Further reading
 
 - [Room for Two People and Full Immersion](/blog/en/2026-09-08-portable-baptistry-two-people-full-immersion/)
-- [What Size Pool Do You Need for an Adult Immersion Baptism](/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
+- [Baptismal Pool Dimensions: What Size You Need for Full Adult Immersion](/blog/en/2026-09-07-pool-size-adult-immersion-baptism/)
 - [How to Hold an Immersion Baptism Without a Pool or River](/blog/en/2026-09-07-immersion-baptism-without-a-pool/)
 - [Portable Baptistry for Immersion Baptism](/en/portable-baptistry/)
 - [Request a quote for a portable baptistry](/en/portable-baptistry/#devis)

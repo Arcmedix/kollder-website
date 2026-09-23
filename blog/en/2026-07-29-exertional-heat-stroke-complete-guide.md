@@ -1,7 +1,7 @@
 ---
-title: "Exertional Heat Stroke: The Complete Guide"
+title: "Exertional Heat Stroke (EHS): Symptoms, Field Treatment, and the Complete Guide"
 date: 2026-07-29
-description: "Pathophysiology, field recognition, and treatment of exertional heat stroke: everything medical and rescue teams need to know."
+description: "Recognize exertional heat stroke fast: core symptoms, on-site diagnosis, the Cool First Transport Second protocol, and treatment steps for medical and rescue teams."
 category: "Emergency Medicine"
 layout: layouts/article.njk
 lang: en
@@ -133,7 +133,7 @@ For the full clinical picture of what happens if this window is missed, see our 
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Exertional Heat Stroke: How to Recognise It and What to Do](https://kollder.com/blog/en/2026-06-04-exertional-heat-stroke-recognise-and-treat/)
 - [Classic Heat Stroke vs Exertional Heat Stroke: What's the Difference](https://kollder.com/blog/en/2026-07-09-classic-heat-stroke-vs-exertional-heat-stroke-difference/)
-- [Cool First Transport Second: The Life-Saving Protocol for Exertional Heat Stroke](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
+- [Cool First, Transport Second: The Complete Protocol Guide for Exertional Heat Stroke](https://kollder.com/blog/en/2026-05-25-cool-first-transport-second-protocol-complete-guide/)
 - [Cool First, Transport Second: The History Behind Emergency Medicine's Field Cooling Doctrine](https://kollder.com/blog/en/2026-07-29-history-cool-first-transport-second-doctrine/)
 - [Preventing Exertional Heat Stroke: A Field Guide for Medical Teams and EHS Managers](https://kollder.com/blog/en/2026-05-29-preventing-exertional-heat-stroke-field-guide/)
 - [Kollder solutions for EMS and emergency departments](https://kollder.com/en/emergency-medical-services/)

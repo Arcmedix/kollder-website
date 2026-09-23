@@ -52,7 +52,7 @@ Teams evaluating a dedicated immersion solution can find specifications at [koll
 
 - [What Is Cold Water Immersion?](https://kollder.com/blog/en/2026-08-01-what-is-cold-water-immersion/)
 - [Cooling Solutions for Exertional Heat Stroke: Which Method Works in the Field?](https://kollder.com/blog/en/2026-06-04-cooling-solutions-exertional-heat-stroke-field-comparison/)
-- [Exertional Heat Stroke: The Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)
+- [Exertional Heat Stroke (EHS): Symptoms, Field Treatment, and the Complete Guide](https://kollder.com/blog/en/2026-07-29-exertional-heat-stroke-complete-guide/)
 - [NFPA 1580 and International Rehab Standards](https://kollder.com/blog/en/2026-07-29-nfpa-1584-international-rehab-standards-comparison/)
 - [Request a Kollder quote](https://kollder.com/#contact)
 

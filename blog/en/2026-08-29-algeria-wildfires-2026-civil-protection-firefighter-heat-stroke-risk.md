@@ -1,7 +1,7 @@
 ---
-title: "Algeria's 2026 Wildfires: Inside the Civil Protection's Historic Mobilization as the Death Toll Climbs"
+title: "Algeria Wildfires 2026: Civil Protection's Historic Mobilization as the Death Toll Climbs"
 date: 2026-08-29
-description: "Since early July, Algeria has faced one of its most severe wildfire seasons on record under a heatwave that topped 48°C. More than 19,000 Civil Protection personnel have been mobilized nationwide, and the toll from this week's fires is still climbing."
+description: "Algeria wildfires 2026: over 19,000 Civil Protection personnel mobilized under a heatwave that topped 48°C. Death toll, firefighter heat stroke risk, and the response timeline."
 category: "Fire & Rescue"
 layout: layouts/article.njk
 lang: en

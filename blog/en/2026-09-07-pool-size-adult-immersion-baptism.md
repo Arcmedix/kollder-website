@@ -1,7 +1,7 @@
 ---
-title: "What Size Pool Do You Need for an Adult Immersion Baptism"
+title: "Baptismal Pool Dimensions: What Size You Need for Full Adult Immersion"
 date: 2026-09-07
-description: "Dimensions, water volume, and fill depth recommended for a baptism pool sized for full adult immersion."
+description: "Baptismal pool dimensions for full adult immersion: recommended length, width, depth, and water volume, plus setup considerations for churches and baptism sites."
 category: "Church Life"
 layout: layouts/article.njk
 lang: en
