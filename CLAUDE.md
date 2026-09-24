@@ -69,7 +69,7 @@ grep -rli "[keyword]" blog/fr blog/en
 - blog/index.njk has no Nunjucks lang variable — language detected via JS/localStorage only; never use {% if lang %} conditionals in this file
 
 ## PDF gate
-The homepage sticky card that gated kollder-guide-cce-2026.pdf via Formspree mykovqeg was disabled 2026-09-21 (commented out in `index.html`, kept for next heatwave season). The PDF is now offered on the quiz result screen (`_data/quiz.js`, `_includes/quiz/quiz.njk`) after the email gate. GA4 events for the quiz: `quiz_card_click`, `quiz_start`, `quiz_complete`, `quiz_lead_submit`, `quiz_guide_download`, `quiz_report_download`.
+The homepage sticky card that gated kollder-guide-cce-2026.pdf via Formspree mykovqeg was disabled 2026-09-21 (commented out in `index.html`, kept for next heatwave season). The PDF is now offered on the quiz result screen (`_data/quiz.js`, `_includes/quiz/quiz.njk`) after the email gate. GA4 events for the quiz: `quiz_card_view`, `quiz_card_dismiss`, `quiz_card_click`, `quiz_start`, `quiz_complete`, `quiz_lead_submit`, `quiz_guide_download`, `quiz_report_download`. The sticky card stays hidden for 30 days after a close (`localStorage` key `kq_card_dismissed`, timestamp) and permanently once the quiz is completed (`kq_quiz_done`).
 Distributor/international partner applications: Formspree xpqealgr.
 
 ## Key sources to cite in articles

@@ -368,6 +368,7 @@
 
   function showLocked() {
     ga('quiz_complete');
+    try { localStorage.setItem('kq_quiz_done', '1'); } catch (e) {}
     $('kqBody').hidden = true;
     $('kqCount').textContent = '';
     setBar(N);

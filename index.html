@@ -2795,12 +2795,21 @@ window.closeNavOverlay = function() {
 </aside>
 <script>
 (function(){
-  var KEY = 'kq_card_dismissed';
+  var KEY = 'kq_card_dismissed';   // timestamp of last close
+  var DONE = 'kq_quiz_done';        // set by the quiz page on completion
+  var TTL = 30 * 24 * 60 * 60 * 1000;
   var card = document.getElementById('kQuizCard');
   if (!card) return;
-  var dismissed = false;
-  try { dismissed = !!sessionStorage.getItem(KEY); } catch (e) {}
-  if (dismissed) { card.classList.add('kqc-hidden'); return; }
+  var hide = false;
+  try {
+    var t = parseInt(localStorage.getItem(KEY), 10);
+    hide = !!localStorage.getItem(DONE) || (t > 0 && Date.now() - t < TTL);
+  } catch (e) {}
+  if (hide) { card.classList.add('kqc-hidden'); return; }
+
+  function ga(name) {
+    if (typeof gtag === 'function') gtag('event', name, { form_location: 'sticky_card' });
+  }
 
   // Show after 15% scroll
   var shown = false;
@@ -2811,6 +2820,7 @@ window.closeNavOverlay = function() {
       shown = true;
       card.classList.add('kqc-visible');
       window.removeEventListener('scroll', onScroll);
+      ga('quiz_card_view');
     }
   }
   window.addEventListener('scroll', onScroll, { passive: true });
@@ -2818,13 +2828,12 @@ window.closeNavOverlay = function() {
   document.getElementById('kQuizClose').addEventListener('click', function(){
     card.classList.remove('kqc-visible');
     setTimeout(function(){ card.classList.add('kqc-hidden'); }, 400);
-    try { sessionStorage.setItem(KEY, '1'); } catch (e) {}
+    try { localStorage.setItem(KEY, String(Date.now())); } catch (e) {}
+    ga('quiz_card_dismiss');
   });
 
   document.getElementById('kQuizCta').addEventListener('click', function(){
-    if (typeof gtag === 'function') {
-      gtag('event', 'quiz_card_click', { form_location: 'sticky_card' });
-    }
+    ga('quiz_card_click');
   });
 })();
 </script>
