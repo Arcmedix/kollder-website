@@ -24,7 +24,7 @@ In Gemeinden ohne festes Taufbecken kommen meist drei Möglichkeiten in Betracht
 
 Ein **mobiles Taufbecken** löst diese drei Einschränkungen unmittelbar. Es lässt sich drinnen oder draußen aufstellen, bei Bedarf direkt im Gottesdienstraum, ohne Abhängigkeit von einer externen Buchung oder einer natürlichen Wasserquelle. Mit einem Gartenschlauch oder Wasserbehältern befüllt, bietet es genug Platz für die vollständige Untertauchung eines Erwachsenen und bleibt dabei kompakt genug, um zwischen den Gottesdiensten verstaut zu werden.
 
-Das ist die Logik hinter dem mobilen Taufbecken von Kollder: eine Konstruktion, die sich in weniger als 2 Minuten von einer Person aufbauen lässt und der Gemeinde gehört, statt von einer Leihgabe oder einer Reservierung abzuhängen. Alle technischen Angaben finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
+Das ist die Logik hinter dem mobilen Taufbecken von Kollder: eine stabile Konstruktion mit Platz für Täufling und Taufenden, die sich in weniger als 5 Minuten aufbauen lässt und der Gemeinde gehört, statt von einer Leihgabe oder einer Reservierung abzuhängen. Alle technischen Angaben finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
 
 ## Den Tag vorausplanen
 

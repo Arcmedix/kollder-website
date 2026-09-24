@@ -21,7 +21,7 @@ For a camp or convention baptizing several candidates, a **portable baptistry** 
 Two logistical advantages matter especially in this context:
 
 - **Transport.** Folded into a compact bag roughly 85 × 10 × 10 cm (33 × 4 × 4 in) and about 11 kg (24 lb), a portable baptistry travels like ordinary luggage, in a car trunk or a van, with no special setup required.
-- **Fast setup.** On a packed event schedule, setting up the pool in under 2 minutes, by one person, avoids pulling an entire team away before every baptism session.
+- **Stability on site.** On grass or uneven ground, a steel frame on 6 support points keeps the pool level, and setup takes under 5 minutes before every baptism session.
 
 ## Planning for multiple baptisms in one day
 

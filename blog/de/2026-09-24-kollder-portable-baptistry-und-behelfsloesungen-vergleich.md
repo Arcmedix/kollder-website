@@ -16,14 +16,14 @@ Gemeinden, die sich für die Immersionstaufe ausrüsten, wägen heute meist drei
 
 **Behelfslösungen** (aufblasbare PVC-Pools, Badewannen) bleiben mangels bekannter Alternativen die häufigste Option, vor allem außerhalb der USA, wo spezialisierte Anbieter selten sind.
 
-**Kollder** ist ein starres, faltbares Taufbecken aus lebensmittelechtem Edelstahl, abgeleitet von der Ausrüstung Kollder One™ und für den Aufbau in weniger als 2 Minuten durch eine Person ausgelegt.
+**Kollder** ist ein starres, faltbares Taufbecken aus lebensmittelechtem Edelstahl, abgeleitet von der Ausrüstung Kollder One™ stabil auf 6 Auflagepunkten, mit Platz für Täufling und Taufenden gemeinsam und einem Aufbau in weniger als 5 Minuten.
 
 ## Technischer Vergleich
 
 | Kriterium | Kollder | Portable Baptistry | Behelfslösung (aufblasbar) |
 |---|---|---|---|
 | Konstruktion | Faltbarer Edelstahl | Modulare Wanne + Verkleidung (Holz oder anderes) | Aufblasbares PVC |
-| Aufbau | < 2 Min., 1 Person | Einige Minuten, Elemente zusammensetzen | 5 bis 15 Min. mit elektrischer Pumpe |
+| Aufbau | < 5 Min., ohne Werkzeug | Einige Minuten, Elemente zusammensetzen | 5 bis 15 Min. mit elektrischer Pumpe |
 | Kapazität | Vollständige Untertauchung, 1 Erwachsener | Bis zu 3 stehende Personen (je nach Modell) | Unterschiedlich, oft begrenzt |
 | Packmaß | 85 × 10 × 10 cm, 11 kg | Stapelbare Elemente, sperriger | Kompakt, wenn die Luft abgelassen ist |
 | Pflege | Abwaschbarer, desinfizierbarer Edelstahl | Je nach Ausführung (Holz feuchtigkeitsempfindlicher) | PVC verschleißt schnell |
@@ -48,7 +48,7 @@ Der Hauptvorteil bleibt die sofortige Verfügbarkeit bei sehr niedrigen Einstieg
 
 ## Fazit
 
-Die richtige Wahl hängt vor allem vom Profil der Gemeinde ab. Für einen einmaligen Versuch mit minimalem Budget bleibt eine Behelfslösung trotz schnellerem Verschleiß eine vertretbare kurzfristige Option. Für große Gruppenkapazität und eine dauerhafte Verkleidung hat Portable Baptistry den Vorteil seiner Erfahrung auf dem US-Markt. Für eine Gemeinde, die Wert auf einen schnellen Aufbau durch eine Person, ein pflegeleichtes Material für viele Jahre und eine Logistik ohne Überseeversand legt, erfüllt das mobile Taufbecken von Kollder genau diese Prioritäten. Alle Spezifikationen und ein individuelles Angebot finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
+Die richtige Wahl hängt vor allem vom Profil der Gemeinde ab. Für einen einmaligen Versuch mit minimalem Budget bleibt eine Behelfslösung trotz schnellerem Verschleiß eine vertretbare kurzfristige Option. Für große Gruppenkapazität und eine dauerhafte Verkleidung hat Portable Baptistry den Vorteil seiner Erfahrung auf dem US-Markt. Für eine Gemeinde, die Wert auf eine auf jedem Boden stabile Konstruktion, ein pflegeleichtes Material für viele Jahre und eine Logistik ohne Überseeversand legt, erfüllt das mobile Taufbecken von Kollder genau diese Prioritäten. Alle Spezifikationen und ein individuelles Angebot finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
 
 ## Weiterführende Informationen
 

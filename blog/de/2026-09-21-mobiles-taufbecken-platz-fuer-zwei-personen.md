@@ -37,7 +37,7 @@ Die Stabilität des Kollder-Taufbeckens hängt nicht vom Luftdruck ab, sondern v
 
 ## Die übrige Zeit
 
-Nach dem Gottesdienst wird das Taufbecken über ein Ventil entleert, faltet sich in eine Tasche von 85 × 10 × 10 cm bei etwa 11 kg und ist beim nächsten Mal in **weniger als 2 Minuten** von einer Person wieder aufgebaut. Der Platz für zwei kostet beim Stauraum nichts extra.
+Nach dem Gottesdienst wird das Taufbecken über ein Ventil entleert, faltet sich in eine Tasche von 85 × 10 × 10 cm bei etwa 11 kg und ist beim nächsten Mal in weniger als 5 Minuten ohne Werkzeug wieder aufgebaut. Der Platz für zwei kostet beim Stauraum nichts extra.
 
 ## Weiterführende Informationen
 

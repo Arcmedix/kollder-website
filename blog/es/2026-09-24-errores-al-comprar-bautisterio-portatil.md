@@ -16,7 +16,7 @@ El error más común: optar por un formato compacto para bajar el precio sin com
 
 ## Pasar por alto el tiempo real de montaje
 
-Algunas fichas de producto anuncian un montaje "rápido" sin aclarar si se trata de dos minutos o de media hora con varias personas. Un montaje que moviliza a dos o tres voluntarios antes de cada celebración acaba pesando en la organización semana tras semana. Pida siempre un tiempo de montaje preciso, por una sola persona.
+Algunas fichas de producto anuncian un montaje "rápido" sin aclarar si se trata de unos minutos o de media hora. Un montaje largo antes de cada celebración acaba pesando en la organización semana tras semana. Pida siempre un tiempo de montaje preciso y compruebe que la estructura se mantiene estable con la bañera llena.
 
 ## Elegir un material que no está pensado para un uso repetido
 
@@ -34,7 +34,7 @@ Una piscina de varios cientos de litros debe llenarse y vaciarse con facilidad, 
 
 Como explica nuestra [guía de presupuesto para bautisterios portátiles](https://kollder.com/blog/es/2026-09-21-cuanto-cuesta-un-bautisterio-portatil/), el precio de compra por sí solo no dice nada del coste real a lo largo de varios años. Un equipo más barato que se sustituye cada dos años suele acabar costando más que una estructura duradera amortizada en una década.
 
-El bautisterio portátil Kollder se ha diseñado teniendo en cuenta cada uno de estos errores habituales: dimensiones para la inmersión completa, montaje en menos de 2 minutos por una sola persona, acero inoxidable de calidad alimentaria y un formato plegado compacto. Las especificaciones completas están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
+El bautisterio portátil Kollder se ha diseñado teniendo en cuenta cada uno de estos errores habituales: dimensiones para la inmersión completa, estructura estable sobre 6 puntos de apoyo con espacio para el candidato y el oficiante, montaje en menos de 5 minutos, acero inoxidable de calidad alimentaria y un formato plegado compacto. Las especificaciones completas están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
 
 ## Para saber más
 

@@ -10,9 +10,9 @@ published: true
 
 El bautisterio portátil Kollder utiliza la misma estructura de acero inoxidable que el equipo Kollder One™, concebido en origen para un uso médico de emergencia exigente y puesto aquí al servicio de un propósito mucho más sereno. Esto es lo que significa en la práctica para una iglesia.
 
-## Un montaje pensado para una sola persona
+## El candidato y el oficiante, juntos en el agua
 
-Ninguna iglesia debería tener que reunir a varios voluntarios antes de cada celebración. El bautisterio se despliega y se monta en **menos de 2 minutos**, sin herramientas, por un solo miembro del equipo. Una ventaja directa los domingos, cuando el equipo técnico ya tiene bastante trabajo.
+El bautisterio acoge a dos personas en inmersión simultánea: el oficiante puede entrar en el agua junto al candidato y acompañar el momento de cerca, como en un bautisterio fijo. El montaje lleva menos de 5 minutos, sin herramientas.
 
 ## Una estabilidad que no depende de la presión del aire
 

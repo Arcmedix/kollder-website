@@ -16,7 +16,7 @@ Der häufigste Fehler: ein kompaktes Format, um den Preis zu senken, ohne zu pr�
 
 ## Die tatsächliche Aufbauzeit übersehen
 
-Manche Produktbeschreibungen versprechen einen "schnellen" Aufbau, ohne zu sagen, ob damit zwei Minuten oder eine halbe Stunde mit mehreren Helfern gemeint sind. Ein Aufbau, der vor jedem Gottesdienst zwei oder drei Freiwillige bindet, belastet Woche für Woche den Ablauf. Fragen Sie immer nach einer genauen Aufbauzeit durch eine Person.
+Manche Produktbeschreibungen versprechen einen "schnellen" Aufbau, ohne zu sagen, ob damit wenige Minuten oder eine halbe Stunde gemeint sind. Ein langwieriger Aufbau vor jedem Gottesdienst belastet Woche für Woche den Ablauf. Fragen Sie immer nach einer genauen Aufbauzeit und prüfen Sie, ob die Konstruktion auch mit gefülltem Becken stabil bleibt.
 
 ## Ein Material wählen, das nicht für den wiederholten Einsatz gemacht ist
 
@@ -34,7 +34,7 @@ Ein Becken mit mehreren hundert Litern muss sich einfach befüllen und entleeren
 
 Wie unser [Budgetratgeber für mobile Taufbecken](https://kollder.com/blog/de/2026-09-21-was-kostet-ein-mobiles-taufbecken/) zeigt, sagt der Kaufpreis allein nichts über die tatsächlichen Kosten über mehrere Jahre aus. Eine günstigere Ausrüstung, die alle zwei Jahre ersetzt wird, kostet am Ende oft mehr als eine langlebige Konstruktion, die sich über ein Jahrzehnt amortisiert.
 
-Das mobile Taufbecken von Kollder wurde mit Blick auf jeden dieser typischen Fehler entwickelt: Maße für die vollständige Untertauchung, Aufbau in weniger als 2 Minuten durch eine Person, lebensmittelechter Edelstahl und ein kompaktes Packmaß. Alle Spezifikationen finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
+Das mobile Taufbecken von Kollder wurde mit Blick auf jeden dieser typischen Fehler entwickelt: Maße für die vollständige Untertauchung, stabile Konstruktion auf 6 Auflagepunkten mit Platz für Täufling und Taufenden, Aufbau in weniger als 5 Minuten, lebensmittelechter Edelstahl und ein kompaktes Packmaß. Alle Spezifikationen finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
 
 ## Weiterführende Informationen
 

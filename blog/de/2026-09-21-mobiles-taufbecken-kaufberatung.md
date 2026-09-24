@@ -24,7 +24,7 @@ Bei Ausstattung, die mehrmals im Jahr genutzt wird, zählt das Material ebenso v
 
 ## Aufbauzeit und Handhabung
 
-Fragen Sie nach der tatsächlichen Aufbauzeit, durch eine Person, ohne Werkzeug. Dieses Kriterium geht in Produktbeschreibungen oft unter, zählt aber am Tag des Gottesdienstes: Ein Aufbau, der mehrere Freiwillige 20 Minuten lang bindet, ist etwas ganz anderes als ein Aufbau durch eine einzelne Person in weniger als 2 Minuten.
+Fragen Sie nach der tatsächlichen Aufbauzeit ohne Werkzeug. Dieses Kriterium geht in Produktbeschreibungen oft unter, zählt aber am Tag des Gottesdienstes: Ein Aufbau von 20 Minuten ist etwas ganz anderes als ein Aufbau in weniger als 5 Minuten.
 
 ## Packgewicht und Packmaß
 

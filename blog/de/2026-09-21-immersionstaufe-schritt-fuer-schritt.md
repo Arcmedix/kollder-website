@@ -18,7 +18,7 @@ Eine gut durchgeführte Immersionstaufe beruht auf Vorbereitung, nicht auf Impro
 
 ## Am Tag selbst: Aufbau und Befüllen
 
-- **Das Becken aufbauen.** Das mobile Taufbecken von Kollder lässt sich in **weniger als 2 Minuten** von einer Person ohne Werkzeug aufbauen.
+- **Das Becken aufbauen.** Das mobile Taufbecken von Kollder lässt sich in weniger als 5 Minuten ohne Werkzeug aufbauen und steht stabil auf 6 Auflagepunkten.
 - **Befüllen.** Für ein Becken von 205 × 80 × 60 cm sind **500 bis 700 Liter** einzuplanen, etwa 15 bis 30 Minuten mit einem Gartenschlauch je nach Durchfluss, oder die entsprechende Menge in Behältern, wo keine Wasserstelle in der Nähe ist.
 - **Füllstand und Temperatur einstellen.** Eine Wassertiefe von **50 bis 60 cm** bedeckt einen liegenden Erwachsenen. Ziel ist Wasser von etwa **30 °C**, bei Raumtemperatur oder vorab erwärmt, ganz ohne die Kaltwasseranforderung einer medizinischen Wanne.
 

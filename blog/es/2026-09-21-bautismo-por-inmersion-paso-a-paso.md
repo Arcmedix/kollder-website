@@ -18,7 +18,7 @@ Un bautismo por inmersión bien llevado se basa en la preparación, no en la imp
 
 ## El día de la celebración: montaje y llenado
 
-- **Montar el bautisterio.** El bautisterio portátil Kollder se despliega y se monta en **menos de 2 minutos**, por una sola persona y sin herramientas.
+- **Montar el bautisterio.** El bautisterio portátil Kollder se despliega y se monta en menos de 5 minutos, sin herramientas, y se mantiene estable sobre 6 puntos de apoyo.
 - **Llenarlo.** Hay que prever de **500 a 700 litros** para un bautisterio de 205 × 80 × 60 cm, unos 15 a 30 minutos con una manguera de jardín según el caudal, o el equivalente en recipientes donde no haya una toma cercana.
 - **Ajustar el nivel y la temperatura.** Una profundidad de agua de **50 a 60 cm** cubre a un adulto tumbado. Apunte a un agua de unos **30 °C**, a temperatura ambiente o calentada de antemano, sin ninguna de las exigencias de agua fría de una bañera médica.
 

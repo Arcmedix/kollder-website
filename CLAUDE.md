@@ -7,7 +7,7 @@ Kollder is a French emergency cooling equipment company. Two official SKUs: **Ko
 - Lead with **capacity for up to 2 people in simultaneous immersion** — a real, documented spec on the same 205×80×60cm tub (already used this way in the portable-baptistry vertical: candidate + officiant together)
 - Deployment speed is now a **secondary** detail only: "moins de 5 minutes / under 5 minutes" — NEVER "30 seconds", and do not claim "under 2 minutes" anymore
 - Do NOT lead with or emphasize single-operator deployment ("une seule personne" / "un seul opérateur" / "single operator" / "by one person") — de-emphasized 2026-09-18 because a competitor (Corben) is closing the speed gap; stability and 2-person capacity are the differentiators now, not deployment speed or operator count
-- **Exception:** the portable-baptistry vertical (Kollder as a church baptism tub — `baptistere-immersion.njk`/`portable-baptistry.njk`, and blog articles with `category: "Vie d'église"` / `"Church Life"`) is a separate market where Corben does not compete. That content still uses "moins de 2 minutes / under 2 minutes" and single-person setup — leave it as-is, this repositioning does not apply there
+- **No exception for the portable-baptistry vertical** (`baptistere-immersion.njk`/`portable-baptistry.njk`/`taufbecken-mobil.njk`/`bautisterio-portatil.njk`, and blog articles in `Vie d'église` / `Church Life` / `Gemeindeleben` / `Vida de Iglesia`): since 2026-09-24 it follows the same rules. Lead with stability and room for candidate + officiant together; setup time only as "moins de 5 minutes / under 5 minutes", never "under 2 minutes", no single-person setup claims
 - Protocol anchor: "Cool First, Transport Second" (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute)
 - Kollder is a French company — do not proactively reference manufacturing/assembly location unless the user raises it first
 
@@ -21,7 +21,7 @@ SDIS (sapeurs-pompiers), SSSM/militaires, SAMU/SMUR/SAU, associations de protect
 
 ## Content rules (standing, non-negotiable)
 - Never use "30 secondes / 30 seconds" for Kollder's deployment time
-- For the emergency-cooling product (not the portable-baptistry vertical, see Core positioning exception above): never lead with deployment speed or single-operator/single-person claims — lead with stability and 2-person capacity instead; if deployment time is mentioned, it's "moins de 5 minutes / under 5 minutes", secondary, and never tied to an operator count
+- For all Kollder content, emergency cooling and portable baptistry alike: never lead with deployment speed or single-operator/single-person claims — lead with stability and 2-person capacity instead; if deployment time is mentioned, it's "moins de 5 minutes / under 5 minutes", secondary, and never tied to an operator count
 - No em dashes anywhere
 - No "Made in Normandy" or manufacturing/assembly location mentions unless the user raises it
 - No future-dated articles — always use the actual current date
@@ -51,7 +51,7 @@ Validation checklist before publishing any article:
 - Exactly 7 frontmatter fields: `title`, `date`, `description`, `category`, `layout: layouts/article.njk`, `lang`, `published: true`
 - Zero em dashes
 - Zero "30 secondes / 30 seconds"
-- For non-baptistry articles: no "moins de 2 minutes / under 2 minutes" or single-operator/single-person deployment claims — lead with stability + 2-person capacity, 5 minutes secondary if mentioned at all
+- For all articles (baptistry included): no "moins de 2 minutes / under 2 minutes" or single-operator/single-person deployment claims — lead with stability + 2-person capacity, 5 minutes secondary if mentioned at all
 - `published: true`
 - Correct dated filename (`YYYY-MM-DD-slug.md`), no "article" in the filename
 - Internal links included in a "Pour aller plus loin / Further Reading" section

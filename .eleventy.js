@@ -1,6 +1,5 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("logo-kollder.png");
-  eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("index.html");
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("llms.txt");

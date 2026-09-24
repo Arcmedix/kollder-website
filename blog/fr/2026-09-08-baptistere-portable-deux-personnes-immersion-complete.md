@@ -37,7 +37,7 @@ La stabilité du baptistère Kollder ne dépend pas d'une pression d'air mais d'
 
 ## Et le reste du temps
 
-Une fois la cérémonie terminée, le baptistère se vide par une valve, se replie dans un sac de 85 × 10 × 10 cm pour environ 11 kg, et se monte la fois suivante en **moins de 2 minutes** par une seule personne. La capacité pour deux ne se paie donc pas en encombrement.
+Une fois la cérémonie terminée, le baptistère se vide par une valve, se replie dans un sac de 85 × 10 × 10 cm pour environ 11 kg, et se remonte la fois suivante en moins de 5 minutes, sans outil. La capacité pour deux ne se paie donc pas en encombrement.
 
 ## Pour aller plus loin
 

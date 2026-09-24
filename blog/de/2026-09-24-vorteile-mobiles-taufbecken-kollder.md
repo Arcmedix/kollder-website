@@ -10,9 +10,9 @@ published: true
 
 Das mobile Taufbecken von Kollder nutzt dieselbe Edelstahlkonstruktion wie die Ausrüstung Kollder One™, die ursprünglich für anspruchsvolle notfallmedizinische Einsätze entwickelt wurde, hier aber einem weit friedlicheren Zweck dient. Was das für eine Gemeinde in der Praxis bedeutet, lesen Sie hier.
 
-## Ein Aufbau, der für eine Person gedacht ist
+## Täufling und Taufender gemeinsam im Becken
 
-Keine Gemeinde sollte vor jedem Gottesdienst mehrere Freiwillige zusammentrommeln müssen. Das Taufbecken wird in **weniger als 2 Minuten** ohne Werkzeug von einer einzigen Person aufgefaltet und aufgestellt. Ein direkter Gewinn an Sonntagen, an denen das Technikteam ohnehin genug zu tun hat.
+Das Becken nimmt zwei Personen gleichzeitig auf: Der Taufende kann neben dem Täufling ins Wasser steigen und den Moment aus nächster Nähe begleiten, wie in einem festen Taufbecken. Der Aufbau dauert weniger als 5 Minuten, ohne Werkzeug.
 
 ## Stabilität, die nicht vom Luftdruck abhängt
 

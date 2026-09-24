@@ -21,7 +21,7 @@ Para un campamento o una convención en la que se bautiza a varios candidatos, u
 Dos ventajas logísticas cuentan especialmente en este contexto:
 
 - **Transporte.** Plegado en una bolsa compacta de aproximadamente 85 × 10 × 10 cm y unos 11 kg, un bautisterio portátil viaja como un equipaje corriente, en el maletero de un coche o en una furgoneta, sin necesidad de preparativos especiales.
-- **Montaje rápido.** En un programa de evento muy cargado, montar la bañera en menos de 2 minutos, por una sola persona, evita apartar a todo un equipo antes de cada sesión de bautismos.
+- **Estabilidad sobre el terreno.** Sobre césped o suelo irregular, un bastidor de acero sobre 6 puntos de apoyo mantiene la bañera nivelada, y el montaje lleva menos de 5 minutos antes de cada sesión de bautismos.
 
 ## Planificar varios bautismos en un mismo día
 

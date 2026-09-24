@@ -24,7 +24,7 @@ En un equipo que se reutiliza varias veces al año, el material importa tanto co
 
 ## Tiempo de montaje y facilidad
 
-Pregunte por el tiempo real de montaje, por una persona, sin herramientas. Es un criterio que a menudo se pasa por alto en las fichas de producto, pero que cuenta el día de la celebración: un montaje que ocupa a varios voluntarios durante 20 minutos es una experiencia muy distinta de un montaje en solitario en menos de 2 minutos.
+Pregunte por el tiempo real de montaje, sin herramientas. Es un criterio que a menudo se pasa por alto en las fichas de producto, pero que cuenta el día de la celebración: un montaje de 20 minutos es una experiencia muy distinta de un montaje en menos de 5 minutos.
 
 ## Peso y tamaño plegado
 

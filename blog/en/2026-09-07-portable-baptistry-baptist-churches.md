@@ -22,7 +22,7 @@ Many Baptist churches, especially newer or smaller congregations, meet in rented
 
 With a portable baptistry, a Baptist church can hold a baptism as soon as a candidate is ready, without waiting on a pool booking or a favorable season for a natural water source. The structure belongs to the congregation, folds away easily between services, and can be set up right in the sanctuary the same day.
 
-The Kollder portable baptistry is built for exactly this: dimensions that allow full adult immersion, setup in under 2 minutes by one person, and a food-grade stainless steel structure that's easy to maintain over years of regular use. Full specifications are on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
+The Kollder portable baptistry is built for exactly this: dimensions that allow full adult immersion, a stable frame on 6 support points with room for candidate and officiant, setup in under 5 minutes, and a food-grade stainless steel structure that's easy to maintain over years of regular use. Full specifications are on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
 
 ## Further reading
 

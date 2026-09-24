@@ -28,7 +28,7 @@ Pour les baptêmes en extérieur ou en série lors d'un événement, privilégie
 
 ## Un seul équipement peut couvrir plusieurs profils
 
-Un baptistère portable en acier inoxydable pliable, comme le modèle Kollder, répond en réalité à ces quatre profils simultanément : montage en moins de 2 minutes par une seule personne, structure stable même sur sol irrégulier, poids replié de 11 kg pour un transport facile, matériau durable adapté à un usage fréquent. Les caractéristiques complètes sont disponibles sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
+Un baptistère portable en acier inoxydable pliable, comme le modèle Kollder, répond en réalité à ces quatre profils simultanément : structure stable même sur sol irrégulier, place pour le candidat et l'officiant ensemble, montage en moins de 5 minutes, poids replié de 11 kg pour un transport facile, matériau durable adapté à un usage fréquent. Les caractéristiques complètes sont disponibles sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
 
 ## Pour aller plus loin
 

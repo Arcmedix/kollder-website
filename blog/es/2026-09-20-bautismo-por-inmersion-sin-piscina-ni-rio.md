@@ -24,7 +24,7 @@ En congregaciones sin baptisterio permanente suelen plantearse tres opciones.
 
 Un **bautisterio portátil** resuelve directamente estas tres limitaciones. Se monta en interior o en exterior, incluso en el propio templo si hace falta, sin depender de una reserva externa ni de una fuente de agua natural. Llenado con una manguera de jardín o con recipientes de agua, ofrece espacio suficiente para la inmersión completa de un adulto y es lo bastante compacto para guardarse entre celebraciones.
 
-Esa es la lógica del bautisterio portátil Kollder: una estructura que se monta en menos de 2 minutos, por una sola persona, y que pertenece a la congregación en lugar de depender de un préstamo o de una reserva. Las especificaciones completas están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
+Esa es la lógica del bautisterio portátil Kollder: una estructura estable, con espacio para el candidato y el oficiante, que se monta en menos de 5 minutos y que pertenece a la congregación en lugar de depender de un préstamo o de una reserva. Las especificaciones completas están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
 
 ## Planificar el día con antelación
 

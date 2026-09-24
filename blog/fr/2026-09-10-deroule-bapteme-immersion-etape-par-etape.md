@@ -18,7 +18,7 @@ Un baptême par immersion bien mené est une affaire de préparation, pas d'impr
 
 ## Le jour même : installation et remplissage
 
-- **Monter le bassin.** Le baptistère portable Kollder se déplie et se met en place en **moins de 2 minutes**, par une seule personne, sans outil.
+- **Monter le bassin.** Le baptistère portable Kollder se déplie et se met en place en moins de 5 minutes, sans outil, et reste stable sur 6 points d'appui.
 - **Remplir.** Comptez **500 à 700 litres** pour un bassin de 205 × 80 × 60 cm, soit 15 à 30 minutes au tuyau d'arrosage selon le débit, ou l'équivalent en bidons pour un lieu sans point d'eau proche.
 - **Régler le niveau et la température.** Une hauteur d'eau de **50 à 60 cm** recouvre un adulte allongé. Visez une eau autour de **30 °C**, à température ambiante ou chauffée en amont, sans aucune contrainte de froid contrairement à un usage médical.
 

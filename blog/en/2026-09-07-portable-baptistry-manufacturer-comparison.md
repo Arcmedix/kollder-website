@@ -20,14 +20,14 @@ Several manufacturers now offer portable baptistries suited to churches and imme
 
 **Church Outlet** (US) sells one-piece fiberglass tanks (models 6P and 6PXL, 100 to 125 gallons / roughly 380 to 475 liters), delivered ready to use, with an optional oak or birch cabinet and a built-in heater.
 
-**Kollder** is a folding food-grade stainless steel structure, built for setup in under 2 minutes by one person, with no tools.
+**Kollder** is a folding food-grade stainless steel structure, stable on 6 support points and roomy enough for the candidate and the officiant together, with setup in under 5 minutes and no tools.
 
 ## Technical comparison
 
 | Criterion | Kollder | Baptizo | Portable Baptistery Co. | The Portable Baptistry | Church Outlet |
 |---|---|---|---|---|---|
 | Structure | Folding stainless steel | Custom panels and liner, round pool | Lightweight timber, 6 sections + liner | Modular tank + cabinet | One-piece fiberglass tank |
-| Setup | < 2 min, 1 person, no tools | Fast per manufacturer, no figure given | Tool-free per manufacturer | A few minutes, sections to assemble | No assembly, delivered ready to use |
+| Setup | < 5 min, no tools | Fast per manufacturer, no figure given | Tool-free per manufacturer | A few minutes, sections to assemble | No assembly, delivered ready to use |
 | Capacity | Full immersion, 1 adult | 1,200 to 2,300 L by size | 2 to 3 people | Up to 3 people standing | 380 to 475 L (100-125 gal) |
 | Transport format | 85 × 10 × 10 cm, 11 kg | Bulky shipping crate | Stackable timber sections | Stackable sections | One-piece rigid tank, not foldable |
 | Material in contact with water | Food-grade stainless steel | Custom PVC | Waterproof liner over wood | Fiberglass, optional wood cabinet | Fiberglass, optional wood cabinet |
@@ -52,7 +52,7 @@ Several manufacturers now offer portable baptistries suited to churches and imme
 
 **European logistics.** Unlike three of the four manufacturers compared here, shipped from the UK or the US, Kollder is available in Europe with no transatlantic shipping delay or cost.
 
-**A documented, precise setup time.** Under 2 minutes, by one person, with no tools: a specific figure rather than a general marketing promise, inherited from the Kollder One™ structure built for emergency medical use, where setup reliability leaves no room for approximation.
+**Documented stability.** A stainless steel frame on 6 support points with cross-bracing, which stays level even on uneven ground with the candidate and the officiant in the tub: a specific figure rather than a general marketing promise, inherited from the Kollder One™ structure built for emergency medical use, where reliability leaves no room for approximation.
 
 **A tailored, personalized approach.** Rather than a fixed catalog price, each configuration is worked out with the church to match its actual budget and frequency of use, thinking in terms of total cost over several years rather than purchase price alone.
 

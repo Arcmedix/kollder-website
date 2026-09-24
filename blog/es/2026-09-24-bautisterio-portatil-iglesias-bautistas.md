@@ -22,7 +22,7 @@ Muchas iglesias bautistas, sobre todo las más recientes o pequeñas, se reúnen
 
 Con un bautisterio portátil, una iglesia bautista puede celebrar un bautismo en cuanto un candidato está preparado, sin esperar a reservar una piscina ni a la estación adecuada para un río o el mar. El equipo pertenece a la congregación, se guarda con facilidad entre celebraciones y se monta el mismo día en la propia sala de culto.
 
-El bautisterio portátil Kollder está pensado exactamente para esto: dimensiones que permiten la inmersión completa de un adulto, montaje en menos de 2 minutos por una sola persona y una estructura de acero inoxidable de calidad alimentaria fácil de mantener durante años de uso regular. Las especificaciones completas están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
+El bautisterio portátil Kollder está pensado exactamente para esto: dimensiones que permiten la inmersión completa de un adulto, un bastidor estable sobre 6 puntos de apoyo con espacio para el candidato y el oficiante, montaje en menos de 5 minutos y una estructura de acero inoxidable de calidad alimentaria fácil de mantener durante años de uso regular. Las especificaciones completas están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
 
 ## Para saber más
 

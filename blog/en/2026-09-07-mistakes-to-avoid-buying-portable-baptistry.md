@@ -16,7 +16,7 @@ The most common mistake: choosing a compact format to cut the price, without che
 
 ## Overlooking actual setup time
 
-Some product listings advertise a "quick" setup without specifying whether that means a couple of minutes or half an hour with several people. A setup that pulls in two or three volunteers before every service ends up weighing on the schedule, week after week. Always ask for a precise setup time, by one person.
+Some product listings advertise a "quick" setup without specifying whether that means a couple of minutes or half an hour. A long setup before every service ends up weighing on the schedule, week after week. Always ask for a precise setup time, and check that the structure stays stable once the tub is filled.
 
 ## Choosing a material that isn't built for repeated use
 
@@ -34,7 +34,7 @@ A pool holding several hundred liters needs to fill and drain easily, without ha
 
 As covered in our [guide to portable baptistry budgets](https://kollder.com/blog/en/2026-09-07-portable-baptistry-cost-budget-guide/), purchase price alone says nothing about actual cost over several years. Cheaper equipment replaced every two years often ends up costing more than a durable structure amortized over a decade.
 
-The Kollder portable baptistry was built with each of these common mistakes in mind: dimensions for full immersion, setup in under 2 minutes by one person, food-grade stainless steel, a compact folded format. Full specifications are on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
+The Kollder portable baptistry was built with each of these common mistakes in mind: dimensions for full immersion, a stable structure on 6 support points with room for candidate and officiant, setup in under 5 minutes, food-grade stainless steel, a compact folded format. Full specifications are on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
 
 ## Further reading
 

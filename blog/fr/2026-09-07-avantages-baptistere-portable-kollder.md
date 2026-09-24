@@ -10,9 +10,9 @@ published: true
 
 Le baptistère portable Kollder reprend la structure acier inoxydable des équipements Kollder One™, conçus à l'origine pour un usage médical d'urgence exigeant, mise au service d'un usage bien plus paisible. Voici ce que cela apporte concrètement à une église.
 
-## Un montage pensé pour une seule personne
+## Le candidat et l'officiant, ensemble dans le bassin
 
-Aucune église n'a besoin de mobiliser plusieurs bénévoles avant chaque cérémonie. Le baptistère se déplie et se met en place en **moins de 2 minutes**, sans outillage, par un seul membre de l'équipe. C'est un avantage direct les dimanches où l'équipe technique est déjà occupée par ailleurs.
+Le bassin accueille deux personnes en immersion simultanée : l'officiant peut entrer dans l'eau aux côtés du candidat et accompagner le geste au plus près, comme dans un baptistère fixe. Le montage se fait en moins de 5 minutes, sans outillage.
 
 ## Une stabilité qui ne dépend pas de la pression d'air
 

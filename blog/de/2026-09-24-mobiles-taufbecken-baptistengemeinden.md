@@ -22,7 +22,7 @@ Viele Baptistengemeinden, vor allem jüngere oder kleinere, treffen sich in ange
 
 Mit einem mobilen Taufbecken kann eine Baptistengemeinde taufen, sobald ein Täufling bereit ist, ohne auf einen freien Termin im Schwimmbad oder die passende Jahreszeit für ein Gewässer zu warten. Die Ausrüstung gehört der Gemeinde, lässt sich zwischen den Gottesdiensten leicht verstauen und wird am selben Tag direkt im Gottesdienstraum aufgebaut.
 
-Genau dafür wurde das mobile Taufbecken von Kollder entwickelt: Maße für die vollständige Untertauchung eines Erwachsenen, Aufbau in weniger als 2 Minuten durch eine Person und eine Konstruktion aus lebensmittelechtem Edelstahl, die sich über Jahre regelmäßiger Nutzung leicht pflegen lässt. Alle Spezifikationen finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
+Genau dafür wurde das mobile Taufbecken von Kollder entwickelt: Maße für die vollständige Untertauchung eines Erwachsenen, ein stabiler Rahmen auf 6 Auflagepunkten mit Platz für Täufling und Taufenden, Aufbau in weniger als 5 Minuten und eine Konstruktion aus lebensmittelechtem Edelstahl, die sich über Jahre regelmäßiger Nutzung leicht pflegen lässt. Alle Spezifikationen finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
 
 ## Weiterführende Informationen
 

@@ -24,7 +24,7 @@ Trois options reviennent le plus souvent dans les communautés qui n'ont pas de 
 
 Un **baptistère portable** répond directement à ces trois contraintes. Il s'installe en intérieur comme en extérieur, dans la salle de culte elle-même, sans dépendre d'un créneau extérieur ni d'un point d'eau naturel. Rempli au tuyau d'arrosage ou avec des bidons d'eau, il offre un espace suffisant pour l'immersion complète d'un adulte, tout en restant assez compact pour être rangé entre deux cérémonies.
 
-C'est la logique derrière le baptistère portable Kollder : une structure qui s'installe en moins de 2 minutes, par une seule personne, et qui appartient à la communauté plutôt que de dépendre d'un prêt ou d'une réservation. Les caractéristiques complètes sont détaillées sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
+C'est la logique derrière le baptistère portable Kollder : une structure stable, assez spacieuse pour le candidat et l'officiant, qui s'installe en moins de 5 minutes et qui appartient à la communauté plutôt que de dépendre d'un prêt ou d'une réservation. Les caractéristiques complètes sont détaillées sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
 
 ## Anticiper le jour de la cérémonie
 

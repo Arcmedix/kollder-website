@@ -24,7 +24,7 @@ For equipment reused several times a year, the material matters as much as the s
 
 ## Setup time and ease
 
-Ask for the actual setup time, by one person, with no tools. This is a criterion that often gets glossed over in product listings, but it matters on the day of the service: a setup that pulls in several volunteers for 20 minutes is a very different experience from a solo setup in under 2 minutes.
+Ask for the actual setup time, with no tools. This is a criterion that often gets glossed over in product listings, but it matters on the day of the service: a 20-minute setup is a very different experience from one that takes under 5 minutes.
 
 ## Folded weight and size
 

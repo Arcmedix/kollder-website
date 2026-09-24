@@ -16,14 +16,14 @@ Churches equipping themselves for immersion baptism today generally weigh three 
 
 **Makeshift solutions** (inflatable PVC pools, home bathtubs) remain the most common option in the absence of a known alternative, particularly outside the US where dedicated baptistry suppliers are scarce.
 
-**Kollder** is a rigid folding baptistry in food-grade stainless steel, derived from Kollder One™ equipment, built for setup in under 2 minutes by one person.
+**Kollder** is a rigid folding baptistry in food-grade stainless steel, derived from Kollder One™ equipment, stable on 6 support points, with room for the candidate and the officiant together and setup in under 5 minutes.
 
 ## Technical comparison
 
 | Criterion | Kollder | Portable Baptistry | Makeshift (inflatable) |
 |---|---|---|---|
 | Structure | Folding stainless steel | Modular tank + cabinet (wood or other) | Inflatable PVC |
-| Setup | < 2 min, 1 person | A few minutes, sections to assemble | 5 to 15 min with electric pump |
+| Setup | < 5 min, no tools | A few minutes, sections to assemble | 5 to 15 min with electric pump |
 | Capacity | Full immersion, 1 adult | Up to 3 people standing (model dependent) | Variable, often limited |
 | Folded format | 85 × 10 × 10 cm, 11 kg | Stackable sections, bulkier | Compact once deflated |
 | Maintenance | Washable, disinfectable steel | Depends on finish (wood more moisture-sensitive) | PVC wears quickly |
@@ -48,7 +48,7 @@ The main advantage remains immediate availability and a very low entry cost, a r
 
 ## Conclusion
 
-The right choice mostly depends on the church's profile. For a one-off test on a minimal budget, a makeshift solution remains a reasonable short-term option despite its faster wear. For substantial group capacity and a permanent cabinet presence, Portable Baptistry has the advantage of its track record in the US market. For a church that prioritizes fast single-person setup, an easy-to-maintain material built for years of use, and logistics suited to Europe, the Kollder portable baptistry addresses those priorities directly. Full specifications and a personalized quote are available on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
+The right choice mostly depends on the church's profile. For a one-off test on a minimal budget, a makeshift solution remains a reasonable short-term option despite its faster wear. For substantial group capacity and a permanent cabinet presence, Portable Baptistry has the advantage of its track record in the US market. For a church that prioritizes a structure that stays stable on any floor, an easy-to-maintain material built for years of use, and logistics suited to Europe, the Kollder portable baptistry addresses those priorities directly. Full specifications and a personalized quote are available on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
 
 ## Further reading
 

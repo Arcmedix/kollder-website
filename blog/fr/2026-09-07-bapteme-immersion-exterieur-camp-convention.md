@@ -21,7 +21,7 @@ Pour un camp ou une convention qui accueille plusieurs candidats, un **baptistè
 Deux avantages logistiques comptent particulièrement dans ce contexte :
 
 - **Le transport.** Replié dans un sac compact d'environ 85 × 10 × 10 cm et 11 kg, un baptistère portable se transporte comme un bagage classique, dans le coffre d'un véhicule ou d'un utilitaire, sans nécessiter d'aménagement particulier.
-- **L'installation rapide.** Sur un programme d'événement chargé, pouvoir installer le bassin en moins de 2 minutes, par une seule personne, évite de mobiliser une équipe entière avant chaque session de baptême.
+- **La stabilité sur le terrain.** Sur une pelouse ou un sol irrégulier, un cadre en acier sur 6 points d'appui garde le bassin de niveau, et l'installation prend moins de 5 minutes avant chaque session de baptême.
 
 ## Prévoir plusieurs baptêmes dans la journée
 

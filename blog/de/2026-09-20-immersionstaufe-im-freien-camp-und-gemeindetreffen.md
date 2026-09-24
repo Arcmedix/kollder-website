@@ -21,7 +21,7 @@ Für ein Camp oder eine Konferenz mit mehreren Täuflingen bietet ein **mobiles 
 Zwei logistische Vorteile zählen in diesem Zusammenhang besonders:
 
 - **Transport.** Gefaltet in einer kompakten Tasche von etwa 85 × 10 × 10 cm und rund 11 kg reist ein mobiles Taufbecken wie gewöhnliches Gepäck, im Kofferraum eines Autos oder in einem Transporter, ohne besonderen Aufwand.
-- **Schneller Aufbau.** In einem dichten Veranstaltungsprogramm vermeidet es der Aufbau des Beckens in weniger als 2 Minuten durch eine Person, vor jeder Taufrunde ein ganzes Team abziehen zu müssen.
+- **Stabilität im Gelände.** Auf Rasen oder unebenem Boden hält ein Stahlrahmen auf 6 Auflagepunkten das Becken waagerecht, und der Aufbau dauert vor jeder Taufrunde weniger als 5 Minuten.
 
 ## Mehrere Taufen an einem Tag planen
 

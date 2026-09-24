@@ -20,14 +20,14 @@ Plusieurs fabricants proposent aujourd'hui des baptistères portables adaptés a
 
 **Church Outlet** (États-Unis) commercialise des cuves en fibre de verre monobloc (modèles 6P et 6PXL, 380 à 475 litres), livrées prêtes à l'emploi, avec option de caisson en chêne ou bouleau et chauffage intégré.
 
-**Kollder** est une structure pliable en acier inoxydable alimentaire, conçue pour un montage en moins de 2 minutes par une seule personne, sans outil.
+**Kollder** est une structure pliable en acier inoxydable alimentaire, stable sur 6 points d'appui et assez spacieuse pour accueillir le candidat et l'officiant ensemble, avec un montage en moins de 5 minutes, sans outil.
 
 ## Comparatif technique
 
 | Critère | Kollder | Baptizo | Portable Baptistery Co. | The Portable Baptistry | Church Outlet |
 |---|---|---|---|---|---|
 | Structure | Acier inox pliable | Parois + bâche sur mesure, bassin rond | Bois léger en 6 sections + bâche | Cuve modulaire + caisson | Cuve fibre de verre monobloc |
-| Montage | < 2 min, 1 personne, sans outil | Rapide selon le fabricant, non chiffré | Sans outil selon le fabricant | Quelques minutes, sections à assembler | Aucun montage, livré prêt à l'emploi |
+| Montage | < 5 min, sans outil | Rapide selon le fabricant, non chiffré | Sans outil selon le fabricant | Quelques minutes, sections à assembler | Aucun montage, livré prêt à l'emploi |
 | Capacité | Immersion complète 1 adulte | 1200 à 2300 L selon taille | 2 à 3 personnes | Jusqu'à 3 personnes debout | 380 à 475 L |
 | Format transport | 85 × 10 × 10 cm, 11 kg | Caisse d'expédition volumineuse | Sections bois empilables | Sections empilables | Monobloc rigide, non pliable |
 | Matériau au contact de l'eau | Acier inox alimentaire | PVC sur mesure | Bâche étanche sur bois | Fibre de verre, caisson bois en option | Fibre de verre, caisson bois en option |
@@ -52,7 +52,7 @@ Plusieurs fabricants proposent aujourd'hui des baptistères portables adaptés a
 
 **Une logistique européenne.** Contrairement à trois des quatre fabricants comparés ici, expédiés depuis le Royaume-Uni ou les États-Unis, Kollder est disponible en Europe sans délai ni frais de livraison transatlantique.
 
-**Un temps de montage documenté et chiffré.** Moins de 2 minutes, par une seule personne, sans outil : une donnée précise plutôt qu'une promesse marketing générale, héritée de la structure Kollder One™ conçue pour un usage médical d'urgence où la fiabilité de montage ne souffre aucune approximation.
+**Une stabilité documentée.** Cadre en acier inoxydable sur 6 points d'appui avec renforts croisés, qui reste de niveau même sur un sol irrégulier avec le candidat et l'officiant dans le bassin : une donnée précise plutôt qu'une promesse marketing générale, héritée de la structure Kollder One™ conçue pour un usage médical d'urgence où la fiabilité ne souffre aucune approximation.
 
 **Un accompagnement sur mesure.** Plutôt qu'un prix catalogue fixe, chaque configuration est étudiée avec l'église pour s'adapter à son budget et à sa fréquence d'usage réels, dans une logique de coût total sur plusieurs années plutôt que de seul prix d'achat.
 

@@ -16,14 +16,14 @@ Las iglesias que se equipan para el bautismo por inmersión suelen sopesar hoy t
 
 **Las soluciones improvisadas** (piscinas hinchables de PVC, bañeras) siguen siendo la opción más común a falta de una alternativa conocida, sobre todo fuera de Estados Unidos, donde los proveedores especializados escasean.
 
-**Kollder** es un bautisterio rígido y plegable de acero inoxidable de calidad alimentaria, derivado del equipo Kollder One™ y pensado para montarse en menos de 2 minutos por una sola persona.
+**Kollder** es un bautisterio rígido y plegable de acero inoxidable de calidad alimentaria, derivado del equipo Kollder One™ estable sobre 6 puntos de apoyo, con espacio para el candidato y el oficiante juntos y un montaje en menos de 5 minutos.
 
 ## Comparativa técnica
 
 | Criterio | Kollder | Portable Baptistry | Improvisada (hinchable) |
 |---|---|---|---|
 | Estructura | Acero inoxidable plegable | Depósito modular + mueble (madera u otro) | PVC hinchable |
-| Montaje | < 2 min, 1 persona | Unos minutos, secciones que ensamblar | 5 a 15 min con bomba eléctrica |
+| Montaje | < 5 min, sin herramientas | Unos minutos, secciones que ensamblar | 5 a 15 min con bomba eléctrica |
 | Capacidad | Inmersión completa, 1 adulto | Hasta 3 personas de pie (según modelo) | Variable, a menudo limitada |
 | Formato plegado | 85 × 10 × 10 cm, 11 kg | Secciones apilables, más voluminosas | Compacto una vez deshinchado |
 | Mantenimiento | Acero lavable y desinfectable | Según acabado (la madera es más sensible a la humedad) | El PVC se desgasta rápido |
@@ -48,7 +48,7 @@ Su principal ventaja sigue siendo la disponibilidad inmediata y un coste de entr
 
 ## Conclusión
 
-La elección correcta depende sobre todo del perfil de la iglesia. Para una prueba puntual con un presupuesto mínimo, una solución improvisada sigue siendo una opción razonable a corto plazo pese a su desgaste más rápido. Para una gran capacidad en grupo y un mueble permanente, Portable Baptistry tiene a su favor su trayectoria en el mercado estadounidense. Para una iglesia que prioriza un montaje rápido por una sola persona, un material fácil de mantener durante años y una logística sin envío transatlántico, el bautisterio portátil Kollder responde directamente a esas prioridades. Las especificaciones completas y un presupuesto personalizado están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
+La elección correcta depende sobre todo del perfil de la iglesia. Para una prueba puntual con un presupuesto mínimo, una solución improvisada sigue siendo una opción razonable a corto plazo pese a su desgaste más rápido. Para una gran capacidad en grupo y un mueble permanente, Portable Baptistry tiene a su favor su trayectoria en el mercado estadounidense. Para una iglesia que prioriza una estructura estable sobre cualquier suelo, un material fácil de mantener durante años y una logística sin envío transatlántico, el bautisterio portátil Kollder responde directamente a esas prioridades. Las especificaciones completas y un presupuesto personalizado están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
 
 ## Para saber más
 

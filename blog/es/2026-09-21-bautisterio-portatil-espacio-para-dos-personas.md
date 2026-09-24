@@ -37,7 +37,7 @@ La estabilidad del bautisterio Kollder no depende de la presión del aire, sino 
 
 ## El resto del tiempo
 
-Terminada la celebración, el bautisterio se vacía por una válvula, se pliega en una bolsa de 85 × 10 × 10 cm y unos 11 kg, y se vuelve a montar la siguiente vez en **menos de 2 minutos** por una sola persona. El espacio para dos no cuesta nada en espacio de almacenamiento.
+Terminada la celebración, el bautisterio se vacía por una válvula, se pliega en una bolsa de 85 × 10 × 10 cm y unos 11 kg, y se vuelve a montar la siguiente vez en menos de 5 minutos, sin herramientas. El espacio para dos no cuesta nada en espacio de almacenamiento.
 
 ## Para saber más
 

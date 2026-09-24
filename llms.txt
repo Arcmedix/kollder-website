@@ -1,10 +1,10 @@
 # Kollder
 
-> Kollder is a French manufacturer of emergency cold water immersion equipment for treating exertional heat stroke. Two products are in commercial distribution: Kollder One (an emergency cold water immersion tub) and Kollder Go (a hybrid backpack/wheeled transport bag, 85x10x10cm). A third product, Kollder Rest (a seated recovery station with forearm ice pockets and a detachable front cooling tub), is in development. Kollder's equipment deploys in under 2 minutes by a single operator and is built around the "Cool First, Transport Second" protocol (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute). The site serves sapeurs-pompiers/SDIS, SSSM/military medical services, SAMU/SMUR/emergency departments, civil protection associations, sports event medical directors, and workplace EHS managers.
+> Kollder is a French manufacturer of emergency cold water immersion equipment for treating exertional heat stroke. Two products are in commercial distribution: Kollder One (an emergency cold water immersion tub) and Kollder Go (a hybrid backpack/wheeled transport bag, 85x10x10cm). A third product, Kollder Rest (a seated recovery station with forearm ice pockets and a detachable front cooling tub), is in development. Kollder's equipment is built on a stable steel frame (6 support points, stays level on uneven ground), holds up to 2 people in simultaneous immersion, and follows the "Cool First, Transport Second" protocol (ACSM 2023, IOC/BJSM 2021, Casa et al. 2007, Korey Stringer Institute). The site serves sapeurs-pompiers/SDIS, SSSM/military medical services, SAMU/SMUR/emergency departments, civil protection associations, sports event medical directors, and workplace EHS managers.
 
 ## Homepage
 
-- [Kollder (FR)](https://kollder.com/): French homepage. Product overview (Kollder One, Kollder Go), the Cool First Transport Second protocol, and deployment in under 2 minutes.
+- [Kollder (FR)](https://kollder.com/): French homepage. Product overview (Kollder One, Kollder Go), the Cool First Transport Second protocol, structural stability on uneven ground and capacity for 2 people in simultaneous immersion.
 - [Kollder (EN)](https://kollder.com/en/): English homepage, same content as the French homepage.
 
 ## Audience pages

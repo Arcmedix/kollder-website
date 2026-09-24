@@ -16,7 +16,7 @@ L'erreur la plus courante : choisir un format compact pour réduire le prix, san
 
 ## Négliger le temps de montage réel
 
-Certaines fiches produit annoncent un montage « rapide » sans préciser s'il s'agit de quelques minutes ou d'une demi-heure avec plusieurs personnes. Un montage qui mobilise deux ou trois bénévoles avant chaque cérémonie finit par peser sur l'organisation, semaine après semaine. Demandez toujours un temps de montage précis, par une seule personne.
+Certaines fiches produit annoncent un montage « rapide » sans préciser s'il s'agit de quelques minutes ou d'une demi-heure. Un montage long avant chaque cérémonie finit par peser sur l'organisation, semaine après semaine. Demandez toujours un temps de montage chiffré, et vérifiez que la structure reste stable une fois le bassin rempli.
 
 ## Choisir un matériau inadapté à un usage répété
 
@@ -34,7 +34,7 @@ Un bassin de plusieurs centaines de litres doit pouvoir se remplir et se vider f
 
 Comme détaillé dans notre [guide sur le budget d'un baptistère portable](https://kollder.com/blog/fr/2026-09-07-prix-baptistere-portable-budget-eglise/), le prix d'achat seul ne dit rien du coût réel sur plusieurs années. Un équipement moins cher mais remplacé tous les deux ans finit souvent par coûter plus cher qu'une structure durable amortie sur dix ans.
 
-Le baptistère portable Kollder a été conçu en tenant compte de chacune de ces erreurs courantes : dimensions pour immersion complète, montage en moins de 2 minutes par une seule personne, acier inoxydable alimentaire, format replié compact. Les caractéristiques complètes sont disponibles sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
+Le baptistère portable Kollder a été conçu en tenant compte de chacune de ces erreurs courantes : dimensions pour immersion complète, structure stable sur 6 points d'appui avec place pour le candidat et l'officiant, montage en moins de 5 minutes, acier inoxydable alimentaire, format replié compact. Les caractéristiques complètes sont disponibles sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
 
 ## Pour aller plus loin
 

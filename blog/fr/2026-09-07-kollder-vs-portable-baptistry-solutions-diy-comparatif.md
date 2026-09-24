@@ -16,14 +16,14 @@ Trois grandes options s'offrent aujourd'hui à une église qui veut s'équiper p
 
 **Les solutions de fortune** (piscine gonflable en PVC, baignoire domestique) restent les plus répandues faute d'alternative connue, en particulier en France où l'offre de baptistères dédiés reste limitée.
 
-**Kollder** est un baptistère pliable à structure rigide en acier inoxydable alimentaire, dérivé des équipements Kollder One™, conçu pour un montage en moins de 2 minutes par une seule personne.
+**Kollder** est un baptistère pliable à structure rigide en acier inoxydable alimentaire, dérivé des équipements Kollder One™, stable sur 6 points d'appui, avec de la place pour le candidat et l'officiant ensemble et un montage en moins de 5 minutes.
 
 ## Comparatif technique
 
 | Critère | Kollder | Portable Baptistry | Solution de fortune (gonflable) |
 |---|---|---|---|
 | Structure | Acier inoxydable pliable | Cuve modulaire + caisson (bois ou autre) | PVC gonflable |
-| Montage | < 2 min, 1 personne | Quelques minutes, sections à assembler | 5 à 15 min avec pompe électrique |
+| Montage | < 5 min, sans outil | Quelques minutes, sections à assembler | 5 à 15 min avec pompe électrique |
 | Capacité | Immersion complète 1 adulte | Jusqu'à 3 personnes debout (selon modèle) | Variable, souvent limitée |
 | Format replié | 85 × 10 × 10 cm, 11 kg | Sections empilables, plus volumineuses | Compact une fois dégonflé |
 | Entretien | Acier lavable et désinfectable | Selon finition (bois plus sensible à l'humidité) | Usure rapide du PVC |
@@ -48,7 +48,7 @@ Le principal avantage reste la disponibilité immédiate et le coût d'entrée t
 
 ## Conclusion
 
-Le choix dépend surtout du profil de l'église. Pour un test ponctuel avec un budget minimal, une solution de fortune reste défendable à court terme malgré son usure rapide. Pour une capacité de groupe importante et une présence en caisson permanent, Portable Baptistry a l'avantage de l'expérience du marché américain. Pour une église qui privilégie un montage rapide par une seule personne, un matériau facile à entretenir sur des années, et une logistique adaptée à l'Europe, le baptistère portable Kollder répond directement à ces priorités. Les caractéristiques complètes et un devis personnalisé sont disponibles sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
+Le choix dépend surtout du profil de l'église. Pour un test ponctuel avec un budget minimal, une solution de fortune reste défendable à court terme malgré son usure rapide. Pour une capacité de groupe importante et une présence en caisson permanent, Portable Baptistry a l'avantage de l'expérience du marché américain. Pour une église qui privilégie une structure stable sur tout sol, un matériau facile à entretenir sur des années, et une logistique adaptée à l'Europe, le baptistère portable Kollder répond directement à ces priorités. Les caractéristiques complètes et un devis personnalisé sont disponibles sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
 
 ## Pour aller plus loin
 

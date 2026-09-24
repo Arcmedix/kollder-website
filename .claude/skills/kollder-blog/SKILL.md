@@ -92,7 +92,7 @@ If a close match exists, either fold the new angle into the existing article or 
 
 - **Never use "30 secondes" / "30 seconds"** (or "30 Sekunden" / "30 segundos") for Kollder's deployment time.
 - **Emergency-cooling articles: lead with structural stability (steel frame, 6 support points, stays level on uneven ground), full foldability (Kollder Go bag) and capacity for up to 2 people in simultaneous immersion.** Deployment speed is a secondary detail only, always "moins de 5 minutes" / "under 5 minutes", never "under 2 minutes", and never tied to an operator count. Do not write "one person", "single operator", "solo" or "one-person deployment" about the tub. If a source article says so, rewrite that paragraph instead of copying it.
-- **Baptistry articles (Church Life vertical) are the exception**: "moins de 2 minutes / under 2 minutes" and single-person setup stay as is, because Corben does not compete in that market.
+- **Baptistry articles (Church Life vertical) follow the same rule** (since 2026-09-24): lead with the stable steel frame and room for the candidate and the officiant together; setup time only as "moins de 5 minutes" / "under 5 minutes" / "weniger als 5 Minuten" / "menos de 5 minutos", never "under 2 minutes", no single-person setup claims. Describing a competitor's own setup claim is fine.
 - **Cooling rates must stay consistent across the corpus**: whole-body cold water immersion up to 0.35 C/min (Casa et al. 2007); transportable alternatives (ice packs, ice sheets, fans, misting) roughly 0.03 to 0.08 C/min (Filep EM et al., Medicina 2020;56(11):589); the literature treats more than 0.15 C/min as adequate cooling. Do not introduce other per-method figures without a source.
 - **No em dashes anywhere** in the body or frontmatter — use commas, periods, or parentheses instead.
 - **No future-dated articles** — the `date` field must be the actual current date, never a projected or placeholder future date.
@@ -114,7 +114,7 @@ ACSM Expert Consensus Statement 2023, IOC — Hosokawa Y, Racinais S et al. BJSM
 - [ ] `category` matches one of the categories in use
 - [ ] Zero em dashes anywhere in the file
 - [ ] Zero instances of "30 secondes" / "30 seconds"
-- [ ] Emergency-cooling article: no "under 2 minutes", no one-person or solo deployment claim, no manufacturing location; stability and 2-person capacity lead
+- [ ] Every article (emergency cooling and Church Life): no "under 2 minutes", no one-person or solo deployment claim, no manufacturing location; stability and 2-person capacity lead
 - [ ] Cooling-rate figures match the consistent set above
 - [ ] Cannibalization check run against `blog/fr`, `blog/en`, `blog/de` and `blog/es`
 - [ ] "Pour aller plus loin" / "Further Reading" section present with real internal links (prioritizing audience pages) and any cited sources

@@ -28,7 +28,7 @@ Für Taufen im Freien oder mehrere Taufen hintereinander bei einer Veranstaltung
 
 ## Eine Ausrüstung für mehrere Profile
 
-Ein starres, faltbares Taufbecken aus Edelstahl wie das Modell von Kollder deckt alle vier Profile gleichzeitig ab: Aufbau in weniger als 2 Minuten durch eine Person, eine stabile Konstruktion auch auf unebenem Boden, 11 kg Packgewicht für einen einfachen Transport und ein langlebiges Material für den häufigen Einsatz. Alle Spezifikationen finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
+Ein starres, faltbares Taufbecken aus Edelstahl wie das Modell von Kollder deckt alle vier Profile gleichzeitig ab: eine stabile Konstruktion auch auf unebenem Boden, Platz für Täufling und Taufenden gemeinsam, Aufbau in weniger als 5 Minuten, 11 kg Packgewicht für einen einfachen Transport und ein langlebiges Material für den häufigen Einsatz. Alle Spezifikationen finden Sie auf der Seite [mobiles Taufbecken für die Immersionstaufe](https://kollder.com/de/taufbecken-mobil/).
 
 ## Weiterführende Informationen
 

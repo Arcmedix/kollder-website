@@ -37,7 +37,7 @@ The Kollder baptistry's stability doesn't depend on air pressure but on a **stai
 
 ## The rest of the time
 
-Once the service is over, the baptistry drains through a valve, folds into a bag 85 × 10 × 10 cm (33 × 4 × 4 in) at about 11 kg (24 lb), and sets up the next time in **under 2 minutes** by one person. Room for two costs nothing in storage footprint.
+Once the service is over, the baptistry drains through a valve, folds into a bag 85 × 10 × 10 cm (33 × 4 × 4 in) at about 11 kg (24 lb), and sets up again the next time in under 5 minutes, with no tools. Room for two costs nothing in storage footprint.
 
 ## Further reading
 

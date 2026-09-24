@@ -10,9 +10,9 @@ published: true
 
 The Kollder portable baptistry uses the same stainless steel structure as Kollder One™ equipment, originally engineered for demanding emergency medical use, put to a far more peaceful purpose. Here's what that means in practice for a church.
 
-## Setup built for one person
+## Candidate and officiant, together in the tub
 
-No church needs to pull in several volunteers before every service. The baptistry unfolds and sets up in **under 2 minutes**, with no tools, by a single team member. That's a direct benefit on Sundays when the tech team already has enough on its plate.
+The tub holds two people in simultaneous immersion: the officiant can step into the water beside the candidate and guide the moment up close, as in a built-in baptistry. Setup takes under 5 minutes, with no tools.
 
 ## Stability that doesn't depend on air pressure
 

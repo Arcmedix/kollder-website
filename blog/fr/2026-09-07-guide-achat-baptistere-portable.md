@@ -24,7 +24,7 @@ Pour un équipement réutilisé plusieurs fois par an, le matériau compte autan
 
 ## Le temps et la facilité de montage
 
-Demandez le temps de montage réel, par une seule personne, sans outillage. C'est un critère souvent minimisé dans les fiches produit, mais déterminant le jour de la cérémonie : un montage qui mobilise plusieurs bénévoles pendant 20 minutes n'a pas la même praticité qu'un montage solo en moins de 2 minutes.
+Demandez le temps de montage réel, sans outillage. C'est un critère souvent minimisé dans les fiches produit, mais déterminant le jour de la cérémonie : un montage de 20 minutes n'a pas la même praticité qu'un montage en moins de 5 minutes.
 
 ## Le poids et l'encombrement replié
 

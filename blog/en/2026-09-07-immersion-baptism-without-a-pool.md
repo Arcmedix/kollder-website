@@ -24,7 +24,7 @@ Three options come up most often in congregations without a permanent baptistry.
 
 A **portable baptistry** directly solves these three constraints. It sets up indoors or outdoors, right in the sanctuary if needed, with no dependence on an outside booking or a natural water source. Filled with a garden hose or water containers, it offers enough room for full adult immersion while staying compact enough to store between services.
 
-That's the logic behind the Kollder portable baptistry: a structure that sets up in under 2 minutes, by one person, and belongs to the congregation rather than depending on a loan or a reservation. Full specifications are on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
+That's the logic behind the Kollder portable baptistry: a stable structure, roomy enough for the candidate and the officiant, that sets up in under 5 minutes and belongs to the congregation rather than depending on a loan or a reservation. Full specifications are on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
 
 ## Planning ahead for the day
 

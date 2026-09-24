@@ -20,7 +20,7 @@ Une piscine gonflable classique, achetée pour un usage familial et détournée 
 
 ## Le baptistère portable
 
-[Un baptistère portable rigide comme Kollder](https://kollder.com/fr/baptistere-immersion/) reprend le principe d'une cuve dédiée, sans les contraintes d'un édifice fixe. Il s'installe en moins de 2 minutes par une seule personne, indépendamment de la météo, du niveau d'une rivière ou de la disponibilité d'un point d'eau extérieur. La structure en acier inoxydable alimentaire se nettoie et se désinfecte simplement entre deux cérémonies, et la cuve appartient à la communauté : disponible à la date choisie, sans dépendre d'un lieu extérieur.
+[Un baptistère portable rigide comme Kollder](https://kollder.com/fr/baptistere-immersion/) reprend le principe d'une cuve dédiée, sans les contraintes d'un édifice fixe. Il reste stable sur 6 points d'appui et s'installe en moins de 5 minutes, indépendamment de la météo, du niveau d'une rivière ou de la disponibilité d'un point d'eau extérieur. La structure en acier inoxydable alimentaire se nettoie et se désinfecte simplement entre deux cérémonies, et la cuve appartient à la communauté : disponible à la date choisie, sans dépendre d'un lieu extérieur.
 
 ## Ce que change le choix de l'équipement
 

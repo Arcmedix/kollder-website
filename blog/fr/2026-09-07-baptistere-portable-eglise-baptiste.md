@@ -22,7 +22,7 @@ Beaucoup d'églises baptistes, en particulier les communautés récentes ou de p
 
 Avec un baptistère portable, une église baptiste peut organiser un baptême dès qu'un candidat est prêt, sans attendre un créneau de piscine ou une saison favorable pour un point d'eau naturel. La structure appartient à la communauté, se range facilement entre deux cérémonies, et peut être installée directement dans la salle de culte le jour même.
 
-Le baptistère portable Kollder répond directement à ce besoin : dimensions permettant l'immersion complète d'un adulte, montage en moins de 2 minutes par une seule personne, structure en acier inoxydable alimentaire facile à entretenir sur des années d'usage régulier. Les caractéristiques complètes sont détaillées sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
+Le baptistère portable Kollder répond directement à ce besoin : dimensions permettant l'immersion complète d'un adulte, cadre stable sur 6 points d'appui avec place pour le candidat et l'officiant, montage en moins de 5 minutes, structure en acier inoxydable alimentaire facile à entretenir sur des années d'usage régulier. Les caractéristiques complètes sont détaillées sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
 
 ## Pour aller plus loin
 

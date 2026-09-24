@@ -18,7 +18,7 @@ A well-run immersion baptism comes down to preparation, not improvisation. Here 
 
 ## On the day: setup and filling
 
-- **Set up the pool.** The Kollder portable baptistry unfolds and sets up in **under 2 minutes**, by one person, with no tools.
+- **Set up the pool.** The Kollder portable baptistry unfolds and sets up in under 5 minutes, with no tools, and stays stable on 6 support points.
 - **Fill it.** Plan for **130 to 185 gallons** for a 205 × 80 × 60 cm (81 × 31 × 24 in) pool, roughly 15 to 30 minutes on a garden hose depending on flow, or the equivalent in containers where no water point is nearby.
 - **Set the level and temperature.** A water depth of **20 to 24 in (50 to 60 cm)** covers an adult lying down. Aim for water around **86°F (30°C)**, at room temperature or warmed beforehand, with none of the cold-water requirement of a medical tub.
 

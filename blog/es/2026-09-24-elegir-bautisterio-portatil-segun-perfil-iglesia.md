@@ -28,7 +28,7 @@ Para bautismos al aire libre o varios bautismos seguidos en un evento, busque un
 
 ## Un solo equipo para varios perfiles
 
-Un bautisterio rígido y plegable de acero inoxidable, como el modelo Kollder, responde en realidad a los cuatro perfiles a la vez: montaje en menos de 2 minutos por una sola persona, estructura estable incluso en terreno irregular, 11 kg plegado para un transporte sencillo y un material duradero apto para un uso frecuente. Las especificaciones completas están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
+Un bautisterio rígido y plegable de acero inoxidable, como el modelo Kollder, responde en realidad a los cuatro perfiles a la vez: estructura estable incluso en terreno irregular, espacio para el candidato y el oficiante juntos, montaje en menos de 5 minutos, 11 kg plegado para un transporte sencillo y un material duradero apto para un uso frecuente. Las especificaciones completas están en la página [bautisterio portátil para el bautismo por inmersión](https://kollder.com/es/bautisterio-portatil/).
 
 ## Para saber más
 

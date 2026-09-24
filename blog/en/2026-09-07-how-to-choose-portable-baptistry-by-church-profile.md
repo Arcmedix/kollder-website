@@ -28,7 +28,7 @@ For outdoor or back-to-back baptisms at an event, look for equipment that stays 
 
 ## One piece of equipment can cover several profiles
 
-A rigid folding stainless steel baptistry, like the Kollder model, actually answers all four profiles at once: setup in under 2 minutes by one person, stable structure even on uneven ground, an 11 kg (24 lb) folded weight for easy transport, and a durable material suited to frequent use. Full specifications are on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
+A rigid folding stainless steel baptistry, like the Kollder model, actually answers all four profiles at once: stable structure even on uneven ground, room for the candidate and the officiant together, setup in under 5 minutes, an 11 kg (24 lb) folded weight for easy transport, and a durable material suited to frequent use. Full specifications are on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
 
 ## Further reading
 
