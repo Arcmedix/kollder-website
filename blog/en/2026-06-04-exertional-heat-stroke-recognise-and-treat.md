@@ -42,7 +42,7 @@ Not all cooling methods are equivalent. The key metric is the **cooling rate**, 
 Cooling rate: approximately 0.03 °C/min. Adequate for prevention and mild heat illness, not for EHS. Local vasoconstriction may even reduce heat transfer by limiting superficial blood flow.
 
 **Ice sheets / wet sheet method**
-Cooling rate: 0.10–0.20 °C/min depending on body surface coverage. Better than ice packs, but still insufficient to bring a patient from 42–43 °C to below 40 °C within 30 minutes. Difficult to sustain in field conditions as sheets warm rapidly.
+Cooling rate: in the same transportable range as ice packs, roughly 0.03 to 0.08 °C/min (Filep et al., Medicina 2020). Insufficient to bring a patient from 42–43 °C to below 40 °C within 30 minutes. Difficult to sustain in field conditions as sheets warm rapidly.
 
 **Evaporative cooling with forced ventilation**
 Highly dependent on ambient humidity. In dry, windy conditions it can be reasonably effective. In hot, humid environments, precisely those most likely to produce EHS, effectiveness collapses. Not a reliable primary treatment.
@@ -64,7 +64,7 @@ This requires that cooling equipment is available at the point of emergency, not
 
 Cold water immersion has been the evidence-based standard for over two decades. The barrier to its widespread use has never been clinical; it has been operational. Standard immersion tubs are fixed, heavy, and infrastructure-dependent. They cannot follow athletes onto a mountain trail, be deployed at an industrial incident, or be staged at a field medical post.
 
-The **Kollder emergency cooling tub** addresses this directly: a portable PVC and aluminium-frame tub (205 × 65 × 35 cm deployed) built on a stable frame that stays level on any terrain. It allows full patient immersion with complete medical access (rectal thermometry, IV access, airway management) without interrupting the cooling process.
+The **Kollder emergency cooling tub** addresses this directly: a stainless steel frame with 6 support points and cross-bracing that stays level on any terrain (205 × 80 × 60 cm deployed), with room for up to 2 people in simultaneous immersion, folding fully into the Kollder Go bag. It allows full patient immersion with complete medical access (rectal thermometry, IV access, airway management) without interrupting the cooling process.
 
 For event medical directors, SDIS teams, military medical units, or industrial EHS managers looking to apply the recommended protocol in the field: [kollder.com/#contact](https://kollder.com/#contact)
 

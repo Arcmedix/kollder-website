@@ -61,7 +61,7 @@ CWI is the unambiguous gold standard endorsed by the ACSM (2023), the IOC (Hosok
 
 CWI has been the evidence-based standard for over 20 years. The reason it remains under-deployed is not clinical scepticism; it is logistics. Standard immersion tubs are fixed installations. They belong to sports medicine facilities and hospital emergency departments, not to trail medical posts, fire & rescue incident sites, or industrial first-aid stations.
 
-The **Kollder portable cooling tub** is built around this specific operational problem. It is a reinforced PVC and aluminium-frame tub (205 × 65 × 35 cm deployed, compact when folded) built on a stable frame that stays level on any terrain and folds fully into a transport bag. It provides full patient immersion, from shoulders to feet, with complete medical access throughout: rectal thermometry monitoring, IV lines, airway management. There is no need to extract the patient during treatment.
+The **Kollder portable cooling tub** is built around this specific operational problem. It is built on a stainless steel frame with 6 support points and cross-bracing that stays level on any terrain (205 × 80 × 60 cm deployed), with room for up to 2 people in simultaneous immersion, and folds fully into the Kollder Go transport bag. It provides full patient immersion, from shoulders to feet, with complete medical access throughout: rectal thermometry monitoring, IV lines, airway management. There is no need to extract the patient during treatment.
 
 For sporting event medical teams, fire & rescue units (SDIS), military medical units (SSSM), or industrial EHS managers who need to apply the protocol the evidence supports: [kollder.com/#contact](https://kollder.com/#contact)
 
