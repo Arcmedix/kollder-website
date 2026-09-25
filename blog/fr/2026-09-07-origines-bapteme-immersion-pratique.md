@@ -32,6 +32,7 @@ Le protestantisme évangélique, dont l'immersion est une pratique caractéristi
 - [Baptistère portable pour église baptiste : un équipement indispensable](https://kollder.com/blog/fr/2026-09-07-baptistere-portable-eglise-baptiste/)
 - [Baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/)
 - [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
+- [Pourquoi les baptistères portables pour le baptême par immersion sont si demandés](/blog/fr/2026-09-25-baptistere-immersion-portable-forte-demande/)
 
 ---
 

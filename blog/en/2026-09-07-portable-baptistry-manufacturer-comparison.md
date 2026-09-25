@@ -20,18 +20,18 @@ Several manufacturers now offer portable baptistries suited to churches and imme
 
 **Church Outlet** (US) sells one-piece fiberglass tanks (models 6P and 6PXL, 100 to 125 gallons / roughly 380 to 475 liters), delivered ready to use, with an optional oak or birch cabinet and a built-in heater.
 
-**Kollder** is a folding food-grade stainless steel structure, stable on 6 support points and roomy enough for the candidate and the officiant together, with setup in under 5 minutes and no tools.
+**Kollder** is a folding food-grade stainless steel structure, stable on 6 support points with cross-bracing, and roomy enough for up to two people, the candidate and the officiant together. It sets up in under 5 minutes with no tools.
 
 ## Technical comparison
 
 | Criterion | Kollder | Baptizo | Portable Baptistery Co. | The Portable Baptistry | Church Outlet |
 |---|---|---|---|---|---|
-| Structure | Folding stainless steel | Custom panels and liner, round pool | Lightweight timber, 6 sections + liner | Modular tank + cabinet | One-piece fiberglass tank |
+| Structure | Folding stainless steel frame, 6 support points, cross-bracing | Custom panels and liner, round pool | Lightweight timber, 6 sections + liner | Modular tank + cabinet | One-piece fiberglass tank |
 | Setup | < 5 min, no tools | Fast per manufacturer, no figure given | Tool-free per manufacturer | A few minutes, sections to assemble | No assembly, delivered ready to use |
-| Capacity | Full immersion, 1 adult | 1,200 to 2,300 L by size | 2 to 3 people | Up to 3 people standing | 380 to 475 L (100-125 gal) |
+| Capacity | Up to 2 people: candidate lying down and officiant, full immersion | 1,200 to 2,300 L by size | 2 to 3 people | Up to 3 people standing | 380 to 475 L (100-125 gal) |
 | Transport format | 85 × 10 × 10 cm, 11 kg | Bulky shipping crate | Stackable timber sections | Stackable sections | One-piece rigid tank, not foldable |
 | Material in contact with water | Food-grade stainless steel | Custom PVC | Waterproof liner over wood | Fiberglass, optional wood cabinet | Fiberglass, optional wood cabinet |
-| Origin / shipping | Europe | Germany, EU + Switzerland (~1 week) | United Kingdom | United States | United States |
+| Origin / shipping | Delivery on quote | Germany, EU + Switzerland (~1 week) | United Kingdom | United States | United States |
 | Model | Custom quote purchase | Buy or rent | Purchase, on request | Purchase, catalog price | Purchase, catalog price |
 
 ## What each manufacturer does well
@@ -46,19 +46,19 @@ Several manufacturers now offer portable baptistries suited to churches and imme
 
 ## What sets Kollder apart
 
+**Documented stability.** A stainless steel frame on 6 support points with cross-bracing, which stays level even on uneven ground with the candidate and the officiant in the tub: a specific figure rather than a general marketing promise, inherited from the Kollder One™ structure built for emergency medical use, where reliability leaves no room for approximation.
+
+**Room for the candidate and the officiant together.** At 205 × 80 × 60 cm (81 × 31 × 24 in), the tank holds up to two people at once: the candidate lies at full length while the officiant supports them in the water, for a complete and controlled immersion.
+
 **Genuinely portable when folded.** At 85 × 10 × 10 cm (33 × 4 × 4 in) and 11 kg (24 lb), Kollder's folded format stays significantly more compact than the sectional or crated structures of the other manufacturers, a real advantage for storage and transport between locations.
 
 **A material built to last.** Food-grade stainless steel cleans and disinfects with no degradation over time, unlike wood (sensitive to repeated moisture) or fiberglass paired with a wood cabinet.
-
-**European logistics.** Unlike three of the four manufacturers compared here, shipped from the UK or the US, Kollder is available in Europe with no transatlantic shipping delay or cost.
-
-**Documented stability.** A stainless steel frame on 6 support points with cross-bracing, which stays level even on uneven ground with the candidate and the officiant in the tub: a specific figure rather than a general marketing promise, inherited from the Kollder One™ structure built for emergency medical use, where reliability leaves no room for approximation.
 
 **A tailored, personalized approach.** Rather than a fixed catalog price, each configuration is worked out with the church to match its actual budget and frequency of use, thinking in terms of total cost over several years rather than purchase price alone.
 
 ## Conclusion
 
-Each manufacturer answers a different need: Baptizo for group capacity with a rental option, Portable Baptistery Company for custom handcrafted construction, The Portable Baptistry for a full accessory ecosystem, Church Outlet for a ready-to-use tank with zero assembly. For a European church that prioritizes fast, documented setup, genuine folded portability, a durable material, and local logistics, the Kollder portable baptistry addresses those priorities directly. Full specifications and a personalized quote are available on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
+Each manufacturer answers a different need: Baptizo for group capacity with a rental option, Portable Baptistery Company for custom handcrafted construction, The Portable Baptistry for a full accessory ecosystem, Church Outlet for a ready-to-use tank with zero assembly. For a church that prioritizes a tank that stays stable on any floor, room for the candidate and the officiant together, genuine folded portability, and a durable material, the Kollder portable baptistry addresses those priorities directly. Full specifications and a personalized quote are available on the [portable baptistry for immersion baptism](https://kollder.com/en/portable-baptistry/) page.
 
 ## Further reading
 

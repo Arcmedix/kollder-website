@@ -41,3 +41,4 @@ C'est en tenant compte de l'ensemble de ces critères que le baptistère portabl
 - [Combien coûte un baptistère portable ? Budget à prévoir pour votre église](https://kollder.com/blog/fr/2026-09-07-prix-baptistere-portable-budget-eglise/)
 - [Baptistère gonflable ou baptistère rigide pliable : quelle différence pour votre église](https://kollder.com/blog/fr/2026-09-07-baptistere-gonflable-vs-rigide-pliable-comparatif/)
 - [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
+- [Pourquoi les baptistères portables pour le baptême par immersion sont si demandés](/blog/fr/2026-09-25-baptistere-immersion-portable-forte-demande/)

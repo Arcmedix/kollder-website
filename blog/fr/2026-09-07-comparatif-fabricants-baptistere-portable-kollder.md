@@ -20,18 +20,18 @@ Plusieurs fabricants proposent aujourd'hui des baptistères portables adaptés a
 
 **Church Outlet** (États-Unis) commercialise des cuves en fibre de verre monobloc (modèles 6P et 6PXL, 380 à 475 litres), livrées prêtes à l'emploi, avec option de caisson en chêne ou bouleau et chauffage intégré.
 
-**Kollder** est une structure pliable en acier inoxydable alimentaire, stable sur 6 points d'appui et assez spacieuse pour accueillir le candidat et l'officiant ensemble, avec un montage en moins de 5 minutes, sans outil.
+**Kollder** est une structure pliable en acier inoxydable alimentaire, stable sur 6 points d'appui avec renforts croisés, et assez spacieuse pour accueillir jusqu'à deux personnes, le candidat et l'officiant ensemble. Elle se monte sans outil en moins de 5 minutes.
 
 ## Comparatif technique
 
 | Critère | Kollder | Baptizo | Portable Baptistery Co. | The Portable Baptistry | Church Outlet |
 |---|---|---|---|---|---|
-| Structure | Acier inox pliable | Parois + bâche sur mesure, bassin rond | Bois léger en 6 sections + bâche | Cuve modulaire + caisson | Cuve fibre de verre monobloc |
+| Structure | Cadre acier inox pliable, 6 points d'appui, renforts croisés | Parois + bâche sur mesure, bassin rond | Bois léger en 6 sections + bâche | Cuve modulaire + caisson | Cuve fibre de verre monobloc |
 | Montage | < 5 min, sans outil | Rapide selon le fabricant, non chiffré | Sans outil selon le fabricant | Quelques minutes, sections à assembler | Aucun montage, livré prêt à l'emploi |
-| Capacité | Immersion complète 1 adulte | 1200 à 2300 L selon taille | 2 à 3 personnes | Jusqu'à 3 personnes debout | 380 à 475 L |
+| Capacité | Jusqu'à 2 personnes : candidat allongé et officiant, immersion complète | 1200 à 2300 L selon taille | 2 à 3 personnes | Jusqu'à 3 personnes debout | 380 à 475 L |
 | Format transport | 85 × 10 × 10 cm, 11 kg | Caisse d'expédition volumineuse | Sections bois empilables | Sections empilables | Monobloc rigide, non pliable |
 | Matériau au contact de l'eau | Acier inox alimentaire | PVC sur mesure | Bâche étanche sur bois | Fibre de verre, caisson bois en option | Fibre de verre, caisson bois en option |
-| Origine / livraison | Europe | Allemagne, UE + Suisse (~1 semaine) | Royaume-Uni | États-Unis | États-Unis |
+| Origine / livraison | Livraison sur devis | Allemagne, UE + Suisse (~1 semaine) | Royaume-Uni | États-Unis | États-Unis |
 | Formule | Achat sur devis | Achat ou location | Achat, sur devis | Achat, prix catalogue | Achat, prix catalogue |
 
 ## Ce que chaque fabricant fait bien
@@ -46,19 +46,19 @@ Plusieurs fabricants proposent aujourd'hui des baptistères portables adaptés a
 
 ## Ce qui différencie Kollder
 
+**Une stabilité documentée.** Cadre en acier inoxydable sur 6 points d'appui avec renforts croisés, qui reste de niveau même sur un sol irrégulier avec le candidat et l'officiant dans le bassin : une donnée précise plutôt qu'une promesse marketing générale, héritée de la structure Kollder One™ conçue pour un usage médical d'urgence où la fiabilité ne souffre aucune approximation.
+
+**De la place pour le candidat et l'officiant ensemble.** Avec 205 × 80 × 60 cm, le bassin accueille jusqu'à deux personnes en même temps : le candidat s'allonge sur toute la longueur pendant que l'officiant l'accompagne dans l'eau, pour une immersion complète et maîtrisée.
+
 **Une portabilité repliée réelle.** À 85 × 10 × 10 cm pour 11 kg, le format replié de Kollder reste nettement plus compact que les structures en sections ou en caisse d'expédition des autres fabricants, un avantage concret pour le stockage et le transport entre plusieurs lieux.
 
 **Un matériau pensé pour la durée.** L'acier inoxydable alimentaire se nettoie et se désinfecte sans dégradation dans le temps, contrairement au bois (sensible à l'humidité répétée) ou à la fibre de verre associée à un caisson bois.
-
-**Une logistique européenne.** Contrairement à trois des quatre fabricants comparés ici, expédiés depuis le Royaume-Uni ou les États-Unis, Kollder est disponible en Europe sans délai ni frais de livraison transatlantique.
-
-**Une stabilité documentée.** Cadre en acier inoxydable sur 6 points d'appui avec renforts croisés, qui reste de niveau même sur un sol irrégulier avec le candidat et l'officiant dans le bassin : une donnée précise plutôt qu'une promesse marketing générale, héritée de la structure Kollder One™ conçue pour un usage médical d'urgence où la fiabilité ne souffre aucune approximation.
 
 **Un accompagnement sur mesure.** Plutôt qu'un prix catalogue fixe, chaque configuration est étudiée avec l'église pour s'adapter à son budget et à sa fréquence d'usage réels, dans une logique de coût total sur plusieurs années plutôt que de seul prix d'achat.
 
 ## Conclusion
 
-Chaque fabricant répond à un besoin différent : Baptizo pour une capacité de groupe avec option de location, Portable Baptistery Company pour une fabrication artisanale sur mesure, The Portable Baptistry pour un écosystème d'accessoires complet, Church Outlet pour une cuve prête à l'emploi sans montage. Pour une église européenne qui privilégie un montage rapide et documenté, une portabilité repliée réelle, un matériau durable et une logistique locale, le baptistère portable Kollder répond directement à ces priorités. Les caractéristiques complètes et un devis personnalisé sont disponibles sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
+Chaque fabricant répond à un besoin différent : Baptizo pour une capacité de groupe avec option de location, Portable Baptistery Company pour une fabrication artisanale sur mesure, The Portable Baptistry pour un écosystème d'accessoires complet, Church Outlet pour une cuve prête à l'emploi sans montage. Pour une église qui privilégie un bassin stable sur tout sol, de la place pour le candidat et l'officiant ensemble, une portabilité repliée réelle et un matériau durable, le baptistère portable Kollder répond directement à ces priorités. Les caractéristiques complètes et un devis personnalisé sont disponibles sur la page [baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/).
 
 ## Pour aller plus loin
 

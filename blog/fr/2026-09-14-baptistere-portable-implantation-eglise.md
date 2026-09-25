@@ -37,3 +37,4 @@ Le budget et la question de l'eau chaude se posent, légitimement, pour toute é
 - [Comment organiser un baptême par immersion sans piscine ni cours d'eau](https://kollder.com/blog/fr/2026-09-07-organiser-bapteme-immersion-sans-piscine/)
 - [Baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/)
 - [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
+- [Pourquoi de plus en plus d'églises et d'assemblées s'équipent d'un baptistère portable en 2026](/blog/fr/2026-09-25-pourquoi-eglises-assemblees-achetent-baptistere-portable-2026/)

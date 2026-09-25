@@ -33,3 +33,4 @@ Le baptistère portable Kollder, avec sa structure acier inoxydable alimentaire 
 - [Comment choisir son baptistère portable selon le profil de votre église](https://kollder.com/blog/fr/2026-09-07-comment-choisir-baptistere-portable-selon-profil-eglise/)
 - [Louer ou acheter un baptistère portable : que choisir pour votre église](https://kollder.com/blog/fr/2026-09-07-louer-ou-acheter-baptistere-portable/)
 - [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
+- [Fabriquer son baptistère soi-même ou acheter un baptistère portatif prêt à l'emploi ?](/blog/fr/2026-09-25-fabriquer-baptistere-soi-meme-ou-acheter/)

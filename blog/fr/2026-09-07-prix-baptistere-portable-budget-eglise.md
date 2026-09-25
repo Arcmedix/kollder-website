@@ -33,3 +33,4 @@ C'est la logique retenue pour le baptistère portable Kollder : une structure co
 - [Baptistère portable : le guide d'achat pour bien choisir](https://kollder.com/blog/fr/2026-09-07-guide-achat-baptistere-portable/)
 - [Louer ou acheter un baptistère portable : que choisir pour votre église](https://kollder.com/blog/fr/2026-09-07-louer-ou-acheter-baptistere-portable/)
 - [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
+- [Fabriquer son baptistère soi-même ou acheter un baptistère portatif prêt à l'emploi ?](/blog/fr/2026-09-25-fabriquer-baptistere-soi-meme-ou-acheter/)

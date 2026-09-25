@@ -34,6 +34,7 @@ Cette diversité de situations a une conséquence concrète sur l'équipement : 
 - [Comment trouver une église évangélique ou baptiste près de chez soi](https://kollder.com/blog/fr/2026-09-07-comment-trouver-eglise-evangelique-pres-de-chez-soi/)
 - [Baptistère portable pour baptême par immersion](https://kollder.com/fr/baptistere-immersion/)
 - [Demander un devis pour un baptistère portable](https://kollder.com/fr/baptistere-immersion/#devis)
+- [Pourquoi de plus en plus d'églises et d'assemblées s'équipent d'un baptistère portable en 2026](/blog/fr/2026-09-25-pourquoi-eglises-assemblees-achetent-baptistere-portable-2026/)
 
 ---
 
